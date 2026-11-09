@@ -7,6 +7,7 @@ import { initGrammar } from './grammar.js';
 import { initExercises } from './exercises.js';
 import { initGuide } from './guide.js';
 import { initVocab } from './vocab.js';
+import { initFlashcards } from './flashcards.js';
 import { initProofread, openProofread } from './proofread.js';
 import { initSearch } from './search.js';
 
@@ -53,10 +54,63 @@ export async function loadSectionData(secId) {
     if (state.grammarData && state.guideData) initExercises(state.grammarData, state.guideData);
     if (state.guideData) initGuide(state.guideData);
     initVocab(state.sectionVocab.length ? state.sectionVocab : state.vocabData);
+    initFlashcards(state.vocabData, secId);
 
     console.log(`Loaded Section ${secId} successfully!`);
   } catch (err) {
     console.error(`Error loading section ${secId}:`, err);
+  }
+}
+
+let referenceData = null;
+
+export async function openReferenceParadigm(declCode) {
+  const modal = document.getElementById('reference-modal');
+  const titleEl = document.getElementById('ref-modal-title');
+  const bodyEl = document.getElementById('ref-modal-body');
+
+  if (!referenceData) {
+    const prefix = window.location.pathname.includes('/site') ? '../' : './';
+    let r = await fetch(prefix + 'data/reference_grammar.json');
+    if (!r.ok) r = await fetch('../data/reference_grammar.json');
+    if (!r.ok) r = await fetch('./data/reference_grammar.json');
+    if (!r.ok) r = await fetch('./site/data/reference_grammar.json');
+    if (r.ok) referenceData = await r.json();
+  }
+
+  const cleanCode = (declCode || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  const pattern = referenceData && referenceData.noun_declensions ? referenceData.noun_declensions[cleanCode] : null;
+
+  if (pattern) {
+    titleEl.textContent = `Declension Pattern: ${cleanCode.toUpperCase()}`;
+    let html = `
+      <h4 style="color:var(--aegean); margin-bottom:0.5rem;">${pattern.name}</h4>
+      <p style="margin-bottom:1rem;"><strong>Example:</strong> <span style="font-family:var(--font-greek); font-size:1.15rem; color:var(--terracotta);">${pattern.example}</span></p>
+      <div class="grammar-table-container" style="margin:0;">
+        <table class="paradigm-table">
+          <thead>
+            <tr>${pattern.table.header[0].map(h => `<th>${h}</th>`).join('')}</tr>
+          </thead>
+          <tbody>
+            ${pattern.table.rows.map(row => `<tr>${row.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}
+          </tbody>
+        </table>
+      </div>
+    `;
+    bodyEl.innerHTML = html;
+  } else {
+    titleEl.textContent = `Grammar Reference`;
+    bodyEl.innerHTML = `<p>Reference paradigm for <code>${declCode}</code> not found in table summary.</p>`;
+  }
+
+  modal.classList.remove('hidden');
+}
+
+function initReferenceModal() {
+  const modal = document.getElementById('reference-modal');
+  const closeBtn = document.getElementById('close-ref-modal-btn');
+  if (closeBtn) {
+    closeBtn.addEventListener('click', () => modal.classList.add('hidden'));
   }
 }
 
@@ -114,6 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initExport();
   initProofread();
   initSearch();
+  initReferenceModal();
 
   // Load initial section (Section 06)
   loadSectionData('06');

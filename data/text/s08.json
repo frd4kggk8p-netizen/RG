@@ -48,6 +48,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -105,7 +106,10 @@
               "id": "s08.8A.l002.t02",
               "surface": "ὢν",
               "norm": "ων",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ων",
+                "vocab.s10.ων"
+              ]
             },
             {
               "id": "s08.8A.l002.t03",
@@ -124,6 +128,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -155,7 +160,10 @@
               "id": "s08.8A.l002.t10",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8A.l002.t11",
@@ -245,7 +253,10 @@
               "id": "s08.8A.l004.t05",
               "surface": "ὢν",
               "norm": "ων",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ων",
+                "vocab.s10.ων"
+              ]
             },
             {
               "id": "s08.8A.l004.t06",
@@ -315,6 +326,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -406,13 +418,17 @@
               "id": "s08.8A.l005.t18",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8A.l005.t19",
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -484,6 +500,8 @@
               "norm": "αυτοσ",
               "entry_ids": [
                 "vocab.s06.αυτοσ",
+                "vocab.s06.αυτοσ",
+                "vocab.s07.αυτοσ",
                 "vocab.s07.αυτοσ"
               ]
             },
@@ -515,6 +533,9 @@
               "entry_ids": [
                 "vocab.s06.ουτοσ",
                 "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
                 "vocab.s06.ουτοσ"
               ]
             },
@@ -523,6 +544,7 @@
               "surface": "ὄπισθεν",
               "norm": "οπισθεν",
               "entry_ids": [
+                "vocab.s08.οπισθεν",
                 "vocab.s08.οπισθεν"
               ]
             },
@@ -579,6 +601,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -587,6 +610,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -660,7 +684,10 @@
               "id": "s08.8A.l007.t25",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8A.l007.t26",
@@ -686,7 +713,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -818,6 +849,7 @@
               "surface": "χαῖρε",
               "norm": "χαιρε",
               "entry_ids": [
+                "vocab.s08.χαιρε",
                 "vocab.s08.χαιρε"
               ]
             },
@@ -831,7 +863,10 @@
               "id": "s08.8A.l009.t03",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8A.l009.t04",
@@ -907,6 +942,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -926,13 +962,17 @@
               "id": "s08.8A.l010.t05",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8A.l010.t06",
               "surface": "βέλτιστε",
               "norm": "βελτιστε",
               "entry_ids": [
+                "vocab.s08.βελτιστε",
                 "vocab.s08.βελτιστε"
               ]
             },
@@ -1014,6 +1054,8 @@
               "norm": "τημερον",
               "entry_ids": [
                 "vocab.s06.τημερον",
+                "vocab.s06.τημερον",
+                "vocab.s06.τημερον",
                 "vocab.s06.τημερον"
               ]
             },
@@ -1077,6 +1119,7 @@
               "surface": "χαῖρε",
               "norm": "χαιρε",
               "entry_ids": [
+                "vocab.s08.χαιρε",
                 "vocab.s08.χαιρε"
               ]
             },
@@ -1108,7 +1151,10 @@
               "id": "s08.8A.l011.t06",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8A.l011.t07",
@@ -1151,6 +1197,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -1171,6 +1218,7 @@
               "surface": "μῶν",
               "norm": "μων",
               "entry_ids": [
+                "vocab.s08.μων",
                 "vocab.s08.μων"
               ]
             },
@@ -1223,7 +1271,10 @@
               "id": "s08.8A.l012.t03",
               "surface": "οὔ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8A.l012.t04",
@@ -1254,6 +1305,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -1324,7 +1376,10 @@
               "id": "s08.8A.l030.t07",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8A.l030.t08",
@@ -1348,7 +1403,10 @@
               "id": "s08.8A.l030.t11",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8A.l030.t12",
@@ -1375,6 +1433,9 @@
               "entry_ids": [
                 "vocab.s06.πανυ",
                 "vocab.s06.πανυ",
+                "vocab.s06.πανυ",
+                "vocab.s06.πανυ",
+                "vocab.s06.πανυ",
                 "vocab.s06.πανυ"
               ]
             },
@@ -1388,7 +1449,10 @@
               "id": "s08.8A.l030.t17",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8A.l030.t18",
@@ -1439,7 +1503,10 @@
               "id": "s08.8A.l031.t02",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8A.l031.t03",
@@ -1652,6 +1719,9 @@
               "entry_ids": [
                 "vocab.s06.ουτοσ",
                 "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
+                "vocab.s06.ουτοσ",
                 "vocab.s06.ουτοσ"
               ]
             },
@@ -1665,7 +1735,10 @@
               "id": "s08.8A.l035.t03",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8A.l035.t04",
@@ -1751,7 +1824,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -1952,7 +2029,10 @@
               "id": "s08.8B.l001.t02",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l001.t03",
@@ -1972,7 +2052,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -2018,7 +2102,10 @@
               "id": "s08.8B.l002.t01",
               "surface": "οὐ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l002.t02",
@@ -2085,6 +2172,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -2198,6 +2286,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -2264,7 +2353,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -2272,6 +2365,7 @@
               "surface": "αὕτη",
               "norm": "αυτη",
               "entry_ids": [
+                "vocab.s07.αυτη",
                 "vocab.s07.αυτη"
               ]
             },
@@ -2281,7 +2375,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -2351,7 +2449,10 @@
               "id": "s08.8B.l006.t02",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l006.t03",
@@ -2382,6 +2483,7 @@
               "surface": "νῷ",
               "norm": "νω",
               "entry_ids": [
+                "vocab.s06.νω",
                 "vocab.s06.νω"
               ]
             },
@@ -2402,6 +2504,7 @@
               "surface": "μῶν",
               "norm": "μων",
               "entry_ids": [
+                "vocab.s08.μων",
                 "vocab.s08.μων"
               ]
             },
@@ -2454,7 +2557,10 @@
               "id": "s08.8B.l007.t02",
               "surface": "οὐ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l007.t03",
@@ -2479,6 +2585,7 @@
               "surface": "αὐτὴν",
               "norm": "αυτην",
               "entry_ids": [
+                "vocab.s07.αυτην",
                 "vocab.s07.αυτην"
               ]
             },
@@ -2531,7 +2638,10 @@
               "id": "s08.8B.l010.t02",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l010.t03",
@@ -2543,7 +2653,10 @@
               "id": "s08.8B.l010.t04",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8B.l010.t05",
@@ -2575,7 +2688,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -2601,6 +2718,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -2677,7 +2795,10 @@
               "id": "s08.8B.l011.t07",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8B.l011.t09",
@@ -2695,7 +2816,10 @@
               "id": "s08.8B.l011.t11",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8B.l011.t12",
@@ -2756,6 +2880,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -2924,7 +3049,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -3024,7 +3153,10 @@
               "id": "s08.8B.l016.t08",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l016.t09",
@@ -3073,6 +3205,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -3119,13 +3252,19 @@
               "id": "s08.8B.l020.t02",
               "surface": "οὐ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l020.t03",
               "surface": "θαυμάζω",
               "norm": "θαυμαζω",
               "entry_ids": [
+                "vocab.s06.θαυμαζω",
+                "vocab.s06.θαυμαζω",
+                "vocab.s06.θαυμαζω",
                 "vocab.s06.θαυμαζω",
                 "vocab.s06.θαυμαζω",
                 "vocab.s06.θαυμαζω"
@@ -3136,6 +3275,8 @@
               "surface": "εἰ",
               "norm": "ει",
               "entry_ids": [
+                "vocab.s06.ει",
+                "vocab.s06.ει",
                 "vocab.s06.ει",
                 "vocab.s06.ει"
               ]
@@ -3183,7 +3324,12 @@
               "entry_ids": [
                 "vocab.s06.επει",
                 "vocab.s06.επει",
-                "vocab.s08.επει"
+                "vocab.s06.επει",
+                "vocab.s06.επει",
+                "vocab.s08.επει",
+                "vocab.s08.επει",
+                "vocab.s09.επει",
+                "vocab.s09.επει"
               ]
             },
             {
@@ -3209,6 +3355,7 @@
               "surface": "τοῦ",
               "norm": "του",
               "entry_ids": [
+                "vocab.s08.του",
                 "vocab.s08.του"
               ]
             },
@@ -3235,6 +3382,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -3254,7 +3402,10 @@
               "id": "s08.8B.l020.t22",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l020.t23",
@@ -3297,6 +3448,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -3322,7 +3474,10 @@
               "id": "s08.8B.l020.t33",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l020.t34",
@@ -3347,6 +3502,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -3384,7 +3540,10 @@
               "id": "s08.8B.l020.t43",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l020.t44",
@@ -3438,7 +3597,10 @@
               "id": "s08.8B.l020.t52",
               "surface": "οὐ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l020.t53",
@@ -3457,6 +3619,7 @@
               "surface": "φιλόπολις",
               "norm": "φιλοπολισ",
               "entry_ids": [
+                "vocab.s08.φιλοπολισ",
                 "vocab.s08.φιλοπολισ"
               ]
             },
@@ -3488,7 +3651,10 @@
               "id": "s08.8B.l020.t60",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l020.t61",
@@ -3525,6 +3691,7 @@
               "surface": "φιλόπολις",
               "norm": "φιλοπολισ",
               "entry_ids": [
+                "vocab.s08.φιλοπολισ",
                 "vocab.s08.φιλοπολισ"
               ]
             },
@@ -3532,7 +3699,10 @@
               "id": "s08.8B.l020.t67",
               "surface": "ὤν",
               "norm": "ων",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ων",
+                "vocab.s10.ων"
+              ]
             },
             {
               "id": "s08.8B.l020.t68",
@@ -3559,7 +3729,10 @@
               "id": "s08.8B.l021.t01",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8B.l021.t02",
@@ -3596,6 +3769,7 @@
               "surface": "μῶν",
               "norm": "μων",
               "entry_ids": [
+                "vocab.s08.μων",
                 "vocab.s08.μων"
               ]
             },
@@ -3667,6 +3841,7 @@
               "surface": "μήν",
               "norm": "μην",
               "entry_ids": [
+                "vocab.s06.μη",
                 "vocab.s06.μη"
               ]
             },
@@ -3725,7 +3900,10 @@
               "id": "s08.8B.l030.t06",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l030.t07",
@@ -3761,7 +3939,10 @@
               "id": "s08.8B.l030.t12",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8B.l030.t13",
@@ -3883,7 +4064,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -3914,7 +4099,10 @@
               "id": "s08.8B.l030.t37",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8B.l030.t38",
@@ -3952,14 +4140,21 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
               "id": "s08.8B.l030.t44",
               "surface": "οὔ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8B.l030.t45",
@@ -4081,7 +4276,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -4150,7 +4349,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -4195,7 +4398,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -4244,7 +4451,10 @@
               "id": "s08.8B.l030.t90",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8B.l030.t91",
@@ -4269,6 +4479,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -4375,7 +4586,10 @@
               "id": "s08.8C.l001.t06",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l001.t07",
@@ -4432,7 +4646,12 @@
               "entry_ids": [
                 "vocab.s06.επει",
                 "vocab.s06.επει",
-                "vocab.s08.επει"
+                "vocab.s06.επει",
+                "vocab.s06.επει",
+                "vocab.s08.επει",
+                "vocab.s08.επει",
+                "vocab.s09.επει",
+                "vocab.s09.επει"
               ]
             },
             {
@@ -4440,6 +4659,7 @@
               "surface": "οὐδενὸς",
               "norm": "ουδενοσ",
               "entry_ids": [
+                "vocab.s08.ουδενοσ",
                 "vocab.s08.ουδενοσ"
               ]
             },
@@ -4465,7 +4685,10 @@
               "id": "s08.8C.l001.t20",
               "surface": "οἵ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l001.t21",
@@ -4490,6 +4713,7 @@
               "surface": "ἴσως",
               "norm": "ισωσ",
               "entry_ids": [
+                "vocab.s07.ισωσ",
                 "vocab.s07.ισωσ"
               ]
             },
@@ -4499,6 +4723,8 @@
               "norm": "αυτοσ",
               "entry_ids": [
                 "vocab.s06.αυτοσ",
+                "vocab.s06.αυτοσ",
+                "vocab.s07.αυτοσ",
                 "vocab.s07.αυτοσ"
               ]
             },
@@ -4506,7 +4732,10 @@
               "id": "s08.8C.l001.t26",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l001.t27",
@@ -4533,7 +4762,10 @@
               "id": "s08.8C.l002.t01",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l002.t02",
@@ -4541,6 +4773,8 @@
               "norm": "ηρακλεισ",
               "entry_ids": [
                 "vocab.s06.ηρακλεισ",
+                "vocab.s06.ηρακλεισ",
+                "vocab.s08.ηρακλεισ",
                 "vocab.s08.ηρακλεισ"
               ]
             },
@@ -4555,6 +4789,7 @@
               "surface": "μὴ",
               "norm": "μη",
               "entry_ids": [
+                "vocab.s06.μη",
                 "vocab.s06.μη"
               ]
             },
@@ -4586,7 +4821,10 @@
               "id": "s08.8C.l002.t09",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l002.t10",
@@ -4693,6 +4931,8 @@
               "norm": "ει",
               "entry_ids": [
                 "vocab.s06.ει",
+                "vocab.s06.ει",
+                "vocab.s06.ει",
                 "vocab.s06.ει"
               ]
             },
@@ -4701,6 +4941,7 @@
               "surface": "Περικλῆς",
               "norm": "περικλησ",
               "entry_ids": [
+                "vocab.s08.περικλησ",
                 "vocab.s08.περικλησ"
               ]
             }
@@ -4736,6 +4977,7 @@
               "surface": "μὴ",
               "norm": "μη",
               "entry_ids": [
+                "vocab.s06.μη",
                 "vocab.s06.μη"
               ]
             },
@@ -4788,13 +5030,17 @@
               "id": "s08.8C.l007.t04",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l007.t05",
               "surface": "τᾶν",
               "norm": "ταν",
               "entry_ids": [
+                "vocab.s08.ταν",
                 "vocab.s08.ταν"
               ]
             },
@@ -4809,7 +5055,10 @@
               "surface": "πάντων",
               "norm": "παντων",
               "entry_ids": [
-                "vocab.s08.παντων"
+                "vocab.s08.παντων",
+                "vocab.s08.παντων",
+                "vocab.s09.παντων",
+                "vocab.s09.παντων"
               ]
             },
             {
@@ -4834,13 +5083,17 @@
               "id": "s08.8C.l007.t11",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l007.t12",
               "surface": "Περικλῆς",
               "norm": "περικλησ",
               "entry_ids": [
+                "vocab.s08.περικλησ",
                 "vocab.s08.περικλησ"
               ]
             },
@@ -4856,7 +5109,11 @@
               "norm": "ωσ",
               "entry_ids": [
                 "vocab.s06.ωσ",
-                "vocab.s06.ωσ"
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s10.ωσ",
+                "vocab.s10.ωσ"
               ]
             },
             {
@@ -4896,7 +5153,10 @@
               "id": "s08.8C.l008.t02",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l008.t03",
@@ -4969,6 +5229,7 @@
               "surface": "Περικλῆς",
               "norm": "περικλησ",
               "entry_ids": [
+                "vocab.s08.περικλησ",
                 "vocab.s08.περικλησ"
               ]
             },
@@ -4984,14 +5245,21 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
               "id": "s08.8C.l008.t17",
               "surface": "οὔ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8C.l008.t18",
@@ -5058,6 +5326,7 @@
               "surface": "οὐκοῦν",
               "norm": "ουκουν",
               "entry_ids": [
+                "vocab.s07.ουκουν",
                 "vocab.s07.ουκουν"
               ]
             },
@@ -5072,6 +5341,7 @@
               "surface": "ὅτε",
               "norm": "οτε",
               "entry_ids": [
+                "vocab.s06.οτε",
                 "vocab.s06.οτε"
               ]
             },
@@ -5080,6 +5350,7 @@
               "surface": "Περικλῆς",
               "norm": "περικλησ",
               "entry_ids": [
+                "vocab.s08.περικλησ",
                 "vocab.s08.περικλησ"
               ]
             },
@@ -5135,7 +5406,10 @@
               "id": "s08.8C.l011.t13",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l011.t14",
@@ -5154,6 +5428,7 @@
               "surface": "ὅτε",
               "norm": "οτε",
               "entry_ids": [
+                "vocab.s06.οτε",
                 "vocab.s06.οτε"
               ]
             },
@@ -5207,6 +5482,7 @@
               "surface": "εἰκός",
               "norm": "εικοσ",
               "entry_ids": [
+                "vocab.s08.εικοσ",
                 "vocab.s08.εικοσ"
               ]
             },
@@ -5220,7 +5496,10 @@
               "id": "s08.8C.l012.t03",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l012.t04",
@@ -5245,6 +5524,7 @@
               "surface": "βελτίους",
               "norm": "βελτιουσ",
               "entry_ids": [
+                "vocab.s08.βελτιουσ",
                 "vocab.s08.βελτιουσ"
               ]
             },
@@ -5341,7 +5621,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -5349,6 +5633,7 @@
               "surface": "πρῶτον",
               "norm": "πρωτον",
               "entry_ids": [
+                "vocab.s06.πρωτον",
                 "vocab.s06.πρωτον"
               ]
             },
@@ -5369,8 +5654,8 @@
               "surface": "ἦν",
               "norm": "ην",
               "entry_ids": [
-                "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s10.ην",
+                "vocab.s10.ην"
               ]
             },
             {
@@ -5378,6 +5663,7 @@
               "surface": "Περικλῆς",
               "norm": "περικλησ",
               "entry_ids": [
+                "vocab.s08.περικλησ",
                 "vocab.s08.περικλησ"
               ]
             },
@@ -5386,6 +5672,7 @@
               "surface": "ὅτε",
               "norm": "οτε",
               "entry_ids": [
+                "vocab.s06.οτε",
                 "vocab.s06.οτε"
               ]
             },
@@ -5394,6 +5681,7 @@
               "surface": "χείρους",
               "norm": "χειρουσ",
               "entry_ids": [
+                "vocab.s08.χειρουσ",
                 "vocab.s08.χειρουσ"
               ]
             },
@@ -5409,7 +5697,11 @@
               "norm": "ωσ",
               "entry_ids": [
                 "vocab.s06.ωσ",
-                "vocab.s06.ωσ"
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s10.ωσ",
+                "vocab.s10.ωσ"
               ]
             },
             {
@@ -5440,7 +5732,10 @@
               "id": "s08.8C.l015.t23",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l015.t24",
@@ -5477,6 +5772,7 @@
               "surface": "βελτίους",
               "norm": "βελτιουσ",
               "entry_ids": [
+                "vocab.s08.βελτιουσ",
                 "vocab.s08.βελτιουσ"
               ]
             },
@@ -5534,7 +5830,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -5606,7 +5906,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -5625,7 +5929,10 @@
               "id": "s08.8C.l016.t09",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8C.l016.t10",
@@ -5668,6 +5975,7 @@
               "surface": "φιλόπολις",
               "norm": "φιλοπολισ",
               "entry_ids": [
+                "vocab.s08.φιλοπολισ",
                 "vocab.s08.φιλοπολισ"
               ]
             },
@@ -5736,6 +6044,7 @@
               "surface": "ποιεῖν",
               "norm": "ποιειν",
               "entry_ids": [
+                "vocab.s07.ποιειν",
                 "vocab.s07.ποιειν"
               ]
             },
@@ -5782,7 +6091,10 @@
               "id": "s08.8C.l020.t04",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l020.t05",
@@ -5813,6 +6125,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -5877,7 +6190,10 @@
               "id": "s08.8C.l021.t05",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l021.t06",
@@ -5895,7 +6211,10 @@
               "id": "s08.8C.l021.t08",
               "surface": "οὐ",
               "norm": "ου",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8C.l021.t09",
@@ -5919,7 +6238,10 @@
               "id": "s08.8C.l021.t12",
               "surface": "ὅ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l021.t13",
@@ -6115,6 +6437,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -6150,6 +6473,7 @@
               "surface": "μὴ",
               "norm": "μη",
               "entry_ids": [
+                "vocab.s06.μη",
                 "vocab.s06.μη"
               ]
             },
@@ -6181,7 +6505,10 @@
               "id": "s08.8C.l025.t06",
               "surface": "ὦ",
               "norm": "ω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ω",
+                "vocab.s10.ω"
+              ]
             },
             {
               "id": "s08.8C.l025.t07",
@@ -6199,7 +6526,10 @@
               "id": "s08.8C.l025.t09",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l025.t10",
@@ -6231,14 +6561,21 @@
               "norm": "ωσ",
               "entry_ids": [
                 "vocab.s06.ωσ",
-                "vocab.s06.ωσ"
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s06.ωσ",
+                "vocab.s10.ωσ",
+                "vocab.s10.ωσ"
               ]
             },
             {
               "id": "s08.8C.l025.t15",
               "surface": "ἀκούω",
               "norm": "ακουω",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s09.ακουω",
+                "vocab.s09.ακουω"
+              ]
             },
             {
               "id": "s08.8C.l025.t16",
@@ -6304,7 +6641,10 @@
               "id": "s08.8C.l025.t26",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l025.t27",
@@ -6334,7 +6674,10 @@
               "id": "s08.8C.l025.t31",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             },
             {
               "id": "s08.8C.l025.t32",
@@ -6406,7 +6749,10 @@
               "id": "s08.8C.l025.t43",
               "surface": "οἱ",
               "norm": "οι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.οι",
+                "vocab.s10.οι"
+              ]
             }
           ],
           "src": {
@@ -6488,6 +6834,7 @@
               "surface": "ἀγρῷ",
               "norm": "αγρω",
               "entry_ids": [
+                "vocab.s08.αγρω",
                 "vocab.s08.αγρω"
               ]
             },
@@ -6508,6 +6855,7 @@
               "surface": "εὑρόντες",
               "norm": "ευροντεσ",
               "entry_ids": [
+                "vocab.s07.ευροντεσ",
                 "vocab.s07.ευροντεσ"
               ]
             },
@@ -6551,7 +6899,10 @@
               "id": "s08.8C.l030.t21",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l030.t22",
@@ -6606,6 +6957,7 @@
               "surface": "νόσου",
               "norm": "νοσου",
               "entry_ids": [
+                "vocab.s08.νοσου",
                 "vocab.s08.νοσου"
               ]
             },
@@ -6626,6 +6978,7 @@
               "surface": "νεῶν",
               "norm": "νεων",
               "entry_ids": [
+                "vocab.s08.νεων",
                 "vocab.s08.νεων"
               ]
             },
@@ -6641,7 +6994,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -6739,6 +7096,7 @@
               "surface": "ὑγιείας",
               "norm": "υγιειασ",
               "entry_ids": [
+                "vocab.s08.υγιειασ",
                 "vocab.s08.υγιειασ"
               ]
             },
@@ -6753,6 +7111,7 @@
               "surface": "σίτου",
               "norm": "σιτου",
               "entry_ids": [
+                "vocab.s08.σιτου",
                 "vocab.s08.σιτου"
               ]
             },
@@ -6767,6 +7126,7 @@
               "surface": "οἴνου",
               "norm": "οινου",
               "entry_ids": [
+                "vocab.s08.οινου",
                 "vocab.s08.οινου"
               ]
             },
@@ -6781,6 +7141,7 @@
               "surface": "ἡδονῆς",
               "norm": "ηδονησ",
               "entry_ids": [
+                "vocab.s08.ηδονησ",
                 "vocab.s08.ηδονησ"
               ]
             },
@@ -6795,6 +7156,8 @@
               "surface": "εἰ",
               "norm": "ει",
               "entry_ids": [
+                "vocab.s06.ει",
+                "vocab.s06.ει",
                 "vocab.s06.ει",
                 "vocab.s06.ει"
               ]
@@ -6895,6 +7258,8 @@
               "norm": "αυτοσ",
               "entry_ids": [
                 "vocab.s06.αυτοσ",
+                "vocab.s06.αυτοσ",
+                "vocab.s07.αυτοσ",
                 "vocab.s07.αυτοσ"
               ]
             },
@@ -6902,7 +7267,10 @@
               "id": "s08.8C.l030.t76",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8C.l030.t77",
@@ -6938,7 +7306,10 @@
               "id": "s08.8C.l030.t82",
               "surface": "ὢν",
               "norm": "ων",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ων",
+                "vocab.s10.ων"
+              ]
             },
             {
               "id": "s08.8C.l030.t83",
@@ -6988,7 +7359,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -7015,7 +7390,11 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
@@ -7064,7 +7443,10 @@
               "id": "s08.8C.l030.t102",
               "surface": "οὖν",
               "norm": "ουν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ου",
+                "vocab.s10.ου"
+              ]
             },
             {
               "id": "s08.8C.l030.t103",
@@ -7088,7 +7470,10 @@
               "id": "s08.8C.l030.t106",
               "surface": "ὢν",
               "norm": "ων",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ων",
+                "vocab.s10.ων"
+              ]
             },
             {
               "id": "s08.8C.l030.t107",
@@ -7137,6 +7522,7 @@
               "surface": "πλὴν",
               "norm": "πλην",
               "entry_ids": [
+                "vocab.s08.πλην",
                 "vocab.s08.πλην"
               ]
             },
@@ -7169,6 +7555,7 @@
               "surface": "φέρε",
               "norm": "φερε",
               "entry_ids": [
+                "vocab.s08.φερε",
                 "vocab.s08.φερε"
               ]
             },
@@ -7177,6 +7564,7 @@
               "surface": "νυν",
               "norm": "νυν",
               "entry_ids": [
+                "vocab.s08.νυν",
                 "vocab.s08.νυν"
               ]
             },
@@ -7242,7 +7630,12 @@
               "surface": "καίτοι",
               "norm": "καιτοι",
               "entry_ids": [
-                "vocab.s08.καιτοι"
+                "vocab.s08.καιτοι",
+                "vocab.s08.καιτοι",
+                "vocab.s09.καιτοι",
+                "vocab.s09.καιτοι",
+                "vocab.s10.καιτοι",
+                "vocab.s10.καιτοι"
               ]
             },
             {
@@ -7390,7 +7783,10 @@
               "id": "s08.8C.l036.t11",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8C.l036.t12",
@@ -7444,7 +7840,10 @@
               "id": "s08.8C.l036.t20",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8C.l036.t21",
@@ -7462,7 +7861,10 @@
               "id": "s08.8C.l036.t23",
               "surface": "ἂν",
               "norm": "αν",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.α",
+                "vocab.s10.α"
+              ]
             },
             {
               "id": "s08.8C.l036.t24",
@@ -7475,6 +7877,7 @@
               "surface": "τῆς",
               "norm": "τησ",
               "entry_ids": [
+                "vocab.s08.τησ",
                 "vocab.s08.τησ"
               ]
             },
@@ -7541,7 +7944,11 @@
               "norm": "οτι",
               "entry_ids": [
                 "vocab.s06.οτι",
-                "vocab.s08.οτι"
+                "vocab.s06.οτι",
+                "vocab.s08.οτι",
+                "vocab.s08.οτι",
+                "vocab.s09.οτι",
+                "vocab.s09.οτι"
               ]
             },
             {
@@ -7560,7 +7967,10 @@
               "id": "s08.8C.l040.t10",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l040.t11",
@@ -7572,7 +7982,10 @@
               "id": "s08.8C.l040.t12",
               "surface": "ὁ",
               "norm": "ο",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.ο",
+                "vocab.s10.ο"
+              ]
             },
             {
               "id": "s08.8C.l040.t13",
@@ -7598,14 +8011,21 @@
               "norm": "η",
               "entry_ids": [
                 "vocab.s06.η",
-                "vocab.s07.η"
+                "vocab.s06.η",
+                "vocab.s07.η",
+                "vocab.s07.η",
+                "vocab.s10.η",
+                "vocab.s10.η"
               ]
             },
             {
               "id": "s08.8C.l040.t17",
               "surface": "τοι",
               "norm": "τοι",
-              "entry_ids": []
+              "entry_ids": [
+                "vocab.s10.τοι",
+                "vocab.s10.τοι"
+              ]
             },
             {
               "id": "s08.8C.l040.t18",
@@ -7636,6 +8056,7 @@
               "surface": "γούνασι",
               "norm": "γουνασι",
               "entry_ids": [
+                "vocab.s08.γουνασι",
                 "vocab.s08.γουνασι"
               ]
             },
@@ -7686,6 +8107,7 @@
               "surface": "τῶν",
               "norm": "των",
               "entry_ids": [
+                "vocab.s08.των",
                 "vocab.s08.των"
               ]
             },
@@ -7808,6 +8230,7 @@
               "surface": "ἀνάγκη",
               "norm": "αναγκη",
               "entry_ids": [
+                "vocab.s08.αναγκη",
                 "vocab.s08.αναγκη"
               ]
             },
@@ -7816,6 +8239,7 @@
               "surface": "τέτλαμεν",
               "norm": "τετλαμεν",
               "entry_ids": [
+                "vocab.s08.τετλαμεν",
                 "vocab.s08.τετλαμεν"
               ]
             },

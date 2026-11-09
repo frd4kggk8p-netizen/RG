@@ -129,6 +129,11 @@ def main():
             lem = lemma_hints[word]
             candidates.append(lem)
             candidates.append(lem.replace("-", ""))
+            if lem.endswith("ομαι"):
+                candidates.append(lem[:-4] + "ω")
+                candidates.append(lem[:-4].replace("-", "") + "ω")
+            if lem.endswith("ω"):
+                candidates.append(lem[:-1] + "ομαι")
         
         # Priority 2: exact word
         candidates.append(word)
@@ -149,17 +154,35 @@ def main():
         if stripped in dict_key_map:
             candidates.append(dict_key_map[stripped])
 
+        # Priority 6: Stem guess heuristics (for Greek inflections)
+        for end, repls in [('ετε', ['ω']), ('ομεν', ['ω']), ('ουσι', ['ω']), ('ουσιν', ['ω']), ('ει', ['ω']), ('εισ', ['ω']), ('ε', ['ω', 'οσ']), ('ον', ['οσ', 'ον', 'ω']), ('ου', ['οσ', 'ον', 'ω']), ('ων', ['οσ', 'ων']), ('οισ', ['οσ', 'ον']), ('ουσ', ['οσ']), ('ην', ['η', 'ησ']), ('ησ', ['η', 'ησ']), ('ῃ', ['η', 'ησ']), ('αν', ['α', 'ασ']), ('ασ', ['α', 'ασ']), ('ττα', ['σσα']), ('ττησ', ['σσησ'])]:
+            if stripped.endswith(end) and len(stripped) > len(end) + 2:
+                stem = stripped[:-len(end)]
+                for r in repls:
+                    g = stem + r
+                    if g in dict_key_map:
+                        candidates.append(dict_key_map[g])
+                    g_ss = g.replace('ττ', 'σσ')
+                    if g_ss in dict_key_map:
+                        candidates.append(dict_key_map[g_ss])
+
         # Find best entry
         matched_hw = None
         entry_html = None
         for cand in candidates:
             cand_norm = normalize_greek(cand)
+            st = strip_accents(cand_norm)
             if cand_norm in dictionary:
                 matched_hw = cand_norm
                 entry_html = dictionary[cand_norm]
                 break
             elif cand_norm in dict_key_map and dict_key_map[cand_norm] in dictionary:
                 actual_key = dict_key_map[cand_norm]
+                matched_hw = actual_key
+                entry_html = dictionary[actual_key]
+                break
+            elif st in dict_key_map and dict_key_map[st] in dictionary:
+                actual_key = dict_key_map[st]
                 matched_hw = actual_key
                 entry_html = dictionary[actual_key]
                 break

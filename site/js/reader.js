@@ -3,6 +3,7 @@
  */
 
 import { openProofread } from './proofread.js';
+import { openReferenceParadigm } from './app.js';
 
 let currentTextData = null;
 let currentVocabData = [];
@@ -264,6 +265,16 @@ function renderPassageVocab(passage) {
   });
 }
 
+function normalizeGreekForMatch(str) {
+  if (!str) return '';
+  return str.normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .toLowerCase()
+            .replace(/ς/g, 'σ')
+            .replace(/[\u2019'’\-\s.,;·"()\[\]]/g, '')
+            .trim();
+}
+
 function showWordCard(token, line) {
   const drawer = document.getElementById('word-card-drawer');
   drawer.classList.remove('hidden');
@@ -271,11 +282,30 @@ function showWordCard(token, line) {
   document.getElementById('card-surface').textContent = token.surface.replace(/[.,;·]/g, '');
 
   let matchedVocab = null;
+  // 1. Check explicit entry_ids
   if (token.entry_ids && token.entry_ids.length) {
     matchedVocab = currentVocabData.find(v => v.id === token.entry_ids[0]);
   }
+  // 2. Check normalized surface and plain
+  const tokNorm = token.norm || normalizeGreekForMatch(token.surface);
   if (!matchedVocab) {
-    matchedVocab = currentVocabData.find(v => v.plain === token.norm || (v.where && v.where.passage === activePassageId && v.plain.startsWith(token.norm.slice(0, 3))));
+    matchedVocab = currentVocabData.find(v => {
+      const vNorm = normalizeGreekForMatch(v.plain);
+      const vDispNorm = normalizeGreekForMatch(v.display);
+      return vNorm === tokNorm || vDispNorm === tokNorm;
+    });
+  }
+  // 3. Check stem or passage match
+  if (!matchedVocab) {
+    matchedVocab = currentVocabData.find(v => {
+      if (v.where && v.where.passage === activePassageId) {
+        const vNorm = normalizeGreekForMatch(v.plain);
+        if (vNorm.length >= 4 && tokNorm.length >= 4) {
+          if (vNorm.startsWith(tokNorm.slice(0, 4)) || tokNorm.startsWith(vNorm.slice(0, 4))) return true;
+        }
+      }
+      return false;
+    });
   }
 
   const badge = document.getElementById('card-tier-badge');
@@ -291,8 +321,13 @@ function showWordCard(token, line) {
     morphDiv.textContent = matchedVocab.display;
     lemmaSpan.textContent = matchedVocab.lemma_display || matchedVocab.lemma_plain || '—';
     glossSpan.textContent = matchedVocab.gloss_en;
-    declSpan.textContent = matchedVocab.decl_code ? `Noun/Verb Type (${matchedVocab.decl_code})` : '—';
     sourceSpan.textContent = `Text page ${matchedVocab.src.printed_page} (PDF p. ${matchedVocab.src.pdf_page})`;
+    if (matchedVocab.decl_code) {
+      declSpan.innerHTML = `<button class="decl-code-pill" data-code="${matchedVocab.decl_code}">Paradigm (${matchedVocab.decl_code}) ↗</button>`;
+      declSpan.querySelector('.decl-code-pill').onclick = () => openReferenceParadigm(matchedVocab.decl_code);
+    } else {
+      declSpan.textContent = '—';
+    }
   } else {
     badge.textContent = '🔵 LSJ Lexicon';
     badge.className = 'tier-badge tier-lsj';
@@ -346,7 +381,12 @@ function showVocabCardDirect(vocab) {
   document.getElementById('card-morphemes').textContent = vocab.display;
   document.getElementById('card-lemma').textContent = vocab.lemma_display || vocab.lemma_plain || '—';
   document.getElementById('card-gloss').textContent = vocab.gloss_en;
-  document.getElementById('card-decl').textContent = vocab.decl_code ? `(${vocab.decl_code})` : '—';
+  if (vocab.decl_code) {
+    document.getElementById('card-decl').innerHTML = `<button class="decl-code-pill" data-code="${vocab.decl_code}">Paradigm (${vocab.decl_code}) ↗</button>`;
+    document.getElementById('card-decl').querySelector('.decl-code-pill').onclick = () => openReferenceParadigm(vocab.decl_code);
+  } else {
+    document.getElementById('card-decl').textContent = '—';
+  }
   document.getElementById('card-source').textContent = `Text page ${vocab.src.printed_page} (PDF p. ${vocab.src.pdf_page})`;
 
   // Trigger LSJ Lookup
