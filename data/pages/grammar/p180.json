@@ -1,0 +1,337 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "179",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        89,
+        218,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "179. Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        93,
+        91,
+        256,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) All gen. plurals end in -ων.\n(b) Gen. singulars of type 3 nouns/adjectives all originally ended in -ος.\nLater contractions and other changes gave rise to forms in -ους and -εως.\n(c) Gen. singulars in types 1 and 2 nouns/adjectives end (masculine)\nin -ου and (feminine) in -ης (1a, 1c) or -ας (1b). Remind yourself of the\nrules for these nouns (especially the ι ρ ε rule) at 56-57.\n(d) 1d nouns like ναύτης, νεανίας are tricky: ναύτης, νεανίας is their\nnom. form (not feminine gen. s.!) and their gen. s. is ναύτου, νεανίου.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "black_right_pointing_triangle",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        283,
+        195,
+        295,
+        318
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        306,
+        195,
+        319,
+        540
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Select from this list according to need.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        331,
+        195,
+        450,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 1",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 1a-c type nouns:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἀνομία"
+          },
+          {
+            "n": "2.",
+            "prompt": "εἰρήνη"
+          },
+          {
+            "n": "3.",
+            "prompt": "ἀγορά"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἐκκλησία"
+          },
+          {
+            "n": "5.",
+            "prompt": "μάχη"
+          },
+          {
+            "n": "6.",
+            "prompt": "φωνή"
+          },
+          {
+            "n": "7.",
+            "prompt": "ἀρετή"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        463,
+        195,
+        546,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 2",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 1d type nouns:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "πολίτης"
+          },
+          {
+            "n": "2.",
+            "prompt": "δικαστής"
+          },
+          {
+            "n": "3.",
+            "prompt": "ποιητής"
+          },
+          {
+            "n": "4.",
+            "prompt": "σοφιστής"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        559,
+        195,
+        642,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 3",
+        "instruction": "Give the meaning and (where possible) gen. s. and pl. (with def. art.) of the following 3d type nouns:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τριήρης"
+          },
+          {
+            "n": "2.",
+            "prompt": "Σωκράτης"
+          },
+          {
+            "n": "3.",
+            "prompt": "συγγενής"
+          },
+          {
+            "n": "4.",
+            "prompt": "Περικλῆς"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        655,
+        195,
+        773,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 4",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 2a-b type nouns:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "σῖτος"
+          },
+          {
+            "n": "2.",
+            "prompt": "φιλόσοφος"
+          },
+          {
+            "n": "3.",
+            "prompt": "δῆμος"
+          },
+          {
+            "n": "4.",
+            "prompt": "δικαστήριον"
+          },
+          {
+            "n": "5.",
+            "prompt": "χρόνος"
+          },
+          {
+            "n": "6.",
+            "prompt": "ποταμός"
+          },
+          {
+            "n": "7.",
+            "prompt": "νεανίσκος"
+          },
+          {
+            "n": "8.",
+            "prompt": "οὐρανός"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        787,
+        195,
+        932,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 5",
+        "instruction": "Give the meaning and gen. s. and pl. in all genders (with def. art.) of the following type '2-1-2' adjectives:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἄξιος"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἐκεῖνος*"
+          },
+          {
+            "n": "3.",
+            "prompt": "δεξιός"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἕτοιμος"
+          },
+          {
+            "n": "5.",
+            "prompt": "αὐτός"
+          },
+          {
+            "n": "6.",
+            "prompt": "χαλεπός"
+          },
+          {
+            "n": "7.",
+            "prompt": "ὑμέτερος"
+          },
+          {
+            "n": "8.",
+            "prompt": "μέγιστος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 180
+}

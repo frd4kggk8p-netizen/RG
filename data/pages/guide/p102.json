@@ -1,0 +1,1137 @@
+{
+  "running_head": "Exercises for section 7A-C",
+  "folio": "88",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        89,
+        417,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 7A-C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        121,
+        191,
+        134,
+        384
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PRESENT INFINITIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        151,
+        191,
+        163,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A-C: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        174,
+        191,
+        187,
+        337
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. διαβάλλειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        193,
+        191,
+        206,
+        330
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. εὑρίσκειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        212,
+        191,
+        226,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. πειρᾶσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        232,
+        191,
+        245,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. εἰδέναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        252,
+        191,
+        265,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. δηλοῦν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        271,
+        191,
+        286,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. λογίζεσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        174,
+        431,
+        187,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. παρεῖναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        193,
+        431,
+        206,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8. νομίζειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        212,
+        431,
+        225,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9. ἰέναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        232,
+        431,
+        245,
+        564
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10. κλέπτειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        252,
+        431,
+        265,
+        553
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "11. ἀπιέναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        271,
+        431,
+        286,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "12. βιάζεσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        174,
+        672,
+        187,
+        821
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "13. θαυμάζειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        193,
+        672,
+        206,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "14. πείθεσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        212,
+        672,
+        225,
+        809
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "15. δέχεσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        232,
+        672,
+        245,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "16. ποιεῖν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        252,
+        672,
+        265,
+        820
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "17. μανθάνειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        271,
+        672,
+        286,
+        819
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "18. λαμβάνειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 22,
+      "bbox": [
+        299,
+        191,
+        310,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A-C: 2",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        322,
+        191,
+        335,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. βούλομαι ἰέναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        342,
+        191,
+        355,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. βούλονται πιστεύειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        361,
+        191,
+        375,
+        412
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. φαίνεται νομίζειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        381,
+        191,
+        395,
+        432
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. φαίνονται διαβάλλειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        322,
+        549,
+        335,
+        847
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. δεῖ με, ἡμᾶς, ὑμᾶς παρεῖναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        342,
+        549,
+        355,
+        846
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. τὸν Σωκράτη δεῖ διδάσκειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        361,
+        549,
+        375,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. ἀνάγκη ἐστὶν ἀπιέναι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        381,
+        549,
+        396,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8. ὑμῖν ἀνάγκη ἐστὶ μανθάνειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 31,
+      "bbox": [
+        409,
+        191,
+        421,
+        661
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "COMPARATIVE AND SUPERLATIVE OF ADJECTIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 32,
+      "bbox": [
+        439,
+        191,
+        452,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A-C: 3",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 33,
+      "bbox": [
+        460,
+        191,
+        474,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. τόν πολεμιώτερον, πολεμιώτατον ναύτην",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 34,
+      "bbox": [
+        480,
+        230,
+        493,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the more hostile, most hostile sailor",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 35,
+      "bbox": [
+        500,
+        191,
+        513,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. τοὺς βεβαιοτέρους, βεβαιοτάτους λιμένας",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 36,
+      "bbox": [
+        519,
+        230,
+        532,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the safer, safest harbours",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 37,
+      "bbox": [
+        538,
+        191,
+        552,
+        470
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. τὴν ἀμείνονα, ἀρίστην θεάν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 38,
+      "bbox": [
+        558,
+        230,
+        571,
+        440
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the better, best goddess",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 39,
+      "bbox": [
+        577,
+        191,
+        591,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. αἱ πλείονες, πλεῖσται νῆες",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 40,
+      "bbox": [
+        597,
+        230,
+        610,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "more ships, most ships (αἱ technically makes this ‘the great majority of’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 41,
+      "bbox": [
+        614,
+        230,
+        627,
+        435
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘the huge majority of’)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 42,
+      "bbox": [
+        634,
+        191,
+        648,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. οἱ μείζονες, μέγιστοι βασιλῆs",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "βασιλῆs",
+          "reason": "Greek printed with a Latin-like s or lunate sigma variant at the end",
+          "candidates": [
+            "βασιλῆς",
+            "βασιλῆs"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "passage_line",
+      "order": 43,
+      "bbox": [
+        655,
+        230,
+        668,
+        462
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the greater, greatest kings",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 44,
+      "bbox": [
+        674,
+        191,
+        687,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. τὰς κακίονας, κάκιστας γυναῖκας",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 45,
+      "bbox": [
+        693,
+        230,
+        706,
+        547
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the more wicked, the worst women",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 46,
+      "bbox": [
+        712,
+        191,
+        726,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. τὸ κάλλιον, κάλλιστον ἄστυ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 47,
+      "bbox": [
+        732,
+        230,
+        745,
+        595
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the more beautiful, most beautiful city",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 48,
+      "bbox": [
+        751,
+        191,
+        765,
+        507
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8. ἡ δηλοτέρα, δηλοτάτη ἀνομία",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 49,
+      "bbox": [
+        771,
+        230,
+        784,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the clearer, most obvious lawlessness",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 50,
+      "bbox": [
+        798,
+        191,
+        810,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A-C: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 51,
+      "bbox": [
+        820,
+        191,
+        833,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. τῷ πολεμιωτέρῳ, πολεμιωτάτῳ ναύτῃ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 52,
+      "bbox": [
+        839,
+        230,
+        852,
+        612
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "to, for the more hostile, most hostile sailor",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 53,
+      "bbox": [
+        859,
+        191,
+        873,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. τῶν βεβαιοτέρων, βεβαιοτάτων λιμένων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 54,
+      "bbox": [
+        879,
+        230,
+        892,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "of the safer, safest harbours",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 55,
+      "bbox": [
+        898,
+        191,
+        912,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. τῆς ἀμείνονος, ἀρίστης θεᾶς",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 56,
+      "bbox": [
+        918,
+        230,
+        931,
+        465
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "of the better, best goddess",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 102
+}

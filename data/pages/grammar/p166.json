@@ -1,0 +1,428 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "148",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        208,
+        206,
+        99,
+        819
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 7D-F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        128,
+        209,
+        137,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνδρεῖος ᾱ ον\tbrave, manly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        139,
+        210,
+        149,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀποκρίνομαι (ἀποκρῑνα-)\tanswer",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        151,
+        211,
+        160,
+        722
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀρετή, ἡ\tvirtue, excellence (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        162,
+        210,
+        172,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γελάω (γελασα-)\tlaugh",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        174,
+        211,
+        184,
+        672
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δήπου\tof course, surely",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        186,
+        210,
+        195,
+        628
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διδάσκαλος, ὁ\tteacher (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        197,
+        211,
+        207,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκδδέχομαι\treceive in turn",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        209,
+        211,
+        218,
+        739
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμπίπτω (ἐμπεσ-)\tfall into, on (+ ἐν or εἰς)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        220,
+        211,
+        230,
+        576
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπαινέω (ἐπαινεσα-)\tpraise",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        232,
+        212,
+        242,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐθύς\tat once, straightaway",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        244,
+        211,
+        254,
+        676
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥδομαι\tenjoy, be pleased",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        255,
+        211,
+        265,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦν δ᾽ ἐγώ\tI said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        267,
+        211,
+        276,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦ δ᾽ ὅς\the said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        278,
+        211,
+        288,
+        571
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁμολογέω\tagree",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        290,
+        212,
+        300,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐκοῦν\ttherefore",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        301,
+        211,
+        311,
+        631
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὔκουν\tnot ... therefore",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        313,
+        212,
+        323,
+        664
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νεανίσκος, ὁ\tyoung man (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        325,
+        212,
+        335,
+        652
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προτρέπω\turge on, impel",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        337,
+        211,
+        347,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φημί/ἔφην\tI say/I said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        349,
+        213,
+        359,
+        664
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλοσοφία, ἡ\tphilosophy (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 166
+}

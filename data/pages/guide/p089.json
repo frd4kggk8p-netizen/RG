@@ -1,0 +1,361 @@
+{
+  "running_head": "Exercises for section 6A-B",
+  "folio": "75",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        189,
+        75,
+        856,
+        883
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "top_list",
+        "instruction": "",
+        "items": [
+          {
+            "n": "3.",
+            "prompt": "ἐκώλυσε(ν) he hindered  ἐκώλυσαν they hindered"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἔλυσε(ν) he set free  ἔλυσαν they set free"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        190,
+        190,
+        203,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A-B: 2",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        212,
+        190,
+        255,
+        666
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "you (pl.) pray  ηὔξασθε"
+          },
+          {
+            "n": "2.",
+            "prompt": "they hit  ἔτυψαν"
+          },
+          {
+            "n": "3.",
+            "prompt": "he keeps quiet  ἡσύχασε(ν)"
+          },
+          {
+            "n": "4.",
+            "prompt": "we turn  ἐτρεψάμεθα"
+          },
+          {
+            "n": "5.",
+            "prompt": "I persuade  ἔπεισα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        284,
+        190,
+        297,
+        272
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A-B: 3",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        308,
+        190,
+        399,
+        664
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "we defeated  νικῶμεν"
+          },
+          {
+            "n": "2.",
+            "prompt": "he loved  φιλεῖ"
+          },
+          {
+            "n": "3.",
+            "prompt": "I held power over  κρατῶ (έω)"
+          },
+          {
+            "n": "4.",
+            "prompt": "you (pl.) sought  ζητεῖτε"
+          },
+          {
+            "n": "5.",
+            "prompt": "they set free  ἐλευθεροῦσι(ν)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        431,
+        190,
+        444,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A-B: 4",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        453,
+        90,
+        765,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἤκουσε(ν)  he heard\nἤκουσαν  they heard"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἀνεχώρησε(ν)  he retreated\nἀνεχώρησαν  they retreated"
+          },
+          {
+            "n": "3.",
+            "prompt": "ἠτίμασε(ν)  he dishonoured\nἠτίμασαν  they dishonoured"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἔβλεψε(ν)  he looked\nἔβλεψαν  they looked"
+          },
+          {
+            "n": "5.",
+            "prompt": "ἐβόησε(ν)  he shouted\nἐβόησαν  they shouted"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἐδέξατο  he received\nἐδέξαντο  they received"
+          },
+          {
+            "n": "7.",
+            "prompt": "ἐλύσατο  he ransomed\nἐλύσαντο  they set free"
+          },
+          {
+            "n": "8.",
+            "prompt": "ἐδίδαξε(ν)  he taught\nἐδίδαξαν  they taught"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἐθαύμασε(ν)  he marvelled\nἐθαύμασαν  they marvelled"
+          },
+          {
+            "n": "10.",
+            "prompt": "ἔθυσυε(ν)  he sacrificed\nἔθυσαν  they sacrificed"
+          },
+          {
+            "n": "11.",
+            "prompt": "ἐνίκησε(ν)  he defeated\nἐνίκησαν  they won"
+          },
+          {
+            "n": "12.",
+            "prompt": "ἐθεάσατο  he watched\nἐθεάσαντο  they watched"
+          },
+          {
+            "n": "13.",
+            "prompt": "ἐτρέψατο  he turned\nἐτρέψαντο  they turned"
+          },
+          {
+            "n": "14.",
+            "prompt": "ἔκοψε(ν)  he knocked\nἔκοψαν  they knocked"
+          },
+          {
+            "n": "15.",
+            "prompt": "ἐχώρησε(ν)  he went\nἐχώρησαν  they went"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        788,
+        190,
+        801,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A-B: 5",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        810,
+        190,
+        928,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 5",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἠκούσαμεν"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἐδέξαντο"
+          },
+          {
+            "n": "3.",
+            "prompt": "ἀνεχώρησας"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἐδίωξε(ν)"
+          },
+          {
+            "n": "5.",
+            "prompt": "ἐκόλασαν"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἐβόησατε"
+          },
+          {
+            "n": "7.",
+            "prompt": "ἐνόμισε(ν)"
+          },
+          {
+            "n": "8.",
+            "prompt": "ἐδήλωσα"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἔμειναν"
+          },
+          {
+            "n": "10.",
+            "prompt": "διέφθειραν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 89
+}

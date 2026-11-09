@@ -1,0 +1,3357 @@
+{
+  "id": "s06",
+  "label_new": "Section 6",
+  "label_old": "Section 5E–F",
+  "para_range": [
+    128,
+    149
+  ],
+  "blocks": [
+    {
+      "t": "para",
+      "no": null,
+      "text": "Grammar for Section 6A–B*",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(* Formerly 5E–F)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "box",
+      "title": "In this section you cover:\n• First aorist indicati",
+      "items": [
+        "In this section you cover:\n• First aorist indicative, active and middle: ἔπαυσα, ἐπαυσάμην\n• Aspect\n• Type 3h nouns: ὀφρῦς"
+      ],
+      "kind": "cover"
+    },
+    {
+      "t": "box",
+      "title": "VOCABULARY CHECK\nEnsure you know the meaning of:\nκ",
+      "items": [
+        "VOCABULARY CHECK\nEnsure you know the meaning of:\nκαίπερ, λύω, ὅτε, ῥᾴδιος, ἐν νῷ ἔχω, ἀδύνατος, δῆμος, θαυμάζω, ὅπου"
+      ],
+      "kind": "vocab-check"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "THE AORIST",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "In this section you meet another new tense: the aorist. The aorist and the imperfect are the tenses most commonly used to denote past actions in Greek.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "box",
+      "title": "Whereas the imperfect describes a continuous or re",
+      "items": [
+        "Whereas the imperfect describes a continuous or repeated past action (a process), the aorist describes the action as a single past event. Usually, a verb in the aorist is best translated ‘I –ed’, ‘you –ed’, etc., e.g. ἔπαυσα, ‘I stopped’, ἔθυσας, ‘you sacrificed’, and so on."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First and second aorists: English and Greek",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "para",
+      "no": 2,
+      "text": "In English there are two ways in which verbs may be put into the ‘past simple’ (the tense which is the nearest equivalent in English to the Greek aorist):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "box",
+      "title": "• The majority of verbs add ‘-ed’ or ‘-d’ to the p",
+      "items": [
+        "• The majority of verbs add ‘-ed’ or ‘-d’ to the present stem, e.g. ‘I watch’ → ‘I watched’, ‘you like’ → ‘you liked’; but\n• some have a different stem in the past, e.g. ‘I sing’ → ‘I sang’, ‘they go’ → ‘they went’."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": 3,
+      "text": "The situation is similar in Greek:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "115",
+        "pdf_page": 133
+      }
+    },
+    {
+      "t": "box",
+      "title": "• The majority of verbs have a ‘first’ aorist – al",
+      "items": [
+        "• The majority of verbs have a ‘first’ aorist – also called the ‘weak aorist’ – a form which is closely based on the present stem: it is this type of aorist you will meet here.\n• Some verbs have a less predictable ‘second aorist’ – also called ‘strong aorist’ – involving a strong change of stem: this type of aorist will be dealt with in section 6 C–D."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First aorist",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The aorist of a verb such as παύω, ‘I stop’, is formed by:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "box",
+      "title": "adding σa to the present stem: παυ-σα;\nadding an ‘",
+      "items": [
+        "adding σa to the present stem: παυ-σα;\nadding an ‘augment’ to this stem, ἐ-παυ-σα, to indicate that the action is past;\nadding the appropriate personal endings"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First aorist indicative active",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "box",
+      "title": "ἔ-παυσα ‘I stopped’\nἔ-παυσα\t‘I stopped’\nἔ-παυσα-ς\t",
+      "items": [
+        "ἔ-παυσα ‘I stopped’\nἔ-παυσα\t‘I stopped’\nἔ-παυσα-ς\t‘you (s.) stopped’\nἔ-παυσε(ν)\t‘he/she/it stopped’\nἐ-παύσα-μεν\t‘we stopped’\nἐ-παύσα-τε\t‘you (pl.) stopped’\nἔ-παυσα-ν\t‘they stopped’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First aorist indicative middle",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "box",
+      "title": "ἐ-παυσά-μην ‘I ceased, stopped [myself]’\nἐ-παυσά-μ",
+      "items": [
+        "ἐ-παυσά-μην ‘I ceased, stopped [myself]’\nἐ-παυσά-μην\t‘I ceased’\nἐ-παύσω\t‘you (s.) ceased’\nἐ-παύσα-το\t‘he/she/it ceased’\nἐ-παυσά-μεθα\t‘we ceased’\nἐ-παύσα-σθε\t‘you (pl.) ceased’\nἐ-παύσα-ντο\t‘they ceased’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) You can see why the first aorist is also known as the ‘sigmatic’ or ‘alpha’\naorist. Originally there was no α; ἔπαυσεν avoided confusion with ἔπαυσαν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) Revisit 102 and observe that we have here the -μην-σο -το middle endings.\nWith the loss of intervocalic sigma keenly in mind, you will understand how\nthe original 2s. ἐπαύσα-σο became ἐπαύσα-o and so ἐπαύσ-ω.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Forming the first aorist stem",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Simple verbs",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As you have seen above, the first aorist stem is typically formed by adding\nsa to the present stem: παύ-ω ‘I stop’ > παυ-σα. On to this is added the aug-\nment (ἔ + παυ-σα). The aorist stem is παυσα-.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "116",
+        "pdf_page": 134
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "6A–B: 1. Form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "1. θύω\n2. κελεύω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "3. κωλύω\n4. λύομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Consonant stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "When σa is added to verbs with stems ending in consonants the following changes occur (note that these changes are, for the most part, identical to those found in the future tense: see 114).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) β, π, πτ and φ combine with σ to produce ψ:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πέμπ-ω    ‘I send’    πέμπ + σ →    ἔ-πεμψα    ‘I sent’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) γ, κ, χ (and usually ττ) combine with σ to produce ξ:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δέξ-ομαι    ‘I receive’    δέξ + σ →    ἐ-δεξά-μην    ‘I received’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) δ, ζ, θ and τ are simply replaced by σ:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πείθ-ω ‘I persuade’    πείθ + σ →    ἔ-πεισα    ‘I persuaded’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "6A–B: 2. Translate the following presents and turn them into the equivalent aorist.\nYou may need to revise augments. See 104 or look ahead to 136:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "1. εὔχεσθε\n2. τύπτουσιν\n3. ἡσυχάζει",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "4. τρεπόμεθα\n5. πείθω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Contract verbs",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Contract verbs both active and middle lengthen the final vowel of their stem before σa is added (exactly as in the future, 115):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": null,
+        "rows": [
+          [
+            null,
+            "τιμάω",
+            "‘I honour’",
+            "(α > η)",
+            "ἐ-τίμησα",
+            "‘I honoured’"
+          ],
+          [
+            null,
+            "ποιέω",
+            "‘I make, do’",
+            "(ε > η)",
+            "ἐ-ποιήσα",
+            "‘I made, did’"
+          ],
+          [
+            null,
+            "δηλόω",
+            "‘I show’",
+            "(ο > ω)",
+            "ἐ-δήλωσα",
+            "‘I showed’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Cf. δουλόομαι > ἐ-δουλωσᾰ-μην, etc.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "6A–B: 3. Translate the following aorists and turn them into the equivalent present:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "1. ἐνικήσαμεν\n2. ἐφίλησε\n3. ἐκράτησα",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "4. ἐζητήσατε\n5. ἠλευθέρωσαν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "117",
+        "pdf_page": 135
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "118",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "134–138",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Contract verbs with stems ending in -εα- and -ρα-",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As in the future (116) an exception to this rule is verbs whose stems end in -εα- and -ρα-: the α of these verbs becomes long in the aorist.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δράω ‘I do, act’ (α > ᾱ) → ἔδρᾱσα ‘I did, acted’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Verbs with stems ending in λ, μ, ν or ρ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Verbs whose stems end in λ, μ, ν or ρ do not form their aorist by the addition of σ. The general rule is that:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) the aorist stem of these verbs is the same as the present;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) but if the final vowel in the present stem is short, it lengthens, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "διαφθείρω ‘I destroy’ διαφθειρ- → διέφθειρα ‘I destroyed’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀμύνω ‘I ward off’ ἀμυν- → ἠμῡνα ‘I warded off’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μένω ‘I remain’ μειν- → ἔμεινα ‘I remained’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(Note that verbs of this type usually have an aorist stem that is different from the future stem: see 117.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Augments",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The principles of augmentation are exactly the same as for the imperfect (see 104–5). Thus ἐ- is added to stems beginning in a consonant:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Consonant stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "διώκω ‘I pursue’ διωξ- → ἐ-δίωξα ‘I pursued’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "κολάζω ‘I punish’ κολασ- → ἐ-κόλασα ‘I punished’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vowel stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "When a stem begins in a vowel, this vowel lengthens where possible:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀκούω ‘I hear’ ἀκουσ- → ἠ-κουσα ‘I heard’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐρωτάω ‘I ask’ ἐρωτησ- → ἠ-ρώτησα ‘I asked’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εύχομαι ‘I pray’ εὐξ- → η-ὐξά-μην ‘I prayed’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡσυχάζω ‘I keep quiet’ ἡσυχασ- → ἡ-σύχασα ‘I became quiet’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Compound verbs",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Remember that with compound verbs it is the stem which is augmented, not the prefix:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀνα-χωρέω ‘I retreat’ ἀνα-χωρησ- → ἀν-ε-χώρησα ‘I retreated’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀπο-κτείνω ‘I kill’ ἀπο-κτειν- → ἀπ-ε-κτεινα ‘I killed’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "138-140",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "1. ἀκούω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "2. ἀναχωρέω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "3. ἀτιμάζω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "4. βλέπω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "5. βοάω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "6. δέχομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "7. λύομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "8. διδάσκω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "9. θαυμάζω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "10. θύω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "11. νικάω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "12. θεάομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "13. τρέπομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "14. κόπτω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "15. χωρέω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Recognising first aorist forms",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "When you encounter an aorist indicative form in a reading passage, you will at times be faced with a challenge. In order to look a verb up, you will have to ascertain its dictionary form (i.e. the first person s. present indicative).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Simple stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 2,
+      "text": "Sometimes this process is simple, since it will require only the removal of the augment, σ and personal ending, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 3,
+      "text": "ἐκέλευσε:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 4,
+      "text": "(a) remove augment = κελευσε",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 5,
+      "text": "(b) Remove σε (3s. ending) = κελευ-",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 6,
+      "text": "(c) κελευ- is the stem. Therefore the verb is κελεύω, ‘I order’. Translation:\n‘he/she/it ordered’.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Complex stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 7,
+      "text": "On other occasions, however, the process will be more complex. For example, it may not be immediately clear what the final consonant of the stem would be in the present, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 8,
+      "text": "ἔβλεψα:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 9,
+      "text": "(a) Remove augment = βλεψα",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "para",
+      "no": 10,
+      "text": "(b) Remove σα (1s. ending) = what stem?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "t": "box",
+      "title": "• It might be ψ-, from the verb βλέψ-ω. Look it up",
+      "items": [
+        "• It might be ψ-, from the verb βλέψ-ω. Look it up – no such verb.\n• But βλεψ- might have been produced by a combination of β or π or πτ or φ + σ.\n• The stem could therefore be any of βλεβ-, βλεπ-, βλεπτ- or βλεφ- .\n• If so, the verb could be βλέβω, βλέπω, βλέπτω or βλέφω.\n• If you recognise βλέπω, ‘I look (at)’, you will translate ἔβλεψα ‘I looked at’."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "If you do not recognise any of them, there is no short cut: you must simply look up βλέβω, βλέπω, βλέπτω and βλέφω to see which of the verbs exists in Greek.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Even more complex stems",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Here is a demanding example – and fortunately rare!",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἠτίμασαν:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "box",
+      "title": "Remove the augment. But ἠ- could hide the original",
+      "items": [
+        "Remove the augment. But ἠ- could hide the original vowel α, ε or η (137 above).\nRemove the ending -σαν (3rd pl. ‘they’).\nStem therefore α/ε/ητίμα-\nThe verb is therefore α/ε/ητιμάω. Look up vocabulary: no such verb. Infuriating, as there is a verb τιμάω.\nThink: what would the aorist of τιμάω be? ἐτίμησα. Ha! The contract vowel α has lengthened to η (see 133 above), as it does in contract verbs. But α did not lengthen to η with α/ε/ητίμα- (above). Therefore α/ε/ητίμα- is not a contract verb.\nThe σ is therefore misleading us. It must be part of the original verb. So we were wrong to think (above) that it needed to be removed as the sign of the aorist. The verb is therefore α/ε/ητίμασ-ω. Look up it up.\nNo, it isn’t. What other consonant might that σ hide, which would turn into a σ in the aorist? Answer: δ, θ, ζ or τ (see 132).\nSo the verb might therefore be any of ἀτιμάδω, ἀτιμάθω, ἀτιμάζω, ἀτιμάτω, ἐτιμάδω, ἐτιμάθω, ἐτιμάζω, ἐτιμάτω, ἠτιμάδω, ἠτιμάθω, ἠτιμάζω or ἠτιμάτω. If you recognise one of the items in this list, you can proceed to translate ἠτίμασαν. If you do not, however, you must hunt under ἀτιμα-, ἐτιμα- and ἠτιμα- in a dictionary or vocabulary list until you find a suitable candidate. The more you study the language, the more you will develop a good instinct for where to look first."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἠτίμασαν is in fact the 3rd pl. aorist active indicative of ἀτιμάζω ‘I dishonour’, and may be translated ‘they dishonoured’.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Aspect and the aorist",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The most common meaning of the aorist is ‘I -ed’. But:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "120",
+        "pdf_page": 138
+      }
+    },
+    {
+      "t": "box",
+      "title": "Because of the different ways in which Greek and E",
+      "items": [
+        "Because of the different ways in which Greek and English speakers use tenses, you may sometimes need to render an aorist as ‘I have -ed’ or ‘I had -ed’ to stop your translation sounding stilted.\nThe essential point, however, is this: aorist indicatives are used to indicate something that happened in the past without reference to the"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "duration of time over which it occurred. The action is regarded as a single complete event, not as an uncompleted process (cf. the imperfect tense).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "box",
+      "title": "The way in which a verb-form looks at an action – ",
+      "items": [
+        "The way in which a verb-form looks at an action – e.g. as an event (complete) or a process (uncompleted) – is known as aspect. You will learn more about aspect in future sections."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "A FINAL TYPE 3 NOUN: ὀφρύς, ἡ ‘EYEBROW’ (3H)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Here is the final type 3 noun you are asked to learn, classified as 3h:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "ὀφρύς, ἡ eyebrow (3h)",
+            null
+          ],
+          [
+            "s.",
+            "pl."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ὀφρύ-ς",
+            "ὀφρύ-ες"
+          ],
+          [
+            "Acc.",
+            "ὀφρύ-ν",
+            "ὀφρῦ-ς"
+          ],
+          [
+            "Gen.",
+            "ὀφρύ-ος",
+            "ὀφρύ-ων"
+          ],
+          [
+            "Dat.",
+            "ὀφρύ-ι",
+            "ὀφρύ-σι(ν)"
+          ],
+          [
+            "Voc.",
+            "ὦ ὀφρύ",
+            null
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(i) Be careful to distinguish 3h nouns like ὀφρύς from 3e nouns like πρέσβυς (79).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(ii) Some 3h nouns have acc. pl. in -ῦας, e.g. ἰχθύς → ἰχθῦας ‘fish’.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "121",
+        "pdf_page": 139
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "REVISION EXERCISES FOR SECTION 6A–B",
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "4. Complete the following table with the 1st s. imperfect, future and aorist forms of the verbs:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "present",
+            "imperfect",
+            "future",
+            "aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "κελεύω",
+            "ἐκέλευον",
+            "κελεύσω",
+            "ἐκέλευσα"
+          ],
+          [
+            "κωλύω",
+            null,
+            null,
+            null
+          ],
+          [
+            "παύομαι",
+            null,
+            null,
+            null
+          ],
+          [
+            "βλέπω",
+            "ἔβλεπον",
+            "βλέψω/ομαι",
+            "ἔβλεψα"
+          ],
+          [
+            "κόπτω",
+            null,
+            null,
+            null
+          ],
+          [
+            "κρύπτω",
+            null,
+            null,
+            null
+          ],
+          [
+            "δέχομαι",
+            null,
+            null,
+            null
+          ],
+          [
+            "διώκω",
+            null,
+            null,
+            null
+          ],
+          [
+            "πράττω",
+            null,
+            null,
+            null
+          ],
+          [
+            "ἀτιμάζω",
+            null,
+            null,
+            null
+          ],
+          [
+            "κολάζω",
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(continued)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "present",
+            "imperfect",
+            "future",
+            "aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "σπεύδω\nδιαφθείρω\nμένω",
+            null,
+            null,
+            null
+          ],
+          [
+            "ἀπορέω\nδηλόω\nμισέω\nνικάω",
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "123",
+        "pdf_page": 141
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "D ENGLISH INTO GREEK",
+      "src": {
+        "book": "grammar",
+        "printed_page": "123",
+        "pdf_page": 141
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate these pairs of sentences:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "123",
+        "pdf_page": 141
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "124",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Grammar for Section 6C–D*",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(* Formerly 5G–H)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "box",
+      "title": "In this section you cover:\n• Second aorist indicat",
+      "items": [
+        "In this section you cover:\n• Second aorist indicative, active and middle: ἔλαβον, ἐλαβόμην\n• Interrogatives: τί\n• Indirect speech\n• Some particles"
+      ],
+      "kind": "cover"
+    },
+    {
+      "t": "box",
+      "title": "VOCABULARY CHECK\nEnsure you know the meaning or si",
+      "items": [
+        "VOCABULARY CHECK\nEnsure you know the meaning or significance of:\nἀπελθ-, ἐξευρ-, πρῶτος, θε-, γέρων, γνώμη, δράω, κλέπτω, κρείττων, σός"
+      ],
+      "kind": "vocab-check"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "THE SECOND AORIST",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As we earlier warned (129), a number of verbs do not form their aorists on\nthe pattern of what we have called first aorist (basically, present stem + -σα)\nbut on the pattern of what is called second aorist (or 'strong aorist').",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Note carefully the following about second aorist forms:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "box",
+      "title": "► They have an aorist stem different from that of ",
+      "items": [
+        "► They have an aorist stem different from that of the present:\n► For example, the aorist stem of λαμβάνω, 'I take', is λαβ-, and that of\nγίγνομαι, 'I become', is γεν- ;\n► They form the strong aorist indicative by adding the augment to this\nstem in the usual way, ἐ-λαβ-, ἐ-γεν-, to indicate that the action is\npast.\n► They have personal endings different from first aorist endings (no\n-σα)."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Second aorist indicative active",
+      "src": {
+        "book": "grammar",
+        "printed_page": "124",
+        "pdf_page": 142
+      }
+    },
+    {
+      "t": "box",
+      "title": "ἔ-λαβ-ον ‘I took’\nἔ-λαβ-ον                        ",
+      "items": [
+        "ἔ-λαβ-ον ‘I took’\nἔ-λαβ-ον                                                I took\nἔ-λαβ-ες                                                you (s.) took\nἔ-λαβ-ε(ν)                                              he/she/it took\nἐ-λάβ-ομεν                                              we took\nἐ-λάβ-ετε                                               you (pl.) took\nἔ-λαβ-ον                                                they took"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Second aorist indicative middle",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "ἐ-γεν-όμην ‘I became’",
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "ἐ-γεν-όμην",
+            "I became"
+          ],
+          [
+            "ἐ-γέν-ου",
+            "you (s.) became"
+          ],
+          [
+            "ἐ-γέν-ετο",
+            "he/she/it became"
+          ],
+          [
+            "ἐ-γεν-όμεθα",
+            "we became"
+          ],
+          [
+            "ἐ-γέν-εσθε",
+            "you (pl.) became"
+          ],
+          [
+            "ἐ-γέν-οντο",
+            "they became"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form and meaning",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": 145,
+      "text": "(a) The meaning of the second aorist is the same as the first aorist: ‘I -ed’ (or sometimes ‘I have -ed’ or ‘I had -ed’: see 142).\n(b) Note the -μην-σο -το middle endings (102).\n(c) The endings of the second aorist are exactly the same as those of the imperfect. The difference between the two tenses lies in the change of stem:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "box",
+      "title": "Second aorists have a stem or a form of the stem w",
+      "items": [
+        "Second aorists have a stem or a form of the stem which is different from that of the present whereas the imperfect is based on the present stem."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Observe the following:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Imperfect",
+            "Aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "λαμβάν-ω, ‘I take’",
+            "ἐ-λάμβαν-ον, ‘I was taking’",
+            "ἔ-λαβ-ον, ‘I took’"
+          ],
+          [
+            "γίγν-ομαι, ‘I become’",
+            "ἐ-γιγν-όμην, ‘I was becoming’",
+            "ἐ-γεν-όμην, ‘I became’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Common verbs with second aorist forms",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": 146,
+      "text": "Verbs which take second aorist forms nearly always undergo a radical stem change. These stem changes have to be learnt. Some you should already recognise from earlier learning vocabularies. The most important and common verbs with second aorist forms are:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Aorist stem",
+            "Aorist",
+            "Meaning in aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "γίγνομαι",
+            "γεν-",
+            "ἐγενόμην",
+            "‘I became’"
+          ],
+          [
+            "εὑρίσκω",
+            "εὑρ-",
+            "ηὗρον",
+            "‘I found’"
+          ],
+          [
+            "ἔχω",
+            "σχ-",
+            "ἔσχον",
+            "‘I had’"
+          ],
+          [
+            "λαμβάνω",
+            "λαβ-",
+            "ἔλαβον",
+            "‘I took’"
+          ],
+          [
+            "μανθάνω",
+            "μαθ-",
+            "ἔμαθον",
+            "‘I learned’"
+          ],
+          [
+            "τυγχάνω",
+            "τυχ-",
+            "ἔτυχον",
+            "‘I happened (to be)’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As you can see, aorist stems are generally shorter versions of the present stem (e.g. μανθαν- → μαθ-) and/or different from, but nevertheless recognisably",
+      "src": {
+        "book": "grammar",
+        "printed_page": "125",
+        "pdf_page": 143
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "related to, the present stem (e.g. γιγν- \\u2192 γεν- ; ἐχ- \\u2192 σχ-). However, some verbs use a completely different stem for the present and aorist (cf. English, 'go' and 'went'):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "table",
+      "caption": "First aorist indicative active",
+      "table": {
+        "header": [],
+        "rows": [
+          [
+            "ἔρχομαι",
+            "ἐλθ-",
+            "ἦλθον",
+            "‘I came, went’"
+          ],
+          [
+            "λέγω",
+            "εἰπ-",
+            "εἶπον",
+            "‘I said, spoke’"
+          ],
+          [
+            "ὁράω",
+            "ἰδ-",
+            "εἶδον",
+            "‘I saw’"
+          ],
+          [
+            "τρέχω",
+            "δραμ-",
+            "ἔδραμον",
+            "‘I ran’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "WHAT? WHY?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": 147,
+      "text": "Observe that τί, which you have learnt to mean ‘what?’ can also, and very commonly, mean ‘why?’ When τί does mean ‘why?’, it is in the acc. case and being used adverbially. Its literal meaning is ‘in relation to what?’ or ‘in respect of what?’ – in other words, ‘why?’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "INDIRECT SPEECH",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": 148,
+      "text": "A common way of reporting what someone has said in Greek is by using a clause introduced by ὅτι, ‘that’, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "λέγουσιν ὅτι ὁ Σωκράτης δεινός ἐστιν. ‘They say that Socrates is clever.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Observe, however, that in the ὅτι-clause Greek preserves the original tense and mood of the utterance. You must therefore pay special attention when the verb introducing the ὅτι-clause is in the past. Note the following examples:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) εἶπον ὅτι ὁ Σωκράτης δεινός ἐστιν. ‘They said that Socrates was wise.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The original utterance (i.e what ‘they’ originally ‘said’) was ‘Socrates is wise’. In Greek the present tense is preserved (ἐστί = present), whereas English puts the verb into the past (‘was’).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) εἶπες ὅτι ὁ ναύτης ἔδραμεν εἰς τὴν ναῦν. ‘You said that the sailor had run/ran onto the ship.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The original utterance here (i.e. what ‘you said’) was ‘the sailor ran onto the ship’. Greek preserves the aorist tense in the indirect speech, whereas in English there is a choice: a speaker can either put the verb into the ‘pluperfect’ tense (‘had run’) or use the past simple (‘ran’).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) The same rules apply to reported questions e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἠρώτησα διὰ τί Σωκράτης σοφός ἐστιν. ‘I asked why Socrates was wise.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "GREEK IDIOMS: PARTICLES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As you are aware, Greek particles rarely have a single ‘correct’ translation in English. Note the range of meanings that the following particles can convey:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλά",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The basic meaning of ἀλλά is ‘but, alternatively’. It thus conveys the idea of ‘but rather’ or (especially in speech) ‘oh, well’, ‘anyway’, denoting a change in topic.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "οὐκ εἶδον τοὺς Ἀθηναίους, ἀλλὰ τοὺς Λακεδαιμονίους.\n‘I didn’t see the Athenians, but rather the Spartans.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλ’ εἰπέ μοι. ‘Tell me, anyway’ ‘Now well, tell me.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δέ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The basic meaning of δέ is ‘and’ or ‘but’. Since it is such a common connective in Greek, however, it often requires no translation at all. Note, though, the use of def. art. with δέ (ὁ δέ, ἡ δέ, etc.) to denote a change of subject in Greek:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὁ ναύτης ἐδίωκε τὸν ξένον, ὁ δὲ οὐκ ἀπέφευγεν.\n‘The sailor was pursuing the foreigner, but he (i.e. the foreigner) wasn’t\nrunning away.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δή",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δή has a range of uses which the meanings ‘then’, ‘indeed’ only begin to capture. It puts special stress on the preceding word or phrase and is often used to grab the listener’s attention. It can even convey scepticism or sarcasm:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "οὐ διδάξω σ’ οὐκέτι, ἀμαθῆ δὴ ὄντα.\n‘I shall not teach you any more as you are really ignorant.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εἰπὲ δή. ‘Out with it!’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Note that in common with most particles, δέ and δή (unlike ἀλλά) never come as the first word in a sentence or clause (they are ‘postpositives’, whereas ἀλλά is a ‘prepositive’: Reference Grammar, 391).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "127",
+        "pdf_page": 145
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 6A–D",
+      "src": {
+        "book": "grammar",
+        "printed_page": "128",
+        "pdf_page": 146
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἄγροικος ον\nἀδύνατος ον\nἈθῆναι, αἱ\nἀμαθής\nἀπέρχομαι (ἀπελθ-)\nἄρα\nβάλλ' εἰς κόρακας\nβιάζομαι\nγέρων (γεροντ-), ὁ\nγνώμη, ἡ\nδάκνω (δακ-)\nδεξιός ά όν\nδεξιά, ἡ\nδῆμος, ὁ\nδῆτα\nδράω (δρᾶσα-)\nεἰ\nεἶτα\nἐκβάλλω (ἐκβαλ-)\nἐμαυτόν\nἐν νῷ ἔχω\nἐξευρίσκω (ἐξευρ- )\nἕτερος ᾱ ον\nἥλιος, ὁ\nἥττων ἧττον (ἥττον-)\nθαυμάζω\nκαίπερ\nκεφαλή, ἡ\nκλέπτω\nκρείττων κρεῖττον (κρειττον-)\nλύω\nὁπόσος η ον\nὅπου\nὅτε\nοὐρανός, ὁ\nοὗτος\nπάνυ\nπείθομαι (πιθ-)\nπηδάω\nπόρρω\nπότερος ᾱ ον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "128",
+        "pdf_page": 146
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "from the country, boorish\nimpossible\nAthens (1a)\nignorant\ndepart, go away\nthen, in that case (inferring)\ngo to hell!\nuse force\nold man (3a)\nmind, purpose, judgment, plan (1a)\nbite, worry\nright\nright hand (1b)\ndeme (2a)\nthen\ndo, act\nif\nthen, next\nthrow out\nmyself\nintend, have in mind\nfind out\none (or the other) of two\nsun (2a)\nlesser, weaker\nwonder at, be amazed at\nalthough (+part.)\nhead (1a)\nsteal\nstronger, greater\nrelease\nhow much, many\nwhere? where\nwhen\nsky, heavens (2a)\nhey there! hey you!\nvery (much); at all\nbelieve, trust, obey\nleap, jump\nfar, far off\nwhich (of two)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "128",
+        "pdf_page": 146
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 6A–D\n(CONTINUED)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πούς (ποδ-), ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "foot (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πρῶτον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "first, at first",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πρῶτος η ον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "first",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ῥάδιος ᾱ ον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "easy",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ῥᾳδίως",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "easily",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σελήνη, ἡ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "moon (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σός σή σόν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "your(s) (when ‘you’ is one person)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Σωκράτης, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Socrates (3d)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τήμερον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "today",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τί;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "why?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(τίθημι) θε-",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "put, place",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "φροντίς (φροντιδ-), ἡ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "thought, care, concern (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χρήσιμος η ον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "useful, profitable",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χωρίον, τό",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "place, space, region (2b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὡς",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "as",
+      "src": {
+        "book": "grammar",
+        "printed_page": "129",
+        "pdf_page": 147
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "REVISION EXERCISES FOR SECTION 6C-D",
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "D ENGLISH INTO GREEK",
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate these pairs of sentences:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 6",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "A VOCABULARY BUILDING",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "1. Deduce the meaning of the words in the right-hand columns from those in the left:\nἀδύνατος\nἡ δύναμις\nδύναμαι\nβιάζομαι\nβίαιος α ον\nἡ βία\nδράω\nτὸ δρᾶμα\nθαυμάζω\nθαυμάσιος α ον\nτὸ θαῦμα\nθαυμαστός ἡ όν\nἱππομανής\nμαίνομαι\nἡ μανία\nἵππος\nἵππος\nἡ ἱππική\nὁ ἱππεύς\nκλέπτω\nὁ κλέπτης\nἡ κλοπή",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": 2,
+      "text": "2. Translate these pairs of words: what is the significance of the change from left to right?\nγέρων\nγερόντιον\nπαῖς\nπαιδίον\nθύρα\nθυρίδιον\nοἰκία\nοἰκίδιον\nπατήρ\nπατρίδιον\nΣωκράτης\nΣωκρατίδιον\nΦειδιππίδης\nΦειδιππίδιον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate this passage (if you did not do Test Exercise Two); then change the tense of the verbs to imperfect or aorist as indicated:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐπειδὴ οὖν προσέρχονται (aorist) ἡ τῶν Περσῶν στρατιὰ καὶ τὸ ναυτικόν, οἱ Ἀθηναῖοι ταχέως εἰσβαίνουσιν (imperfect) εἰς τὰς ναῦς καὶ πρὸς τὴν Σαλαμῖνα πλέουσιν (aorist). ἔπειτα δὲ οἵ τε Ἀθηναῖοι καὶ οἱ ἄλλοι Ἕλληνες ἡσυχάζουσι (imperfect). τέλος δὲ ἀφικνεῖται (aorist) τὸ τῶν Περσῶν ναυτικόν, καὶ ἐπειδὴ νὺξ γίγνεται (aorist), ἔνθα καὶ ἔνθα βραδέως πλέουσιν (aorist) αἱ νῆες. καὶ ἐπειδὴ γίγνεται (aorist) ἡ ἡμέρα, οἱ Ἕλληνες ἀποροῦσι (aorist) καὶ φοβοῦνται (imperfect). τέλος δὲ οὐκέτι φοβοῦνται (imperfect), ἀλλὰ τολμῶσι (imperfect) καὶ ἐπέρχονται (aorist) ἐπὶ τοὺς βαρβάρους. μάχονται (imperfect) οὖν εὐκόσμως καὶ νικῶσι (imperfect), φεύγει (aorist) δὲ καὶ ὁ Ξέρξης. οὕτως οὖν ἐλεύθεροι γίγνονται (aorist) οἱ Ἕλληνες διὰ τὴν ἀρετήν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vocabulary",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἔνθα καὶ ἔνθα up and down",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡμέρα, ἡ day (1b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εὐκόσμως in good order",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀρετή, ἡ courage (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πλέω aor. ἔπλευσα",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀφικνέομαι aor. ἀφικόμην",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "φεύγω aor. ἔφυγον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "131",
+        "pdf_page": 149
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "D ENGLISH INTO GREEK",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "Below is the first passage of continuous prose you are asked to translate into Greek. Here are three tips to help you with this new kind of exercise.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 2,
+      "text": "You will probably find it helpful at first – and less daunting – to consider each passage as a series of sentences. Simply attempt each of the twelve sentences in turn, looking up vocabulary and checking endings in the same way that you usually do when you translate from English to Greek.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 3,
+      "text": "You will sometimes find that you have to think your way around problems when translating. For example, when you come to translate ‘a great deal’ in the fifth sentence of the passage, you won’t find the word ‘deal’ in your English to Greek vocabulary. On such occasions you will have to ask yourself what Greek words and expressions you have met which can be of use to you.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 4,
+      "text": "Once you have worked through the passage and checked your work, there will still be one job left to do: that is, to make sure that your passage of Greek contains the necessary particles. You will have noticed that most Greek sentences have a word near the beginning such as ἀλλά, γάρ, γε, δέ, δή, καί, μέν...δέ or οὖν. Sometimes words in the English passage like ‘so’, ‘and’ or ‘but’ will prompt you to use a particle, but to make your translation read well, you may need to add a word such as δέ (which usually comes as the second word, never the first) to join a sentence to a previous one.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 5,
+      "text": "Translate into Greek:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 6,
+      "text": "An old man and his son, a young man, were talking about money. The youngster, as it happened, owed a lot of money. And because of this, his creditors would not stop pursuing his father. The father did not punish the son (for his mother stopped him), but conceived a clever plan. So when the father managed to persuade his son, the boy went obediently to the sophists and learnt a great deal. The sophists always persuaded him, taught a lot of clever stuff and received a lot of money. So the son learnt quickly the just and unjust arguments, always winning his case. But when the youth came home, this plan did not put a stop to his father’s debts. The young man did not like his father (who was a yokel), but hated him. So he never stopped mocking him. Finally, the old man threw him out.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "E TEST EXERCISE SIX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": 7,
+      "text": "Translate into English.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "νεανίας δέ τις ἔτυχε πολλὰ χρήματα ὀφείλων διὰ τὴν ἱππικήν. οὕτως οὖν ὁ μὲν πατὴρ ἀεὶ τὰς δίκας τὰς τῶν χρηστῶν ἔφευγεν, οἱ δὲ χρησταὶ ἐδίωκον αὐτὸν καὶ οὐκ ἐπαύοντο δίκην λαμβανόντες. διαλέγονται οὖν ὅ τε πατὴρ καὶ ἡ μήτηρ.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σὺ δή, ὦ γύναι, φαίνην αἰτία οὖσα τῶν ἐμῶν κακῶν. τίς γὰρ ἐλάμβανε τὸν υἱὸν καὶ περὶ ἵππων διελέγετο, εἰ μὴ σύ; τίς οὖν ἱππομανῆ ἐποίησε τὸν υἱόν, εἰ μὴ σύ; τί νῦν ποιήσω ἐγώ; πῶς παύσω τὰ χρέα;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "132",
+        "pdf_page": 150
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σὺ δὴ αἴτιος εἶ, ὦ ἄνερ. ἀμαθῆ μὲν γὰρ καὶ ἄγροικον ὄντα σὲ οὐ φιλεῖ ὁ νεανίας οὐδὲ πείθειται, ἐμὲ δὲ ἀστικὴν οὖσαν μάλιστα φιλεῖ.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλὰ μὴ φρόντιζε. ἔχω γὰρ διάνοιάν τινα ἐγώ. πείσω καὶ διδάξω τὸν υἱὸν ἔγωγε, πείθουσα δὲ παύσω ἐκ τῆς ἱππομανίας.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλὰ διδάσκουσα καὶ πείθουσα οὐκ ἐκώλυσε τὸν νεανίαν ἡ μήτηρ, οὐδὲ ἐπαύετο ὁ υἱὸς ἱππομανὴς ὤν. τέλος δὲ ἦλθεν ὁ νεανίας εἰς τὸ τῶν σοφιστῶν φροντιστήριον καὶ μαθητὴς ἐγένετο. πολλὰ δὲ καὶ σοφὰ εἰδέ τε καὶ ἤκουσε, πολλὰ δὲ ἐδίδασξαν οἱ σοφισταí. ὅτε δὲ ἔμαθε τόν τε δίκαιον καὶ τὸν ἄδικον λόγον ὁ υἱός, εἶπεν ὁ πατήρ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἰοὺ ἰού. νῦν γὰρ οὐ λήψονται οὐκέτι οἱ χρῆσται τὰ χρήματα. ὁ μὲν γὰρ υἱὸς νικήσει τὰς δίκας διὰ τὸν ἄδικον λόγον, τὸν κρείττονα ὄντα, ἡμεῖς δὲ φευξόμεθα τοὺς χρήστας.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vocabulary",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἱππική, ἡ horse-fever (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χρῆστης, ὁ creditor (1d)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μήτηρ (μητ(ε)ρ-), ἡ mother (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἱππομανῆ horse-mad (m. acc. s.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀμαθῆ ignorant (m. acc. s.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀστικός ἡ όν from the city",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τῆς ἱππομανίας his horse-madness",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἱππομανής horse-mad (m. nom. s.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἰοὺ ἰού hurrah!",
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "6A-B: 4",
+      "instruction": "Form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+      "items": [],
+      "src": {
+        "book": "grammar",
+        "printed_page": "118",
+        "pdf_page": 136
+      }
+    },
+    {
+      "id": "6A-B:5",
+      "instruction": "Translate into Greek using the verbs in brackets:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "We heard (ἀκούω)"
+        },
+        {
+          "n": "2",
+          "prompt": "They received (δέχομαι)"
+        },
+        {
+          "n": "3",
+          "prompt": "You (s.) retreated (ἀναχωρέω)"
+        },
+        {
+          "n": "4",
+          "prompt": "He pursued (διώκω)"
+        },
+        {
+          "n": "5",
+          "prompt": "They punished (κολάζω)"
+        },
+        {
+          "n": "6",
+          "prompt": "You (pl.) shouted (βοάω)"
+        },
+        {
+          "n": "7",
+          "prompt": "She considered (νομίζω)"
+        },
+        {
+          "n": "8",
+          "prompt": "I showed (δηλόω)"
+        },
+        {
+          "n": "9",
+          "prompt": "They waited (μένω)"
+        },
+        {
+          "n": "10",
+          "prompt": "He destroyed (διαφθείρω)"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "119",
+        "pdf_page": 137
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Translate each sentence, then change the verb into the aorist:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "τίς κόπτει τὴν θύραν;"
+        },
+        {
+          "n": "b",
+          "prompt": "τίς χωρεῖ εἰς τὸ φροντιστήριον;"
+        },
+        {
+          "n": "c",
+          "prompt": "ἀλλ' αὖθις κόπτω καὶ οὐ παύομαι κόπτων."
+        },
+        {
+          "n": "d",
+          "prompt": "λέξω σοι."
+        },
+        {
+          "n": "e",
+          "prompt": "τέλος δὲ τὰς ἐμβάδας λύσομεν."
+        },
+        {
+          "n": "f",
+          "prompt": "διὰ τί ἐκεῖνον τὸν Θαλῆν θαυμάζομεν;"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "id": "2",
+      "instruction": "Translate each sentence, then change the verb into the aorist:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "ἡ ψύλλα πηδᾷ ἐπὶ τὴν κεφαλὴν τὴν τοῦ Σωκράτους."
+        },
+        {
+          "n": "b",
+          "prompt": "ἀλλὰ πῶς μετρήσεις, ὦ Χαιρεφῶν (μετρέω ‘I measure’)"
+        },
+        {
+          "n": "c",
+          "prompt": "τέλος δὲ μετροῦμεν τὸ χωρίον."
+        },
+        {
+          "n": "d",
+          "prompt": "ζητοῦσιν οὗτοι τὰ κατὰ γῆς καὶ οὐ παύονται ζητοῦντες."
+        },
+        {
+          "n": "e",
+          "prompt": "τί δηλοῖ τὸ πρᾶγμα, ὦ Σώκρατες;"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "id": "3",
+      "instruction": "Using the Total Vocabulary at the back of the book, find the dictionary forms of the following verb-forms, then translate:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "ἠᾔδησαν"
+        },
+        {
+          "n": "b",
+          "prompt": "ἤλπισας"
+        },
+        {
+          "n": "c",
+          "prompt": "ὠμολογήσατε"
+        },
+        {
+          "n": "d",
+          "prompt": "ἡγησάμην"
+        },
+        {
+          "n": "e",
+          "prompt": "ἤρξαντο"
+        },
+        {
+          "n": "f",
+          "prompt": "ὤθησα"
+        },
+        {
+          "n": "g",
+          "prompt": "ἠρώτησαν"
+        },
+        {
+          "n": "h",
+          "prompt": "ᾤκησα"
+        },
+        {
+          "n": "i",
+          "prompt": "ἠσπάσαντο"
+        },
+        {
+          "n": "j",
+          "prompt": "ἐξέπεμψε"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "122",
+        "pdf_page": 140
+      }
+    },
+    {
+      "id": "D",
+      "instruction": "Translate these pairs of sentences:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "ἡ γυνὴ ἐζήτησε τὸν υἱόν.\nThe farmer gave a shout and knocked on the door."
+        },
+        {
+          "n": "2.",
+          "prompt": "ἆρ' οὐκ ἴσασιν ὅτι ἐποίησας τοῦτο τὸ ἔργον ῥᾳδίως;\nDon't they know that you received this idea with pleasure?"
+        },
+        {
+          "n": "3.",
+          "prompt": "ὁ ἱκέτης οὐκ ἠτίμασε τὴν θεάν.\nThe sophist did not persuade the clever young men."
+        },
+        {
+          "n": "4.",
+          "prompt": "οἱ γείτονες, καίπερ κακοὶ ὄντες, τὸν νεανίαν οὐκ ἐκόλασαν.\nThe just man, though clever, was astounded at the unjust argument."
+        },
+        {
+          "n": "5.",
+          "prompt": "ἐπαύσατο βλέπουσα τὸν ξένον.\nThey stopped looking at the horses."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "123",
+        "pdf_page": 141
+      }
+    },
+    {
+      "id": "6C-D: 1",
+      "instruction": "Using the above information, form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "λέγω"
+        },
+        {
+          "n": "2.",
+          "prompt": "λαμβάνω"
+        },
+        {
+          "n": "3.",
+          "prompt": "μανθάνω"
+        },
+        {
+          "n": "4.",
+          "prompt": "ἔρχομαι"
+        },
+        {
+          "n": "5.",
+          "prompt": "γίγνομαι"
+        },
+        {
+          "n": "6.",
+          "prompt": "τρέχω"
+        },
+        {
+          "n": "7.",
+          "prompt": "εὑρίσκω"
+        },
+        {
+          "n": "8.",
+          "prompt": "ὁράω"
+        },
+        {
+          "n": "9.",
+          "prompt": "τυγχάνω"
+        },
+        {
+          "n": "10.",
+          "prompt": "ἔχω"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "id": "6C-D: 2",
+      "instruction": "Using the above information, translate into Greek:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "They became"
+        },
+        {
+          "n": "2.",
+          "prompt": "We saw"
+        },
+        {
+          "n": "3.",
+          "prompt": "You (s.) found"
+        },
+        {
+          "n": "4.",
+          "prompt": "He took"
+        },
+        {
+          "n": "5.",
+          "prompt": "You (pl.) went"
+        },
+        {
+          "n": "6.",
+          "prompt": "You (s.) said"
+        },
+        {
+          "n": "7.",
+          "prompt": "I learnt"
+        },
+        {
+          "n": "8.",
+          "prompt": "They ran"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "126",
+        "pdf_page": 144
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Form the aorist stem of these verbs and then give the aorist (1st s.):",
+      "items": [
+        {
+          "n": "e.g.",
+          "prompt": "παύω παυσα ἔπαυσα"
+        },
+        {
+          "n": null,
+          "prompt": "βιάζομαι"
+        },
+        {
+          "n": null,
+          "prompt": "κλέπτω"
+        },
+        {
+          "n": null,
+          "prompt": "θαυμάζω"
+        },
+        {
+          "n": null,
+          "prompt": "διδάσκω"
+        },
+        {
+          "n": null,
+          "prompt": "δέχομαι"
+        },
+        {
+          "n": null,
+          "prompt": "φιλέω"
+        },
+        {
+          "n": null,
+          "prompt": "δηλόω"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "id": "2",
+      "instruction": "Give the aorist stem of these verbs and then the aorist (1st s.):",
+      "items": [
+        {
+          "n": "e.g.",
+          "prompt": "τρέχω δραμ- ἔδραμον"
+        },
+        {
+          "n": null,
+          "prompt": "μανθάνω"
+        },
+        {
+          "n": null,
+          "prompt": "τυγχάνω"
+        },
+        {
+          "n": null,
+          "prompt": "ἐξευρίσκω"
+        },
+        {
+          "n": null,
+          "prompt": "διέρχομαι"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "id": "3",
+      "instruction": "Pair each aorist with the equivalent present from the list below (unaugmented stem in brackets). Then give the meaning of each verb:",
+      "items": [
+        {
+          "n": null,
+          "prompt": "εἶδον (ἰδ-) εἶπον (εἰπ-) ἔλαθον (λαθ-) ηὗρον (εὑρ-)"
+        },
+        {
+          "n": null,
+          "prompt": "ἔμαθον (μαθ-) ἦλθον (ἐλθ-) ἐγενόμην (γεν-) ἔπαθον (παθ-)"
+        },
+        {
+          "n": null,
+          "prompt": "γίγνομαι, λέγω, πάσχω, λανθάνω, εὑρίσκω, ἔρχομαι, μανθάνω, ὁράω"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "id": "D",
+      "instruction": "Translate these pairs of sentences:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "οἱ ναῦται εἶπον ὅτι ὁ κυβερνήτης τέλος τἀληθῆ ἔμαθεν. The student said that he (had) discovered how big the space was."
+        },
+        {
+          "n": "2",
+          "prompt": "οἱ νεανίαι τυγχάνουσι κακὰ πάσχοντες. The farmer happened to be a fool."
+        },
+        {
+          "n": "3",
+          "prompt": "οἱ ἱκέται ἔδραμον εἰς τὸ ἱερόν. The old man departed to the city."
+        },
+        {
+          "n": "4",
+          "prompt": "αἱ γυναῖκες εἶδον τὴν σελήνην. The father became unjust."
+        },
+        {
+          "n": "5",
+          "prompt": "ἐλάβετε τὰ χρήματα διὰ τὰ χρέα. I noticed that you were a bumpkin."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "130",
+        "pdf_page": 148
+      }
+    },
+    {
+      "id": "ex",
+      "instruction": "Answer the following questions based on the passage above.",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "Give the tense of the following verbs: (a) ἔτυχε (line 1), (b) ἔφευγεν (line 2), (c) ἐδίωκον (line 2), (d) διαλέγονται (line 3), (e) ἐποίησε (line 6), (f) ποιήσω (line 7), (g) ἐγένετο (line 14)"
+        },
+        {
+          "n": "2",
+          "prompt": "Give the gender, number and case of the following participles: (a) λαμβάνοντες (line 3), (b) οὖσαν (line 9) and (c) ὄντα (line 17)"
+        },
+        {
+          "n": "3",
+          "prompt": "What is the case of (a) γύναι (line 5) and (b) σοφιστῶν (line 13)?"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "133",
+        "pdf_page": 151
+      }
+    }
+  ]
+}

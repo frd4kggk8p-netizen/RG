@@ -1,0 +1,68 @@
+{
+  "folio": "73",
+  "running_head": "Section Seven A-H: Socrates and intellectual inquiry",
+  "blocks": [
+    {
+      "type": "figure",
+      "order": 1,
+      "bbox": [
+        99,
+        142,
+        723,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ὁ θεὸς ὁ ἐν Δελφοῖς",
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        499,
+        848,
+        878,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Socrates",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        197,
+        918,
+        878,
+        1000
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Socrates emerges from all the descriptions as a great arguer, concerned with both clarity and precision of thought. Aristotle attributes to him the systematic",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 103
+}

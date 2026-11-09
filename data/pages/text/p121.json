@@ -1,0 +1,1248 @@
+{
+  "running_head": "Section Eight A–C: Aristophanes' Birds and visions of Utopia",
+  "folio": "91",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        138,
+        50,
+        377,
+        63
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΙΣ",
+      "text": "ἐγὼ αἴτιος τῆς βοῆς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        856,
+        50,
+        877,
+        63
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        75,
+        65,
+        484,
+        80
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "τίς ὢν σύ γε τοῦ ἐμοῦ ἱματίου λαμβάνῃ, ὦ ἄνθρωπε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        138,
+        81,
+        256,
+        96
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΙΣ",
+      "text": "παῖς εἰμι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        75,
+        96,
+        443,
+        112
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλὰ τίνος ἀνθρώπου παῖς ὢν τυγχάνεις; τίς σε ἔπεμψεν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        138,
+        112,
+        801,
+        144
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΙΣ",
+      "text": "εἰμὶ ἐγὼ τοῦ Εὐελπίδου παῖς, καὶ ἔτυχε πέμψας με ἐκεῖνος. ἀσπάζεται\nγάρ σε Εὐελπίδης, ὁ τοῦ Πολεμάρχου.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        856,
+        143,
+        877,
+        157
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        75,
+        160,
+        342,
+        175
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλὰ ποῦ ἐστιν αὐτός;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        138,
+        176,
+        810,
+        223
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΙΣ",
+      "text": "οὗτος ὄπισθεν προσέρχεται. ἆρ᾽ οὐχ ὁρᾶτε αὐτὸν τρέχοντα διὰ τοῦ\nτῶν πολιτῶν πλήθους; καὶ μετ᾽ αὐτοῦ ἑταῖρός τις ἕπεται, Πεισétaireρος,\nὁ Στιλβωνίδου. δῆλον ὅτι ὑμῶν ἕνεκα τρέχει. ἀλλὰ περιμένετε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        75,
+        224,
+        322,
+        238
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλὰ περιμενοῦμεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        856,
+        235,
+        877,
+        248
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        97,
+        239,
+        791,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ὁ Εὐελπίδης προστρέχει, κανοῦν ἔχων ἐν τῇ χειρί. προσδραμὼν δὲ φθάνει τὸν\nΠεισέταιρον, καὶ τῆς χειρὸς τῆς τοῦ Δικαιοπόλεως λαβόμενος ἀσπάζεται)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        96,
+        257,
+        485,
+        273
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥΕΛΠΙΔΗΣ",
+      "text": "χαῖρε, ὦ φίλε Δικαιόπολι. ποῖ δὴ καὶ πόθεν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        75,
+        274,
+        817,
+        307
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἐκ τοῦ Πειραιῶς, ὦ βέλτιστε. προσιὼν δὲ τυγχάνω πρὸς τὴν ἐκκλησίαν.\nκυρία γὰρ ἐκκλησία γενήσεται τήμερον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        856,
+        329,
+        877,
+        342
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 16,
+      "bbox": [
+        194,
+        361,
+        463,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Eight A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 17,
+      "bbox": [
+        198,
+        383,
+        875,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 8A–C\n• The genitive case and its uses\n• Further comparative and superlative adjectives\n• Mood\n• Present optative, active and middle: παύοιμι, παυοίμην\n• ἀνίσταμαι ‘I get up and go’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        99,
+        536,
+        318,
+        565
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγορ-ά, ἡ market-place, agora (1b)\nαἴτι-ος -α -ον responsible for",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        366,
+        536,
+        574,
+        565
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετὰ τοῦ ῥαψῳδ-οῦ with the\nrhapsode",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        632,
+        536,
+        836,
+        565
+      ],
+      "margin_number": null,
+      "speaker": "en",
+      "text": "τῆς τοῦ Δικαιοπόλ-εως (the\nhand) of Dikaiopolis",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        99,
+        567,
+        290,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπ-ιόντ-α going off (acc. s. m.)\n(part. of ἀπ-έρχ-ομαι/ἄπ-ειμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        366,
+        567,
+        485,
+        581
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὄπισθεν behind",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        632,
+        567,
+        827,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς χειρ-ὸς the hand (after\nλαβ-όμενος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        99,
+        598,
+        210,
+        612
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀσπάζ-ομαι greet",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        366,
+        583,
+        596,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ Στιλβωνίδ-ου Stilbonides' son",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        632,
+        598,
+        797,
+        628
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίν-ος ἀνθρώπ-ου; of which\nman? whose?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        99,
+        613,
+        250,
+        628
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βέλτιστ-ε my very good friend",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        366,
+        599,
+        518,
+        629
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ τοῦ Πολεμάρχ-ου\nPolemarkhos' son",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        99,
+        629,
+        318,
+        659
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διὰ τοῦ πλήθ-ους through the\ncrowd",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        366,
+        630,
+        604,
+        659
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Πεισ-ἑταιρ-ος, ὁ Peisetairos (2a)\n(‘Persuasive-friend’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        632,
+        630,
+        729,
+        644
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ of the (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        632,
+        646,
+        739,
+        659
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῶν of the (pl.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        99,
+        660,
+        310,
+        691
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκκλησί-α, ἡ assembly, ekklesia\n(1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        366,
+        661,
+        452,
+        675
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πέμπ-ω send",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        632,
+        661,
+        834,
+        691
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ἐμ-οῦ ἱματί-ου my cloak\n(after λαμβάνῃ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        366,
+        677,
+        529,
+        691
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περι-μέν-ω wait around (fut.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        99,
+        693,
+        339,
+        707
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑταῖρ-ος, ὁ friend, companion (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        383,
+        693,
+        485,
+        707
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περι-μενέ-ω)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        632,
+        693,
+        832,
+        707
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ Εὐελπίδ-ου of Euelpides",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        99,
+        708,
+        311,
+        739
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Εὐελπίδ-ης, ὁ Euelpides (1d)\n(‘Son of great hopes’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        366,
+        708,
+        588,
+        723
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-δραμ-ών see προσ-τρέχ-ω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        632,
+        708,
+        816,
+        723
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ἱκέτ-ου of the suppliant",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        366,
+        724,
+        606,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-ιών approaching (nom.\ns. m.) (part. of προσ-έρχ-ομαι/\nπρόσ-ειμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        632,
+        724,
+        842,
+        739
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ἱματί-ου his cloak (after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        99,
+        740,
+        286,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθ-ορά-ω (κατ-ιδ-) see, notice",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        681,
+        739,
+        771,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαμβάν-εται)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        99,
+        756,
+        309,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καν-οῦν, τό basket (2b ἐ-ον\ncontr.) (holding sacrificial",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        366,
+        756,
+        500,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-τρέχ-ω (προσδραμ-) run\ntowards",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        632,
+        756,
+        805,
+        771
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ Πειραι-ῶς the Piraeus",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        632,
+        771,
+        787,
+        803
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ Πολεμάρχ-ου of\nPolemarkhos",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        99,
+        787,
+        250,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "meal and knife)\nκύρι-ος -α -ον with power,",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        366,
+        787,
+        491,
+        801
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ χειρί his hand",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        632,
+        803,
+        781,
+        817
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῶν ἕνδεκα of the Eleven",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        122,
+        818,
+        205,
+        832
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "sovereign",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        366,
+        803,
+        462,
+        817
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς of the (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        632,
+        819,
+        832,
+        849
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑμ-ῶν ἕνεκα for your sake,\nbecause of you",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        99,
+        834,
+        333,
+        849
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαμβάν-ομαι (λαβ-) take hold of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        366,
+        818,
+        597,
+        834
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς βο-ῆς the shout (after αἴτιος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        99,
+        850,
+        253,
+        864
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετ᾿ αὐτ-οῦ with him",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        366,
+        835,
+        577,
+        865
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς βο-ῆς ἐκείν-ης that shout\n(after αἴτιος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 61,
+      "bbox": [
+        632,
+        850,
+        803,
+        865
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χαῖρ-ε hello! greetings!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 62,
+      "bbox": [
+        632,
+        866,
+        727,
+        881
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡς (+acc.) to",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 121
+}

@@ -1,0 +1,358 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "126",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        227,
+        86,
+        114,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "related to, the present stem (e.g. γιγν- \\u2192 γεν- ; ἐχ- \\u2192 σχ-). However, some verbs use a completely different stem for the present and aorist (cf. English, 'go' and 'went'):",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 2,
+      "bbox": [
+        188,
+        187,
+        248,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [],
+        "rows": [
+          [
+            "ἔρχομαι",
+            "ἐλθ-",
+            "ἦλθον",
+            "‘I came, went’"
+          ],
+          [
+            "λέγω",
+            "εἰπ-",
+            "εἶπον",
+            "‘I said, spoke’"
+          ],
+          [
+            "ὁράω",
+            "ἰδ-",
+            "εἶδον",
+            "‘I saw’"
+          ],
+          [
+            "τρέχω",
+            "δραμ-",
+            "ἔδραμον",
+            "‘I ran’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        273,
+        187,
+        291,
+        337
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        300,
+        194,
+        436,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6C-D: 1",
+        "instruction": "Using the above information, form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "λέγω"
+          },
+          {
+            "n": "2.",
+            "prompt": "λαμβάνω"
+          },
+          {
+            "n": "3.",
+            "prompt": "μανθάνω"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἔρχομαι"
+          },
+          {
+            "n": "5.",
+            "prompt": "γίγνομαι"
+          },
+          {
+            "n": "6.",
+            "prompt": "τρέχω"
+          },
+          {
+            "n": "7.",
+            "prompt": "εὑρίσκω"
+          },
+          {
+            "n": "8.",
+            "prompt": "ὁράω"
+          },
+          {
+            "n": "9.",
+            "prompt": "τυγχάνω"
+          },
+          {
+            "n": "10.",
+            "prompt": "ἔχω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        451,
+        194,
+        577,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6C-D: 2",
+        "instruction": "Using the above information, translate into Greek:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "They became"
+          },
+          {
+            "n": "2.",
+            "prompt": "We saw"
+          },
+          {
+            "n": "3.",
+            "prompt": "You (s.) found"
+          },
+          {
+            "n": "4.",
+            "prompt": "He took"
+          },
+          {
+            "n": "5.",
+            "prompt": "You (pl.) went"
+          },
+          {
+            "n": "6.",
+            "prompt": "You (s.) said"
+          },
+          {
+            "n": "7.",
+            "prompt": "I learnt"
+          },
+          {
+            "n": "8.",
+            "prompt": "They ran"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        573,
+        195,
+        592,
+        331
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "WHAT? WHY?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        604,
+        194,
+        699,
+        915
+      ],
+      "margin_number": 147,
+      "speaker": null,
+      "text": "Observe that τί, which you have learnt to mean ‘what?’ can also, and very commonly, mean ‘why?’ When τί does mean ‘why?’, it is in the acc. case and being used adverbially. Its literal meaning is ‘in relation to what?’ or ‘in respect of what?’ – in other words, ‘why?’",
+      "lang": "mixed",
+      "para_no": 147,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        712,
+        194,
+        731,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "INDIRECT SPEECH",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        743,
+        194,
+        796,
+        915
+      ],
+      "margin_number": 148,
+      "speaker": null,
+      "text": "A common way of reporting what someone has said in Greek is by using a clause introduced by ὅτι, ‘that’, e.g.",
+      "lang": "mixed",
+      "para_no": 148,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        808,
+        246,
+        826,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγουσιν ὅτι ὁ Σωκράτης δεινός ἐστιν. ‘They say that Socrates is clever.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        837,
+        194,
+        891,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Observe, however, that in the ὅτι-clause Greek preserves the original tense and mood of the utterance. You must therefore pay special attention when the verb introducing the ὅτι-clause is in the past. Note the following examples:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        903,
+        194,
+        922,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) εἶπον ὅτι ὁ Σωκράτης δεινός ἐστιν. ‘They said that Socrates was wise.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 144
+}

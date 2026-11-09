@@ -1,0 +1,228 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "180",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        193,
+        83,
+        222,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ (ii) a part, e.g.\n      ὀλίγοι τῶν ἀνθρώπων    ‘few of [‘out of the whole number of’] the men’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        130,
+        193,
+        252,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ (iii) source or origin, e.g.\n      οἱ λόγοι οἱ τοῦ ἀνθρώπου    ‘the words of [‘that come from’] the fellow’\n      ἡ τῶν Ἕνδεκα ἀνομία    ‘the lawlessness of the Eleven’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        193,
+        193,
+        303,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ (iv) content or material, e.g.\n      τὸ τῶν πολιτῶν πλῆθος    ‘the crowd of [‘made up of’] citizens, the citi-\n                                   zen crowd’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        193,
+        193,
+        360,
+        473
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) With certain adjectives, e.g.\n      ἄξιος    ‘worthy of’\n      πλέως    ‘full of’\n      αἴτιος    ‘responsible for’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        193,
+        193,
+        532,
+        675
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) With certain prepositions, e.g.\n      ἀπό    ‘away from’\n      παρά    ‘from’ (esp. a person)\n      ἐκ    ‘out of, from’\n      μετά    ‘(in company) with’\n      ἐπί    ‘on’, ‘on part of’, ‘in the time of’\n      διά    ‘through’\n      ἕνεκα    ‘for the sake of’ (comes after the noun)\n      περί    ‘concerning, about’ (also with acc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        538,
+        93,
+        653,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "▶ Note that διά and μετά have quite different meanings depending on the\n  case they take:\n▶ διά + acc. ‘because of’; διά + gen. ‘through’\n▶ μετά + acc. ‘after’; μετά + gen. ‘with’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "arrow",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        193,
+        193,
+        740,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(d) With certain verbs, e.g.\n      ἀκούω    ‘I hear’ (a person)*\n      καταδικάζω    ‘I condemn’\n      λαμβάνομαι    ‘I seize, take hold of’ (see (a)[ii] above)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 8,
+      "bbox": [
+        725,
+        193,
+        752,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* ἀκούω normally takes the acc. of the thing heard (e.g. words) but the gen. of the source of sound\n(e.g. the person who is speaking):",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        763,
+        271,
+        796,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκούω τοὺς λόγους    ‘I hear the words’\n ἀκούω σοῦ λέγοντος    ‘I hear you speaking’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        805,
+        193,
+        822,
+        815
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Cf. [a](iii) above. You will find that other verbs of perception behave in a similar way.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        834,
+        193,
+        930,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(e) To express comparison\n      So far you have met comparisons of the type described at 158 i.e. constructed\n      with ἤ = ‘than’. Greek can also express comparison without ἤ by putting the\n      thing compared in the gen., e.g.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 182
+}

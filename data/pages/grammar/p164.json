@@ -1,0 +1,307 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "146",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        193,
+        64,
+        206,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 2",
+        "instruction": "Turn the following present participles into their aorist equivalent:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "βλέπουσαν"
+          },
+          {
+            "n": "2",
+            "prompt": "θαυμάζων"
+          },
+          {
+            "n": "3",
+            "prompt": "τρεπόμενον"
+          },
+          {
+            "n": "4",
+            "prompt": "διωκούσας"
+          },
+          {
+            "n": "5",
+            "prompt": "ποιούντες"
+          },
+          {
+            "n": "6",
+            "prompt": "βιαζόμενοι"
+          },
+          {
+            "n": "7",
+            "prompt": "κολάζοντας"
+          },
+          {
+            "n": "8",
+            "prompt": "μισοῦσα"
+          },
+          {
+            "n": "9",
+            "prompt": "δουλουμένους"
+          },
+          {
+            "n": "10",
+            "prompt": "δεχομένη"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        211,
+        193,
+        331,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D–F: 3. There is a famous vase-painting of Achilles killing the Amazon queen, Penthesileia. As she died, their eyes meet and (it was said) Achilles fell in love with her. Typical bloke. How would the following captions express that moment?\n(a) Ἀχιλλεὺς βλέψας πρὸς Πενθεσιλείαν ἐφλέγετο*.\n(b) Ἀχιλλεὺς βλέπων πρὸς Πενθεσιλείαν ἐφλέγετο.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 3,
+      "bbox": [
+        342,
+        193,
+        355,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* ‘caught fire’, ‘burned with passion’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        374,
+        193,
+        417,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾔδη, ‘I KNEW’; φημί, ‘I SAY’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        424,
+        193,
+        439,
+        575
+      ],
+      "margin_number": 167,
+      "speaker": null,
+      "text": "The past of οἶδα is as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        451,
+        193,
+        608,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "ᾔδη ‘I knew’",
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "ᾔδη",
+            "‘I knew’"
+          ],
+          [
+            "ᾔδησθα",
+            "‘you (s.) knew’"
+          ],
+          [
+            "ᾔδει(ν)",
+            "‘he/she/it knew’"
+          ],
+          [
+            "ᾔσμεν",
+            "‘we knew’"
+          ],
+          [
+            "ᾔστε",
+            "‘you (pl.) knew’"
+          ],
+          [
+            "ᾔσαν or ᾔδεσαν",
+            "‘they knew’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        614,
+        193,
+        631,
+        578
+      ],
+      "margin_number": 168,
+      "speaker": null,
+      "text": "a. φημί, ‘I say’, conjugates as follows:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 8,
+      "bbox": [
+        643,
+        193,
+        886,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present: φημί ‘I say’*",
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "φημί",
+            "‘I say’"
+          ],
+          [
+            "φῄς or φής",
+            "‘you (s.) say’"
+          ],
+          [
+            "φησί(ν)",
+            "‘he/she/it says’"
+          ],
+          [
+            "φαμέν",
+            "‘we say’"
+          ],
+          [
+            "φατέ",
+            "‘you (pl.) say’"
+          ],
+          [
+            "φασί(ν)",
+            "‘they say’"
+          ],
+          [
+            "Infinitive",
+            null
+          ],
+          [
+            "φάναι",
+            "‘to say’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 9,
+      "bbox": [
+        902,
+        193,
+        915,
+        727
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* Note that the present indicative is enclitic (347(ii)) except for φῄς/φής.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 164
+}

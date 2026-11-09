@@ -1,0 +1,708 @@
+{
+  "running_head": "Section Seven A-H: Socrates and intellectual inquiry",
+  "folio": "75",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        99,
+        99,
+        116,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰέναι to go (ἔρχ-ομαι/εἶμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        99,
+        120,
+        127,
+        226
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἴσως perhaps",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        99,
+        129,
+        149,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ μὴν moreover",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        99,
+        137,
+        207,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγ-ειν to speak, say, tell\n(λέγ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        99,
+        159,
+        219,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λογίζ-ομαι reckon, consider",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        99,
+        198,
+        230,
+        267
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαντεί-α, ἡ answer,\npronouncement (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        99,
+        209,
+        252,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαντεύ-εσθαι to consult the\noracle",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        99,
+        243,
+        287,
+        291
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαντεύ-ομαι get from the\noracle",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        99,
+        275,
+        305,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαρτυρέ-ω bear witness",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        99,
+        292,
+        340,
+        340
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μάρτυς (μαρτυρ- ), ὁ witness (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        99,
+        308,
+        321,
+        226
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέντοι however",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        99,
+        322,
+        357,
+        324
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νέους-αου young; ἐκ νέου from\nyouth",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        365,
+        99,
+        101,
+        589
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παίζ-ειν to joke, to poke fun at\n(παίζ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        365,
+        111,
+        137,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάντα everything (acc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        365,
+        129,
+        158,
+        551
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρὰ τῷ θεῷ in the god's\npresence",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        365,
+        161,
+        193,
+        537
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρ-έχ-εσθαι to present\n(παρ-έχ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        365,
+        195,
+        209,
+        526
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποι-εῖν to do (ποιέ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        365,
+        205,
+        219,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποτέ once",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        365,
+        226,
+        305,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Πυθί-α, ἡ the Pythian priestess\n(1b) (who sat on a tripod and\ndelivered Apollo's oracle\nto the priest, who interpreted\nit)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        365,
+        307,
+        323,
+        531
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σοφί-α, ἡ wisdom (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        365,
+        325,
+        353,
+        552
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σοφώτατ-ος -η -ον wisest\n(σοφ-ός)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        631,
+        99,
+        116,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σοφώτερ-ος -α -ον wiser\n(σοφ-ός)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        631,
+        137,
+        137,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σφοδρ-ός -ά -όν impetuous",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        631,
+        152,
+        180,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φαν-οῦμαι I shall appear (fut. of\nφαίν-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 25,
+      "bbox": [
+        631,
+        199,
+        186,
+        815
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        631,
+        219,
+        206,
+        785
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλήθεια, ἡ truth (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        631,
+        234,
+        230,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βούλομαι wish, want",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        631,
+        244,
+        257,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διαβάλλω (διαβαλ-) slander",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        631,
+        259,
+        283,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δόξα, ἡ reputation, opinion\n(1c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        631,
+        296,
+        310,
+        753
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑαυτόν himself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        631,
+        311,
+        323,
+        726
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἤ than",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        631,
+        323,
+        335,
+        730
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἴσως perhaps",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        631,
+        335,
+        348,
+        790
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σοφιᾶ, ἡ wisdom (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 34,
+      "bbox": [
+        444,
+        444,
+        394,
+        627
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The oracle at Delphi",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 35,
+      "bbox": [
+        419,
+        194,
+        878,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "When states as well as individuals needed advice or help, not just in times of\nnational emergency but to cope with everyday occurrences, they would send to\nan oracle. The Sanctuary of Apollo at Delphi was home to the most influential\noracle ... It is important to stress that the function of an oracle was not to foretell\nthe future, but to advise. It is inevitable that, if the advice was good, the oracle\nwould get the reputation for being able to foretell the future, but that was not its\nfunction. What oracles offered was insight into the will of the gods; and the regu-\nlar form of consultation involved asking the god which choice of possible poli-\ncies was better, or what appropriate rituals should attend it. Generally speaking\n(and discounting for the moment myth and legend), the oracle at, for example,\nDelphi, spoke directly to questioners in perfectly plain and simple terms. There\nis no good evidence that in the fifth century the Delphic prophetess (Pythia) was\nin a state of babbling ecstasy ... That said, there was a strong literary tradition, in\nboth myth and the early history of Greece, that oracles were opaque and tended\nto deceive (the philosopher Herakleitos said ‘The lord whose oracle is in Delphi\ndoes not speak and does not conceal: instead, he sends a sign’). Herodotos tells\nof the oracle given to the Athenians as the Persians advanced on the city that\nZeus would grant them a wooden wall as a stronghold for themselves and their\nchildren. But what did that mean? The oracle had to be given to special read-\ners of oracles to interpret; and it is notable that the religious experts were in the\nend ignored when the people were persuaded by the politician Themistokles\nthat wooden walls meant the fleet. The question of what to do was a political\nquestion, and it was settled in a political forum by the political expert. (World of\nAthens, 3.17–19)",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 105
+}

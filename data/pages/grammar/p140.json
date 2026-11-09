@@ -1,0 +1,344 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "122",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        78,
+        36,
+        708
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 6A–B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        193,
+        118,
+        519
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        126,
+        193,
+        252,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Translate each sentence, then change the verb into the aorist:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate each sentence, then change the verb into the aorist:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "τίς κόπτει τὴν θύραν;"
+          },
+          {
+            "n": "b",
+            "prompt": "τίς χωρεῖ εἰς τὸ φροντιστήριον;"
+          },
+          {
+            "n": "c",
+            "prompt": "ἀλλ' αὖθις κόπτω καὶ οὐ παύομαι κόπτων."
+          },
+          {
+            "n": "d",
+            "prompt": "λέξω σοι."
+          },
+          {
+            "n": "e",
+            "prompt": "τέλος δὲ τὰς ἐμβάδας λύσομεν."
+          },
+          {
+            "n": "f",
+            "prompt": "διὰ τί ἐκεῖνον τὸν Θαλῆν θαυμάζομεν;"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        262,
+        193,
+        397,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Translate each sentence, then change the verb into the aorist:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate each sentence, then change the verb into the aorist:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "ἡ ψύλλα πηδᾷ ἐπὶ τὴν κεφαλὴν τὴν τοῦ Σωκράτους."
+          },
+          {
+            "n": "b",
+            "prompt": "ἀλλὰ πῶς μετρήσεις, ὦ Χαιρεφῶν (μετρέω ‘I measure’)"
+          },
+          {
+            "n": "c",
+            "prompt": "τέλος δὲ μετροῦμεν τὸ χωρίον."
+          },
+          {
+            "n": "d",
+            "prompt": "ζητοῦσιν οὗτοι τὰ κατὰ γῆς καὶ οὐ παύονται ζητοῦντες."
+          },
+          {
+            "n": "e",
+            "prompt": "τί δηλοῖ τὸ πρᾶγμα, ὦ Σώκρατες;"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        409,
+        193,
+        569,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. Using the Total Vocabulary at the back of the book, find the dictionary forms of the following verb-forms, then translate:\ne.g. ἤκουσαν: ἀκούω, ‘they heard’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Using the Total Vocabulary at the back of the book, find the dictionary forms of the following verb-forms, then translate:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "ἠᾔδησαν"
+          },
+          {
+            "n": "b",
+            "prompt": "ἤλπισας"
+          },
+          {
+            "n": "c",
+            "prompt": "ὠμολογήσατε"
+          },
+          {
+            "n": "d",
+            "prompt": "ἡγησάμην"
+          },
+          {
+            "n": "e",
+            "prompt": "ἤρξαντο"
+          },
+          {
+            "n": "f",
+            "prompt": "ὤθησα"
+          },
+          {
+            "n": "g",
+            "prompt": "ἠρώτησαν"
+          },
+          {
+            "n": "h",
+            "prompt": "ᾤκησα"
+          },
+          {
+            "n": "i",
+            "prompt": "ἠσπάσαντο"
+          },
+          {
+            "n": "j",
+            "prompt": "ἐξέπεμψε"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        581,
+        193,
+        626,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. Complete the following table with the 1st s. imperfect, future and aorist forms of the verbs:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "bbox": [
+        631,
+        193,
+        911,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "present",
+            "imperfect",
+            "future",
+            "aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "κελεύω",
+            "ἐκέλευον",
+            "κελεύσω",
+            "ἐκέλευσα"
+          ],
+          [
+            "κωλύω",
+            null,
+            null,
+            null
+          ],
+          [
+            "παύομαι",
+            null,
+            null,
+            null
+          ],
+          [
+            "βλέπω",
+            "ἔβλεπον",
+            "βλέψω/ομαι",
+            "ἔβλεψα"
+          ],
+          [
+            "κόπτω",
+            null,
+            null,
+            null
+          ],
+          [
+            "κρύπτω",
+            null,
+            null,
+            null
+          ],
+          [
+            "δέχομαι",
+            null,
+            null,
+            null
+          ],
+          [
+            "διώκω",
+            null,
+            null,
+            null
+          ],
+          [
+            "πράττω",
+            null,
+            null,
+            null
+          ],
+          [
+            "ἀτιμάζω",
+            null,
+            null,
+            null
+          ],
+          [
+            "κολάζω",
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        886,
+        796,
+        902,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(continued)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 140
+}

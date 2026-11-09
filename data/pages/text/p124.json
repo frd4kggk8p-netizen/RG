@@ -1,0 +1,328 @@
+{
+  "running_head": "Part Three: Athens through the comic poet’s eyes",
+  "folio": "94",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        239,
+        74,
+        274,
+        272
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 2,
+      "bbox": [
+        108,
+        126,
+        123,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: dikasteria 6.39; litigiousness 6.54; ‘new politicians’ 1.58, 6.17.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        146,
+        126,
+        159,
+        584
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "μείζονα οὖν τινα πόλιν ἢ τὰς Ἀθήνας ζητεῖς;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        164,
+        126,
+        178,
+        832
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥ.",
+      "text": "οὐ μὰ Δία οὐκ ἐκεῖνο διανοοῦμαι. οὐκ ἔστι μείζων ταύτης τῆς πόλεως πόλις. μέγισται γὰρ νὴ Δία αἱ Ἀθῆναι φαίνονται οὖσαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        193,
+        126,
+        207,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "ἔπειτα εὐδαιμονεστέραν ταύτης τῆς πόλεως ζητεῖς πόλιν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        211,
+        126,
+        244,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": "ΕΥ.",
+      "text": "οὐκ ἔστιν εὐδαιμονεστέρα ἢ αὕτη ἡ πόλις. εὐδαιμονέσταται γὰρ αἱ Ἀθῆναι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        254,
+        126,
+        269,
+        638
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "τί οὖν δή; τί ἐν νῷ ἔχετε; μῶν μισεῖτε τὴν πόλιν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        273,
+        126,
+        287,
+        650
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣ.",
+      "text": "ἀλλʼ οὐ μὰ Δία οὐκ αὐτὴν μισεῦμεν τὴν πόλιν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        291,
+        126,
+        324,
+        903
+      ],
+      "margin_number": 10,
+      "speaker": "ΔΙΚ.",
+      "text": "λέγετε οὖν, ὦ φίλοι, τί παθόντες ἢ τί βουλόμενοι ἐκ τῆς πόλεως ἀπέρχεσθε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        328,
+        126,
+        377,
+        755
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥ.",
+      "text": "δεινὰ δὴ παθόντες καὶ ἐγὼ καὶ ὁ Πεισétaιρος οὗτοσί, ὦ Δικαιόπολι, ἀπιέναι βουλόμεθα. βαρέως γὰρ φέρομεν τὰ τῆς πόλεως πράγματα, μάλιστα δὲ τὰ δικαστήρια. τοιοῦτον γὰρ τὸ πάθος ἐπάθομεν εἰς τὸ δικαστήριον εἰσελθόντες.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        402,
+        126,
+        416,
+        866
+      ],
+      "margin_number": 15,
+      "speaker": "ΡΑΨ.",
+      "text": "ποῖον τὸ πάθος; τί ποιήσαντες ἢ τί ἀδικήσαντες τὸ πάθος ἐπάθετε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        421,
+        126,
+        449,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥ.",
+      "text": "οὐδὲν οὔτ’ ἐποιήσαμεν οὔτ’ ἠδικήσαμεν, ἀλλ’ οἱ δικασταὶ κατεψηφίσαντο ἡμῶν ἀναιτίων ὄντων διὰ τὴν τῶν μαρτύρων ψευδομαρτυρίαν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        454,
+        126,
+        545,
+        903
+      ],
+      "margin_number": 20,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλ’ οὐ θαυμάζω εἰ ἄλλην τινὰ πόλιν ζητοῦντες ἀνίστασθε, ἐπεὶ δίκαια λέγετε περὶ τοῦ τε δικαστηρίου καὶ τῶν δικαστῶν. οἱ μὲν γὰρ τέττιγες ὀλίγον χρόνον ἐπὶ τῶν κραδῶν ᾄδουσιν, οἱ δὲ Ἀθηναῖοι ἐπὶ τῶν δικῶν ᾄδουσιν ἀεί. ταῦτ’ οὖν εἰκότως ὑμεῖς ποιεῖτε. ἐγὼ δὲ εἰκότως ταῦτα οὐ ποιήσω. φιλόπολις γάρ εἰμι, ὥσπερ οἱ ῥήτορες, οὐδὲ παύσομαι οὐδέποτε φιλόπολις ὤν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        550,
+        126,
+        563,
+        793
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣ.",
+      "text": "ὦ Δικαιόπολι, τί φής; μῶν φιλοπόλιδας ἡγῇ τοὺς ῥήτορας;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        568,
+        126,
+        582,
+        903
+      ],
+      "margin_number": 25,
+      "speaker": "ΔΙΚ.",
+      "text": "ἔγωγε. τί μήν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        587,
+        126,
+        725,
+        903
+      ],
+      "margin_number": 30,
+      "speaker": "ΠΕΙΣ.",
+      "text": "ἀλλὰ πῶς φιλοῦσι τὸν δῆμον οἱ ῥήτορες; σκόπει γάρ. ὁ μὲν πόλεμος ἕρπει, πανταχοῦ δὲ κλαυθμοὶ καὶ πυραὶ διὰ τὴν νόσον, πανταχοῦ δὲ νεκροὶ, πολλὴ δ’ ἡ ἀνομία. ἆρ’ οἰκτίρουσιν οἱ ῥήτορες τὸν δῆμον; οἰκτίρουσιν ἣ οὔ; λέγε. τί σιωπᾷς; οὐκ ἐρεῖς; οὐκ οἰκτίρουσιν, ἀλλ’ ἀπολοῦσι τὴν πόλιν, εὖ οἶσθ’ ὅτι. ἐγὼ γὰρ ὑπὲρ σοῦ ἀποκρινοῦμαι. καί πλέα μὲν ἡ γῆ τόλμης αὐτῶν, πλέα δ’ ἡ ἐκκλησία, πλέα δὲ τὰ δικαστήρια, ὁ δὲ δῆμος πλέως τῆς ἀπορίας.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 124
+}

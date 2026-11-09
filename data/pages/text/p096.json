@@ -1,0 +1,548 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "66",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        218,
+        71,
+        271,
+        270
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 2,
+      "bbox": [
+        121,
+        122,
+        142,
+        579
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The door opens and Strepsiades starts back in horror.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 3,
+      "bbox": [
+        166,
+        122,
+        180,
+        869
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: Athens' intellectual achievements 8.14–15, 22; technical work 8.24.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        181,
+        122,
+        196,
+        228
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ὦ Ἡράκλεις, τίνα ταῦτα τὰ θηρία;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        197,
+        122,
+        229,
+        846
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "οὗτος, διὰ τί ἐθαύμασας; διὰ τί αὖθις ἐβόησας; ἆρα τοὺς μαθητὰς τούτους θαυμάζεις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        232,
+        122,
+        246,
+        828
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ναὶ μὰ Δία θαυμάζω. ἀλλὰ τί ποιοῦσιν οὗτοι οἱ εἰς τὴν γῆν βλέποντες;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        247,
+        122,
+        267,
+        901
+      ],
+      "margin_number": 5,
+      "speaker": "ΜΑΘ.",
+      "text": "ζητοῦσιν οὗτοι τὰ κατὰ γῆς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        270,
+        122,
+        319,
+        829
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "βολβοὺς ἄρα ζητοῦσιν. μὴ νῦν τοῦτό γ’ ἔτι φροντίζετε, ὦ θηρία· ἐγὼ γὰρ οἶδα ὅπου εἰσὶ μεγάλοι καὶ καλοὶ. ἀλλὰ τίς οὗτοσί; διὰ τί ὁ πρωκτὸς εἰς τὸν οὐρανὸν βλέπει;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        323,
+        122,
+        336,
+        401
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "διότι ἀστρονομεῖ ὁ πρωκτός.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        339,
+        122,
+        377,
+        902
+      ],
+      "margin_number": 10,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "(points to one of the strange devices cluttering up the phrontisterion) ἰδού· τί δ’ ἐστὶ τοῦτο; δίδασκέ με.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        380,
+        122,
+        394,
+        380
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "ἀστρονομία μὲν αὕτη.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        397,
+        122,
+        429,
+        437
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "(points to another device) τοῦτο δὲ τί;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        432,
+        122,
+        447,
+        901
+      ],
+      "margin_number": 15,
+      "speaker": "ΜΑΘ.",
+      "text": "γεωμετρία.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        450,
+        122,
+        464,
+        513
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "καὶ εἰς τί χρήσιμον αὕτη; δίδασκε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        468,
+        122,
+        536,
+        545
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "ταύτην τὴν γῆν ἀναμετροῦμεν. (picks up a map) αὕτη δ’ ἐστὶ γῆς περίοδος.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        538,
+        122,
+        558,
+        901
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "(points at the map) ὁρᾷς; αὗται μὲν Ἀθῆναι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        561,
+        122,
+        609,
+        824
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "(in disbelief) τί σὺ λέγεις; οὐ πείθομαι, ἐπεὶ τῶν δικαστῶν οὐχ ὁρῶ οὐδὲ ἕνα καθιζόμενον. ποῦ δ’ ἐσθ’ ὁ ἐμὸς δῆμος;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        612,
+        122,
+        631,
+        901
+      ],
+      "margin_number": 25,
+      "speaker": "ΜΑΘ.",
+      "text": "(points at the map) ἐνταῦθα ἔνεστιν. τὴν δ’ Εὔβοιαν ὁρᾷς;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        635,
+        122,
+        648,
+        626
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ὁρῶ. ἀλλ’ ἡ Λακεδαίμων ποῦ τυγχάνει οὖσα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        652,
+        122,
+        665,
+        335
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "ὅπου; αὕτη.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        669,
+        122,
+        750,
+        901
+      ],
+      "margin_number": 30,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "(taken aback) παπαῖ. ἄπελθε, ἄπελθε. ὡς ἐγγὺς ἡμῶν ἡ Λακεδαίμων. ἀλλὰ διὰ τί οὐκ ἀπάγεις ταύτην ἀφ’ ἡμῶν πόρρω πάνυ;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        753,
+        122,
+        767,
+        347
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "ἀλλ’ ἀδύνατον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        770,
+        122,
+        785,
+        452
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "νὴ Δία ὀλοφυρεῖσθ’ ἄρα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        788,
+        122,
+        824,
+        901
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "(looks up and sees Socrates hanging in a basket) ἀλλ’ εἰπέ μοι, τίς οὗτος ὁ ἐπὶ τῆς κρεμάθρας ὤν;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        827,
+        122,
+        841,
+        230
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "αὐτός.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        844,
+        122,
+        858,
+        255
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "τίς αὐτός;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        861,
+        122,
+        875,
+        309
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "Σωκράτης.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 96
+}

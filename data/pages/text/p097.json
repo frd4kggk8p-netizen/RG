@@ -1,0 +1,1028 @@
+{
+  "running_head": "Section Six A-D: ‘Socrates corrupts the young’",
+  "folio": "67",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        192,
+        70,
+        396,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Six B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        99,
+        134,
+        122,
+        293
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-δύνατ-ος -ον impossible",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        121,
+        134,
+        132,
+        280
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἀθῆν-αι, ἁί Athens (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        133,
+        134,
+        149,
+        293
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-μετρέ-ω measure up",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        150,
+        134,
+        161,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄπ-ελθε go away!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        162,
+        134,
+        175,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρα then, in that case",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        176,
+        134,
+        189,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀστρο-νομέ-ω observe the stars",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        190,
+        134,
+        203,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀστρο-νομί-α, ἡ astronomy (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        204,
+        134,
+        230,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-ός Himself, the Master\n(nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        238,
+        134,
+        251,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βολβ-ός, ό truffle (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        252,
+        134,
+        265,
+        309
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γεωμετρί-α, ἡ geometry (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        266,
+        134,
+        279,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γῄς of the earth",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        280,
+        134,
+        292,
+        245
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῆμ-ος, ό deme (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        293,
+        134,
+        306,
+        320
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικαστ-ής, ό dikast, juror (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        307,
+        134,
+        334,
+        293
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-βόησ-ας you (s.) shouted\n(βοά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        335,
+        134,
+        348,
+        294
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐγγὺς ἡμῶν near to us",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        349,
+        134,
+        375,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-θαύμας-ας you (s.) were\namazed (θαυμάζ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        99,
+        366,
+        112,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα here",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        113,
+        366,
+        126,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπεί since",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        127,
+        366,
+        153,
+        546
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπὶ τῆς κρεμάθρας in the\nbasket",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        154,
+        366,
+        167,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὕβοι-α, ἡ Euboia (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        168,
+        366,
+        179,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἡράκλεις Herakles!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        180,
+        366,
+        193,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θαυμάζ-ω be amazed",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        194,
+        366,
+        207,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θηρί-ον, τό beast (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        208,
+        366,
+        221,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθ-ὴζομαι sit down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        222,
+        366,
+        235,
+        547
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατὰ γῆς below the earth",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        236,
+        366,
+        258,
+        589
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Λακεδαίμων (Λακεδαιμον-), ἡ\nSparta (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        259,
+        366,
+        272,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μοι to me",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        273,
+        366,
+        299,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὀλοφυρ-εὴσθ’ = 2nd pl. fut.\n(contr.) of ὀλοφύρ-ομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        300,
+        366,
+        313,
+        478
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅπου where",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        314,
+        366,
+        327,
+        515
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐραν-ός, ό sky (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        328,
+        366,
+        341,
+        470
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάνυ very",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        342,
+        366,
+        355,
+        519
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παπαῖ good heavens!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        99,
+        631,
+        112,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πείθ-ομαι believe",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        113,
+        631,
+        126,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περί-οδ-ος, ἡ map (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        127,
+        631,
+        137,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πόρρω far",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        138,
+        631,
+        151,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πρωκτ-ός, ό rump (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        152,
+        631,
+        165,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ταύτῃ with this",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        166,
+        631,
+        179,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χρήσιμ-ος -η -ον useful",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        208,
+        631,
+        221,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        222,
+        631,
+        233,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀδύνατος ον impossible",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        234,
+        631,
+        245,
+        800
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἀθῆναι, ἁί Athens (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        247,
+        631,
+        258,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῆμος, ό deme (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        260,
+        631,
+        285,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θαυμάζω wonder at, be\namazed at",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        287,
+        631,
+        298,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅπου where? where",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        299,
+        631,
+        312,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐρανός, ό sky, heavens (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        313,
+        631,
+        335,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πείθομαι (πιθ-) believe, trust,\nobey",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 48,
+      "bbox": [
+        415,
+        421,
+        431,
+        658
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The range of sophists' work",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 49,
+      "bbox": [
+        453,
+        194,
+        467,
+        458
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "[See note on the sophists on p. 57]",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 50,
+      "bbox": [
+        468,
+        194,
+        621,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The sophists both helped to create a demand for education, and also came when\nthere was an unfulfilled need for it. They taught a vast variety of subjects—from\nastronomy and law through to mathematics and rhetoric. It is in large measure due\nto the sophists that subjects such as grammar, logic, ethics, politics, physics and\nmetaphysics first emerged as separate entities. The sophists were at the head of a\nmovement to make man, not the physical world, the centre of intellectual debate.\nIf their main preoccupation was to describe how man could be most successful\nin life, rather than with questions of right and wrong of the sort that Socrates and\nPlato insisted upon, this does not undermine their intellectual importance.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 51,
+      "bbox": [
+        630,
+        194,
+        925,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Much work was going on in other fields at this time too. If our sources can\nbe trusted, technical manuals were written by Sophocles on tragedy, by Iktinos\non the Parthenon, by Polykleitos on the symmetry of the human body, and\nby Hippodamos (who designed the layout of the Peiraeus) on town planning\nand social engineering. Rudimentary experimental work in sciences may also\nhave been going on, if we wish so to interpret the evidence of Aristophanes'\nClouds. When the rustic Strepsiades is introduced into Socrates' private school\n(φροντιστήριον or ‘think tank’), he finds all sorts of extraordinary devices\ncluttering up the place … These cosmic models (celestial globes? star maps?\ncompasses? maps?) are an important feature of the play, where the association\nbetween the new thought and its various trappings is constantly being made. It\nsuggests that the use of models and apparatus, generally seen as a later, post-\nAristotelian device, was understood well enough in fifth-century Athens to be\nmade the subject of comic humour. (World of Athens, 8.23–4)",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 97
+}

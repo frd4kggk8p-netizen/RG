@@ -1,0 +1,326 @@
+{
+  "running_head": "Revision exercises for section 6A-B",
+  "folio": "76",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        189,
+        87,
+        617,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 6A-B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        113,
+        189,
+        134,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        146,
+        189,
+        303,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "a",
+            "prompt": "Who is knocking at the door? ἔκοψε(ν)"
+          },
+          {
+            "n": "b",
+            "prompt": "Who is going into the thinkery? ἐχώρησε(ν)"
+          },
+          {
+            "n": "c",
+            "prompt": "But I knock again and do not stop knocking. ἔκοψα, ἐπαυσáμην"
+          },
+          {
+            "n": "d",
+            "prompt": "I will tell you. ἔλεξα, εἶπον"
+          },
+          {
+            "n": "e",
+            "prompt": "Finally we shall release the slipper. ἐλύσαμεν"
+          },
+          {
+            "n": "f",
+            "prompt": "Why do we admire that Thales? ἐθαυμάσαμεν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        308,
+        189,
+        417,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": null,
+        "items": [
+          {
+            "n": "a",
+            "prompt": "The flea leaps onto Socrates' head. ἐπήδησεν"
+          },
+          {
+            "n": "b",
+            "prompt": "But how will you measure, Chaerephon? ἐμέτρησας"
+          },
+          {
+            "n": "c",
+            "prompt": "Finally we measure the distance. ἐμέτρησαμεν"
+          },
+          {
+            "n": "d",
+            "prompt": "These are seeking things below the ground and do not stop seeking. ἐζήτησαν, ἐπαύσαντο"
+          },
+          {
+            "n": "e",
+            "prompt": "What does the matter reveal, Socrates? ἐδήλωσε(ν)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        421,
+        189,
+        517,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": null,
+        "items": [
+          {
+            "n": "a",
+            "prompt": "αὐδάω\tthey spoke\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tf. ὠθέω\tI pushed"
+          },
+          {
+            "n": "b",
+            "prompt": "ἐλπίζω\tyou (s.) hoped\t\t\t\t\t\t\t\t\t\t\t\t\t\tg. ἐρωτάω\tthey asked"
+          },
+          {
+            "n": "c",
+            "prompt": "ὁμολογέω\tyou (pl.) agreed\t\t\t\t\t\t\t\t\t\t\t\t\th. οἰκέω\tI lived, dwelt"
+          },
+          {
+            "n": "d",
+            "prompt": "ἡγέομαι\tI considered, led\t\t\t\t\t\t\t\t\t\t\t\ti. ἀσπάζομαι\tthey greeted"
+          },
+          {
+            "n": "e",
+            "prompt": "ἄρχομαι\tthey began\t\t\t\t\t\t\t\t\t\t\t\t\t\tj. ἐκπέμπω\the sent out"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        522,
+        189,
+        876,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "present",
+            "imperfect",
+            "future",
+            "aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "κελεύω",
+            "ἐκέλευον",
+            "κελεύσω",
+            "ἐκέλευσα"
+          ],
+          [
+            "κωλύω",
+            "ἐκώλυον",
+            "κωλύσω",
+            "ἐκώλυσα"
+          ],
+          [
+            "παύομαι",
+            "ἐπαυόμην",
+            "παύσομαι",
+            "ἐπαυσάμην"
+          ],
+          [
+            "βλέπω",
+            "ἔβλεπον",
+            "βλέψω",
+            "ἔβλεψα"
+          ],
+          [
+            "κόπτω",
+            "ἔκοπτον",
+            "κόψω",
+            "ἔκοψα"
+          ],
+          [
+            "κρύπτω",
+            "ἔκρυπτον",
+            "κρύψω",
+            "ἔκρυψα"
+          ],
+          [
+            "δέχομαι",
+            "ἐδεχόμην",
+            "δέξομαι",
+            "ἐδεξάμην"
+          ],
+          [
+            "διώκω",
+            "ἐδίωκον",
+            "διώξω",
+            "ἐδίωξα"
+          ],
+          [
+            "πράττω",
+            "ἔπραττον",
+            "πράξω",
+            "ἔπραξα"
+          ],
+          [
+            "ἀτιμάζω",
+            "ἠτίμαζον",
+            "ἀτιμάσω",
+            "ἠτίμασα"
+          ],
+          [
+            "κολάζω",
+            "ἐκόλαζον",
+            "κολάσω",
+            "ἐκόλασα"
+          ],
+          [
+            "σπεύδω",
+            "ἔσπευδον",
+            "σπεύσω",
+            "ἔσπευσα"
+          ],
+          [
+            "διαφθείρω",
+            "διέφθειρον",
+            "διαφθερέω",
+            "διέφθειρα"
+          ],
+          [
+            "μένω",
+            "ἔμενον",
+            "μενέω",
+            "ἔμεινα"
+          ],
+          [
+            "ἀπορέω",
+            "ἠπόρουν",
+            "ἀπορήσω",
+            "ἠπόρησα"
+          ],
+          [
+            "δηλόω",
+            "ἐδήλουν",
+            "δηλώσω",
+            "ἐδήλωσα"
+          ],
+          [
+            "μισέω",
+            "ἐμίσουν",
+            "μισήσω",
+            "ἐμίσησα"
+          ],
+          [
+            "νικάω",
+            "ἐνίκων",
+            "νικήσω",
+            "ἐνίκησα"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 90
+}

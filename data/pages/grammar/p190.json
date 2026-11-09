@@ -1,0 +1,1068 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "172",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        210,
+        93,
+        822,
+        137
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 8A–C\nCONTINUED",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        213,
+        151,
+        313,
+        169
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μόνος η ον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        213,
+        172,
+        269,
+        187
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μῶν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        213,
+        191,
+        237,
+        203
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νυν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        213,
+        208,
+        337,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκτίρω (οἰκτῖρα-)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        213,
+        227,
+        305,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ μέν ... ὁ δέ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        213,
+        246,
+        303,
+        262
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάθος, τό",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        213,
+        265,
+        301,
+        277
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πανταχοῦ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        213,
+        282,
+        279,
+        300
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πέμπω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        213,
+        302,
+        252,
+        316
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περί",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        213,
+        321,
+        319,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλέως ᾱ ων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        213,
+        339,
+        302,
+        355
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποιέομαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        213,
+        358,
+        305,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πολίτης, ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        213,
+        377,
+        369,
+        393
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προστρέχω (προσδραμ-)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        213,
+        395,
+        370,
+        412
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ῥήτωρ (ῥήτορ-) ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        213,
+        414,
+        281,
+        429
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σῖτος, ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        213,
+        433,
+        305,
+        449
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπονδαί, αἱ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        213,
+        452,
+        321,
+        468
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συγγενής, ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        213,
+        471,
+        241,
+        484
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τᾶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        213,
+        489,
+        256,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑπέρ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        213,
+        508,
+        247,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑπό",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        213,
+        526,
+        335,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλόσοφος, ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        213,
+        545,
+        269,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χαῖρε",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        213,
+        565,
+        321,
+        579
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χαλεπός ἣ όν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        213,
+        584,
+        342,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χείρ (χειρ-), ἡ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        213,
+        603,
+        429,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χείρων χεῖρον (χειρον-)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        213,
+        622,
+        299,
+        637
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χρόνος, ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        521,
+        151,
+        571,
+        166
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "alone",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        521,
+        172,
+        621,
+        188
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "surely not?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        521,
+        191,
+        687,
+        204
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "then (cf. νῦν now)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        521,
+        208,
+        555,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "pity",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        521,
+        227,
+        663,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "one ... another",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        521,
+        246,
+        758,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "experience, suffering (3C)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        521,
+        265,
+        629,
+        277
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "everywhere",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        521,
+        282,
+        559,
+        296
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "send",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        521,
+        302,
+        642,
+        316
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(+gen.) about",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        521,
+        321,
+        897,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "full of (+ gen.) (as if α-ος α-α α-ον contr.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        521,
+        339,
+        561,
+        352
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "make",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        521,
+        358,
+        622,
+        373
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "citizen (1d)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        521,
+        377,
+        628,
+        390
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "run towards",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        521,
+        395,
+        687,
+        411
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "orator, politician (3a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        521,
+        414,
+        752,
+        430
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "food (2a) (pl. σῖτα, τά 2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        521,
+        433,
+        670,
+        449
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "treaty, truce (1a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        521,
+        452,
+        634,
+        468
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "relation (3d)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        521,
+        471,
+        819,
+        487
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "my dear chap (condescendingly )",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        521,
+        489,
+        702,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(+gen.) for, on behalf of",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        521,
+        508,
+        755,
+        522
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(+gen.) by, at the hands of",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        521,
+        526,
+        670,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "philosopher (2a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        521,
+        545,
+        657,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "hello! farewell!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        521,
+        565,
+        642,
+        579
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "difficult, hard",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        521,
+        584,
+        608,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "hand (3a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        521,
+        603,
+        563,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "worse",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        521,
+        622,
+        603,
+        637
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "time (2a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 190
+}

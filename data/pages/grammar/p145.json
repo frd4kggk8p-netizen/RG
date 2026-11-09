@@ -1,0 +1,388 @@
+{
+  "running_head": "Grammar for Section 6C–D",
+  "folio": "127",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        219,
+        61,
+        908,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The original utterance (i.e what ‘they’ originally ‘said’) was ‘Socrates is wise’. In Greek the present tense is preserved (ἐστί = present), whereas English puts the verb into the past (‘was’).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        116,
+        185,
+        226,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) εἶπες ὅτι ὁ ναύτης ἔδραμεν εἰς τὴν ναῦν. ‘You said that the sailor had run/ran onto the ship.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        218,
+        219,
+        296,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The original utterance here (i.e. what ‘you said’) was ‘the sailor ran onto the ship’. Greek preserves the aorist tense in the indirect speech, whereas in English there is a choice: a speaker can either put the verb into the ‘pluperfect’ tense (‘had run’) or use the past simple (‘ran’).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        303,
+        185,
+        349,
+        642
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) The same rules apply to reported questions e.g.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        357,
+        227,
+        396,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἠρώτησα διὰ τί Σωκράτης σοφός ἐστιν. ‘I asked why Socrates was wise.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        347,
+        186,
+        397,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "GREEK IDIOMS: PARTICLES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        404,
+        186,
+        440,
+        909
+      ],
+      "margin_number": 149,
+      "speaker": null,
+      "text": "As you are aware, Greek particles rarely have a single ‘correct’ translation in English. Note the range of meanings that the following particles can convey:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        453,
+        203,
+        470,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλλά",
+      "lang": "grc",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        477,
+        219,
+        510,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The basic meaning of ἀλλά is ‘but, alternatively’. It thus conveys the idea of ‘but rather’ or (especially in speech) ‘oh, well’, ‘anyway’, denoting a change in topic.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        517,
+        243,
+        563,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐκ εἶδον τοὺς Ἀθηναίους, ἀλλὰ τοὺς Λακεδαιμονίους.\n‘I didn’t see the Athenians, but rather the Spartans.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        564,
+        243,
+        577,
+        729
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλλ’ εἰπέ μοι. ‘Tell me, anyway’ ‘Now well, tell me.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        591,
+        204,
+        608,
+        228
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δέ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        614,
+        219,
+        655,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The basic meaning of δέ is ‘and’ or ‘but’. Since it is such a common connective in Greek, however, it often requires no translation at all. Note, though, the use of def. art. with δέ (ὁ δέ, ἡ δέ, etc.) to denote a change of subject in Greek:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        663,
+        243,
+        719,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ ναύτης ἐδίωκε τὸν ξένον, ὁ δὲ οὐκ ἀπέφευγεν.\n‘The sailor was pursuing the foreigner, but he (i.e. the foreigner) wasn’t\nrunning away.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        732,
+        203,
+        750,
+        233
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δή",
+      "lang": "grc",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        756,
+        218,
+        796,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δή has a range of uses which the meanings ‘then’, ‘indeed’ only begin to capture. It puts special stress on the preceding word or phrase and is often used to grab the listener’s attention. It can even convey scepticism or sarcasm:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        804,
+        243,
+        843,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐ διδάξω σ’ οὐκέτι, ἀμαθῆ δὴ ὄντα.\n‘I shall not teach you any more as you are really ignorant.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        845,
+        243,
+        856,
+        444
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰπὲ δή. ‘Out with it!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        863,
+        219,
+        908,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that in common with most particles, δέ and δή (unlike ἀλλά) never come as the first word in a sentence or clause (they are ‘postpositives’, whereas ἀλλά is a ‘prepositive’: Reference Grammar, 391).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 145
+}

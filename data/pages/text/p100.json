@@ -1,0 +1,648 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "70",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        217,
+        83,
+        245,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        126,
+        126,
+        159,
+        762
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἀλλ' ὦ Σωκρατίδιον, τί οὐ καταβαίνεις; ἦλθον γὰρ ἐγὼ εἰς τὸ\nφροντιστήριον διότι, χρήματα πολλὰ ὀφείλων, ὑπόχρεώς εἰμι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        161,
+        127,
+        175,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "ἀλλὰ πῶς σὺ ὑπόχρεως ἐγένου; πῶς τοῦτο πάσχεις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        178,
+        127,
+        230,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἔλαθον ἐμαυτόν ἱππομανῆ τὸν υἱὸν ἔχων. ὑπόχρεως οὖν ἐγενόμην.\nκαὶ τοῦτο ἔπαθον διὰ τὴν ἱππικὴν καὶ διὰ τὸν ἐμὸν υἱόν. ἀεὶ γὰρ δίκας\nλαμβάνουσιν οἱ χρῆσται, καὶ εἰ μή τι ποιήσω, εἰς ἀεὶ λήψονται. δίδασκε\nοὖν με τὸν ἕτερον τῶν σῶν λόγων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        235,
+        127,
+        248,
+        868
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "τὸν ἕτερον τῶν ἐμῶν λόγων; πότερον λέγεις; τὸν κρείττονα ἢ τὸν ἥττονα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        252,
+        127,
+        285,
+        904
+      ],
+      "margin_number": 10,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "τὸν ἄδικον λέγω, τὸν ἥττονα, τὸν τὰ χρέα παύοντα. οὗτος γὰρ ὁ λόγος\nτὰς δίκας νικήσει, ὁ κρείττων δ' οὔ. τί δράσω;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 7,
+      "bbox": [
+        291,
+        125,
+        305,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(points to a couch)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        308,
+        126,
+        338,
+        775
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "ὅ τι; πρῶτον μὲν κατακλίνῃ ἐπὶ τῆς κλίνης. ἔπειτα ἐκφρόντιζέ τι τῶν\nσεαυτοῦ πραγμάτων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        342,
+        127,
+        365,
+        597
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "(sees the bugs)\nκακοδαίμων ἐγώ. δίκην γὰρ λήψονται οἱ κόρεις τήμερον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        367,
+        125,
+        381,
+        532
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "He lies down. There is a long pause. Eventually . . .",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        384,
+        126,
+        399,
+        497
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "οὗτος, τί ποιεῖς; οὐχὶ φροντίζεις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        402,
+        126,
+        415,
+        415
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἐγώ; νὴ τὸν Ποσειδῶ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        418,
+        126,
+        431,
+        383
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "καὶ τί δῆτ' ἐφρόντισας;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        435,
+        126,
+        449,
+        735
+      ],
+      "margin_number": 20,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "εἰ ἆρα λήσω τοὺς κόρεις, τοὺς δάκνοντας ἐμὲ δεινῶς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 15,
+      "bbox": [
+        453,
+        126,
+        482,
+        331
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(with annoyance)\nοὐδὲν λέγεις.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 16,
+      "bbox": [
+        486,
+        125,
+        499,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(another long pause)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        503,
+        126,
+        521,
+        579
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "ἀλλὰ σιγᾷ ὁ ἄνθρωπος. τί δρᾷ οὗτος;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 18,
+      "bbox": [
+        525,
+        123,
+        538,
+        437
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "(τὸν Στρεψιάδην προσαγορεύει)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        542,
+        219,
+        555,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὗτος, καθεύδεις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        558,
+        126,
+        573,
+        467
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "μὰ τὸν Ἀπόλλω, ἐγὼ μὲν οὔ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        576,
+        126,
+        590,
+        290
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "ἔχεις τι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        593,
+        126,
+        607,
+        362
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "μὰ Δι' οὐ δῆτ' ἔγωγε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        611,
+        126,
+        624,
+        287
+      ],
+      "margin_number": 30,
+      "speaker": "ΣΩΚ.",
+      "text": "οὐδὲν πάνυ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        628,
+        126,
+        642,
+        421
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "τὸ πέος ἔχω ἐν τῇ δεξιᾷ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        645,
+        126,
+        660,
+        511
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "εἰς κόρακας. μὴ παῖζε, ὦ 'νθρωπε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 26,
+      "bbox": [
+        664,
+        221,
+        677,
+        390
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(after a long pause)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        680,
+        126,
+        694,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ὦ Σωκρατίδιον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        698,
+        126,
+        712,
+        290
+      ],
+      "margin_number": 35,
+      "speaker": "ΣΩΚ.",
+      "text": "τί, ὦ γέρον;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        715,
+        126,
+        729,
+        362
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἔχω γνώμην τινά.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        732,
+        126,
+        747,
+        376
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "λέγε τὴν γνώμην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        750,
+        126,
+        765,
+        769
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "λήψομαι γυναῖκα φαρμακίδα καὶ κλέψω ἐν νυκτὶ τὴν σελήνην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        768,
+        126,
+        799,
+        731
+      ],
+      "margin_number": 40,
+      "speaker": "ΣΩΚ.",
+      "text": "(puzzled)\nτί φῄς; κλέψεις τὴν σελήνην; εἰπὲ δή – πῶς τοῦτο χρήσιμον;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 100
+}

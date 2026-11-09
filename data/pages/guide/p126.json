@@ -1,0 +1,201 @@
+{
+  "running_head": "Summary exercises for section 8",
+  "folio": "112",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        189,
+        79,
+        199,
+        192
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        98,
+        91,
+        109,
+        214
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚΑΙΟΠΩΛΙΣ",
+      "text": "ἰδού, ὁρῶ γὰρ παῖδَا τινα πρὸς ἡμᾶς προστρέχοντα. τίνος εἶ σὺ παῖς;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        116,
+        89,
+        151,
+        646
+      ],
+      "margin_number": null,
+      "speaker": "ΔΟΥΛΟΣ",
+      "text": "παῖς ὢν τυγχάνω τοῦ Εὐελπίδου, τοῦ σοῦ φίλου.\nεἴποις ἂν ὅτι βούλη, καὶ τί βουλόμενος πρὸς ἐμὲ προσέδrames;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        155,
+        90,
+        185,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΔΟΥ.",
+      "text": "ὅ τι; εἴποιμι ἄν. δεῖ γὰρ ἐμέ, ὡς ἐκέλευσεν ὁ Εὐελπίδης, κελεύειν ὑμᾶς\nμένειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        196,
+        89,
+        226,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "μενῶ οὖν. χαίρετε, ὦ Εὐελπίδη καὶ Πεισέταιρε. τί βουλόμενοι ἀπὸ τῆς\nπόλεως ἀπέρχεσθε; ποῖ διανοεῖσθε ἀπιέναι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        233,
+        89,
+        246,
+        792
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣΕΤΑΙΡΟΣ",
+      "text": "πρὸς πόλιν τινὰ νέαν καὶ χρησιμωτέραν δεῖ ἡμᾶς ἀπελθεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        267,
+        191,
+        281,
+        388
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E – TEST EXERCISE 8",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        291,
+        191,
+        574,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A slave, going through the crowd of citizens, ran towards Dikaiopolis and, taking hold of his hand, asked him to wait. Then those who had sent the slave, Euelpides and Peisetairos, who were friends of Dikaiopolis, came towards Dikaiopolis and greeted him. He, however, since he did not know what their object was in leaving the city, asked them where they intended to go and for what reason. They answered that they had to look for Cloud-Cuckooland, and, when they had found it, to live there. Dikaiopolis thought that Athens was the most prosperous, and that no city was better than Athens. So at first he could not understand why they were leaving, then having heard about the dikasts and the lawcourt and the politicians, he agreed. For the dikasts seemed to be wronging the good men, and the politicians (as it seemed) were actually destroying the people and not pitying them. So Dikaiopolis' friends went away. But he, finding the affairs of the city and the people hard to bear and thinking that peace was best, decided to make a treaty in the assembly. But the rhapsode, who thought that the men were ignorant and stupid, did not himself want to accompany him, but went away alone.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        596,
+        189,
+        695,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "EXERCISE",
+        "instruction": "EXERCISE",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "(a) aorist (b) aorist (c) present (d) aorist (e) aorist (f) present (g) present (h) present"
+          },
+          {
+            "n": "2.",
+            "prompt": "(a) genitive (b) genitive (c) accusative (d) nominative (e) genitive (f) accusative"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 126
+}

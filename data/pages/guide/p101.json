@@ -1,0 +1,228 @@
+{
+  "running_head": "Section 7C",
+  "folio": "87",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        190,
+        80,
+        227,
+        255
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        190,
+        189,
+        210,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 78",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        121,
+        166,
+        151,
+        881
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "τοιοῦτον πάθος ἐφαίνοντο οἱ ποιηταὶ πάσχοντες ‘such an experience the poets seemed to be suffering’. τοιοῦτον πάθος is the object of πάσχοντες: ‘such was the experience they seemed to be experiencing’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        152,
+        131,
+        201,
+        881
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "εὑρίσκουσι πολὺ πλῆθος τῶν δοκούντων μέν τι εἰδέναι, εἰδότων δ’ ὀλίγα ἢ οὐδὲν ‘They find a large number of those who ...’ Note μέν ... δέ making the contrast between what people think they know, and what they actually know.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        203,
+        122,
+        239,
+        882
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "ἔχουσι μὲν οὐδὲν λέγειν ἐκεῖνοι ‘they have nothing to say’, ‘they can say nothing’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        241,
+        158,
+        278,
+        780
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "κατάδηλοι ‘obvious’ – the prefix κατα- sometimes simply adds emphasis.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        296,
+        189,
+        316,
+        360
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 7C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        321,
+        190,
+        417,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Finally I went to the craftsmen (artists). For I knew that I knew nothing and that the craftsmen knew many beautiful things. Therefore, knowing many things the craftsmen were wiser than I. But, as I thought, they considered that because of their skill/art they were the wisest in many other respects, though they were not. Such was the experience which both the poets and the craftsmen were clearly experiencing.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        419,
+        190,
+        824,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "From this search, gentlemen of Athens, arose the slanders against me, which are serious, and my reputation. And, moreover, the young men, who are wealthy and have most leisure, enjoy listening to my words and often try to examine others in the way that I do. For young men are arrogant and very much enjoy examining their elders. And, as I think, in the course of examining them, they discover a great number of those who consider that they know something, but know little or nothing. Therefore, as a result of this, those who think that they know something become angry and say that ‘Socrates is a most disgraceful person and corrupts the young men.’ But I want to ask ‘How does Socrates corrupt the young men? What does he do or what does he teach to corrupt them?’ And they have nothing to say, but not wishing to seem to be at a loss, they say that, like the other sophists, Socrates teaches ‘the things in the air and the things beneath the earth’ and ‘not to believe in the gods’ and ‘to make the weaker argument the stronger’. For they do not wish, as I think, to tell the truth, that they have been revealed as thinking that they know something, when, in fact, they know nothing.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        841,
+        189,
+        861,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        866,
+        190,
+        924,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Do not forget to learn εἶναι, ἰέναι, εἰδέναι, GE p. 135, #152 and the past tense of εἶμι ‘I shall go’, GE p. 139, #161.\nNote also the irregular comparative forms, GE p. 137, #159.",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 101
+}

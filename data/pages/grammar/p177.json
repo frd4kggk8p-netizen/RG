@@ -1,0 +1,278 @@
+{
+  "running_head": "Revision Exercises for Section 7",
+  "folio": "159",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        226,
+        76,
+        126,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐφρόντιζον αὐτῶν. ἔπειτα δὲ Σκύθης τις, καταλαβὼν ᾿Αμαζόνα τινὰ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        112,
+        206,
+        170,
+        906
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "μόνην οὖσαν, καὶ φίλος γενόμενος, ἐκέλευε τοὺς ἄλλους ποιεῖν τὸ αὐτό,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        128,
+        226,
+        199,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ᾿Αμαζόνας τινὰς εὑρόντας, φίλους γίγνεσθαι. ἐπείθοντο οὖν οἱ ἄλλοι,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        156,
+        226,
+        245,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τέλος δὲ συνῴκουν οἵ τε Σκύθαι καὶ αἱ ᾿Αμαζόνες. ἀλλ᾿ αἱ ᾿Αμαζόνες οὐκ\nἐβούλοντο ἐπανιέναι εἰς τὸ τῶν Σκυθῶν πλῆθος. ῾οὐ γὰρ δυνάμεθα,᾿\nἔφασαν, ῾συνοικεῖν μετὰ τῶν γυναικῶν τῶν ὑμετέρων. οὐ γὰρ οἱ αὐτοὶ\nοἱ ἡμέτεροι νόμοι καὶ οἱ τῶν Σκυθῶν.᾿ λαβόντες οὖν τὰ κτήματα καὶ\nδιαβάντες τὸν ποταμόν, ηὗρον χωρίον τι πλησίον ὃν καὶ ᾤκησαν αὐτό.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        263,
+        185,
+        281,
+        289
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        291,
+        186,
+        308,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διαρπάζω lay waste",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        311,
+        186,
+        328,
+        325
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηδέποτε never",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        327,
+        180,
+        342,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        353,
+        185,
+        368,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Answer the following questions based on the passage above:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        381,
+        185,
+        431,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Give the aspect (i.e. present or aorist) of the following participles: (a) εἰσπεσοῦσαι (line 2), (b) μαθόντες (line 3), (c) κελεύοντες (line 4), (d) ἰδοῦσαι (line 7), (e) μαχομένους (line 7), (f) καταλαβών (line 8)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Give the aspect (i.e. present or aorist) of the following participles:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "εἰσπεσοῦσαι (line 2)"
+          },
+          {
+            "n": "b",
+            "prompt": "μαθόντες (line 3)"
+          },
+          {
+            "n": "c",
+            "prompt": "κελεύοντες (line 4)"
+          },
+          {
+            "n": "d",
+            "prompt": "ἰδοῦσαι (line 7)"
+          },
+          {
+            "n": "e",
+            "prompt": "μαχομένους (line 7)"
+          },
+          {
+            "n": "f",
+            "prompt": "καταλαβών (line 8)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        437,
+        185,
+        471,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Give the tense of the following verbs: (a) ἐβούλοντο (line 4), (b) ἀπέπεμψαν (line 6), (c) ἐφρόντιζον (line 8), (d) ηὗρον (line 15)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Give the tense of the following verbs:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "ἐβούλοντο (line 4)"
+          },
+          {
+            "n": "b",
+            "prompt": "ἀπέπεμψαν (line 6)"
+          },
+          {
+            "n": "c",
+            "prompt": "ἐφρόντιζον (line 8)"
+          },
+          {
+            "n": "d",
+            "prompt": "ηὗρον (line 15)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 177
+}

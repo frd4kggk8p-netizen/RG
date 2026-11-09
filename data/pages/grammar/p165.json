@@ -1,0 +1,253 @@
+{
+  "running_head": "Grammar for Section 7D–F",
+  "folio": "147",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        184,
+        187,
+        222,
+        221
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "168",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        187,
+        187,
+        369,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Participles\nφάσκων φάσκουσα φάσκον (φασκοντ-) or φάς φᾶσα φάν\n(φαντ-), sometimes φάμεν-ος η ον ‘saying’\n\nFuture\nφής-ω ‘I shall say’\n\nPast: ἔφην ‘I said’\nἔφην\t‘I said’\nἔφησθα or ἔφης\t‘you (s.) said’\nἔφη\t‘he/she/it said’\nἔφαμεν\t‘we said’\nἔφατε\t‘you (pl.) said’\nἔφασαν\t‘they said’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        390,
+        187,
+        404,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and use",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        413,
+        187,
+        451,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Do not use φημί if you are translating English ‘say that…’ into Greek. Use\nλέγω ὅτι for the moment. See further Reference Grammar 397.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        453,
+        187,
+        489,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) You will find φάσκων (which is ‘borrowed’ from the verb φάσκω) used far\nmore commonly than φάς as the present participle of φημί.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        492,
+        187,
+        528,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) In passages containing direct speech, you will often find ἦν δ’ ἐγώ, ‘said I’,\nand ἦ δ’ ὅς ‘said he’ used as alternatives to φημί and φησί.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        554,
+        180,
+        568,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        576,
+        187,
+        725,
+        701
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D–F: 4. Revise the present and past of οἶδα, ‘I know’ (44, 167) and using φημί\nas ‘say’ translate into Greek:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 4",
+        "instruction": "Revise the present and past of οἶδα, ‘I know’ (44, 167) and using φημί as ‘say’ translate into Greek:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "We know"
+          },
+          {
+            "n": "2",
+            "prompt": "They said"
+          },
+          {
+            "n": "3",
+            "prompt": "She knew"
+          },
+          {
+            "n": "4",
+            "prompt": "We say"
+          },
+          {
+            "n": "5",
+            "prompt": "You (s.) know"
+          },
+          {
+            "n": "6",
+            "prompt": "She said"
+          },
+          {
+            "n": "7",
+            "prompt": "I knew"
+          },
+          {
+            "n": "8",
+            "prompt": "He says"
+          },
+          {
+            "n": "9",
+            "prompt": "You (pl.) said"
+          },
+          {
+            "n": "10",
+            "prompt": "They knew"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        744,
+        187,
+        767,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "MORE ON THE COMPLEMENT",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        777,
+        187,
+        888,
+        907
+      ],
+      "margin_number": 168,
+      "speaker": null,
+      "text": "168b. Usually, in sentences with two nouns either side of the verb ‘to be’, the\ncomplement lacks a definite article (45–7). But not always. In answer to\nthe question ‘Who are the learners, the clever or the stupid?’, Greek will\nsay οἱ σοφοί εἰσιν οἱ μανθάνοντες ‘The learners are the (= those who are)\nclever’, i.e. οἱ creates the group. What would it mean if it lacked οἱ? (As\nusual, the complement comes first.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 165
+}

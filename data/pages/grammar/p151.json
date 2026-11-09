@@ -1,0 +1,325 @@
+{
+  "running_head": "Summary Exercises for Section 6",
+  "folio": "133",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        224,
+        83,
+        902,
+        146
+      ],
+      "margin_number": null,
+      "speaker": "ΜΗΤΗΡ",
+      "text": "σὺ δὴ αἴτιος εἶ, ὦ ἄνερ. ἀμαθῆ μὲν γὰρ καὶ ἄγροικον ὄντα σὲ οὐ φιλεῖ ὁ νεανίας οὐδὲ πείθειται, ἐμὲ δὲ ἀστικὴν οὖσαν μάλιστα φιλεῖ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        224,
+        147,
+        811,
+        170
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ἀλλὰ μὴ φρόντιζε. ἔχω γὰρ διάνοιάν τινα ἐγώ. πείσω καὶ διδάξω τὸν υἱὸν ἔγωγε, πείθουσα δὲ παύσω ἐκ τῆς ἱππομανίας.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        183,
+        181,
+        901,
+        222
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλλὰ διδάσκουσα καὶ πείθουσα οὐκ ἐκώλυσε τὸν νεανίαν ἡ μήτηρ, οὐδὲ ἐπαύετο ὁ υἱὸς ἱππομανὴς ὤν. τέλος δὲ ἦλθεν ὁ νεανίας εἰς τὸ τῶν σοφιστῶν φροντιστήριον καὶ μαθητὴς ἐγένετο. πολλὰ δὲ καὶ σοφὰ εἰδέ τε καὶ ἤκουσε, πολλὰ δὲ ἐδίδασξαν οἱ σοφισταí. ὅτε δὲ ἔμαθε τόν τε δίκαιον καὶ τὸν ἄδικον λόγον ὁ υἱός, εἶπεν ὁ πατήρ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        223,
+        235,
+        902,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΤΗΡ",
+      "text": "ἰοὺ ἰού. νῦν γὰρ οὐ λήψονται οὐκέτι οἱ χρῆσται τὰ χρήματα. ὁ μὲν γὰρ υἱὸς νικήσει τὰς δίκας διὰ τὸν ἄδικον λόγον, τὸν κρείττονα ὄντα, ἡμεῖς δὲ φευξόμεθα τοὺς χρήστας.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        205,
+        308,
+        309,
+        322
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        205,
+        336,
+        457,
+        351
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἱππική, ἡ horse-fever (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        205,
+        356,
+        399,
+        371
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χρῆστης, ὁ creditor (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        205,
+        374,
+        493,
+        390
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μήτηρ (μητ(ε)ρ-), ἡ mother (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        205,
+        393,
+        500,
+        408
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἱππομανῆ horse-mad (m. acc. s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        205,
+        412,
+        408,
+        427
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμαθῆ ignorant (m. acc. s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        546,
+        336,
+        783,
+        352
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀστικός ἡ όν from the city",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        546,
+        356,
+        857,
+        371
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς ἱππομανίας his horse-madness",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        546,
+        374,
+        861,
+        390
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἱππομανής horse-mad (m. nom. s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        546,
+        393,
+        683,
+        406
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰοὺ ἰού hurrah!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        185,
+        455,
+        731,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Answer the following questions based on the passage above.\n1. Give the tense of the following verbs: (a) ἔτυχε (line 1), (b) ἔφευγεν (line 2),\n(c) ἐδίωκον (line 2), (d) διαλέγονται (line 3), (e) ἐποίησε (line 6), (f) ποιήσω\n(line 7), (g) ἐγένετο (line 14)\n2. Give the gender, number and case of the following participles: (a)\nλαμβάνοντες (line 3), (b) οὖσαν (line 9) and (c) ὄντα (line 17)\n3. What is the case of (a) γύναι (line 5) and (b) σοφιστῶν (line 13)?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "ex",
+        "instruction": "Answer the following questions based on the passage above.",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Give the tense of the following verbs: (a) ἔτυχε (line 1), (b) ἔφευγεν (line 2), (c) ἐδίωκον (line 2), (d) διαλέγονται (line 3), (e) ἐποίησε (line 6), (f) ποιήσω (line 7), (g) ἐγένετο (line 14)"
+          },
+          {
+            "n": "2",
+            "prompt": "Give the gender, number and case of the following participles: (a) λαμβάνοντες (line 3), (b) οὖσαν (line 9) and (c) ὄντα (line 17)"
+          },
+          {
+            "n": "3",
+            "prompt": "What is the case of (a) γύναι (line 5) and (b) σοφιστῶν (line 13)?"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 151
+}

@@ -1,0 +1,302 @@
+{
+  "running_head": "Section 7D",
+  "folio": "90",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        77,
+        588,
+        289
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ἀγαθός ἀμείνων ἄριστος\nβέβαιος βεβαιότερος βεβαιότατος\nδεινός δεινότερος δεινότατος\nκακός κακίων κάκιστος\nκαλός καλλίων κάλλιστος\nμέγας μείζων μέγιστος\nμλδρος μωρότερος μωρότατος\nπολέμιος πολεμιώτερος πολεμιώτατος\nπολύς πλείων πλεῖστος\nφίλος φίλτερος φίλτατος\nχρήσιμος χρησιμώτερος χρησιμώτατος",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "μλδρος",
+          "reason": "Print quality of lambda/omega",
+          "candidates": [
+            "μλδρος",
+            "μῶρος"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        310,
+        188,
+        439,
+        202
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        210,
+        189,
+        531,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1-5",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "The farmers must go to the city.\nἔδει με πρὸς τοὺς ποιητὰς ἰέναι."
+          },
+          {
+            "n": "2",
+            "prompt": "We must make sacrifices and pray to the gods.\nδεῖ σε ἐξετάζειν ἐμὲ καὶ ἀκριβῶς σκοπεῖν."
+          },
+          {
+            "n": "3",
+            "prompt": "The women are trying to watch the play.\nπειρῶμαι εὑρίσκειν ὅπως οἱ ποιηταὶ τὴν σοφίαν ἀποφαίνουσιν."
+          },
+          {
+            "n": "4",
+            "prompt": "We know that the king wanted to punish the herald.\nοἶσθα/ἴστε ὅτι ἐβούλου/ἐβουλόμεθα διαβάλλειν ἐμέ."
+          },
+          {
+            "n": "5",
+            "prompt": "You seem to be stupid, although you are a teacher.\nἐντεῦθεν οὖν ἐδόκουν τοὺς νέους διαφθείρειν, καίπερ οὐδὲν εἰδώς."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        541,
+        192,
+        372,
+        565
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D–F Plato: Euthydemos 275–277c",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        576,
+        191,
+        609,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Here you meet the dialogue style of Plato, and the aorist participle, GE pp. 142–145,\n#162–166. Note that the aorist participle is formed from the aorist stem.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        629,
+        192,
+        654,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        669,
+        193,
+        683,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 79",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        691,
+        168,
+        727,
+        855
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἦν δ’ ἐγώ ‘I said’ these phrases only occur in direct speech and are very\ncommon in Platonic dialogue",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        731,
+        168,
+        764,
+        889
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ἦ οὐִ; ‘or not?’ In Platonic dialogue most questions are asked in the form ‘Is\nX true, or not?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        769,
+        168,
+        782,
+        347
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἦ δ’ ὅς ‘he said’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        808,
+        192,
+        823,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 80",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        832,
+        168,
+        867,
+        909
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "εἶεν ‘so be it’, ‘well all right then’. Another very common feature of dialogue\nstyle.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        872,
+        158,
+        925,
+        852
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "ἀκούσας Nom. s. masc. aor. part. act., GE p.142, #162. Note the ‘echo’\neffect: ἄκουε οὖν, ὦ Κλεινία, ἀκούσας δέ ... ‘Listen then, Kleinias, and\nhaving listened ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 104
+}

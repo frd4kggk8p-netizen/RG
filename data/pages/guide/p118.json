@@ -1,0 +1,368 @@
+{
+  "running_head": "Section 8C",
+  "folio": "104",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        90,
+        77,
+        85,
+        822
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "What then? What do you have in mind? Do you perhaps hate the city?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        99,
+        90,
+        110,
+        617
+      ],
+      "margin_number": null,
+      "speaker": "PEISETAIROS",
+      "text": "No, by Zeus, we do not hate the city itself.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        117,
+        90,
+        151,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "Tell me then, my friends, what happened to you, or what is it that you want that makes you leave the city?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        159,
+        90,
+        228,
+        893
+      ],
+      "margin_number": null,
+      "speaker": "EU.",
+      "text": "Peisetairos here and I have had a terrible experience, Dikaiopolis, and so we want to go away. For we find the affairs of the city hard to bear, especially the lawcourts. So great was the misfortune we suffered when we entered the lawcourts.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        236,
+        90,
+        267,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "What sort of misfortune? What had you done, or what wrong did you do so that you suffered this misfortune?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        272,
+        90,
+        307,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "EU.",
+      "text": "We did nothing and we did no wrong, but the jurors condemned us, even though we were innocent, because of the false testimony of the witnesses.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        313,
+        90,
+        429,
+        900
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "I am not surprised that you are setting off to find another city, since you give a just account of the lawcourt and the jurors. For the crickets sing for a little while in the branches, but the Athenians sing all the time in their lawsuits. You are doing this with reason. And it is with reason that I shall not do this. For I, like the orators, love the city and I shall never cease to love the city.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        435,
+        90,
+        467,
+        896
+      ],
+      "margin_number": null,
+      "speaker": "PEI.",
+      "text": "Dikaiopolis, what are you saying? Do you really think that the orators love the city?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        471,
+        90,
+        483,
+        319
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "I do. Why not?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        492,
+        90,
+        617,
+        906
+      ],
+      "margin_number": null,
+      "speaker": "PEI.",
+      "text": "But how do the orators show their love for the people? Consider. The war drags on, everywhere there is lamentation and funeral pyres because of the plague: everywhere there are corpses, there is much lawlessness. Do the orators show pity for the people? Do they pity them or not? Tell me. Why are you silent? You will not say? They do not pity them, but they will destroy the city, you know it well. I will answer for you. The land is full of their audacity, the assembly is full of it and the lawcourts are full of it, but the people are full of distress.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        637,
+        192,
+        659,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        672,
+        192,
+        686,
+        255
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 96",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        699,
+        155,
+        712,
+        693
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "οἴκοι μέν ... ἐν δὲ τῇ ἐκκλησίᾳ ... Note the contrast.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        719,
+        157,
+        731,
+        788
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "βελτίους Not what it seems at first glance – see GE p. 166, #181.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        738,
+        155,
+        750,
+        429
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "χείρους What case is it?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        757,
+        156,
+        847,
+        907
+      ],
+      "margin_number": 16,
+      "speaker": null,
+      "text": "βελτίους What case is it?\nκλοπήν Pericles was suspended from his office of strategos and ordered to submit his accounts for inspection. They were found to be five talents adrift and he was convicted. His conviction was largely a political move, and he was re-elected the following year.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        854,
+        155,
+        903,
+        861
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "τὸ ἀγαθόν Plato’s lectures on ‘The Good’ were said to be the ultimate in obscurity. But the remark was made by a slave in comedy, and should not perhaps be taken too seriously.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        912,
+        156,
+        924,
+        814
+      ],
+      "margin_number": 23,
+      "speaker": null,
+      "text": "γνοὺς Aorist participle of γιγνώσκω, from the second aorist ἔγνων.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 118
+}

@@ -1,0 +1,268 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "142–163",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        83,
+        548,
+        103
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 7D–F*",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        195,
+        114,
+        335,
+        129
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(*Formerly 6 D–F)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        193,
+        140,
+        916,
+        268
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• First aorist participles, active and middle: παύσας, παυσάμενος\n• Aspect in participles\n• Past of οἶδα: ᾔδη ‘knew’\n• Present and past of φημί ‘say’\n• More on the complement",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        193,
+        286,
+        916,
+        383
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCABULARY CHECK\nEnsure you know the meaning or significance of:\nἀποκριν-, ἀρετή, ἦν δ’ ἐγώ, ὁμολογέω, ἐμπεσ-, γελάω, ἐπαινέω, φημί, ἦ δ’ὅς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        203,
+        416,
+        395,
+        430
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST PARTICIPLES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        195,
+        442,
+        916,
+        495
+      ],
+      "margin_number": 162,
+      "speaker": null,
+      "text": "You have already met participles based on the present stem of verbs, e.g. βλέπων, ‘looking’, τρέχων, ‘running’. Greek also has participles based on the aorist stem of verbs.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        195,
+        514,
+        366,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        195,
+        539,
+        841,
+        553
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The aorist participle is based on the aorist stem. To form the aorist stem:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        92,
+        561,
+        916,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• Take the aorist indicative;\n• Remove the augment;\n• Remove the personal endings, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        259,
+        628,
+        542,
+        677
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-παυσα > aorist stem: παυσα-\nἤ-κουσα > aorist stem: ἀκουσα-\nἀπ-ε-κρινά-μην > aorist stem: ἀποκρινα-",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        195,
+        679,
+        644,
+        694
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist active participles: stem + endings",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        195,
+        704,
+        916,
+        737
+      ],
+      "margin_number": 163,
+      "speaker": null,
+      "text": "The first aorist active participle is formed by adding the following endings to the aorist stem: -(α)ς -(α)σ-α -(α)ν -(α)ντ-, e.g.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 13,
+      "bbox": [
+        193,
+        749,
+        916,
+        935
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσα-ς παύσα-σ-α παύσα-ν (παυσα-ντ-) ‘having stopped, on stopping,\nstopping’\ns.\nm.\nf.\nn.\nNom. παύσᾱ-ς παύσᾱ-σ-α παῦσα-ν\nAcc. παύσα-ντ-α παύσᾱ-σ-αν παῦσα-ν\nGen. παύσα-ντ-ος παυσᾱ-σ-ης παύσα-ντ-ος\nDat. παύσα-ντ-ι παυσᾱ-σ-ῃ παύσα-ντ-ι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 160
+}

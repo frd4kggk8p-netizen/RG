@@ -1,0 +1,6210 @@
+[
+  {
+    "id": "vocab.s06.αμαθησ",
+    "display": "ἀ-μαθής",
+    "plain": "ἀμαθής",
+    "gloss_en": "ignoramus (nom.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.βαλλ᾽ εισ κορακασ",
+    "display": "βάλλ᾽ εἰς κόρακας",
+    "plain": "βάλλ᾽ εἰς κόρακας",
+    "gloss_en": "go to hell!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εβοησα",
+    "display": "ἐ-βόης-α",
+    "plain": "ἐβόηςα",
+    "gloss_en": "I shouted",
+    "lemma_display": "βοά-ω",
+    "lemma_plain": "βοάω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εβοησε(ν) (he)",
+    "display": "ἐ-βόης-ε(ν) (he)",
+    "plain": "ἐβόηςε(ν) (he)",
+    "gloss_en": "shouted",
+    "lemma_display": "βοάω",
+    "lemma_plain": "βοάω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εισ κορακασ",
+    "display": "εἰς κόρακας",
+    "plain": "εἰς κόρακας",
+    "gloss_en": "to hell!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εκελευσα (i)",
+    "display": "ἐ-κέλευς-α (I)",
+    "plain": "ἐκέλευςα (I)",
+    "gloss_en": "gave the order",
+    "lemma_display": "κελεύ-ω",
+    "lemma_plain": "κελεύω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εκοψα (i)",
+    "display": "ἔ-κοψ-α (I)",
+    "plain": "ἔκοψα (I)",
+    "gloss_en": "knocked at",
+    "lemma_display": "κόπτ-ω",
+    "lemma_plain": "κόπτω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εκοψε (he)",
+    "display": "ἔ-κοψ-ε (he)",
+    "plain": "ἔκοψε (he)",
+    "gloss_en": "knocked at",
+    "lemma_display": "κόπτ-ω",
+    "lemma_plain": "κόπτω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.επαυσατο",
+    "display": "ἐ-παύσ-ατο",
+    "plain": "ἐπαύσατο",
+    "gloss_en": "he stopped",
+    "lemma_display": "παύ-ομαι",
+    "lemma_plain": "παύομαι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.εποιησασ (you) (s.)",
+    "display": "ἐ-ποίησ-ας (you) (s.)",
+    "plain": "ἐποίησας (you) (s.)",
+    "gloss_en": "did",
+    "lemma_display": "ποιέ-ω",
+    "lemma_plain": "ποιέω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.κικυννοθεν",
+    "display": "Κικυννόθεν",
+    "plain": "Κικυννόθεν",
+    "gloss_en": "from the deme Kikynna",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.παιδιον",
+    "display": "παιδί-ον",
+    "plain": "παιδίον",
+    "gloss_en": "young slave, slave dear",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "2b",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "63",
+      "pdf_page": 93
+    }
+  },
+  {
+    "id": "vocab.s06.αγροικοσον",
+    "display": "ἄγρ-οικ-ος-ον",
+    "plain": "ἄγροικοςον",
+    "gloss_en": "from the country",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.θεμισ",
+    "display": "θέμις",
+    "plain": "θέμις",
+    "gloss_en": "right, lawful (lit. law",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.του ολυμπικου στεφανου",
+    "display": "τοῦ ’Ὀλυμπικοῦ στεφάνου",
+    "plain": "τοῦ ’Ὀλυμπικοῦ στεφάνου",
+    "gloss_en": "the Olympic crown",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.αμαθη",
+    "display": "ἀ-μαθῆ",
+    "plain": "ἀμαθῆ",
+    "gloss_en": "ignorant (acc.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ανοιγε",
+    "display": "ἄνοιγε",
+    "plain": "ἄνοιγε",
+    "gloss_en": "open!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.θερμοσ ηον",
+    "display": "θερμ-ός -ή-όν",
+    "plain": "θερμός ήόν",
+    "gloss_en": "hot",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.φροντισ (φροντιδ)",
+    "display": "φροντίς (φροντιδ-)",
+    "plain": "φροντίς (φροντιδ)",
+    "gloss_en": "thought",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.αξιοσ αον",
+    "display": "ἄξι-ος -α-ον",
+    "plain": "ἄξιος αον",
+    "gloss_en": "worthy of",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.καιπερ",
+    "display": "καίπερ",
+    "plain": "καίπερ",
+    "gloss_en": "despite, although (+part.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.απεκοψασ",
+    "display": "ἀπ-έ-κοψ-ας",
+    "plain": "ἀπέκοψας",
+    "gloss_en": "you (s.) cut off",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.κεφαλη",
+    "display": "κεφαλ-ή",
+    "plain": "κεφαλή",
+    "gloss_en": "head",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.φροντιστηριον",
+    "display": "φροντιστήρι-ον",
+    "plain": "φροντιστήριον",
+    "gloss_en": "think-tank, mental institute",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "2b",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.κηροσ",
+    "display": "κηρ-ός",
+    "plain": "κηρός",
+    "gloss_en": "wax",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "2a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.αρτι",
+    "display": "ἄρτι",
+    "plain": "ἄρτι",
+    "gloss_en": "recently, just now",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.λυω",
+    "display": "λύ-ω",
+    "plain": "λύω",
+    "gloss_en": "release, undo",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.χαιρεφωντοσ",
+    "display": "Χαιρεφῶντος",
+    "plain": "Χαιρεφῶντος",
+    "gloss_en": "Khairephon’s",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.δακνω",
+    "display": "δάκν-ω",
+    "plain": "δάκνω",
+    "gloss_en": "bite, worry",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.μετρεω",
+    "display": "μετρέ-ω",
+    "plain": "μετρέω",
+    "gloss_en": "measure",
+    "lemma_display": "fut. μετρή-ω",
+    "lemma_plain": "fut. μετρήω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.χωριον",
+    "display": "χωρί-ον",
+    "plain": "χωρίον",
+    "gloss_en": "space, distance",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "2b",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εβοησασ",
+    "display": "ἐ-βόησ-ας",
+    "plain": "ἐβόησας",
+    "gloss_en": "you (s.) shouted",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.μοι",
+    "display": "μοι",
+    "plain": "μοι",
+    "gloss_en": "to me",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ψυλλα",
+    "display": "ψύλλ-α",
+    "plain": "ψύλλα",
+    "gloss_en": "flea",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1c",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.μονοσ ηον",
+    "display": "μόν-ος -η-ον",
+    "plain": "μόνος ηον",
+    "gloss_en": "alone",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ψυλλησ",
+    "display": "ψύλλης",
+    "plain": "ψύλλης",
+    "gloss_en": "flea’s",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εθεσαν",
+    "display": "ἔ-θε-σαν",
+    "plain": "ἔθεσαν",
+    "gloss_en": "they placed",
+    "lemma_display": "τίθημι",
+    "lemma_plain": "τίθημι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.νω",
+    "display": "νῷ",
+    "plain": "νῷ",
+    "gloss_en": "mind",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ψυχροσ αον",
+    "display": "ψυχρ-ός -ά-όν",
+    "plain": "ψυχρός άόν",
+    "gloss_en": "cold",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ειτα",
+    "display": "εἶτα",
+    "plain": "εἶτα",
+    "gloss_en": "then",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.οποσουσ τουσ εαυτησ ποδασ",
+    "display": "ὁπόσους τοὺς ἑαυτῆς πόδας",
+    "plain": "ὁπόσους τοὺς ἑαυτῆς πόδας",
+    "gloss_en": "how many of its own foot lengths",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ωσ",
+    "display": "ὡς",
+    "plain": "ὡς",
+    "gloss_en": "as",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εκβαλλω",
+    "display": "ἐκ-βάλλ-ω",
+    "plain": "ἐκβάλλω",
+    "gloss_en": "throw out",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εκελευσασ",
+    "display": "ἐ-κέλευς-ας",
+    "plain": "ἐκέλευςας",
+    "gloss_en": "you (s.) gave the order",
+    "lemma_display": "κελεύ-ω",
+    "lemma_plain": "κελεύω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ουτοσ",
+    "display": "οὗτος",
+    "plain": "οὗτος",
+    "gloss_en": "hey, you!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.αγροικοσ ον",
+    "display": "ἄγροικος ον",
+    "plain": "ἄγροικος ον",
+    "gloss_en": "from the country, boorish",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.παλιν",
+    "display": "πάλιν",
+    "plain": "πάλιν",
+    "gloss_en": "again",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ελυσαν",
+    "display": "ἔ-λυσ-αν",
+    "plain": "ἔλυσαν",
+    "gloss_en": "they undid",
+    "lemma_display": "λύ-ω",
+    "lemma_plain": "λύω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.πηδαω",
+    "display": "πηδά-ω",
+    "plain": "πηδάω",
+    "gloss_en": "leap",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.βαλλ εισ κορακασ",
+    "display": "βάλλ’ εἰς κόρακας",
+    "plain": "βάλλ’ εἰς κόρακας",
+    "gloss_en": "go to hell!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εμβασ (εμβαδ)",
+    "display": "ἐμβάς (ἐμβαδ-)",
+    "plain": "ἐμβάς (ἐμβαδ)",
+    "gloss_en": "slipper",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.πηδημα (πηδηματ)",
+    "display": "πήδημα (πηδηματ-)",
+    "plain": "πήδημα (πηδηματ)",
+    "gloss_en": "a leap",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "3b",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.δακνω (δακ)",
+    "display": "δάκνω (δακ-)",
+    "plain": "δάκνω (δακ)",
+    "gloss_en": "bite, worry",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ποδασ",
+    "display": "πόδας",
+    "plain": "πόδας",
+    "gloss_en": "see πούς",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εκβαλλω (εκβαλ)",
+    "display": "ἐκβάλλω (ἐκβαλ-)",
+    "plain": "ἐκβάλλω (ἐκβαλ)",
+    "gloss_en": "throw out",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εμετρησαν",
+    "display": "ἐ-μέτρησ-αν",
+    "plain": "ἐμέτρησαν",
+    "gloss_en": "they measured",
+    "lemma_display": "μετρέ-ω",
+    "lemma_plain": "μετρέω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ποτε",
+    "display": "ποτε",
+    "plain": "ποτε",
+    "gloss_en": "ever",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εν νω εχω",
+    "display": "ἐν νῷ ἔχω",
+    "plain": "ἐν νῷ ἔχω",
+    "gloss_en": "intend, have in mind",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.πουσ (ποδ)",
+    "display": "πούς (ποδ-)",
+    "plain": "πούς (ποδ)",
+    "gloss_en": "foot",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.καιπερ",
+    "display": "καίπερ",
+    "plain": "καίπερ",
+    "gloss_en": "despite, although (+part.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.επαυσαμην",
+    "display": "ἐ-παυσ-άμην",
+    "plain": "ἐπαυσάμην",
+    "gloss_en": "I stopped",
+    "lemma_display": "παύ-ομαι",
+    "lemma_plain": "παύομαι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.πρωτον",
+    "display": "πρῶτον",
+    "plain": "πρῶτον",
+    "gloss_en": "first",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.κεφαλη",
+    "display": "κεφαλή",
+    "plain": "κεφαλή",
+    "gloss_en": "head",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ραδιωσ",
+    "display": "ῥᾳδί-ως",
+    "plain": "ῥᾳδίως",
+    "gloss_en": "easily",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.λυω",
+    "display": "λύω",
+    "plain": "λύω",
+    "gloss_en": "release",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.επει",
+    "display": "ἐπεὶ",
+    "plain": "ἐπεὶ",
+    "gloss_en": "when",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.σοι",
+    "display": "σοι",
+    "plain": "σοι",
+    "gloss_en": "to you",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.οτε",
+    "display": "ὅτε",
+    "plain": "ὅτε",
+    "gloss_en": "when",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.επηδησε(ν) (it)",
+    "display": "ἐ-πήδης-ε(ν) (it)",
+    "plain": "ἐπήδηςε(ν) (it)",
+    "gloss_en": "leapt",
+    "lemma_display": "πηδά-ω",
+    "lemma_plain": "πηδάω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.σωκρατουσ",
+    "display": "Σωκράτους",
+    "plain": "Σωκράτους",
+    "gloss_en": "Socrates’",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.οφρυσ (οφρυ)",
+    "display": "ὀφρῠ́ς (ὀφρυ-)",
+    "plain": "ὀφρῠ́ς (ὀφρυ)",
+    "gloss_en": "eyebrow",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "3h",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.την οφρυν",
+    "display": "τὴν ὀφρ-ῦν",
+    "plain": "τὴν ὀφρῦν",
+    "gloss_en": "the eyebrow",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.πουσ (ποδ)",
+    "display": "πούς (ποδ-)",
+    "plain": "πούς (ποδ)",
+    "gloss_en": "foot",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.εποιησαν (they)",
+    "display": "ἐ-ποίησ-αν (they)",
+    "plain": "ἐποίησαν (they)",
+    "gloss_en": "did",
+    "lemma_display": "ποιέ-ω",
+    "lemma_plain": "ποιέω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.τησ σοφιασ",
+    "display": "τῆς σοφίας",
+    "plain": "τῆς σοφίας",
+    "gloss_en": "the cleverness!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ραδιοσ α ον",
+    "display": "ῥᾴδι-ος ᾱ ον",
+    "plain": "ῥᾴδιος ᾱ ον",
+    "gloss_en": "easy ῥᾳδίως easily",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.η",
+    "display": "ἦ",
+    "plain": "ἦ",
+    "gloss_en": "truly",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.τησ ψυλλησ",
+    "display": "τῆς ψύλλης",
+    "plain": "τῆς ψύλλης",
+    "gloss_en": "of the flea",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ηκω",
+    "display": "ἥκ-ω",
+    "plain": "ἥκω",
+    "gloss_en": "I have come",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.τι δε",
+    "display": "τί δέ",
+    "plain": "τί δέ",
+    "gloss_en": "what next?",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.φροντισ (φροντιδ)",
+    "display": "φροντίς (φροντιδ-)",
+    "plain": "φροντίς (φροντιδ)",
+    "gloss_en": "thought, care, concern",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.θαλησ",
+    "display": "Θαλ-ῆς",
+    "plain": "Θαλῆς",
+    "gloss_en": "Thales  (early Greek scientist and inventor, a by-word for cleverness)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "1d",
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.τι δητ",
+    "display": "τί δῆτ’",
+    "plain": "τί δῆτ’",
+    "gloss_en": "why then …?",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.τιθημι",
+    "display": "τίθημι",
+    "plain": "τίθημι",
+    "gloss_en": "I place, put",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.ωσ",
+    "display": "ὡς",
+    "plain": "ὡς",
+    "gloss_en": "as",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.θαυμαζω",
+    "display": "θαυμάζ-ω",
+    "plain": "θαυμάζω",
+    "gloss_en": "wonder (at)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "65",
+      "pdf_page": 95
+    }
+  },
+  {
+    "id": "vocab.s06.αδυνατοσον",
+    "display": "ἀ-δύνατ-ος-ον",
+    "plain": "ἀδύνατοςον",
+    "gloss_en": "impossible",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αθηναι, αι",
+    "display": "Ἀθῆν-αι, ἁί",
+    "plain": "Ἀθῆναι, ἁί",
+    "gloss_en": "Athens",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "1a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αναμετρεω",
+    "display": "ἀνα-μετρέ-ω",
+    "plain": "ἀναμετρέω",
+    "gloss_en": "measure up",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.απελθε",
+    "display": "ἄπ-ελθε",
+    "plain": "ἄπελθε",
+    "gloss_en": "go away!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αρα",
+    "display": "ἄρα",
+    "plain": "ἄρα",
+    "gloss_en": "then, in that case",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αστρονομεω",
+    "display": "ἀστρο-νομέ-ω",
+    "plain": "ἀστρονομέω",
+    "gloss_en": "observe the stars",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αστρονομια",
+    "display": "ἀστρο-νομί-α",
+    "plain": "ἀστρονομία",
+    "gloss_en": "astronomy",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1b",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αυτοσ",
+    "display": "αὐτ-ός",
+    "plain": "αὐτός",
+    "gloss_en": "Himself, the Master (nom.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.βολβοσ, ο",
+    "display": "βολβ-ός, ό",
+    "plain": "βολβός, ό",
+    "gloss_en": "truffle",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.γεωμετρια",
+    "display": "γεωμετρί-α",
+    "plain": "γεωμετρία",
+    "gloss_en": "geometry",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1b",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.γησ",
+    "display": "γῄς",
+    "plain": "γῄς",
+    "gloss_en": "of the earth",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.δημοσ, ο",
+    "display": "δῆμ-ος, ό",
+    "plain": "δῆμος, ό",
+    "gloss_en": "deme",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.δικαστησ, ο",
+    "display": "δικαστ-ής, ό",
+    "plain": "δικαστής, ό",
+    "gloss_en": "dikast, juror",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "1d",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.εβοησασ",
+    "display": "ἐ-βόησ-ας",
+    "plain": "ἐβόησας",
+    "gloss_en": "you (s.) shouted",
+    "lemma_display": "βοά-ω",
+    "lemma_plain": "βοάω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.εγγυσ ημων",
+    "display": "ἐγγὺς ἡμῶν",
+    "plain": "ἐγγὺς ἡμῶν",
+    "gloss_en": "near to us",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.εθαυμασασ",
+    "display": "ἐ-θαύμας-ας",
+    "plain": "ἐθαύμαςας",
+    "gloss_en": "you (s.) were amazed",
+    "lemma_display": "θαυμάζ-ω",
+    "lemma_plain": "θαυμάζω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ενταυθα",
+    "display": "ἐνταῦθα",
+    "plain": "ἐνταῦθα",
+    "gloss_en": "here",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.επει",
+    "display": "ἐπεί",
+    "plain": "ἐπεί",
+    "gloss_en": "since",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.επι τησ κρεμαθρασ",
+    "display": "ἐπὶ τῆς κρεμάθρας",
+    "plain": "ἐπὶ τῆς κρεμάθρας",
+    "gloss_en": "in the basket",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.υβοια",
+    "display": "ὕβοι-α",
+    "plain": "ὕβοια",
+    "gloss_en": "Euboia",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1b",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ηρακλεισ",
+    "display": "Ἡράκλεις",
+    "plain": "Ἡράκλεις",
+    "gloss_en": "Herakles!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.θαυμαζω",
+    "display": "θαυμάζ-ω",
+    "plain": "θαυμάζω",
+    "gloss_en": "be amazed",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.θηριον",
+    "display": "θηρί-ον",
+    "plain": "θηρίον",
+    "gloss_en": "beast",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "2b",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.καθηζομαι",
+    "display": "καθ-ὴζομαι",
+    "plain": "καθὴζομαι",
+    "gloss_en": "sit down",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.κατα γησ",
+    "display": "κατὰ γῆς",
+    "plain": "κατὰ γῆς",
+    "gloss_en": "below the earth",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.λακεδαιμων (λακεδαιμον)",
+    "display": "Λακεδαίμων (Λακεδαιμον-)",
+    "plain": "Λακεδαίμων (Λακεδαιμον)",
+    "gloss_en": "Sparta",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.μοι",
+    "display": "μοι",
+    "plain": "μοι",
+    "gloss_en": "to me",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ολοφυρεησθ = 2nd",
+    "display": "ὀλοφυρ-εὴσθ’ = 2nd",
+    "plain": "ὀλοφυρεὴσθ’ = 2nd",
+    "gloss_en": "pl. fut. (contr.) of ὀλοφύρ-ομαι",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.οπου",
+    "display": "ὅπου",
+    "plain": "ὅπου",
+    "gloss_en": "where",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ουρανοσ, ο",
+    "display": "οὐραν-ός, ό",
+    "plain": "οὐρανός, ό",
+    "gloss_en": "sky",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.πανυ",
+    "display": "πάνυ",
+    "plain": "πάνυ",
+    "gloss_en": "very",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.παπαι",
+    "display": "παπαῖ",
+    "plain": "παπαῖ",
+    "gloss_en": "good heavens!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.πειθομαι",
+    "display": "πείθ-ομαι",
+    "plain": "πείθομαι",
+    "gloss_en": "believe",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.περιοδοσ",
+    "display": "περί-οδ-ος",
+    "plain": "περίοδος",
+    "gloss_en": "map",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.πορρω",
+    "display": "πόρρω",
+    "plain": "πόρρω",
+    "gloss_en": "far",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.πρωκτοσ, ο",
+    "display": "πρωκτ-ός, ό",
+    "plain": "πρωκτός, ό",
+    "gloss_en": "rump",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ταυτη",
+    "display": "ταύτῃ",
+    "plain": "ταύτῃ",
+    "gloss_en": "with this",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.χρησιμοσ ηον",
+    "display": "χρήσιμ-ος -η-ον",
+    "plain": "χρήσιμος ηον",
+    "gloss_en": "useful",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αδυνατοσ ον",
+    "display": "ἀδύνατος ον",
+    "plain": "ἀδύνατος ον",
+    "gloss_en": "impossible",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.αθηναι, αι",
+    "display": "Ἀθῆναι, ἁί",
+    "plain": "Ἀθῆναι, ἁί",
+    "gloss_en": "Athens",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "1a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.δημοσ, ο",
+    "display": "δῆμος, ό",
+    "plain": "δῆμος, ό",
+    "gloss_en": "deme",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.θαυμαζω",
+    "display": "θαυμάζω",
+    "plain": "θαυμάζω",
+    "gloss_en": "wonder at, be amazed at",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.οπου",
+    "display": "ὅπου",
+    "plain": "ὅπου",
+    "gloss_en": "where? where",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ουρανοσ, ο",
+    "display": "οὐρανός, ό",
+    "plain": "οὐρανός, ό",
+    "gloss_en": "sky, heavens",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.πειθομαι (πιθ)",
+    "display": "πείθομαι (πιθ-)",
+    "plain": "πείθομαι (πιθ)",
+    "gloss_en": "believe, trust, obey",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "67",
+      "pdf_page": 97
+    }
+  },
+  {
+    "id": "vocab.s06.ειπε γαρ ο μαθητησ ωσ ψυλλα τισ εδακε την χαιρεφωντοσ οφρυν. ειτα επι την σην κεφαλην επηδησε. συ δε τον χαιρεφωντα ηρου οποσουσ εκ αυτησ ποδασ επηδησεν η ψυλλα. ανεμετρησατε δ᾽ υμεισ ουτωσ· πρωτον μεν γαρ την ψυλλαν ελαβετε και εθετε εισ κηρον θερμον. επειδη δε ψυχροσ εγενετο ο κηροσ ψυλλα εσχεν εμβαδασ τινασ περσικασ. ειτα δ᾽ ανεμετρησατε το χωριον.",
+    "display": "εἶπε γὰρ ὁ μαθητὴς ὡς ψύλλα τις ἔδακε τὴν Χαιρεφῶντος ὀφρῦν. εἶτα ἐπὶ τὴν σὴν κεφαλὴν ἐπήδησε. σὺ δὲ τὸν Χαιρεφῶντα ἤρου ὁπόσους ἐκ αὐτῆς πόδας ἐπήδησεν ἡ ψύλλα. ἀν-εμετρήσατε δ᾽ ὑμεῖς οὕτως· πρῶτον μὲν γὰρ τὴν ψύλλαν ἐλάβετε καὶ ἔθετε εἰς κηρὸν θερμόν. ἐπειδὴ δὲ ψυχρὸς ἐγένετο ὁ κηρός ψύλλα ἔσχεν ἐμβάδας τινὰς Περσικάς. εἶτα δ᾽ ἀν-εμετρήσατε τὸ χωρίον.",
+    "plain": "εἶπε γὰρ ὁ μαθητὴς ὡς ψύλλα τις ἔδακε τὴν Χαιρεφῶντος ὀφρῦν. εἶτα ἐπὶ τὴν σὴν κεφαλὴν ἐπήδησε. σὺ δὲ τὸν Χαιρεφῶντα ἤρου ὁπόσους ἐκ αὐτῆς πόδας ἐπήδησεν ἡ ψύλλα. ἀνεμετρήσατε δ᾽ ὑμεῖς οὕτως· πρῶτον μὲν γὰρ τὴν ψύλλαν ἐλάβετε καὶ ἔθετε εἰς κηρὸν θερμόν. ἐπειδὴ δὲ ψυχρὸς ἐγένετο ὁ κηρός ψύλλα ἔσχεν ἐμβάδας τινὰς Περσικάς. εἶτα δ᾽ ἀνεμετρήσατε τὸ χωρίον.",
+    "gloss_en": "(definition)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.αεροβατεω",
+    "display": "ἀερο-βατέ-ω",
+    "plain": "ἀεροβατέω",
+    "gloss_en": "tread the air",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.αμαθησ",
+    "display": "ἀ-μαθής",
+    "plain": "ἀμαθής",
+    "gloss_en": "ignorant (nom.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.αναμετρεω",
+    "display": "ἀνα-μετρέ-ω",
+    "plain": "ἀναμετρέω",
+    "gloss_en": "measure up",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.απερχομαι",
+    "display": "ἀπ-έρχ-ομαι",
+    "plain": "ἀπέρχομαι",
+    "gloss_en": "depart",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.βιαζομαι",
+    "display": "βιάζ-ομαι",
+    "plain": "βιάζομαι",
+    "gloss_en": "use force, force one's way",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.δραω",
+    "display": "δρά-ω",
+    "plain": "δράω",
+    "gloss_en": "do",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.εγενετο (it)",
+    "display": "ἐ-γέν-ετο (it)",
+    "plain": "ἐγένετο (it)",
+    "gloss_en": "became",
+    "lemma_display": "γίγν-ομαι",
+    "lemma_plain": "γίγνομαι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.εδακε (it)",
+    "display": "ἔ-δακ-ε (it)",
+    "plain": "ἔδακε (it)",
+    "gloss_en": "bit",
+    "lemma_display": "δάκν-ω",
+    "lemma_plain": "δάκνω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.ειδον (i)",
+    "display": "εἶδ-ον (I)",
+    "plain": "εἶδον (I)",
+    "gloss_en": "saw",
+    "lemma_display": "ὁρά-ω",
+    "lemma_plain": "ὁράω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.ειδεσ (you) (s.)",
+    "display": "εἶδ-ες (you) (s.)",
+    "plain": "εἶδες (you) (s.)",
+    "gloss_en": "saw",
+    "lemma_display": "ὁρά-ω",
+    "lemma_plain": "ὁράω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "68",
+      "pdf_page": 98
+    }
+  },
+  {
+    "id": "vocab.s06.ειπε (he)",
+    "display": "εἶπ-ε (he)",
+    "plain": "εἶπε (he)",
+    "gloss_en": "said (λέγ-ω) εἶτα then, next ἐ-λάβ-ετε you (pl.) took (λαμβάν-ω) ἔ-λαθ-ες you (s.) escaped the notice of (λανθάν-ω) ἔ-μαθ-ον (I) learnt (μανθάν-ω) ἐμβάς (ἐμβαδ-), ἡ slipper  ἐξ-ευρίσκ-ω (ἐξευρ-) find out, discover ἐξ-ηὗρ-ον (I) found out, discovered (ἐξ-ευρίσκ-ω) ἐπὶ κρεμάθρας in a basket ἐπὶ ταύτης τῆς κρεμάθρας in this basket ἔ-σχ-ε(ν) (it) had (ἔχ-ω) ἔ-τυχ-ε (it) happened to, actually was (τυγχάν-ω) ἐφ-ήμερ-ος-ον lasting a day, creature of a day ἦλθ-ον I came (ἔρχ-ομαι) ἦλθ-ες you (s.) came (ἔρχ-ομαι) ἥλι-ος, ὁ sun  ἠρ-ου you (s.) asked",
+    "lemma_display": "ἐρωτά-ω",
+    "lemma_plain": "ἐρωτάω",
+    "article": null,
+    "decl_code": "3a",
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "69",
+      "pdf_page": 99
+    }
+  },
+  {
+    "id": "vocab.s06.θερμοσ ηον",
+    "display": "θερμ-ός -ή-όν",
+    "plain": "θερμός ήόν",
+    "gloss_en": "hot κατὰ τί ; for what? κηρ-ός, ὁ wax  Κικυννόθεν from the deme Kikynna κρεμάθρας a basket μέμφο-μαι blame, find fault with μετέωρ-ος -ον in the air/sky μοι me ὁπόσους τοὺς ἑαυτῆς πόδας how many of its own foot lengths οὐδὲν λέγ-ω speak nonsense οὐδέποτε never περι-φρονέ-ω surround with thought, circumcontemplate Περσικ-ός -ή-όν Persian πηδά-ω leap πρῶτον first σ-ός σ-ή σ-όν your Σωκρατίδι-ον dear Socrates  τῆς γῆς the earth τί; why? φροντιστήρι-ον, τὸ think-tank, mental institute  Χαιρεφῶντος of Khairephon",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2a",
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "69",
+      "pdf_page": 99
+    }
+  },
+  {
+    "id": "vocab.s06.χωριον, το",
+    "display": "χωρί-ον, τὸ",
+    "plain": "χωρίον, τὸ",
+    "gloss_en": "space, distance  ψύλλ-α, ἡ flea  ψυχρ-ός -ά-όν cold ὡς that Vocabulary to be learnt ἀπέρχομαι (ἀπελθ-) depart, go away βιάζομαι use force εἶτα then, next ἐξευρίσκω (ἐξευρ- ) find out ἥλιος, ὁ sun  ὁπόσος η ον how many, much πηδάω leap, jump πόρρω far, far off πρῶτος η ον first πρῶτον first, at first Σωκράτης, ὁ Socrates  τί; why? (τίθημι) θε- put, place χωρίον, τὸ place, space, region",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2b",
+    "where": {
+      "passage": "6C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "69",
+      "pdf_page": 99
+    }
+  },
+  {
+    "id": "vocab.s06.αμαθησ",
+    "display": "ἀ-μαθής",
+    "plain": "ἀμαθής",
+    "gloss_en": "ignorant (nom.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.αμαθη",
+    "display": "ἀ-μαθῆ",
+    "plain": "ἀμαθῆ",
+    "gloss_en": "ignorant (acc.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ανατελει (it)",
+    "display": "ἀνα-τελ-εῖ (it)",
+    "plain": "ἀνατελεῖ (it)",
+    "gloss_en": "will rise (fut. of",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ανατελλω)",
+    "display": "ἀνα-τέλλ-ω)",
+    "plain": "ἀνατέλλω)",
+    "gloss_en": "(definition)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.απολλων (απολλων)",
+    "display": "Ἀπόλλων (Ἀπόλλων-)",
+    "plain": "Ἀπόλλων (Ἀπόλλων)",
+    "gloss_en": "Apollo",
+    "lemma_display": "acc. Ἀπόλλω",
+    "lemma_plain": "acc. Ἀπόλλω",
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.γερων (γεροντ)",
+    "display": "γέρων (γεροντ-)",
+    "plain": "γέρων (γεροντ)",
+    "gloss_en": "old man",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.γνωμη",
+    "display": "γνώμ-η",
+    "plain": "γνώμη",
+    "gloss_en": "plan",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δανειζω",
+    "display": "δανείζ-ω",
+    "plain": "δανείζω",
+    "gloss_en": "lend (money)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δητα",
+    "display": "δῆτα",
+    "plain": "δῆτα",
+    "gloss_en": "then; indeed",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δραω (δρασ)",
+    "display": "δρά-ω (δρας-)",
+    "plain": "δράω (δρας)",
+    "gloss_en": "do, act",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.εγενομην",
+    "display": "ἐ-γεν-όμην",
+    "plain": "ἐγενόμην",
+    "gloss_en": "I became",
+    "lemma_display": "γίγν-ομαι",
+    "lemma_plain": "γίγνομαι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.εγενου (you) (s.)",
+    "display": "ἐ-γέν-ου (you) (s.)",
+    "plain": "ἐγένου (you) (s.)",
+    "gloss_en": "became",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ει",
+    "display": "εἰ",
+    "plain": "εἰ",
+    "gloss_en": "if",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ει αρα",
+    "display": "εἰ ἆρα",
+    "plain": "εἰ ἆρα",
+    "gloss_en": "whether, indeed",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.εκφροντιζω",
+    "display": "ἐκφροντίζ-ω",
+    "plain": "ἐκφροντίζω",
+    "gloss_en": "think out",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ελαβον",
+    "display": "ἔ-λαβ-ον",
+    "plain": "ἔλαβον",
+    "gloss_en": "I escaped notice",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.εμαυτον",
+    "display": "ἐμαυτ-ὸν",
+    "plain": "ἐμαυτὸν",
+    "gloss_en": "myself (acc)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.επαθον",
+    "display": "ἔ-παθ-ον",
+    "plain": "ἔπαθον",
+    "gloss_en": "I experienced, suffered",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.επι τησ κλινησ",
+    "display": "ἐπὶ τῆς κλίνης",
+    "plain": "ἐπὶ τῆς κλίνης",
+    "gloss_en": "on the couch",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ετεροσ αον",
+    "display": "ἕτερ-ος -α-ον",
+    "plain": "ἕτερος αον",
+    "gloss_en": "one (of 2)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ηλθον (i)",
+    "display": "ἦλθ-ον (I)",
+    "plain": "ἦλθον (I)",
+    "gloss_en": "came",
+    "lemma_display": "ἔρχ-ομαι",
+    "lemma_plain": "ἔρχομαι",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ηττων ηττον (ηττον)",
+    "display": "ἥττων ἧττον (ἥττον-)",
+    "plain": "ἥττων ἧττον (ἥττον)",
+    "gloss_en": "weaker, lesser",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ιππικη",
+    "display": "ἱππικ-ή",
+    "plain": "ἱππική",
+    "gloss_en": "horse-fever",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ιππομανη",
+    "display": "ἱππο-μανῆ",
+    "plain": "ἱππομανῆ",
+    "gloss_en": "horse-mad (acc.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κατακλινθη",
+    "display": "κατα-κλίνθη",
+    "plain": "κατακλίνθη",
+    "gloss_en": "lie down! (s.)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κλεπτω",
+    "display": "κλέπτω",
+    "plain": "κλέπτω",
+    "gloss_en": "steal",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κορισ",
+    "display": "κόρ-ις",
+    "plain": "κόρις",
+    "gloss_en": "bug",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3e",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κρειττων κρειττον (κρειττον)",
+    "display": "κρείττων κρεῖττον (κρειττον-)",
+    "plain": "κρείττων κρεῖττον (κρειττον)",
+    "gloss_en": "stronger, greater",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.λησω",
+    "display": "λήσ-ω",
+    "plain": "λήσω",
+    "gloss_en": "I shall escape notice",
+    "lemma_display": "fut. of λανθάν-ω",
+    "lemma_plain": "fut. of λανθάνω",
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.μη",
+    "display": "μὴ",
+    "plain": "μὴ",
+    "gloss_en": "not",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.μην (μην)",
+    "display": "μὴν (μην-)",
+    "plain": "μὴν (μην)",
+    "gloss_en": "month",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.νυκτι",
+    "display": "νυκτὶ",
+    "plain": "νυκτὶ",
+    "gloss_en": "at night",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.οπωσ",
+    "display": "ὅπως",
+    "plain": "ὅπως",
+    "gloss_en": "how?",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.οτι",
+    "display": "ὅτι",
+    "plain": "ὅτι",
+    "gloss_en": "what?",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ουτοσ",
+    "display": "οὗτος",
+    "plain": "οὗτος",
+    "gloss_en": "hey, you!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.πανυ",
+    "display": "πάνυ",
+    "plain": "πάνυ",
+    "gloss_en": "at all",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.πεοσ",
+    "display": "πέ-ος",
+    "plain": "πέος",
+    "gloss_en": "penis",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "3c",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ποτεροσ αον",
+    "display": "πότερ-ος -α-ον",
+    "plain": "πότερος αον",
+    "gloss_en": "which (of two)?",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.προσαγορευω",
+    "display": "προσ-αγορεύ-ω",
+    "plain": "προσαγορεύω",
+    "gloss_en": "address",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σεαυτου",
+    "display": "σεαυτοῦ",
+    "plain": "σεαυτοῦ",
+    "gloss_en": "your own",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σεληνη",
+    "display": "σελήν-η",
+    "plain": "σελήνη",
+    "gloss_en": "moon",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σιγaω",
+    "display": "σιγá-ω",
+    "plain": "σιγáω",
+    "gloss_en": "be quiet",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σοσ ση σον",
+    "display": "σ-ός σ-ή σ-όν",
+    "plain": "σός σή σόν",
+    "gloss_en": "your",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σωκρατιδιον",
+    "display": "Σωκρατίδι-ον",
+    "plain": "Σωκρατίδιον",
+    "gloss_en": "dear Socrates",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": "2b",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.τη δεξια",
+    "display": "τῇ δεξιᾷ",
+    "plain": "τῇ δεξιᾷ",
+    "gloss_en": "right hand",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.τημερον",
+    "display": "τήμερον",
+    "plain": "τήμερον",
+    "gloss_en": "today",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.υποχρεωσων",
+    "display": "ὑπό-χρε-ως-ων",
+    "plain": "ὑπόχρεωςων",
+    "gloss_en": "in debt",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.φαρμακισ (φαρμακιδ)",
+    "display": "φαρμακίς (φαρμακίδ-)",
+    "plain": "φαρμακίς (φαρμακίδ)",
+    "gloss_en": "witch,",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.φροντιστηριον",
+    "display": "φροντιστήρι-ον",
+    "plain": "φροντιστήριον",
+    "gloss_en": "think-tank, mental institute",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "τό",
+    "decl_code": "2b",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.χρησιμοσ ηον",
+    "display": "χρήσιμ-ος -η-ον",
+    "plain": "χρήσιμος ηον",
+    "gloss_en": "useful",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.χρηστησ",
+    "display": "χρήστ-ης",
+    "plain": "χρήστης",
+    "gloss_en": "creditor",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "1d",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.αμαθησ",
+    "display": "ἀμαθής",
+    "plain": "ἀμαθής",
+    "gloss_en": "ignorant",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.αρα",
+    "display": "ἆρα",
+    "plain": "ἆρα",
+    "gloss_en": "then, in that case (inferring)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.γερων (γεροντ)",
+    "display": "γέρων (γεροντ-)",
+    "plain": "γέρων (γεροντ)",
+    "gloss_en": "old man",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ὁ",
+    "decl_code": "3a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.γνωμη",
+    "display": "γνώμ-η",
+    "plain": "γνώμη",
+    "gloss_en": "mind, purpose, judgment, plan",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δεξιοσ α ον",
+    "display": "δεξιός ά όν",
+    "plain": "δεξιός ά όν",
+    "gloss_en": "right",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δεξια",
+    "display": "δεξι-ά",
+    "plain": "δεξιά",
+    "gloss_en": "right hand",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1b",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δητα",
+    "display": "δῆτα",
+    "plain": "δῆτα",
+    "gloss_en": "then",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.δραω (δρασ)",
+    "display": "δρά-ω (δρας-)",
+    "plain": "δράω (δρας)",
+    "gloss_en": "do, act",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ει",
+    "display": "εἰ",
+    "plain": "εἰ",
+    "gloss_en": "if, whether",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.εμαυτον",
+    "display": "ἐμαυτὸν",
+    "plain": "ἐμαυτὸν",
+    "gloss_en": "myself",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ετεροσαον",
+    "display": "ἕτερ-οςᾱον",
+    "plain": "ἕτεροςᾱον",
+    "gloss_en": "which (of two)? of two",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ηττων ηττον (ηττον)",
+    "display": "ἥττων ἧττον (ἥττον-)",
+    "plain": "ἥττων ἧττον (ἥττον)",
+    "gloss_en": "lesser, weaker",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κλεπτω",
+    "display": "κλέπτω",
+    "plain": "κλέπτω",
+    "gloss_en": "steal",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.κρειττων κρειττον (κρειττον)",
+    "display": "κρείττων κρεῖττον (κρειττον-)",
+    "plain": "κρείττων κρεῖττον (κρειττον)",
+    "gloss_en": "stronger, greater",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ουτοσ",
+    "display": "οὗτος",
+    "plain": "οὗτος",
+    "gloss_en": "hey there! hey you!",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.πανυ",
+    "display": "πάνυ",
+    "plain": "πάνυ",
+    "gloss_en": "very (much); at all",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.ποτεροσαον",
+    "display": "πότεροςᾱον",
+    "plain": "πότεροςᾱον",
+    "gloss_en": "which (of two)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σεληνη",
+    "display": "σελήνη",
+    "plain": "σελήνη",
+    "gloss_en": "moon",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": "ἡ",
+    "decl_code": "1a",
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.σοσ ση σον",
+    "display": "σός σή σόν",
+    "plain": "σός σή σόν",
+    "gloss_en": "your (when ‘you’ are one person)",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.τημερον",
+    "display": "τήμερον",
+    "plain": "τήμερον",
+    "gloss_en": "today",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s06.χρησιμοσ η ον",
+    "display": "χρήσιμος η ον",
+    "plain": "χρήσιμος η ον",
+    "gloss_en": "useful, profitable",
+    "lemma_display": null,
+    "lemma_plain": null,
+    "article": null,
+    "decl_code": null,
+    "where": {
+      "passage": "6D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "71",
+      "pdf_page": 101
+    }
+  },
+  {
+    "id": "vocab.s07.αληθεια, η",
+    "display": "ἀλήθει-α, ἡ",
+    "plain": "ἀλήθεια, ἡ",
+    "gloss_en": "truth (1b)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.αναγκη, η",
+    "display": "ἀνάγκ-η, ἡ",
+    "plain": "ἀνάγκη, ἡ",
+    "gloss_en": "necessity (1a)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.βουλομαι",
+    "display": "βούλ-ομαι",
+    "plain": "βούλομαι",
+    "gloss_en": "wish, want",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.διαβαλλειν",
+    "display": "δια-βάλλ-ειν",
+    "plain": "διαβάλλειν",
+    "gloss_en": "to slander",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.διαβολη, η",
+    "display": "δια-βολ-ή, ἡ",
+    "plain": "διαβολή, ἡ",
+    "gloss_en": "a slander (1a)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.διδασκειν",
+    "display": "διδάσκ-ειν",
+    "plain": "διδάσκειν",
+    "gloss_en": "to teach",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.δοξα, η",
+    "display": "δόξ-α, ἡ",
+    "plain": "δόξα, ἡ",
+    "gloss_en": "reputation (1c)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.εαυτον",
+    "display": "ἑαυτ-όν",
+    "plain": "ἑαυτόν",
+    "gloss_en": "himself",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.ειδεναι",
+    "display": "ειδέναι",
+    "plain": "ειδέναι",
+    "gloss_en": "to know (οἶδα)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.εταιροσ, ο",
+    "display": "ἑταῖρ-ος, ὁ",
+    "plain": "ἑταῖρος, ὁ",
+    "gloss_en": "friend (2a)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.η",
+    "display": "ἤ",
+    "plain": "ἤ",
+    "gloss_en": "than",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.θορυβεω",
+    "display": "θορυβέ-ω",
+    "plain": "θορυβέω",
+    "gloss_en": "make a din",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "74",
+      "pdf_page": 104
+    }
+  },
+  {
+    "id": "vocab.s07.ιεναι",
+    "display": "ἰέναι",
+    "plain": "ἰέναι",
+    "gloss_en": "to go (ἔρχ-ομαι/εἶμι)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.ισωσ",
+    "display": "ἴσως",
+    "plain": "ἴσως",
+    "gloss_en": "perhaps",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.λογιζομαι",
+    "display": "λογίζ-ομαι",
+    "plain": "λογίζομαι",
+    "gloss_en": "reckon, consider",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.μαρτυρεω",
+    "display": "μαρτυρέ-ω",
+    "plain": "μαρτυρέω",
+    "gloss_en": "bear witness",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.μεντοι",
+    "display": "μέντοι",
+    "plain": "μέντοι",
+    "gloss_en": "however",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.παντα",
+    "display": "πάντα",
+    "plain": "πάντα",
+    "gloss_en": "everything (acc.)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.ποιειν",
+    "display": "ποι-εῖν",
+    "plain": "ποιεῖν",
+    "gloss_en": "to do (ποιέ-ω)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.ποτε",
+    "display": "ποτέ",
+    "plain": "ποτέ",
+    "gloss_en": "once",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.σοφια, η",
+    "display": "σοφί-α, ἡ",
+    "plain": "σοφία, ἡ",
+    "gloss_en": "wisdom (1b)",
+    "where": {
+      "passage": "7A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "75",
+      "pdf_page": 105
+    }
+  },
+  {
+    "id": "vocab.s07.αρετη, η",
+    "display": "ἀρετ-ή, ἡ",
+    "plain": "ἀρετή, ἡ",
+    "gloss_en": "excellence, virtue (1a)",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.διονυσοδωροσ, ο",
+    "display": "Διονυσόδωρ-ος, ὁ",
+    "plain": "Διονυσόδωρος, ὁ",
+    "gloss_en": "Dionysodoros",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.λυκειον, το",
+    "display": "Λύκει-ον, τό",
+    "plain": "Λύκειον, τό",
+    "gloss_en": "Lykeion (2b)",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.προτρεπω",
+    "display": "προ-τρέπ-ω",
+    "plain": "προτρέπω",
+    "gloss_en": "urge, impel",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.φιλοσοφια, η",
+    "display": "φιλοσοφί-α, ἡ",
+    "plain": "φιλοσοφία, ἡ",
+    "gloss_en": "philosophy (1b)",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.χθεσ",
+    "display": "χθές",
+    "plain": "χθές",
+    "gloss_en": "yesterday",
+    "where": {
+      "passage": "7C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "79",
+      "pdf_page": 109
+    }
+  },
+  {
+    "id": "vocab.s07.αμαθεισ",
+    "display": "ἀμαθεῖς",
+    "plain": "ἀμαθεῖς",
+    "gloss_en": "ignorant (nom.)",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.ομολογεω",
+    "display": "ὁμολογέω",
+    "plain": "ὁμολογέω",
+    "gloss_en": "agree",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.διδασκαλοσ, ο",
+    "display": "διδάσκαλ-ος, ὁ",
+    "plain": "διδάσκαλος, ὁ",
+    "gloss_en": "teacher (2a)",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.πω",
+    "display": "πω",
+    "plain": "πω",
+    "gloss_en": "yet",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.ουκουν",
+    "display": "οὐκοῦν",
+    "plain": "οὐκοῦν",
+    "gloss_en": "therefore",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.ησμεν",
+    "display": "ἦ-σ-μεν",
+    "plain": "ἦσμεν",
+    "gloss_en": "we knew (past of οἶδα)",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.μειρακιον, το",
+    "display": "μειράκι-ον, τό",
+    "plain": "μειράκιον, τό",
+    "gloss_en": "youth (2b)",
+    "where": {
+      "passage": "7E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "81",
+      "pdf_page": 111
+    }
+  },
+  {
+    "id": "vocab.s07.απορια",
+    "display": "ἀπορία",
+    "plain": "ἀπορία",
+    "gloss_en": "perplexity",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "82",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "vocab.s07.αρτι",
+    "display": "ἄρτι",
+    "plain": "ἄρτι",
+    "gloss_en": "just now",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "82",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "vocab.s07.ενταυθα",
+    "display": "ἐνταῦθα",
+    "plain": "ἐνταῦθα",
+    "gloss_en": "at this point",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "82",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "vocab.s07.ευθυσ",
+    "display": "εὐθὺς",
+    "plain": "εὐθὺς",
+    "gloss_en": "at once",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "82",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "vocab.s07.εκδεχομαι",
+    "display": "ἐκδέχομαι",
+    "plain": "ἐκδέχομαι",
+    "gloss_en": "receive in turn",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "82",
+      "pdf_page": 112
+    }
+  },
+  {
+    "id": "vocab.s07.μαχη, η",
+    "display": "μάχ-η, ἡ",
+    "plain": "μάχη, ἡ",
+    "gloss_en": "fight, battle (1a)",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "83",
+      "pdf_page": 113
+    }
+  },
+  {
+    "id": "vocab.s07.φυλαττω",
+    "display": "φυλάττ-ω",
+    "plain": "φυλάττω",
+    "gloss_en": "guard",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "83",
+      "pdf_page": 113
+    }
+  },
+  {
+    "id": "vocab.s07.επομαι",
+    "display": "ἕπ-ομαι",
+    "plain": "ἕπομαι",
+    "gloss_en": "follow",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.ηπερ",
+    "display": "ἦπερ",
+    "plain": "ἦπερ",
+    "gloss_en": "just where",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.παιδοποιεομαι",
+    "display": "παιδο-ποιέ-ομαι",
+    "plain": "παιδοποιέομαι",
+    "gloss_en": "beget children",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.πλησιον",
+    "display": "πλησίον",
+    "plain": "πλησίον",
+    "gloss_en": "nearby, near (+ gen.)",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.σκυθησ, ο",
+    "display": "Σκύθ-ης, ὁ",
+    "plain": "Σκύθης, ὁ",
+    "gloss_en": "Scythian (1d)",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.στρατοπεδευομαι",
+    "display": "στρατοπεδεύ-ομαι",
+    "plain": "στρατοπεδεύομαι",
+    "gloss_en": "make camp",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.φωνη, η",
+    "display": "φων-ή, ἡ",
+    "plain": "φωνή, ἡ",
+    "gloss_en": "language, speech (1a)",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.νομιζω",
+    "display": "νομίζω",
+    "plain": "νομίζω",
+    "gloss_en": "think, acknowledge",
+    "where": {
+      "passage": "7F"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "85",
+      "pdf_page": 115
+    }
+  },
+  {
+    "id": "vocab.s07.αυτην",
+    "display": "αὐτ-ὴν",
+    "plain": "αὐτὴν",
+    "gloss_en": "herself",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "86",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "vocab.s07.αυτη",
+    "display": "αὐτ-ὴ",
+    "plain": "αὐτὴ",
+    "gloss_en": "she herself",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "86",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "vocab.s07.αυτοσ",
+    "display": "αὐτ-ὸς",
+    "plain": "αὐτὸς",
+    "gloss_en": "he himself",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "86",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "vocab.s07.διαρπαζω",
+    "display": "δι-αρπάζ-ω",
+    "plain": "διαρπάζω",
+    "gloss_en": "lay waste",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "86",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "vocab.s07.δυο",
+    "display": "δύο",
+    "plain": "δύο",
+    "gloss_en": "two (nom.)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "86",
+      "pdf_page": 116
+    }
+  },
+  {
+    "id": "vocab.s07.ειπουσαι",
+    "display": "εἰπ-οῦσ-αι",
+    "plain": "εἰποῦσαι",
+    "gloss_en": "saying (nom. pl. f.) (λέγ-ω/εἶπ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.εκει",
+    "display": "ἐκεῖ",
+    "plain": "ἐκεῖ",
+    "gloss_en": "there",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ελθοντασ",
+    "display": "ἐλθ-όντ-ας",
+    "plain": "ἐλθόντας",
+    "gloss_en": "on going (acc. pl. m.) (ἔρχ-ομαι/ἦλθ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ελθων",
+    "display": "ἐλθ-ὼν",
+    "plain": "ἐλθὼν",
+    "gloss_en": "upon coming (nom. s. m.) (ἔρχ-ομαι/ἦλθ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.εξανασταντεσ",
+    "display": "ἐξ-ανα-στά-ντ-ες",
+    "plain": "ἐξαναστάντες",
+    "gloss_en": "upon getting up and going off (nom. pl. m.) (ἐξ-ἀν-ίστα-μαι/ἐξ-ἀν-έστη-ν)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.εξανισταμεθα",
+    "display": "ἐξ-ἀν-ιστά-μεθα",
+    "plain": "ἐξἀνιστάμεθα",
+    "gloss_en": "we get up and go off",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.εξομεν",
+    "display": "ἕξ-ομεν",
+    "plain": "ἕξομεν",
+    "gloss_en": "we shall have (fut. of ἔχ-ω)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.επανελθοντασ",
+    "display": "ἐπ-αν-ελθ-όντ-ας",
+    "plain": "ἐπανελθόντας",
+    "gloss_en": "upon returning (acc. pl. m.) (ἐπ-αν-ἐρχ-ομαι/ἐπ-αν-ἤλθ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.εργαζομαι",
+    "display": "ἐργάζ-ομαι",
+    "plain": "ἐργάζομαι",
+    "gloss_en": "perform, do",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ευροντεσ",
+    "display": "εὑρ-όντ-ες",
+    "plain": "εὑρόντες",
+    "gloss_en": "on finding (nom. pl. m.) (εὑρίσκ-ω/ηὗρ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ιππαζομαι",
+    "display": "ἱππάζ-ομαι",
+    "plain": "ἱππάζομαι",
+    "gloss_en": "ride horses",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.καταλαβων",
+    "display": "κατα-λαβ-ὼν",
+    "plain": "καταλαβὼν",
+    "gloss_en": "on coming across (nom. s. m.) (κατα-λαμβάν-ω/κατ-ἐ-λαβ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.μαθοντεσ",
+    "display": "μαθ-όντ-ες",
+    "plain": "μαθόντες",
+    "gloss_en": "on learning (nom. pl. m.) (μανθάν-ω/ἔ-μαθ-ον)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.μεροσ, το",
+    "display": "μέρ-ος, τό",
+    "plain": "μέρος, τό",
+    "gloss_en": "share, portion (3c)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.νομοσ, ο",
+    "display": "νόμ-ος, ὁ",
+    "plain": "νόμος, ὁ",
+    "gloss_en": "custom, usage (2a)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.οικεω",
+    "display": "οἰκέ-ω",
+    "plain": "οἰκέω",
+    "gloss_en": "dwell in",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ομου",
+    "display": "ὁμοῦ",
+    "plain": "ὁμοῦ",
+    "gloss_en": "together",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.παλιν",
+    "display": "πάλιν",
+    "plain": "πάλιν",
+    "gloss_en": "back, again",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.ποταμοσ, ο",
+    "display": "ποταμ-ός, ὁ",
+    "plain": "ποταμός, ὁ",
+    "gloss_en": "river (2a)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.σημαινω",
+    "display": "σημαίν-ω",
+    "plain": "σημαίνω",
+    "gloss_en": "give a sign",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.συνοικεω",
+    "display": "συν-οἰκέ-ω",
+    "plain": "συνοἰκέω",
+    "gloss_en": "live together",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.τοξευω",
+    "display": "τοξεύ-ω",
+    "plain": "τοξεύω",
+    "gloss_en": "use bows and arrows",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.υστεραια, η",
+    "display": "ὑστεραί-α, ἡ",
+    "plain": "ὑστεραία, ἡ",
+    "gloss_en": "next day (1b)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.φωνεω",
+    "display": "φωνέ-ω",
+    "plain": "φωνέω",
+    "gloss_en": "speak, converse",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.χραομαι",
+    "display": "χρά-ομαι",
+    "plain": "χράομαι",
+    "gloss_en": "use, have sex with",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.χωροσ, ο",
+    "display": "χῶρ-ος, ὁ",
+    "plain": "χῶρος, ὁ",
+    "gloss_en": "place, region (2a)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.δυναμαι",
+    "display": "δύναμαι",
+    "plain": "δύναμαι",
+    "gloss_en": "be able",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.σημειον, το",
+    "display": "σημεῖον, τό",
+    "plain": "σημεῖον, τό",
+    "gloss_en": "sign, signal (2b)",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s07.υμετεροσαον",
+    "display": "ὑμέτεροςᾱον",
+    "plain": "ὑμέτεροςᾱον",
+    "gloss_en": "your",
+    "where": {
+      "passage": "7H"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "87",
+      "pdf_page": 117
+    }
+  },
+  {
+    "id": "vocab.s08.οπισθεν",
+    "display": "ὄπισθεν",
+    "plain": "ὄπισθεν",
+    "gloss_en": "behind",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.ασπαζομαι",
+    "display": "ἀσπάζ-ομαι",
+    "plain": "ἀσπάζομαι",
+    "gloss_en": "greet",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.βελτιστε",
+    "display": "βέλτιστ-ε",
+    "plain": "βέλτιστε",
+    "gloss_en": "my very good friend",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.του",
+    "display": "τοῦ",
+    "plain": "τοῦ",
+    "gloss_en": "of the (s.)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.των",
+    "display": "τῶν",
+    "plain": "τῶν",
+    "gloss_en": "of the (pl.)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.πεμπω",
+    "display": "πέμπ-ω",
+    "plain": "πέμπω",
+    "gloss_en": "send",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.περιμενω",
+    "display": "περι-μέν-ω",
+    "plain": "περιμένω",
+    "gloss_en": "wait around (fut.",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.εταιροσ, ο",
+    "display": "ἑταῖρ-ος, ὁ",
+    "plain": "ἑταῖρος, ὁ",
+    "gloss_en": "friend, companion (2a)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.προσδραμων",
+    "display": "προσ-δραμ-ών",
+    "plain": "προσδραμών",
+    "gloss_en": "see προσ-τρέχ-ω",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.τησ",
+    "display": "τῆς",
+    "plain": "τῆς",
+    "gloss_en": "of the (s.)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.χαιρε",
+    "display": "χαῖρ-ε",
+    "plain": "χαῖρε",
+    "gloss_en": "hello! greetings!",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "91",
+      "pdf_page": 121
+    }
+  },
+  {
+    "id": "vocab.s08.ηγεομαι",
+    "display": "ἡγέ-ομαι",
+    "plain": "ἡγέομαι",
+    "gloss_en": "lead",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "93",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "vocab.s08.μων",
+    "display": "μῶν",
+    "plain": "μῶν",
+    "gloss_en": "surely not?",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "93",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "vocab.s08.πολιτησ, ο",
+    "display": "πολίτ-ης, ὁ",
+    "plain": "πολίτης, ὁ",
+    "gloss_en": "citizen (1d)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "93",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "vocab.s08.τοποσ, ο",
+    "display": "τόπ-ος, ὁ",
+    "plain": "τόπος, ὁ",
+    "gloss_en": "place (2a)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "93",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "vocab.s08.αγορα, η",
+    "display": "ἀγορᾶ, ἡ",
+    "plain": "ἀγορᾶ, ἡ",
+    "gloss_en": "market-place, agora (1b)",
+    "where": {
+      "passage": "8A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "93",
+      "pdf_page": 123
+    }
+  },
+  {
+    "id": "vocab.s08.αγρω",
+    "display": "ἀγρῷ",
+    "plain": "ἀγρῷ",
+    "gloss_en": "the country",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.αγω",
+    "display": "ἄγ-ω",
+    "plain": "ἄγω",
+    "gloss_en": "live in, be at (peace)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.αναγκη",
+    "display": "ἀνάγκη",
+    "plain": "ἀνάγκη",
+    "gloss_en": "of necessity",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.αρχομαι",
+    "display": "ἄρχ-ομαι",
+    "plain": "ἄρχομαι",
+    "gloss_en": "begin (+ inf.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.βελτιουσ",
+    "display": "βελτί-ους",
+    "plain": "βελτίους",
+    "gloss_en": "better (nom./acc.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.γουνασι",
+    "display": "γούνασι",
+    "plain": "γούνασι",
+    "gloss_en": "lap (lit. ‘knees’)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.δωρον, το",
+    "display": "δῶρ-ον, τό",
+    "plain": "δῶρον, τό",
+    "gloss_en": "gift (2b)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.εικοσ",
+    "display": "εἰκός",
+    "plain": "εἰκός",
+    "gloss_en": "it is likely",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ειρηνη, η",
+    "display": "εἰρήν-η, ἡ",
+    "plain": "εἰρήνη, ἡ",
+    "gloss_en": "peace (1a)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.επει",
+    "display": "ἐπεί",
+    "plain": "ἐπεί",
+    "gloss_en": "since",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ητοι",
+    "display": "ἦτοι",
+    "plain": "ἦτοι",
+    "gloss_en": "indeed",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ηδονησ",
+    "display": "ἡδον-ῆς",
+    "plain": "ἡδονῆς",
+    "gloss_en": "pleasure (after πλέα)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ηρακλεισ",
+    "display": "Ἡράκλεις",
+    "plain": "Ἡράκλεις",
+    "gloss_en": "Herakles! (voc.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.καιτοι",
+    "display": "καίτοι",
+    "plain": "καίτοι",
+    "gloss_en": "nonetheless",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.καρτερεω",
+    "display": "καρτερέ-ω",
+    "plain": "καρτερέω",
+    "gloss_en": "endure, put up with",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.κλοπη, η",
+    "display": "κλοπ-ή, ἡ",
+    "plain": "κλοπή, ἡ",
+    "gloss_en": "theft (1a)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.νεων",
+    "display": "νε-ῶν",
+    "plain": "νεῶν",
+    "gloss_en": "of ships",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.νοσου",
+    "display": "νόσ-ου",
+    "plain": "νόσου",
+    "gloss_en": "disease (after πλέως)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.νυν",
+    "display": "νυν",
+    "plain": "νυν",
+    "gloss_en": "so, then",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.οινου",
+    "display": "οἴν-ου",
+    "plain": "οἴνου",
+    "gloss_en": "wine (after πλέα)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.οτι",
+    "display": "ὅτι",
+    "plain": "ὅτι",
+    "gloss_en": "because of",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ουδενοσ",
+    "display": "οὐδενὸς",
+    "plain": "οὐδενὸς",
+    "gloss_en": "nothing (after ἄξιοι)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.παντων",
+    "display": "πάντ-ων",
+    "plain": "πάντων",
+    "gloss_en": "of all",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.περικλησ",
+    "display": "Περικλῆς",
+    "plain": "Περικλῆς",
+    "gloss_en": "Pericles (nom.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.ποιεομαι",
+    "display": "ποιέ-ομαι",
+    "plain": "ποιέομαι",
+    "gloss_en": "make",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.πλην",
+    "display": "πλὴν",
+    "plain": "πλὴν",
+    "gloss_en": "except",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.σιτου",
+    "display": "σίτ-ου",
+    "plain": "σίτου",
+    "gloss_en": "food (after πλέα)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.συγγενησ, ο",
+    "display": "συγγεν-ής, ὁ",
+    "plain": "συγγενής, ὁ",
+    "gloss_en": "relation (3d)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.τετλαμεν",
+    "display": "τέτλαμεν",
+    "plain": "τέτλαμεν",
+    "gloss_en": "we endure",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.υγιειασ",
+    "display": "ὑγιεί-ας",
+    "plain": "ὑγιείας",
+    "gloss_en": "health (after πλέα)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.φερε",
+    "display": "φέρε",
+    "plain": "φέρε",
+    "gloss_en": "come! (s.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.φιλοπολισ",
+    "display": "φιλό-πολις",
+    "plain": "φιλόπολις",
+    "gloss_en": "patriotic (nom.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.φιλοσοφοσ, ο",
+    "display": "φιλό-σοφ-ος, ὁ",
+    "plain": "φιλόσοφος, ὁ",
+    "gloss_en": "philosopher (2a)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.χειρουσ",
+    "display": "χείρ-ους",
+    "plain": "χείρους",
+    "gloss_en": "worse (nom.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "97",
+      "pdf_page": 127
+    }
+  },
+  {
+    "id": "vocab.s08.απολεω",
+    "display": "ἀπολέω",
+    "plain": "ἀπολέω",
+    "gloss_en": "I shall kill, destroy",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "vocab.s08.ηδονη, η",
+    "display": "ἡδονή, ἡ",
+    "plain": "ἡδονή, ἡ",
+    "gloss_en": "pleasure (1a)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "vocab.s08.ηρακλησ, ο",
+    "display": "Ἡρακλῆς, ὁ",
+    "plain": "Ἡρακλῆς, ὁ",
+    "gloss_en": "Herakles (3d uncontr.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "vocab.s08.λαμβανομαι",
+    "display": "λαμβάνομαι",
+    "plain": "λαμβάνομαι",
+    "gloss_en": "take hold of (+gen.)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "vocab.s08.σιτοσ, ο",
+    "display": "σῖτος, ὁ",
+    "plain": "σῖτος, ὁ",
+    "gloss_en": "food (2a) (pl. σῖτα, τά 2b)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  },
+  {
+    "id": "vocab.s08.ταν",
+    "display": "τᾶν",
+    "plain": "τᾶν",
+    "gloss_en": "my dear chap (voc.) (condescendingly)",
+    "where": {
+      "passage": "8C"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "98",
+      "pdf_page": 128
+    }
+  }
+]

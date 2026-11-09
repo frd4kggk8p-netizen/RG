@@ -1,0 +1,516 @@
+{
+  "running_head": "131–133 Grammar for Section 6A–B",
+  "folio": "117",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        83,
+        313,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        187,
+        187,
+        114,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A–B: 1. Form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        250,
+        252,
+        142,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. θύω\n2. κελεύω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        250,
+        469,
+        142,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. κωλύω\n4. λύομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        186,
+        186,
+        203,
+        357
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Consonant stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        210,
+        187,
+        260,
+        908
+      ],
+      "margin_number": 132,
+      "speaker": null,
+      "text": "When σa is added to verbs with stems ending in consonants the following changes occur (note that these changes are, for the most part, identical to those found in the future tense: see 114).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        267,
+        238,
+        283,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) β, π, πτ and φ combine with σ to produce ψ:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        308,
+        267,
+        321,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πέμπ-ω    ‘I send’    πέμπ + σ →    ἔ-πεμψα    ‘I sent’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        336,
+        238,
+        351,
+        649
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) γ, κ, χ (and usually ττ) combine with σ to produce ξ:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        376,
+        267,
+        392,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δέξ-ομαι    ‘I receive’    δέξ + σ →    ἐ-δεξά-μην    ‘I received’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        406,
+        238,
+        421,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) δ, ζ, θ and τ are simply replaced by σ:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        445,
+        267,
+        458,
+        889
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πείθ-ω ‘I persuade’    πείθ + σ →    ἔ-πεισα    ‘I persuaded’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        483,
+        187,
+        610,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        510,
+        187,
+        542,
+        889
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A–B: 2. Translate the following presents and turn them into the equivalent aorist.\nYou may need to revise augments. See 104 or look ahead to 136:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        555,
+        252,
+        605,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. εὔχεσθε\n2. τύπτουσιν\n3. ἡσυχάζει",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        555,
+        469,
+        591,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. τρεπόμεθα\n5. πείθω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        631,
+        187,
+        649,
+        328
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Contract verbs",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        655,
+        187,
+        686,
+        907
+      ],
+      "margin_number": 133,
+      "speaker": null,
+      "text": "Contract verbs both active and middle lengthen the final vowel of their stem before σa is added (exactly as in the future, 115):",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 19,
+      "bbox": [
+        693,
+        83,
+        770,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": null,
+        "rows": [
+          [
+            null,
+            "τιμάω",
+            "‘I honour’",
+            "(α > η)",
+            "ἐ-τίμησα",
+            "‘I honoured’"
+          ],
+          [
+            null,
+            "ποιέω",
+            "‘I make, do’",
+            "(ε > η)",
+            "ἐ-ποιήσα",
+            "‘I made, did’"
+          ],
+          [
+            null,
+            "δηλόω",
+            "‘I show’",
+            "(ο > ω)",
+            "ἐ-δήλωσα",
+            "‘I showed’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        787,
+        218,
+        800,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Cf. δουλόομαι > ἐ-δουλωσᾰ-μην, etc.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 21,
+      "bbox": [
+        827,
+        187,
+        955,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 22,
+      "bbox": [
+        854,
+        187,
+        868,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A–B: 3. Translate the following aorists and turn them into the equivalent present:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 23,
+      "bbox": [
+        881,
+        252,
+        930,
+        379
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ἐνικήσαμεν\n2. ἐφίλησε\n3. ἐκράτησα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        881,
+        469,
+        917,
+        583
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. ἐζητήσατε\n5. ἠλευθέρωσαν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 135
+}

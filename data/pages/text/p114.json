@@ -1,0 +1,117 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "84",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        126,
+        79,
+        831,
+        155
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "δ' Ἀμαζόνες, ἰδοῦσαι τοὺς ἄνδρας οὐ φυλάττοντας, ἀπέκτειναν. ἀλλ' οὐκ ἔμπειροι ἦσαν περὶ τὰ ναυτικὰ αἱ Ἀμαζόνες. ἀποκτείνασαι οὖν τοὺς ἄνδρας ἔπλεον ᾗπερ ἔφερεν ὁ ἄνεμος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        139,
+        137,
+        206,
+        903
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "τέλος δ' εἰς τὴν τῶν Σκυθῶν γῆν ἀφικόμεναι καὶ ἀποβᾶσαι ἀπὸ τῶν πλοίων, ηὗρον ἱπποφόρβιον, καὶ τοὺς ἵππους λαβοῦσαι διήρπασαν τὴν τῶν Σκυθῶν γῆν. οἱ δὲ Σκύθαι, οὐ γιγνώσκοντες τὴν φωνήν, καὶ ἄνδρας νομίζοντες τὰς Ἀμαζόνας, ἐμπεσόντες καὶ μαχεσάμενοι τοὺς νεκροὺς ἀνεῖλον. οὕτως οὖν ἔγνωσαν γυναῖκας οὖσας, ἀνελόντες τοὺς νεκρούς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        207,
+        137,
+        329,
+        903
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "γρόντες δὲ ταῦτα, καὶ οὐ βουλόμενοι ἀποκτείνειν ἔτι, ἀλλὰ ἐξ αὐτῶν παιδοποιεῖσθαι, τοὺς ἑαυτῶν νεανίσκους ἀπέπεμψαν εἰς αὐτάς, κελεύοντες μάχεσθαι μὲν μή, ἕπεσθαι δὲ καὶ στρατοπεδεύεσθαι πλησίον τῶν Ἀμαζόνων. πλησίον οὖν ἐλθόντες εἵποντο οἱ νεανίσκοι, καὶ ἐστρατοπεδεύσαντο. καὶ πρῶτον μὲν ἀπῆλθον αἱ Ἀμαζόνες, ἀπελθοῦσαι δ' εἶδον τοὺς ἄνδρας ἑπομένους. αἱ μὲν οὖν Ἀμαζόνες ἐδίωκον, οἱ δ' ἄνδρες ἔφευγον. ἰδοῦσαι οὖν φεύγοντας τοὺς ἄνδρας, ἡσύχαζον αἱ Ἀμαζόνες. οὕτως οὖν, μαθοῦσαι τοὺς ἄνδρας οὐ πολεμίους ὄντας, οὐκέτι ἐφρόντιζον αὐτῶν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "γρόντες",
+          "reason": "Printed with omicron instead of omega (likely a typo in the textbook for γνόντες)",
+          "candidates": [
+            "γνόντες",
+            "γρόντες"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "order": 4,
+      "bbox": [
+        399,
+        412,
+        816,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        833,
+        125,
+        847,
+        366
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡμεῖς τοξεύομεν καὶ ἱππαζόμεθα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 114
+}

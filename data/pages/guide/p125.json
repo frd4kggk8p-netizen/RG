@@ -1,0 +1,260 @@
+{
+  "running_head": "Summary exercises for section 8",
+  "folio": "111",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        230,
+        71,
+        313,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "lawcourt, (τούτων τῶν ἀνδρῶν, ῥήτορος, τῆς ἐκκλησίας, τοῦ\nδικαστηρίου)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        315,
+        908
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "μένοις ἂν You could wait"
+          },
+          {
+            "n": "2",
+            "prompt": "λέγοιμι ἂν I might speak"
+          },
+          {
+            "n": "3",
+            "prompt": "βουλοίμεθα ἂν We would like to"
+          },
+          {
+            "n": "4",
+            "prompt": "πείθοισθε ἂν You would obey"
+          },
+          {
+            "n": "5",
+            "prompt": "ἀποκρινοῖν ἂν You could answer"
+          },
+          {
+            "n": "6",
+            "prompt": "κελεύοις ἂν You would order"
+          },
+          {
+            "n": "7",
+            "prompt": "παυοίμην ἂν I could stop"
+          },
+          {
+            "n": "8",
+            "prompt": "φέροιμεν ἂν We would carry"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        193,
+        192,
+        385,
+        909
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "a (i)",
+            "prompt": "The foreigner sits on the altar. (ἐπί + gen.)"
+          },
+          {
+            "n": "a (ii)",
+            "prompt": "The ship goes towards the enemy. (ἐπί + acc.)"
+          },
+          {
+            "n": "b (i)",
+            "prompt": "I shall go tomorrow into the agora with my friends. (μετά + gen.)"
+          },
+          {
+            "n": "b (ii)",
+            "prompt": "After this I shall go back home. (μετά + acc.)"
+          },
+          {
+            "n": "c (i)",
+            "prompt": "The ship sails past the island. (παρά + acc.)"
+          },
+          {
+            "n": "c (ii)",
+            "prompt": "The sophist receives much money from the pupils. (παρά + gen.)"
+          },
+          {
+            "n": "d (i)",
+            "prompt": "The slave ran towards us, forcing his way through the crowd. (διά + gen.)"
+          },
+          {
+            "n": "d (ii)",
+            "prompt": "My wife is afraid of the city because of the plague. (διά + acc.)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        390,
+        191,
+        635,
+        753
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Διονυσόδωρος καλλίων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "2",
+            "prompt": "Διονυσόδωρος μείζων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "3",
+            "prompt": "Διονυσόδωρος κακοδαιμονέστερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "4",
+            "prompt": "Διονυσόδωρος εὐφρονέστερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "5",
+            "prompt": "Διονυσόδωρος ἀμείνων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "6",
+            "prompt": "Διονυσόδωρος μωρότερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος"
+          },
+          {
+            "n": "7",
+            "prompt": "Διονυσόδωρος σοφώτερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        655,
+        191,
+        672,
+        440
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        683,
+        191,
+        929,
+        925
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "The herald's son listens to the speaker.\nὁ παῖς ὁ τοῦ ἀνδρὸς τῆς τοῦ ῥαψῳδοῦ χειρὸς λαμβάνεται."
+          },
+          {
+            "n": "2",
+            "prompt": "Who is responsible for this lawlessness, which is so dreadful?\nτίς ἐστιν αἴτιος ἐκείνων τῶν βοῶν, μεγίστων οὐσῶν;"
+          },
+          {
+            "n": "3",
+            "prompt": "Since we are Athenians we are worth much.\nσοφιστὴς ὤν, οὐδενὸς ἄξιος εἶ."
+          },
+          {
+            "n": "4",
+            "prompt": "Why do you say that no one is wiser than Socrates?\nδιὰ τί οἱ ῥήτορες πλουσιώτεροί εἰσιν ἢ τὸ τῆς πόλεως πλῆθος/[no ἢ]\nτοῦ τῆς πόλεως πλῆθος; εἰπέ μοι."
+          },
+          {
+            "n": "5",
+            "prompt": "We made our way through the city of the Lacedemonians.\nπολλὰ κακὰ παθόντες πρὸς τοὺς Πέρσας ἐμαχεσάμεθα ὑπὲρ τῆς\nἐλευθερίας."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 125
+}

@@ -1,0 +1,188 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "120",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        227,
+        77,
+        916,
+        155
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "If you do not recognise any of them, there is no short cut: you must simply look up βλέβω, βλέπω, βλέπτω and βλέφω to see which of the verbs exists in Greek.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        152,
+        195,
+        199,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Even more complex stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        195,
+        195,
+        718,
+        210
+      ],
+      "margin_number": 141,
+      "speaker": null,
+      "text": "Here is a demanding example – and fortunately rare!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        225,
+        238,
+        256,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἠτίμασαν:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        91,
+        210,
+        664,
+        648
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Remove the augment. But ἠ- could hide the original vowel α, ε or η (137 above).\nRemove the ending -σαν (3rd pl. ‘they’).\nStem therefore α/ε/ητίμα-\nThe verb is therefore α/ε/ητιμάω. Look up vocabulary: no such verb. Infuriating, as there is a verb τιμάω.\nThink: what would the aorist of τιμάω be? ἐτίμησα. Ha! The contract vowel α has lengthened to η (see 133 above), as it does in contract verbs. But α did not lengthen to η with α/ε/ητίμα- (above). Therefore α/ε/ητίμα- is not a contract verb.\nThe σ is therefore misleading us. It must be part of the original verb. So we were wrong to think (above) that it needed to be removed as the sign of the aorist. The verb is therefore α/ε/ητίμασ-ω. Look up it up.\nNo, it isn’t. What other consonant might that σ hide, which would turn into a σ in the aorist? Answer: δ, θ, ζ or τ (see 132).\nSo the verb might therefore be any of ἀτιμάδω, ἀτιμάθω, ἀτιμάζω, ἀτιμάτω, ἐτιμάδω, ἐτιμάθω, ἐτιμάζω, ἐτιμάτω, ἠτιμάδω, ἠτιμάθω, ἠτιμάζω or ἠτιμάτω. If you recognise one of the items in this list, you can proceed to translate ἠτίμασαν. If you do not, however, you must hunt under ἀτιμα-, ἐτιμα- and ἠτιμα- in a dictionary or vocabulary list until you find a suitable candidate. The more you study the language, the more you will develop a good instinct for where to look first.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        653,
+        246,
+        714,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἠτίμασαν is in fact the 3rd pl. aorist active indicative of ἀτιμάζω ‘I dishonour’, and may be translated ‘they dishonoured’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        747,
+        195,
+        762,
+        408
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Aspect and the aorist",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        771,
+        195,
+        786,
+        739
+      ],
+      "margin_number": 142,
+      "speaker": null,
+      "text": "The most common meaning of the aorist is ‘I -ed’. But:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        801,
+        241,
+        925,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Because of the different ways in which Greek and English speakers use tenses, you may sometimes need to render an aorist as ‘I have -ed’ or ‘I had -ed’ to stop your translation sounding stilted.\nThe essential point, however, is this: aorist indicatives are used to indicate something that happened in the past without reference to the",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 138
+}

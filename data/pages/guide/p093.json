@@ -1,0 +1,477 @@
+{
+  "running_head": "Section 6D",
+  "folio": "79",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        190,
+        93,
+        269,
+        285
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        190,
+        93,
+        131,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The second part of your verb chart should now look like this:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "bbox": [
+        188,
+        190,
+        240,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          "Irregular verbs",
+          "present",
+          "future",
+          "aorist"
+        ],
+        "rows": [
+          [
+            null,
+            "μανθάνω",
+            "μαθήσομαι",
+            "ἔμαθον"
+          ],
+          [
+            null,
+            "λαμβάνω",
+            "λήψομαι",
+            "ἔλαβον"
+          ],
+          [
+            null,
+            "γίγνομαι",
+            "γενήσομαι",
+            "ἐγενόμην"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        257,
+        93,
+        273,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "and you should also have added:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "bbox": [
+        287,
+        190,
+        355,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [],
+        "rows": [
+          [
+            null,
+            "ἔρχομαι",
+            "εἶμι",
+            "ἦλθον"
+          ],
+          [
+            null,
+            "ὁράω",
+            "ὄψομαι",
+            "εἶδον"
+          ],
+          [
+            null,
+            "εὑρίσκω",
+            "εὑρήσω",
+            "ηὗρον"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        369,
+        214,
+        384,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Remember to add other verbs with second aorists to the list as you meet them.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        400,
+        191,
+        426,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6D",
+      "lang": "en",
+      "para_no": null,
+      "marker": "box",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        435,
+        93,
+        473,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This section contains mainly further practice in second aorist stems: these have been given in vocabularies so (it is hoped) they should pose few problems.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        492,
+        193,
+        509,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 70",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        517,
+        122,
+        532,
+        897
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "3–5 πάσχεις … ἔμαθον The question–answer format may help to link these two.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        535,
+        166,
+        551,
+        731
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "4 ἔλαβον Second aorist of λανθάνω, cf. λαμβάνω, ἔλαβον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        555,
+        166,
+        571,
+        560
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "6 λήψονται Irregular future of λαμβάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        574,
+        166,
+        591,
+        622
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "7 ἕτερον ‘one of two’. Cf. line 8 πότερον ‘which of two?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        593,
+        123,
+        610,
+        681
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "10–12 τί δράσω ‘What shall I do?’ is answered by ὅ τι; ‘What?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        613,
+        158,
+        668,
+        903
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "12 κατακλίνηθι An irregular imperative form. The -κλιν- (Latin clin-) stem may guide you towards the meaning ‘lie down’ (‘recline’), and the noun κλίνη is anticipated in the stage directions ‘couch’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        672,
+        158,
+        688,
+        517
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "20 λήσω Irregular future of λανθάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        691,
+        158,
+        727,
+        908
+      ],
+      "margin_number": 28,
+      "speaker": null,
+      "text": "28 ἔχεις τι ‘Do you have something?’ meaning ‘Have you an idea/suggestion?’, but the literal translation is probably better to lead into the vulgarity which follows.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        730,
+        158,
+        767,
+        897
+      ],
+      "margin_number": 38,
+      "speaker": null,
+      "text": "38 γυναῖκα φαρμακίδα ‘a woman sorceress’, a ‘witch’ in the sense of a woman with supernatural powers.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        770,
+        122,
+        843,
+        904
+      ],
+      "margin_number": 38,
+      "speaker": null,
+      "text": "38–43 In ancient Greece the months were lunar, and interest was due at the start of the month when the moon rose. Thus no moon = no month = no interest due. In the original, Socrates is more impressed with Strepsiades’ reasoning than the abrupt termination to this chapter would suggest.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        867,
+        192,
+        882,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 6D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        892,
+        89,
+        925,
+        868
+      ],
+      "margin_number": null,
+      "speaker": "STREPSIADES",
+      "text": "But, Socratikins, why don’t you come down? For I have come into the thinkery because, owing much money, I am in debt.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 93
+}

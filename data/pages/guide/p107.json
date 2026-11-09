@@ -1,0 +1,490 @@
+{
+  "running_head": "Revision exercises for section 7D-F",
+  "folio": "93",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        191,
+        312,
+        437
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 7D-F\nAORIST PARTICIPLES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        151,
+        191,
+        162,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D-F: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        174,
+        88,
+        267,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "m. pl. nom. παύω"
+          },
+          {
+            "n": "2.",
+            "prompt": "m. pl. acc. λύω"
+          },
+          {
+            "n": "3.",
+            "prompt": "m. s. nom. ζητέω"
+          },
+          {
+            "n": "4.",
+            "prompt": "f. pl. acc. ζητέω"
+          },
+          {
+            "n": "5.",
+            "prompt": "f. s. nom. δέχομαι"
+          },
+          {
+            "n": "6.",
+            "prompt": "m. pl. nom. βλέπω"
+          },
+          {
+            "n": "7.",
+            "prompt": "f. s. nom. δηλόω"
+          },
+          {
+            "n": "8.",
+            "prompt": "m. s. acc. πείθω"
+          },
+          {
+            "n": "9.",
+            "prompt": "m. s. nom. βοάω"
+          },
+          {
+            "n": "10.",
+            "prompt": "m. pl. acc. τρέπομαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        289,
+        191,
+        301,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D-F: 2",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        311,
+        189,
+        404,
+        752
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "βλέψασαν"
+          },
+          {
+            "n": "2.",
+            "prompt": "θαυμάσας"
+          },
+          {
+            "n": "3.",
+            "prompt": "τρεψάμενον"
+          },
+          {
+            "n": "4.",
+            "prompt": "διωξάσας"
+          },
+          {
+            "n": "5.",
+            "prompt": "ποιήσαντες"
+          },
+          {
+            "n": "6.",
+            "prompt": "βιασάμενοι"
+          },
+          {
+            "n": "7.",
+            "prompt": "κολάσαντας"
+          },
+          {
+            "n": "8.",
+            "prompt": "μισήσασα"
+          },
+          {
+            "n": "9.",
+            "prompt": "δουλωσαμένους"
+          },
+          {
+            "n": "10.",
+            "prompt": "δεξαμένη"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        426,
+        191,
+        437,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D-F: 3",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        449,
+        189,
+        480,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "(a)",
+            "prompt": "With one look at Penthesilea, Achilles burned with passion."
+          },
+          {
+            "n": "(b)",
+            "prompt": "While he gazed at Penthesilea, Achilles burned with passion."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        500,
+        191,
+        517,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾔδη I knew, and φημί I say",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        537,
+        191,
+        549,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D-F: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        559,
+        191,
+        650,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἴσμεν"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἔφασαν"
+          },
+          {
+            "n": "3.",
+            "prompt": "ᾔδει"
+          },
+          {
+            "n": "4.",
+            "prompt": "φαμέν"
+          },
+          {
+            "n": "5.",
+            "prompt": "οἶσθα"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἔφη"
+          },
+          {
+            "n": "7.",
+            "prompt": "ᾔδη"
+          },
+          {
+            "n": "8.",
+            "prompt": "φησίν"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἔφατε"
+          },
+          {
+            "n": "10.",
+            "prompt": "ᾔδεσαν, ἦσαν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        679,
+        191,
+        725,
+        614
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7D-F\nB/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        737,
+        191,
+        871,
+        745
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "βλέψας"
+          },
+          {
+            "n": "2.",
+            "prompt": "φροντίσας"
+          },
+          {
+            "n": "3.",
+            "prompt": "ῥίψας"
+          },
+          {
+            "n": "4.",
+            "prompt": "σώσας"
+          },
+          {
+            "n": "5.",
+            "prompt": "παυσάμενος"
+          },
+          {
+            "n": "6.",
+            "prompt": "δεξάμενος"
+          },
+          {
+            "n": "7.",
+            "prompt": "βιασάμενος"
+          },
+          {
+            "n": "8.",
+            "prompt": "λογισάμενος"
+          },
+          {
+            "n": "9.",
+            "prompt": "μαχεσάμενος"
+          },
+          {
+            "n": "10.",
+            "prompt": "ἀποκριναμένος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 13,
+      "bbox": [
+        880,
+        191,
+        950,
+        718
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ποιήσας"
+          },
+          {
+            "n": "3.",
+            "prompt": "βοηθήσας"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἀπορήσας"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἐλευθερώσας"
+          },
+          {
+            "n": "5.",
+            "prompt": "τολμήσας"
+          },
+          {
+            "n": "6.",
+            "prompt": "θεασάμενος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 107
+}

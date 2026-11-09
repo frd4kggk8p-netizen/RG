@@ -1,0 +1,669 @@
+{
+  "running_head": "Section Seven A-H: Socrates and intellectual inquiry",
+  "folio": "81",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        196,
+        75,
+        203,
+        196
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        207,
+        196,
+        353,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Kleinias has answered that it is the clever who learn. But Euthydemos now\nexploits an ambiguity in the terms 'clever', 'ignorant', 'learner': a man may be\nclever either because he has learnt something, or because he is able to learn it. The\nsame word covers both cases, and this gives Euthydemos room to manoeuvre.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        397,
+        120,
+        427,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ὁ Εὐθύδημος, ‘ἀλλὰ τίς διδάσκει τοὺς μανθάνοντας’, ἔφη, ‘ὁ διδάσκαλος, ἢ\nἄλλος τις;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        431,
+        120,
+        444,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡμολόγει ὅτι ὁ διδάσκαλος τοὺς μανθάνοντας διδάσκει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        447,
+        120,
+        461,
+        733
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘καὶ ὅτε ὁ διδάσκαλος ἐδίδασκεν ὑμᾶς παῖδας ὄντας, ὑμεῖς μαθηταὶ ἦτε;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "label": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        464,
+        120,
+        480,
+        222
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡμολόγει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        464,
+        866,
+        483,
+        876
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        483,
+        120,
+        497,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘καὶ ὅτε μαθηταὶ ἦτε, οὐδὲν ἦστέ πω;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        500,
+        120,
+        513,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οὐ μὰ Δία. μαθηταὶ γὰρ ὄντες, οὐδὲν ἦσμεν.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        516,
+        120,
+        530,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ἆρ᾿ οὖν σοφοὶ ἦτε, οὐκ εἰδότες οὐδέν;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        533,
+        120,
+        547,
+        695
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οὐ δῆτα σοφοὶ ἦμεν’, ἦ δ’ ὅς ὁ Κλεινίας, ‘ἐπειδὴ οὐκ ἦσμεν οὐδέν.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        550,
+        120,
+        564,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οὐκοῦν εἰ μὴ σοφοί, ἀμαθεῖς;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        566,
+        858,
+        584,
+        876
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        567,
+        120,
+        583,
+        222
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘πάνυ γε.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        585,
+        120,
+        599,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ὑμεῖς ἄρα, μαθηταὶ ὄντες, οὐκ ἦστε οὐδέν, ἀλλ’ ἀμαθεῖς ὄντες ἐμανθάνετε;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        601,
+        120,
+        615,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡμολόγει τὸ μειράκιον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        618,
+        120,
+        632,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οἱ ἀμαθεῖς ἄρα μανθάνουσιν, ὦ Κλεινία, ἀλλ’ οὐχὶ οἱ σοφοί, ὡς σὺ οἴῃ.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 18,
+      "bbox": [
+        471,
+        196,
+        689,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ὁ διδάσκαλος τὸν μανθάνοντα διδάσκει",
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 19,
+      "bbox": [
+        748,
+        197,
+        764,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        776,
+        100,
+        791,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμαθεῖς ignorant (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        776,
+        368,
+        791,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάνυ γε yes indeed",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        776,
+        634,
+        791,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁμολογέω agree",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        793,
+        100,
+        808,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διδάσκαλ-ος, ὁ teacher (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        793,
+        368,
+        808,
+        431
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πω yet",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        793,
+        634,
+        808,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐκοῦν therefore",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        809,
+        100,
+        824,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-φη (he) said (φημί)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        810,
+        368,
+        839,
+        539
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑμο-λόγ-ει (he) agreed\n(ὁμο-λογέ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        810,
+        634,
+        822,
+        809
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὔκουν not . . . therefore",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        825,
+        100,
+        840,
+        317
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦ-σ-μεν we knew (past of οἶδα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 30,
+      "bbox": [
+        860,
+        367,
+        874,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        841,
+        100,
+        871,
+        297
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦ-σ-τε you (pl.) knew (past of\nοἶδα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        875,
+        368,
+        888,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διδάσκαλος, ὁ teacher (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        873,
+        100,
+        888,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μειράκι-ον, τό youth (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 111
+}

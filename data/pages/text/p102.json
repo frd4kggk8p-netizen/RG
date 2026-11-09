@@ -1,0 +1,28 @@
+{
+  "folio": null,
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "figure",
+      "order": 1,
+      "bbox": [
+        222,
+        0,
+        771,
+        771
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "Δελφοί",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 102
+}

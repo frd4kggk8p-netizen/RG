@@ -1,0 +1,714 @@
+{
+  "running_head": "Exercises for section 8",
+  "folio": "108",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        93,
+        273,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 8",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        331,
+        782
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ill-fated κακοδαίμονος, κακοδαίμονος, κακοδαιμόνων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        155,
+        191,
+        172,
+        775
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. going ἰόντος, ἰούσης, ἰόντος, ἰόντων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        175,
+        192,
+        190,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. being ὄντος, οὔσης, ὄντος, ὄντων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        194,
+        191,
+        209,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. better βελτίονος, βελτίονος, βελτιόνων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        212,
+        192,
+        227,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. having set free λύσαντος, λυσάσης, λύσαντος, λυσάντων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        230,
+        191,
+        246,
+        686
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. worse χείρονος, χείρονος, χειρόνων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        249,
+        191,
+        264,
+        664
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. someone τινός, τινός, τινῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        289,
+        191,
+        303,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 9",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        313,
+        192,
+        329,
+        631
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Zeus τοῦ Διός",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        331,
+        191,
+        347,
+        686
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. I ἐμοῦ, μου, ἡμῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        351,
+        192,
+        365,
+        696
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. ship τῆς νεώς, τῶν νεῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        369,
+        192,
+        385,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. king τοῦ βασιλέως, τῶν βασιλέων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        387,
+        192,
+        403,
+        672
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. you σοῦ, σου, ὑμῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        406,
+        191,
+        423,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. eyebrow τῆς ὀφρύος, τῶν ὀφρύων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        425,
+        192,
+        442,
+        686
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. old woman τῆς γραός, τῶν γραῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        465,
+        191,
+        479,
+        277
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        489,
+        191,
+        505,
+        827
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. juror τοῦ δικαστοῦ, τῶν δικαστῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        507,
+        191,
+        523,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. child, slave τοῦ παιδός, τῶν παίδων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        526,
+        192,
+        542,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. sun τοῦ ἡλίου, τῶν ἡλίων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        545,
+        191,
+        560,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. dwelling τῆς οἰκήσεως, τῶν οἰκήσεων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        564,
+        192,
+        579,
+        816
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. possession τοῦ κτήματος, τῶν κτημάτων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        583,
+        191,
+        597,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. plan τῆς διανοίας, τῶν διανοιῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        601,
+        191,
+        617,
+        736
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. temple, shrine τοῦ ἱεροῦ, τῶν ἱερῶν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        619,
+        191,
+        635,
+        740
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8. city τοῦ ἄστεως, τῶν ἄστεων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 26,
+      "bbox": [
+        663,
+        191,
+        677,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 11",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 27,
+      "bbox": [
+        687,
+        191,
+        816,
+        578
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 11",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "μετὰ τοῦ Σωκράτους"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἀπὸ τῆς ἐκκλησίας"
+          },
+          {
+            "n": "3.",
+            "prompt": "διὰ τοῦ πλήθους"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἐκ τοῦ πλοίου"
+          },
+          {
+            "n": "5.",
+            "prompt": "καταδικάζω τοῦ ἀνθρώπου"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἀκούω τῆς γυναικός"
+          },
+          {
+            "n": "7.",
+            "prompt": "λαμβάνομαι τοῦ πολίτου"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 28,
+      "bbox": [
+        687,
+        552,
+        816,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 11 (cont)",
+        "instruction": "",
+        "items": [
+          {
+            "n": "8.",
+            "prompt": "ἄξιος τῆς ἀρετῆς"
+          },
+          {
+            "n": "9.",
+            "prompt": "αἴτιος τῆς ἀνομίας"
+          },
+          {
+            "n": "10.",
+            "prompt": "μετὰ τοῦ κήρυκος"
+          },
+          {
+            "n": "11.",
+            "prompt": "διὰ τοῦ ποταμοῦ"
+          },
+          {
+            "n": "12.",
+            "prompt": "περὶ τοῦ νόμου"
+          },
+          {
+            "n": "13.",
+            "prompt": "ἀπὸ τῶν Ἀθηνῶν"
+          },
+          {
+            "n": "14.",
+            "prompt": "ἐκ τῆς οἰκίας"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 29,
+      "bbox": [
+        838,
+        191,
+        853,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ALTERNATIVE COMPARATIVE FORMS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 30,
+      "bbox": [
+        867,
+        191,
+        881,
+        278
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 12",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        891,
+        191,
+        907,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. τὸν βελτίονα, βελτίω ναύτην the better sailor",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        911,
+        191,
+        925,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. τοὺς βελτίονας, βελτίους λιμένας the better harbours",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 122
+}

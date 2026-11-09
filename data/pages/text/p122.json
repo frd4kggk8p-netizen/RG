@@ -1,0 +1,228 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "92",
+  "blocks": [
+    {
+      "type": "stage_direction",
+      "order": 1,
+      "bbox": [
+        116,
+        75,
+        764,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐν τούτῳ τυγχάνει προσιὼν Πεισέταιρος, κόρακα ἔχων ἐπὶ τῇ χειρί)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        121,
+        122,
+        153,
+        836
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "χαῖρε καὶ σύ γε, ὦ Πεισέταιρε. ποῖ δὴ μετ' ἐκείνου τοῦ κόρακος; μῶν εἰς κόρακας;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        133,
+        122,
+        149,
+        613
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣΕΤΑΙΡΟΣ",
+      "text": "πῶς δ' οὔ; ἀνιστάμεθα γὰρ ἐκ τῆς πατρίδος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        151,
+        122,
+        178,
+        901
+      ],
+      "margin_number": 30,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλὰ τί βουλόμενοι οὕτως ἀνίστασθε, ὦ φίλοι; λέγοιτε ἂν. ἐγὼ γὰρ πάνυ ἡδέως ἂν ἀκούοιμι τὴν αἰτίαν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        183,
+        122,
+        219,
+        826
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥ.",
+      "text": "λέγοιμι ἂν. ζητοῦμεν γὰρ ἡμεῖς τόπον τινὰ ἀπράγμονα. ἐκεῖσε δ' ἴμεν, ἐλθόντες δὲ πόλιν ἀπράγμονα οἰκιοῦμεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        226,
+        122,
+        237,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀλλὰ τί βουλόμενος ἐκεῖνον τὸν κόρακα ἔχεις ἐπὶ τῇ χειρί;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        243,
+        122,
+        275,
+        901
+      ],
+      "margin_number": 35,
+      "speaker": "ΠΕΙΣ.",
+      "text": "οὗτος μὲν ὁ κόραξ ἡγεῖται, ἡμεῖς δὲ ἑπόμεθα. τίς γὰρ ἡγεμὼν βελτίων εἰς κόρακας ἢ κόραξ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        281,
+        122,
+        296,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "ἡγεμὼν βέλτιστος δή.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 9,
+      "bbox": [
+        323,
+        220,
+        659,
+        887
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "caption",
+      "order": 10,
+      "bbox": [
+        675,
+        220,
+        740,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A sketch plan of Athens about 425. The agora was the town centre and market place, where the main civic buildings were. The assembly (ἐκκλησία) met on the hill of the Pnyx, and the Lykeion sports ground (γυμνάσιον) was a place for the men of the city to meet, exercise and discuss.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        744,
+        239,
+        756,
+        777
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The Areopagus was the hill of Ares, where an ancient homicide court met.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 122
+}

@@ -1,0 +1,628 @@
+{
+  "running_head": "Section Six A–D: ‘Socrates corrupts the young’",
+  "folio": "63",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        80,
+        276,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Section Six A–D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        126,
+        194,
+        137,
+        280
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Introduction",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        150,
+        194,
+        230,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A student at Socrates’ ‘Think-Tank’ introduces Strepsiades to the ‘new thought’ and describes how fleas’ feet are used to measure distance. Further technical ‘wonders’ are revealed inside the institution, when Socrates enters, suspended in a basket in the air. A bewildered but impressed Strepsiades informs Socrates that he wants to learn the ‘wrong’ arguments in order to escape his debts, but turns out to be a hopeless student.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        280,
+        194,
+        294,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: physical speculation 8.7–9; mathematics 8.25; Thales 8.7.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        313,
+        194,
+        332,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        346,
+        194,
+        359,
+        432
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Στρεψιάδης κόπτει τὴν θύραν καὶ βοᾷ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        363,
+        194,
+        375,
+        344
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "παῖ, παιδίον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        380,
+        194,
+        393,
+        497
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘΗΤΗΣ",
+      "text": "(comes out of the phrontisterion)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        397,
+        221,
+        412,
+        650
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βάλλ᾽ εἰς κόρακας. τίς ἔκοψε τὴν θύραν; τίς ἐβόησεν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        416,
+        194,
+        430,
+        508
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἔγωγε ἔκοψα τὴν θύραν καὶ ἐβόησα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        435,
+        194,
+        448,
+        725
+      ],
+      "margin_number": 5,
+      "speaker": "ΜΑΘ.",
+      "text": "τίς ὤν σὺ τοῦτο ἐποίησας; ἀμαθής τις, εὖ οἶδα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        453,
+        194,
+        467,
+        506
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "Στρεψιάδης Κικυννόθεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        471,
+        194,
+        485,
+        362
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "εἰς κόρακας αὖθις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        490,
+        194,
+        504,
+        487
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(goes back into the phrontisterion)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        509,
+        194,
+        521,
+        580
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "οἴμοι, τί ποιήσω; ἀλλ᾽ αὖθις κόψω.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 16,
+      "bbox": [
+        526,
+        194,
+        540,
+        363
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "(αὖθις κόπτει τὴν θύραν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        545,
+        194,
+        578,
+        876
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "τίς ὁ κόπτων; διὰ τί οὗτος οὐκ ἐπαύσατο κόπτων ὁ ἄνθρωπος, ἐπεὶ ἐκέλευσα ἐγώ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        598,
+        194,
+        611,
+        415
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Six A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 19,
+      "bbox": [
+        631,
+        194,
+        719,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 6A–B\n• First aorist indicative, active and middle: ἔπαυσα, ἐπαυσάμην\n• Aspect\n• Type 3h nouns: ὀφρύς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        742,
+        98,
+        755,
+        297
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-μαθής ignoramus (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        757,
+        98,
+        770,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βάλλ᾽ εἰς κόρακας go to hell!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        773,
+        98,
+        787,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-βόης-α I shouted (βοά -ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        789,
+        98,
+        804,
+        338
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-βόης-ε(ν) (he) shouted (βοάω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        806,
+        98,
+        819,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰς κόρακας to hell!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        742,
+        365,
+        770,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-κέλευς-α (I) gave the order\n(κελεύ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        773,
+        365,
+        787,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-κοψ-α (I) knocked at (κόπτ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        789,
+        365,
+        820,
+        539
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-κοψ-ε (he) knocked at\n(κόπτ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        742,
+        631,
+        755,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-παύσ-ατο he stopped (παύ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        757,
+        631,
+        770,
+        869
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-ποίησ-ας (you) (s.) did (ποιέ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        773,
+        631,
+        804,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Κικυννόθεν from the deme\nKikynna",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        806,
+        631,
+        836,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παιδί-ον, τό young slave, slave\ndear (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 93
+}

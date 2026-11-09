@@ -1,0 +1,628 @@
+{
+  "running_head": "Section 8B",
+  "folio": "103",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        79,
+        131,
+        877
+      ],
+      "margin_number": null,
+      "speaker": "EUELPIDES",
+      "text": "Greetings, my dear Dikaiopolis, where are you going and where have you come from?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        134,
+        88,
+        153,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        134,
+        189,
+        175,
+        892
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "From the Piraeus, my friend, and I am on my way to the assembly. It will be a sovereign assembly today.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 4,
+      "bbox": [
+        178,
+        188,
+        196,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meanwhile Peisetairos comes up, with a crow on his wrist.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        200,
+        88,
+        219,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        200,
+        189,
+        233,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Greetings to you too, Peisetairos, but where on earth are you going with that crow? Could it be that you are going to the crows?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        236,
+        88,
+        250,
+        211
+      ],
+      "margin_number": null,
+      "speaker": "PEISETAIROS",
+      "text": "Of course! We are leaving the country, our fatherland.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        253,
+        88,
+        269,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        253,
+        190,
+        294,
+        899
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But why do you want to leave like this, my friends? Please tell me, for I would be very glad to know the reason.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        297,
+        88,
+        312,
+        121
+      ],
+      "margin_number": null,
+      "speaker": "EU.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        297,
+        189,
+        338,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I will tell you. We are looking for a peaceful place. We shall go there, and when we get there, we shall settle in a peaceful city.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        340,
+        88,
+        355,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "But why do you want to carry that crow on your wrist?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        358,
+        88,
+        372,
+        121
+      ],
+      "margin_number": null,
+      "speaker": "EU.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        358,
+        189,
+        399,
+        869
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This crow is guiding us, and we are following it. For who can lead us to the crows better than a crow?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        402,
+        88,
+        417,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "He is certainly the best guide.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 16,
+      "bbox": [
+        426,
+        191,
+        452,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8B",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        465,
+        191,
+        483,
+        270
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 94",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        488,
+        168,
+        549,
+        901
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "μείζονα Comparative. See GE pp. 136–138, #154–160 for more forms. Note that there are two ways of saying more … than …: GE pp. 137, #158 and GE p. 164, #180(e).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        552,
+        168,
+        609,
+        898
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "εὐδαιμονεστέραν This is another form of the comparative; see GE p. 166, #182. It is easily recognisable, as is the superlative which follows in the next line.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        612,
+        168,
+        653,
+        836
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "τί παθόντες Aorist participle of πάσχω, second aor. ἔπαθον. Literally ‘having experienced what, and wanting what, are you leaving?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 21,
+      "bbox": [
+        656,
+        157,
+        671,
+        792
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "τοιοῦτον τὸ πάθος πάθος is a neuter noun 3c. τοιοῦτον = ‘such’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 22,
+      "bbox": [
+        674,
+        123,
+        715,
+        885
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "–14 εἰς τὸ δικαστήριον Note the -ηριον ending which denotes a place where an activity takes place. Cf. φροντιστήριον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 23,
+      "bbox": [
+        718,
+        158,
+        759,
+        831
+      ],
+      "margin_number": 16,
+      "speaker": null,
+      "text": "κατεψηφίσαντο ψηφίζομαι means ‘I vote’. καταψηφίσομαι means ‘I condemn’, ἀποψηφίζομαι means ‘I acquit’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        762,
+        158,
+        818,
+        907
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "οἱ μὲν γὰρ τέττιγες … For the Athenian love of litigation see also Section 6B lines 23–24, where Strepsiades cannot believe that it is Athens on the map because there are no jurors sitting.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 25,
+      "bbox": [
+        821,
+        157,
+        835,
+        674
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "ἀποκρινοῦμαι What is the tense? Cf. ἀποκρίνομαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 26,
+      "bbox": [
+        845,
+        191,
+        863,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 8B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        870,
+        88,
+        884,
+        458
+      ],
+      "margin_number": null,
+      "speaker": "DIKAIOPOLIS",
+      "text": "Are you looking for a greater city than Athens?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        886,
+        88,
+        927,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "EUELPIDES",
+      "text": "No, by Zeus, I do not mean that. There is no greater city than this one. For, in the name of Zeus, Athens is clearly the greatest.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        930,
+        88,
+        944,
+        668
+      ],
+      "margin_number": null,
+      "speaker": "RHAPSODE",
+      "text": "Are you looking for a wealthier city than this one?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        947,
+        88,
+        960,
+        121
+      ],
+      "margin_number": null,
+      "speaker": "EU.",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        947,
+        189,
+        960,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "There is no city wealthier than this one. For Athens is the wealthiest.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 117
+}

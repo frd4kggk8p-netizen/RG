@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Greek — Private Study Platform</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Header & Navigation -->
+  <header class="site-header">
+    <div class="header-brand">
+      <h1 class="logo" id="home-link">Reading Greek</h1>
+      <span class="badge private-badge">Private Study · Sections 6–10</span>
+    </div>
+
+    <div class="header-controls">
+      <!-- Section Selector -->
+      <div class="nav-control">
+        <label for="section-select">Section:</label>
+        <select id="section-select">
+          <option value="06">Section 6: Socrates corrupts the young</option>
+          <option value="07">Section 7: Socrates and inquiry</option>
+          <option value="08">Section 8: Aristophanes’ Birds</option>
+          <option value="09">Section 9: Aristophanes’ Wasps</option>
+          <option value="10">Section 10: Aristophanes’ Lysistrata</option>
+        </select>
+      </div>
+
+      <!-- Search Input -->
+      <div class="search-box">
+        <input type="text" id="global-search-input" placeholder="Search Greek or English (e.g. εκοψα)...">
+        <button id="search-clear-btn" title="Clear">✕</button>
+      </div>
+
+      <!-- Quick Actions -->
+      <div class="header-actions">
+        <button id="theme-toggle" class="btn icon-btn" title="Toggle Dark/Light Mode">☾</button>
+        <button id="proofread-toggle" class="btn secondary-btn" title="Proofread Mode">🔍 Proofread</button>
+        <button id="export-progress-btn" class="btn secondary-btn" title="Export Progress">💾 Export</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search Results Overlay -->
+  <div id="search-modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>Search Results</h3>
+        <button class="close-modal-btn">✕</button>
+      </div>
+      <div id="search-results-list" class="results-container"></div>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <main class="main-content">
+    <!-- Hub Navigation Tabs -->
+    <nav class="section-tabs" id="hub-tabs">
+      <button class="tab-btn active" data-tab="read">📖 Reading</button>
+      <button class="tab-btn" data-tab="grammar">📐 Grammar</button>
+      <button class="tab-btn" data-tab="exercises">✍️ Exercises</button>
+      <button class="tab-btn" data-tab="guide">📝 Guide Notes</button>
+      <button class="tab-btn" data-tab="vocab">📚 Vocabulary</button>
+    </nav>
+
+    <!-- TAB 1: READER -->
+    <section id="tab-read" class="tab-panel active">
+      <div class="reader-toolbar">
+        <div class="passage-nav">
+          <span class="toolbar-label">Passage:</span>
+          <div class="btn-group" id="passage-btn-group"></div>
+        </div>
+
+        <div class="reader-toggles">
+          <label class="toggle-control"><input type="checkbox" id="toggle-morphemes"> <span>Morpheme colors</span></label>
+          <label class="toggle-control"><input type="checkbox" id="toggle-translation"> <span>Guide Translation</span></label>
+          <label class="toggle-control"><input type="checkbox" id="toggle-guide-notes"> <span>Guide Notes</span></label>
+          <label class="toggle-control"><input type="checkbox" id="toggle-stage-dirs" checked> <span>Stage Directions</span></label>
+          <label class="toggle-control"><input type="checkbox" id="toggle-test-mode"> <span>Test Mode (Hide Glosss)</span></label>
+        </div>
+      </div>
+
+      <div class="reader-layout">
+        <!-- Passage Text Container -->
+        <div class="passage-container">
+          <div class="passage-header">
+            <h2 id="passage-title"></h2>
+            <p id="passage-intro" class="passage-intro"></p>
+          </div>
+
+          <!-- Greek Text Lines -->
+          <div id="passage-lines-container" class="lines-stream"></div>
+
+          <!-- Figures Container -->
+          <div id="passage-figures-container" class="figures-stream"></div>
+
+          <!-- Passage Vocabulary List below text -->
+          <div class="passage-vocab-section">
+            <h3 class="vocab-title">Vocabulary for this Passage (del libro)</h3>
+            <div id="passage-vocab-columns" class="vocab-columns-grid"></div>
+          </div>
+        </div>
+
+        <!-- Word Card Side Drawer -->
+        <aside id="word-card-drawer" class="word-card-drawer hidden">
+          <div class="drawer-header">
+            <span class="tier-badge" id="card-tier-badge">🟢 Book-Text</span>
+            <button id="close-card-btn" class="close-btn">✕</button>
+          </div>
+          <div class="drawer-body">
+            <h2 class="card-surface" id="card-surface"></h2>
+            <div class="card-morphemes" id="card-morphemes"></div>
+            <div class="card-details">
+              <p class="card-lemma"><strong>Lemma:</strong> <span id="card-lemma"></span></p>
+              <p class="card-gloss"><strong>Definition:</strong> <span id="card-gloss"></span></p>
+              <p class="card-decl" id="card-decl-container"><strong>Type:</strong> <span id="card-decl"></span></p>
+              <p class="card-provenance"><strong>Source:</strong> <span id="card-source"></span></p>
+            </div>
+            <div class="card-links">
+              <a href="#" id="card-grammar-link" class="card-action-btn">→ Grammar Reference</a>
+              <button id="card-view-page-btn" class="card-action-btn secondary">📄 View Original Page</button>
+            </div>
+            <div id="card-guide-note-box" class="card-note-box hidden">
+              <h4>Guide note for this line</h4>
+              <p id="card-guide-note-text"></p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- TAB 2: GRAMMAR -->
+    <section id="tab-grammar" class="tab-panel">
+      <div class="grammar-layout">
+        <aside class="grammar-toc">
+          <h4>Contents (§)</h4>
+          <ul id="grammar-toc-list"></ul>
+        </aside>
+        <div class="grammar-content" id="grammar-blocks-container">
+          <div class="grammar-controls">
+            <label class="toggle-control"><input type="checkbox" id="toggle-table-endings"> <span>Highlight Endings in Tables</span></label>
+          </div>
+          <div id="grammar-stream"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: EXERCISES -->
+    <section id="tab-exercises" class="tab-panel">
+      <div class="exercises-layout">
+        <div class="exercises-sidebar">
+          <h4>Exercises</h4>
+          <ul id="exercises-list"></ul>
+        </div>
+        <div class="exercise-workspace">
+          <div class="exercise-header">
+            <h3 id="exercise-title"></h3>
+            <p id="exercise-instruction" class="instruction-box"></p>
+          </div>
+
+          <!-- Active Question Area -->
+          <div id="exercise-items-stream" class="items-stream"></div>
+
+          <!-- On-Screen Polytonic Keyboard -->
+          <div class="polytonic-keyboard">
+            <div class="keyboard-row">
+              <button class="key">α</button><button class="key">β</button><button class="key">γ</button><button class="key">δ</button>
+              <button class="key">ε</button><button class="key">ζ</button><button class="key">η</button><button class="key">θ</button>
+              <button class="key">ι</button><button class="key">κ</button><button class="key">λ</button><button class="key">μ</button>
+              <button class="key">ν</button><button class="key">ξ</button><button class="key">ο</button><button class="key">π</button>
+              <button class="key">ρ</button><button class="key">σ</button><button class="key">ς</button><button class="key">τ</button>
+              <button class="key">υ</button><button class="key">φ</button><button class="key">χ</button><button class="key">ψ</button><button class="key">ω</button>
+            </div>
+            <div class="keyboard-row diacritics-row">
+              <button class="key diacritic" data-char="ά">ά</button><button class="key diacritic" data-char="ὰ">ὰ</button><button class="key diacritic" data-char="ᾶ">ᾶ</button>
+              <button class="key diacritic" data-char="ἀ">ἀ</button><button class="key diacritic" data-char="ἁ">ἁ</button><button class="key diacritic" data-char="ἄ">ἄ</button>
+              <button class="key diacritic" data-char="ἅ">ἅ</button><button class="key diacritic" data-char="ἆ">ἆ</button><button class="key diacritic" data-char="ἇ">ἇ</button>
+              <button class="key diacritic" data-char="ᾳ">ᾳ</button><button class="key diacritic" data-char="ῃ">ῃ</button><button class="key diacritic" data-char="ῳ">ῳ</button>
+              <button class="key diacritic" data-char="·">· (ano teleia)</button><button class="key diacritic" data-char=";">; (question)</button>
+              <button class="key space-key" data-char=" ">Space</button>
+              <button class="key backspace-key" id="kbd-backspace">⌫</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: GUIDE NOTES & TRANSLATIONS -->
+    <section id="tab-guide" class="tab-panel">
+      <div class="guide-layout">
+        <div class="guide-col">
+          <h3>Passage Translations</h3>
+          <div id="guide-translations-stream"></div>
+        </div>
+        <div class="guide-col">
+          <h3>Line-by-Line Philological Notes</h3>
+          <div id="guide-notes-stream"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 5: VOCABULARY -->
+    <section id="tab-vocab" class="tab-panel">
+      <div class="vocab-full-layout">
+        <div class="vocab-filter-bar">
+          <input type="text" id="vocab-search-input" placeholder="Filter vocabulary by Greek or English...">
+          <span class="vocab-count" id="vocab-total-count"></span>
+        </div>
+        <div id="vocab-full-list" class="vocab-cards-grid"></div>
+      </div>
+    </section>
+
+    <!-- PROOFREAD VIEW (Full Page Modal / Split Screen) -->
+    <section id="proofread-view" class="proofread-container hidden">
+      <div class="proofread-bar">
+        <h3>🔍 Proofread Mode</h3>
+        <div class="proofread-controls">
+          <label>Book:
+            <select id="proof-book-select">
+              <option value="text">Text & Vocabulary</option>
+              <option value="grammar">Grammar & Exercises</option>
+              <option value="guide">Study Guide</option>
+            </select>
+          </label>
+          <label>PDF Page:
+            <input type="number" id="proof-page-input" value="94" min="1" max="561">
+          </label>
+          <button id="proof-load-btn" class="btn primary-btn">Load Page</button>
+          <button id="proof-verify-btn" class="btn success-btn">✔ Mark Verified</button>
+          <button id="proof-close-btn" class="btn icon-btn">✕ Exit</button>
+        </div>
+      </div>
+
+      <div class="proofread-split">
+        <div class="proof-image-pane">
+          <img id="proof-image" src="" alt="Original Page Scan">
+        </div>
+        <div class="proof-data-pane">
+          <div class="proof-meta" id="proof-meta-info"></div>
+          <div id="proof-blocks-stream" class="proof-blocks"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Reading Greek Digital Platform · Cambridge University Press 2nd Edition · Offline Study & Philological Tool</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

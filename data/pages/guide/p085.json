@@ -1,0 +1,348 @@
+{
+  "running_head": "Section Six",
+  "folio": "71",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        252,
+        347,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section the aorist tense is introduced (if you are uncertain of terminology, please refer back to the note at the beginning of Section 5). You may want to look at GE pp. 115–118, #128–138. You will find that in most cases the aorist adds a sigma before the ending, just like the future; but, as it is a past tense, it will also have an augment, like the imperfect.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        369,
+        191,
+        387,
+        255
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        404,
+        191,
+        418,
+        275
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 63",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        426,
+        168,
+        484,
+        908
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ἔκοψε, ἐβόησεν The first examples of the aorist. Note (a) the augment ἐ- (as for imperfect); (b) -σε in the ending; note also that π + ς = ψ. The contracted verb lengthens the stem vowel before adding the ending, just as in the future.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        486,
+        168,
+        519,
+        908
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἔκοψα, ἐβόησα 1st person singular (as ἐγώ indicates). Note ἐ- (augment), -σα (person-ending).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        522,
+        168,
+        597,
+        908
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "τίς ὢν σὺ τοῦτο ἐποίησας Literally ‘You being who did this?’ or ‘Who are you that you did this?’ (2nd singular aorist indicated by σύ). Again, ἐ- (augment), -σας (person-ending), and the lengthening of the stem vowel.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        600,
+        159,
+        614,
+        484
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ποιήσω, κόψω What tense?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        617,
+        159,
+        652,
+        840
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "τίς ὁ κόπτων; ‘Who is the one knocking?’ Note the use of the participle.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        654,
+        191,
+        678,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπαύσατο The first example of the middle aorist. Note ἐ- (augment), -σατο (person-ending).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        696,
+        191,
+        710,
+        275
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 64",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        723,
+        159,
+        739,
+        755
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "ἐπαυσάμην Which person do you think this is? Cf. ἐπαυόμην.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        741,
+        191,
+        755,
+        412
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὦ ᾿γαθέ = ὦ ἀγαθέ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        758,
+        159,
+        772,
+        706
+      ],
+      "margin_number": 19,
+      "speaker": null,
+      "text": "μόνοι ‘alone’. Cf. ‘monopoly’, ‘monarchy’, ‘monoplane’ etc.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        775,
+        159,
+        843,
+        908
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "ψύλλα … ὀφρύv There is no point in trying to guess here! ψύλλα is ‘a flea’; δάκνει has occurred at the beginning of section 5A (p. 54, line 12), and is here used in its basic sense of ‘bite’; and ὀφρύς is ‘an eyebrow’. To explain the humour of the situation, the scholiast (ancient commentator) informs us that Chaerephon had shaggy eyebrows and that Socrates was bald.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        846,
+        122,
+        860,
+        814
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "25–26 ὁπόσους … πόδας ‘how many of its own feet’, i.e. how many ‘flea-feet’?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        863,
+        122,
+        878,
+        774
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "30–31 πρῶτον μὲν … εἶτα … τέλος δέ … Three stages of the experiment.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        881,
+        159,
+        925,
+        891
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "ἐμβάδας Illustrated below, though in the experiment something slightly less monstrous is envisaged: ‘slippers’, perhaps.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 85
+}

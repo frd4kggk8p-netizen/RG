@@ -1,0 +1,248 @@
+{
+  "running_head": "169-170 Grammar for Section 7G-H",
+  "folio": "151",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        186,
+        81,
+        100,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 7G-H*",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        186,
+        185,
+        200,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(*Formerly 6 G-H)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        186,
+        185,
+        230,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• Second aorist participles, active and middle: λαβών, γενόμενος\n• Pronouns: αὐτός, ὁ αὐτός, αὐτόν; ἐμαυτόν, σεαυτόν, ἑαυτόν/αὐτόν\n• δύναμαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        232,
+        185,
+        392,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCABULARY CHECK\nEnsure you know the meaning or significance of:\nἀνελ-, ἕπομαι, μάχη, μέντοι, νομίζω, ἀγαγ-, δύναμαι, καταλαβ-, μετά +\nacc., οἰκέω, ὑμέτερος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        392,
+        187,
+        404,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SECOND AORIST PARTICIPLES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        418,
+        185,
+        470,
+        907
+      ],
+      "margin_number": 169,
+      "speaker": null,
+      "text": "You have already learnt how verbs with a first aorist form their aorist participle on the first aorist stem. Verbs with a second aorist form it (hard to believe though it is) on the second aorist stem.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        488,
+        185,
+        503,
+        387
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        513,
+        185,
+        565,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You are already familiar with how to form the first aorist stem (131ff.): take the aorist indicative, and remove (i) the augment and (ii) the personal endings. As you have seen, it works for second aorists as follows (144ff.):",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        579,
+        237,
+        650,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-λαβ-ον\naorist stem: λαβ-\nἦλθ-ον\naorist stem: ἐλθ-\nἐ-γεν-όμην\naorist stem: γεν-\nἀπ-ἐ-φυγ-ον\naorist stem: ἀποφυγ-",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        666,
+        185,
+        684,
+        665
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist active participles: stem + endings",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        691,
+        185,
+        725,
+        906
+      ],
+      "margin_number": 170,
+      "speaker": null,
+      "text": "The second aorist active participle is formed by adding the endings -ών -οῦσ-α -όν to the aorist stem:",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 12,
+      "bbox": [
+        737,
+        185,
+        905,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβ-ών λαβ-οῦσα λαβ-όν (λαβ-οντ-), ‘taking’, ‘on taking’, ‘having taken’\n(λαμβάνω)\ns.\nm.\nf.\nn.\nNom.\nλαβ-ών\nλαβ-οῦσ-α\nλαβ-όν\nAcc.\nλαβ-όντ-α\nλαβ-οῦσ-αν\nλαβ-όν\nGen.\nλαβ-όντ-ος\nλαβ-ούσ-ης\nλαβ-όντ-ος\nDat.\nλαβ-όντ-ι\nλαβ-ούσ-ῃ\nλαβ-όντ-ι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 169
+}

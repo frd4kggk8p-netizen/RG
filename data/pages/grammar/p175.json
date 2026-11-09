@@ -1,0 +1,284 @@
+{
+  "running_head": "Revision Exercises for Section 7G–H",
+  "folio": "157",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        183,
+        56,
+        292,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7G–H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        103,
+        185,
+        117,
+        510
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        121,
+        186,
+        255,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form the 1st person s. aorist indicative of these verbs, then construct the m.\nnom. s. aorist participle:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Form the 1st person s. aorist indicative of these verbs, then construct the m. nom. s. aorist participle:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "γίγνομαι"
+          },
+          {
+            "n": "2",
+            "prompt": "μανθάνω"
+          },
+          {
+            "n": "3",
+            "prompt": "ὁράω"
+          },
+          {
+            "n": "4",
+            "prompt": "ἀφικνέομαι"
+          },
+          {
+            "n": "5",
+            "prompt": "ἔρχομαι"
+          },
+          {
+            "n": "6",
+            "prompt": "λαμβάνω"
+          },
+          {
+            "n": "7",
+            "prompt": "εὑρίσκω"
+          },
+          {
+            "n": "8",
+            "prompt": "αἱρέω"
+          },
+          {
+            "n": "9",
+            "prompt": "πίπτω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        262,
+        186,
+        417,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate the following sentences, completing them with the aorist participle of the verbs indicated:\na. οἱ νεανίσκοι (ἀπέρχομαι) εἶπον ταῦτα πρὸς τοὺς λοιπούς (‘the rest’).\nb. αἱ ᾿Αμαζόνες, (καταλαμβάνω) τοὺς νεανίας, διελέγοντο πρὸς αὐτούς.\nc. ὁ νεανίας, (ὁράω) τὴν ᾿Αμαζόνα, προσῆλθεν πρὸς αὐτήν.\nd. οἱ Σκύθαι, (εὑρίσκω) τὰς ᾿Αμαζόνας, πλησίον ἀφικνοῦνται.\ne. οἱ νεανίσκοι, πλησίον (ἀφικνέομαι), ἐστρατοπεδεύσαντο (‘pitched camp’).\nf. οἱ Σκύθαι, (ἀν-αιρέω) τους νεκροὺς καὶ (μανθάνω) γυναῖκας οὔσας, ἐθαύμαζον.",
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate the following sentences, completing them with the aorist participle of the verbs indicated:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "οἱ νεανίσκοι (ἀπέρχομαι) εἶπον ταῦτα πρὸς τοὺς λοιπούς (‘the rest’)."
+          },
+          {
+            "n": "b",
+            "prompt": "αἱ ᾿Αμαζόνες, (καταλαμβάνω) τοὺς νεανίας, διελέγοντο πρὸς αὐτούς."
+          },
+          {
+            "n": "c",
+            "prompt": "ὁ νεανίας, (ὁράω) τὴν ᾿Αμαζόνα, προσῆλθεν πρὸς αὐτήν."
+          },
+          {
+            "n": "d",
+            "prompt": "οἱ Σκύθαι, (εὑρίσκω) τὰς ᾿Αμαζόνας, πλησίον ἀφικνοῦνται."
+          },
+          {
+            "n": "e",
+            "prompt": "οἱ νεανίσκοι, πλησίον (ἀφικνέομαι), ἐστρατοπεδεύσαντο (‘pitched camp’)."
+          },
+          {
+            "n": "f",
+            "prompt": "οἱ Σκύθαι, (ἀν-αιρέω) τοὺς νεκροὺς καὶ (μανθάνω) γυναῖκας οὔσας, ἐθαύμαζον."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        426,
+        186,
+        636,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In the following sentences, translate only the words in italics by the correct forms of αὐτός, αὐτόν, ὁ αὐτός:\na. We saw them approaching.\nb. The same man did this same thing.\nc. She herself brought another Amazon with her.\nd. Did you see the same woman as I?\ne. What does he himself think of it?\nf. They all speak about (περί + acc.) the same things.\ng. I myself do not enjoy sentences.\nh. I saw the young men themselves behaving like this.\ni. Women? We love them! Men? We hate them.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "In the following sentences, translate only the words in italics by the correct forms of αὐτός, αὐτόν, ὁ αὐτός:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "We saw them approaching."
+          },
+          {
+            "n": "b",
+            "prompt": "The same man did this same thing."
+          },
+          {
+            "n": "c",
+            "prompt": "She herself brought another Amazon with her."
+          },
+          {
+            "n": "d",
+            "prompt": "Did you see the same woman as I?"
+          },
+          {
+            "n": "e",
+            "prompt": "What does he himself think of it?"
+          },
+          {
+            "n": "f",
+            "prompt": "They all speak about (περί + acc.) the same things."
+          },
+          {
+            "n": "g",
+            "prompt": "I myself do not enjoy sentences."
+          },
+          {
+            "n": "h",
+            "prompt": "I saw the young men themselves behaving like this."
+          },
+          {
+            "n": "i",
+            "prompt": "Women? We love them! Men? We hate them."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        655,
+        186,
+        668,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        673,
+        186,
+        903,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:\n1. αἱ γυναῖκες τὸν γέροντα ἰδοῦσαι ἀπῆλθον.\n   The men picked up the bodies of the women and went away.\n2. ταῦτα εἰπὼν ὁ ναύτης ἐγέλασεν.\n   Coming upon these women, the young men were amazed.\n3. μαθηταὶ γενόμενοι, οἱ νεανίσκοι ἐβούλοντο μανθάνειν.\n   Once friends, the young men are able to converse with those women.\n4. τοὺς ἄνδρας εὑροῦσαι, αἱ γυναῖκες ἐπαύσαντο φροντίζουσαι.\n   The women said these things and persuaded the young men.\n5. μετὰ δὲ ταῦτα ὁ παῖς δραμὼν εἰς τὴν οἰκίαν τὸν πατέρα ἐζήτει.\n   Because of this the young men returned to their houses and took their possessions.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "αἱ γυναῖκες τὸν γέροντα ἰδοῦσαι ἀπῆλθον. / The men picked up the bodies of the women and went away."
+          },
+          {
+            "n": "2",
+            "prompt": "ταῦτα εἰπὼν ὁ ναύτης ἐγέλασεν. / Coming upon these women, the young men were amazed."
+          },
+          {
+            "n": "3",
+            "prompt": "μαθηταὶ γενόμενοι, οἱ νεανίσκοι ἐβούλοντο μανθάνειν. / Once friends, the young men are able to converse with those women."
+          },
+          {
+            "n": "4",
+            "prompt": "τοὺς ἄνδρας εὑροῦσαι, αἱ γυναῖκες ἐπαύσαντο φροντίζουσαι. / The women said these things and persuaded the young men."
+          },
+          {
+            "n": "5",
+            "prompt": "μετὰ δὲ ταῦτα ὁ παῖς δραμὼν εἰς τὴν οἰκίαν τὸν πατέρα ἐζήτει. / Because of this the young men returned to their houses and took their possessions."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 175
+}

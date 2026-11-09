@@ -1,0 +1,541 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "150",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        228,
+        107,
+        846,
+        159
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "decided that an expert’s opinion is more valuable than another man’s.\n(From Plato, Kriton)",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        173,
+        259,
+        846,
+        278
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘σὺ μέν, ὦ Σώκρατες,’ ἔφην ἐγώ, ‘ἐξέταζε, ἐγὼ δ᾽ ἀποκρινοῦμαι.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        173,
+        280,
+        882,
+        319
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘σκόπει οὖν,’ ἦ δ᾽ ὃς ὁ Σωκράτης, ‘καὶ εἴ τι ἔχεις ἀντιλέγειν, ἀντίλεγε, καὶ\nπείσομαι ἔγωγ’.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        173,
+        321,
+        602,
+        339
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘καλῶς δοκεῖς λέγειν,’ ἦν δ᾽ ἐγώ, ‘ὡς ἐγὼ οἶμαι.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        195,
+        342,
+        884,
+        382
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "‘εἶεν,’ ἔφη, ‘ἆρα ἀληθῆ λέγει ὁ φιλόσοφος ὁ λέγων ὅτι οὐ δεῖ ἡμᾶς\nἐπαινεῖν πάσας τὰς δόξας τῶν ἀνθρώπων; τί φής; ἆρα ἀληθῆ δοκεῖ\nλέγειν, ταῦτα λέγων, ἤ οὔ; ἀποκρίνου.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        173,
+        385,
+        358,
+        400
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ἀληθῆ,’ ἔφην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        173,
+        403,
+        904,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οὐκοῦν δεῖ ἡμᾶς τὰς μὲν ἀγαθὰς δόξας ἐπαινεῖν καὶ τιμᾶν, τὰς δὲ κακὰς\nμή;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        173,
+        445,
+        316,
+        462
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὠμολόγουν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        173,
+        465,
+        907,
+        504
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘φέρε δή,’ ἔφη ὁ Σωκράτης, ‘ἐπειδὴ ἡ νόσος ἀνέπιπτε καὶ διέφθειρε τὴν\nπόλιν, ποῖ ᾔεισθα σύ, πότερον πρὸς τοὺς φίλους, ἢ πρὸς τὸν ἰατρόν;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        173,
+        506,
+        811,
+        523
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘πρὸς τὸν ἰατρὸν ᾖα,’ ἦν δ᾽ ἐγώ, ‘ἦσαν δὲ ἐνταῦθα καὶ οἱ φίλοι. ᾔδει γὰρ ὁ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        195,
+        525,
+        666,
+        542
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "ἰατρὸς τὰ περὶ τῆς νόσου, ἐμπειρότερος ὢν ἢ οἱ ἄλλοι.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        173,
+        546,
+        878,
+        583
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ἐμπειρότατος δὴ ἐφαίνετο ὢν ὁ ἰατρός,’ ἦ δ᾽ ὃς ὁ Σωκράτης. ‘ἔδει οὖν σὲ\nπρὸς τὸν ἰατρὸν ἰέναι, καὶ πρὸς οὐδένα ἄλλον;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        173,
+        585,
+        344,
+        602
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ἔδει,’ ἔφην ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        173,
+        604,
+        903,
+        645
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘περὶ τῆς νόσου ἄρα οὐ δεῖ ἡμᾶς ἐπαινεῖν καὶ φοβεῖσθαι τὰς τῶν πολλῶν\nδόξας, ἀλλὰ τὴν τῶν ἰατρῶν, εἴ τις ἐμπειρότατος τυγχάνει ὤν; οὕτω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        195,
+        645,
+        329,
+        664
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "φαμὲν ἢ οὔ;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        173,
+        667,
+        424,
+        683
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘φάμεν νὴ τὸν Δία,’ ἔφην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        214,
+        706,
+        317,
+        723
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        214,
+        739,
+        423,
+        756
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀντιλέγειν object",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        478,
+        738,
+        660,
+        756
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰατρός, ὁ doctor (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        214,
+        759,
+        339,
+        776
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἶεν well then",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        478,
+        758,
+        598,
+        776
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα here",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        214,
+        778,
+        399,
+        797
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάσας all (f. acc. pl.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        478,
+        778,
+        640,
+        797
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φοβεῖσθαι respect",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        214,
+        798,
+        322,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε come!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 25,
+      "bbox": [
+        195,
+        861,
+        308,
+        873
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 26,
+      "bbox": [
+        195,
+        884,
+        918,
+        983
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Answer the following questions based on the passage above:\n1. Give the tense of the following verbs: (a) ἔχεις (line 2), (b) πείσομαι (line 3),\n(c) ὠμολόγουν (line 11), (d) ἀνέπιπτε (line 12)\n2. What is the case of (a) ἡμᾶς (b) ταῦτα (c) πόλιν (d) ἄλλοι (e) οὐδένα and\n(f) Δία?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "exercise",
+        "instruction": "Answer the following questions based on the passage above:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Give the tense of the following verbs: (a) ἔχεις (line 2), (b) πείσομαι (line 3), (c) ὠμολόγουν (line 11), (d) ἀνέπιπτε (line 12)"
+          },
+          {
+            "n": "2",
+            "prompt": "What is the case of (a) ἡμᾶς (b) ταῦτα (c) πόλιν (d) ἄλλοι (e) οὐδένα and (f) Δία?"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 168
+}

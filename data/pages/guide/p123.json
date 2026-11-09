@@ -1,0 +1,727 @@
+{
+  "running_head": "Exercises for section 8",
+  "folio": "109",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        191,
+        78,
+        203,
+        788
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "τὴν βελτίονα, βελτίω θεάν     the better goddess",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        220,
+        78,
+        233,
+        768
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "αἱ βελτίονες, βελτίους νῆες     the better ships.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        250,
+        79,
+        262,
+        780
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "οἱ βελτίονες, βελτίους γεωργοί     the better farmers",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        278,
+        77,
+        292,
+        782
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "τὰς βελτίονας, βελτίους γυναῖκας     the better women",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        308,
+        78,
+        320,
+        749
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "τὸ βέλτιον ἄστυ     the better city",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        336,
+        78,
+        350,
+        763
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "τὰ βελτίονα, βελτίω πλοῖα     the better ships",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        394,
+        191,
+        404,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "COMPARING ADJECTIVES LIKE εὔφρων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "heading": null,
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        435,
+        191,
+        447,
+        280
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 13",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        464,
+        191,
+        497,
+        652
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ὁ εὐδαιμονέστερος, εὐδαιμονέστατος ναύτης\nthe more fortunate, most fortunate sailor",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        504,
+        191,
+        536,
+        701
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "τὸ κακοδαιμονέστερον, κακοδαιμονέστατον ἄστυ\nthe more unfortunate, most unfortunate city",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        543,
+        191,
+        576,
+        627
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "τὴν εὐφρονεστέραν, εὐφρονεστάτην θεάν\nthe more gracious, most gracious goddess",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        583,
+        191,
+        615,
+        750
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "τὰς κακοδαιμονεστέρας, κακοδαιμονεστάτας γυναῖκας\nthe more unlucky, most unlucky women",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        622,
+        191,
+        655,
+        687
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἡ εὐδαιμονεστέρα, εὐδαιμονεστάτη νῆσος\nthe more fortunate, most fortunate island",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        661,
+        191,
+        694,
+        810
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "τοὺς κακοδαιμονεστέρους, κακοδαιμονεστάτους διδασκάλους\nthe more unfortunate, most unfortunate teachers",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 15,
+      "bbox": [
+        737,
+        191,
+        749,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE OPTATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 16,
+      "bbox": [
+        773,
+        191,
+        786,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 14",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        795,
+        191,
+        807,
+        785
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "they find     εὑρίσκουσιν     εὑρίσκοιεν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        810,
+        191,
+        822,
+        784
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "he/she examines     ἐξετάζει     ἐξετάζοι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        825,
+        191,
+        837,
+        784
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "we reckon     λογιζόμεθα     λογιζοίμεθα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        840,
+        191,
+        852,
+        770
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "he/she becomes     γίγνεται     γίγνοιτο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        855,
+        191,
+        869,
+        768
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "you (s.) marvel     θαυμάζεις     θαυμάζοιρ",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "θαυμάζοιρ",
+          "reason": "The final letter looks like a rho instead of a stigma due to font or print blur, but contextually should be -οιϛ. Printing has ρ.",
+          "candidates": [
+            "θαυμάζοιϛ",
+            "θαυμάζοιρ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "order": 22,
+      "bbox": [
+        883,
+        191,
+        895,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 15",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        904,
+        191,
+        917,
+        735
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "you (s.) love     φιλεῖϛ     φιλοίης",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "φιλεῖϛ",
+          "reason": "Final sigma is printed as a lunate/c-sigma variant or standard sigma in some fonts.",
+          "candidates": [
+            "φιλεῖς",
+            "φιλεῖϛ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        921,
+        191,
+        933,
+        768
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "they intend     διανοοῦνται     διανοοῖντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        936,
+        191,
+        948,
+        737
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "he conquers     νικᾷ     νικῴη",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        951,
+        191,
+        963,
+        749
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "he/she tries     πειρᾶται     πειρῷτο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        966,
+        191,
+        980,
+        750
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "they dare     τολμῶσιν     τολμῷεν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 28,
+      "bbox": [
+        1016,
+        191,
+        1030,
+        328
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄν + OPTATIVE",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 29,
+      "bbox": [
+        1048,
+        191,
+        1061,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 16",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        1070,
+        191,
+        1083,
+        386
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "φέροιεν ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        1070,
+        560,
+        1083,
+        712
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "πέμποιμι ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        1088,
+        191,
+        1102,
+        388
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "διαλεγοίμεθα ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 33,
+      "bbox": [
+        1088,
+        560,
+        1101,
+        672
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "δέχοιο ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 34,
+      "bbox": [
+        1106,
+        191,
+        1119,
+        342
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "σκοποίην ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 35,
+      "bbox": [
+        1106,
+        560,
+        1119,
+        714
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ἀδικοῖεν ἄν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 123
+}

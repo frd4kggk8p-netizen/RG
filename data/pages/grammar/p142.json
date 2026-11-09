@@ -1,0 +1,228 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "144",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        93,
+        88,
+        121,
+        119
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "124",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        195,
+        195,
+        214,
+        551
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 6C–D*",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        233,
+        193,
+        251,
+        337
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(* Formerly 5G–H)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        268,
+        193,
+        351,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• Second aorist indicative, active and middle: ἔλαβον, ἐλαβόμην\n• Interrogatives: τί\n• Indirect speech\n• Some particles",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        369,
+        193,
+        424,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCABULARY CHECK\nEnsure you know the meaning or significance of:\nἀπελθ-, ἐξευρ-, πρῶτος, θε-, γέρων, γνώμη, δράω, κλέπτω, κρείττων, σός",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        438,
+        195,
+        456,
+        395
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE SECOND AORIST",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        467,
+        195,
+        518,
+        901
+      ],
+      "margin_number": 144,
+      "speaker": null,
+      "text": "As we earlier warned (129), a number of verbs do not form their aorists on\nthe pattern of what we have called first aorist (basically, present stem + -σα)\nbut on the pattern of what is called second aorist (or 'strong aorist').",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        521,
+        246,
+        539,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note carefully the following about second aorist forms:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        551,
+        93,
+        667,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "► They have an aorist stem different from that of the present:\n► For example, the aorist stem of λαμβάνω, 'I take', is λαβ-, and that of\nγίγνομαι, 'I become', is γεν- ;\n► They form the strong aorist indicative by adding the augment to this\nstem in the usual way, ἐ-λαβ-, ἐ-γεν-, to indicate that the action is\npast.\n► They have personal endings different from first aorist endings (no\n-σα).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "black_right_pointing_pointer",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        699,
+        193,
+        716,
+        499
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist indicative active",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        737,
+        193,
+        915,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-λαβ-ον ‘I took’\nἔ-λαβ-ον                                                I took\nἔ-λαβ-ες                                                you (s.) took\nἔ-λαβ-ε(ν)                                              he/she/it took\nἐ-λάβ-ομεν                                              we took\nἐ-λάβ-ετε                                               you (pl.) took\nἔ-λαβ-ον                                                they took",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 142
+}

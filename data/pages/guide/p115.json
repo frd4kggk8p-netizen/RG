@@ -1,0 +1,328 @@
+{
+  "running_head": "Section Eight: Aristophanes' Birds",
+  "folio": "101",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        228,
+        908,
+        326
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Now we return to Dikaiopolis and the rhapsode, and to an episode based on another play of Aristophanes, where he escapes into fantasy from the bitter realities of life in Athens during the Peloponnesian War. The social comment, however amusingly expressed, is deeply serious.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        191,
+        328,
+        908,
+        422
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This section introduces the genitive case formally. You have already met it frequently, but now all forms of it are laid out (GE pp. 160–161, #178–179) and the main uses are listed (GE pp. 163–165, #180). You will also meet other forms of the comparative (GE pp. 165–167, #181–182) as well as the optative mood (GE pp. 167–169, #183–186).",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        191,
+        448,
+        256,
+        472
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        191,
+        489,
+        270,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 90",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        168,
+        513,
+        900,
+        548
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "Look for the subject and the two aorist participles before you go on to the main verb.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        168,
+        551,
+        891,
+        602
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ἀπιόντα  Remember the difference between ὤν (‘being’) and ἰών (‘going’). The ‘going’ verb has an iota, the ‘being’ verb does not.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        153,
+        613,
+        908,
+        648
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "καθορᾷ ..., κατιδών  If you remove the prefix, καθ-, κατ-, you should be able to recognise the verb. ἰδ is the stem of the second aorist εἶδον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        168,
+        654,
+        898,
+        683
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "λαμβάνεται τοῦ ἱματίου  He takes hold of his tunic.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        191,
+        654,
+        898,
+        709
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The genitive is used because he takes hold of part of his tunic (not the whole thing). This is called a partitive genitive.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        191,
+        735,
+        270,
+        751
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 91",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        156,
+        761,
+        834,
+        794
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "τίς ὢν σύ ...  Note the idiomatic use of the participle, ‘Who are you to take hold of...?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        156,
+        799,
+        561,
+        815
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "τυγχάνω + participle  ‘happen to be ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        155,
+        820,
+        642,
+        834
+      ],
+      "margin_number": 19,
+      "speaker": null,
+      "text": "ὑμῶν ἕνεκα  ἕνεκα follows the word it governs.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        155,
+        840,
+        901,
+        870
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "περιμενοῦμεν  Tense? Cf. περιμένομεν: which is future and which is present and how can you tell? See GE p. 104, #117.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        155,
+        878,
+        863,
+        908
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "φθάνω + participle  ‘to do something before someone else’. See GE p. 86, #95.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        155,
+        916,
+        899,
+        950
+      ],
+      "margin_number": 23,
+      "speaker": null,
+      "text": "ποῖ δὴ καὶ πόθεν;  You will need to supply verbs in English, but the meaning should be clear.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 115
+}

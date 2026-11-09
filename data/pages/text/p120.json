@@ -1,0 +1,48 @@
+{
+  "folio": null,
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "stage_direction",
+      "order": 1,
+      "bbox": [
+        124,
+        15,
+        74,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ὁ παῖς προσελθὼν λαμβάνεται τοῦ ἱματίου)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 2,
+      "bbox": [
+        99,
+        222,
+        730,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "παῖς τις κανοῦν ἔχων",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 120
+}

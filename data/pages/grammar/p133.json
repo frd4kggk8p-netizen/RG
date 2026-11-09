@@ -1,0 +1,248 @@
+{
+  "running_head": "128–129 Grammar for Section 6A–B",
+  "folio": "115",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        83,
+        99,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 6A–B*",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        187,
+        187,
+        335,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(* Formerly 5E–F)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        187,
+        187,
+        233,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• First aorist indicative, active and middle: ἔπαυσα, ἐπαυσάμην\n• Aspect\n• Type 3h nouns: ὀφρῦς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        259,
+        187,
+        347,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCABULARY CHECK\nEnsure you know the meaning of:\nκαίπερ, λύω, ὅτε, ῥᾴδιος, ἐν νῷ ἔχω, ἀδύνατος, δῆμος, θαυμάζω, ὅπου",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        379,
+        187,
+        398,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE AORIST",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        408,
+        187,
+        442,
+        908
+      ],
+      "margin_number": 128,
+      "speaker": null,
+      "text": "In this section you meet another new tense: the aorist. The aorist and the imperfect are the tenses most commonly used to denote past actions in Greek.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        457,
+        83,
+        544,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Whereas the imperfect describes a continuous or repeated past action (a process), the aorist describes the action as a single past event. Usually, a verb in the aorist is best translated ‘I –ed’, ‘you –ed’, etc., e.g. ἔπαυσα, ‘I stopped’, ἔθυσας, ‘you sacrificed’, and so on.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "arrow",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        565,
+        187,
+        579,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First and second aorists: English and Greek",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        588,
+        187,
+        640,
+        908
+      ],
+      "margin_number": 129,
+      "speaker": null,
+      "text": "In English there are two ways in which verbs may be put into the ‘past simple’ (the tense which is the nearest equivalent in English to the Greek aorist):",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 10,
+      "bbox": [
+        655,
+        83,
+        737,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• The majority of verbs add ‘-ed’ or ‘-d’ to the present stem, e.g. ‘I watch’ → ‘I watched’, ‘you like’ → ‘you liked’; but\n• some have a different stem in the past, e.g. ‘I sing’ → ‘I sang’, ‘they go’ → ‘they went’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        762,
+        238,
+        775,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The situation is similar in Greek:",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 12,
+      "bbox": [
+        790,
+        83,
+        915,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• The majority of verbs have a ‘first’ aorist – also called the ‘weak aorist’ – a form which is closely based on the present stem: it is this type of aorist you will meet here.\n• Some verbs have a less predictable ‘second aorist’ – also called ‘strong aorist’ – involving a strong change of stem: this type of aorist will be dealt with in section 6 C–D.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 133
+}

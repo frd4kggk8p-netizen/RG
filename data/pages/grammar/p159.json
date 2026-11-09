@@ -1,0 +1,68 @@
+{
+  "running_head": "Revision Exercises for Section 7A-C",
+  "folio": "141",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        185,
+        78,
+        905,
+        206
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "αἱ γυναῖκες πειρῶνται τὰ δράματα θεᾶσθαι.\nI am trying to discover how the poets show their wisdom.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        123,
+        78,
+        905,
+        156
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ἴσμεν ὅτι ὁ βασιλεὺς ἐβούλετο τὸν κήρυκα κολάζειν.\nYou know that you wanted to slander me.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        169,
+        78,
+        903,
+        206
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "δοκεῖς μῶρος εἶναι, καίπερ διδάσκαλος ὤν.\nFrom then on I appeared to be corrupting the young, although I knew nothing.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 159
+}

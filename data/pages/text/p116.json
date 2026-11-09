@@ -1,0 +1,648 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "86",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        238,
+        71,
+        256,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        281,
+        220,
+        312,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The Scythians track the Amazons, and notice that, at midday, they disperse in\nones and twos. An enterprising Scythian follows one, and . . .",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        339,
+        123,
+        424,
+        889
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὕτως οὖν νεανίσκος τις Ἀμαζόνα τινὰ μόνην οὖσαν καταλαβών, εὐθὺς ἐχρῆτο. καὶ ἡ Ἀμαζὼν οὐκ ἐκώλυσεν. καὶ φωνεῖν μὲν οὐκ ἐδύνατο, διὰ δ᾽ σημείου ἐκέλευε τὸν νεανίαν εἰς τὴν ὑστεραίαν ἰέναι εἰς τὸ αὐτὸ χωρίον καὶ ἕτερον νεανίαν ἄγειν, σημαίνουσα ὅτι αὐτὴ τὸ αὐτὸ ποιήσει καὶ ἑτέραν Ἀμαζόνα ἄξει. ὁ δὲ νεανίας ἀπελθὼν εἶπε ταῦτα πρὸς τοὺς λοιπούς, τῇ δ᾽ ὑστεραία ἐλθὼν αὐτὸς εἰς τὸ αὐτὸ χωρίον, ἕτερον ἄγων νεανίαν, τὴν Ἀμαζόνα αὐτὴν ηὗρεν, ἑτέραν ἀγαγοῦσαν Ἀμαζόνα. οἱ δὲ δύο νεανίαι, εὑρόντες τὰς Ἀμαζόνας καὶ χρησάμενοι, ἀπῆλθον. οἱ δὲ λοιποὶ τῶν νεανιῶν, μαθόντες τὰ γενόμενα, ἐποίουν τὸ αὐτὸ καὶ αὐτοί.",
+      "lang": "grc",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        339,
+        893,
+        355,
+        902
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        429,
+        123,
+        500,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετὰ δὲ ταῦτα συνώκουν ὁμοῦ οἵ τε Σκύθαι καὶ αἱ Ἀμαζόνες. τὴν δὲ φωνὴν τὴν μὲν τῶν Ἀμαζόνων οἱ ἄνδρες οὐκ ἐδύναντο μανθάνειν, τὴν δὲ τῶν Σκυθῶν αἱ γυναῖκες ἔμαθον. τέλος δὲ εἶπον πρὸς αὐτὰς οἱ νεανίαι· ‘τοκέας καὶ κτήματα ἔχομεν ἡμεῖς. διὰ τί οὖν οὐκ ἀπερχόμεθα εἰς τὸ ἡμέτερον πλῆθος; γυναῖκας δ᾽ ἕξομεν ὑμᾶς καὶ οὐδemias ἄλλας.’ αἱ δὲ πρὸς ταῦτα ‘ἡμεῖς’, ἔφασαν, ‘οὐ δυνάμεθα οἰκεῖν μετὰ τῶν ὑμετέρων γυναικῶν. οὐ γὰρ οἱ αὐτοὶ οἱ τε ἡμέτεροι νόμοι καὶ οἱ τῶν Σκυθῶν. ἡμεῖς μὲν γὰρ τοξεύομεν καὶ ἱππαζόμεθα, ἔργα δὲ γυναικεῖα οὐ ἐμάθομεν. αἱ δ᾽ ὑμέτεραι γυναῖκες οὐδὲν τούτων ποιοῦσιν, ἀλλ᾽ ἔργα γυναικεῖα ἐργάζονται, μένουσαι ἐν ταῖς ἁμάξαις καὶ οὐ τοξεύουσαι οὐδ᾽ ἱππαζόμεναι. ἀλλ᾽ εἰ βούλεσθε γυναῖκας ἔχειν ἡμᾶς, ἐλθόντας εἰς τοὺς τοκέας δεῖ ὑμᾶς ἀπολαγχάνειν τὸ τῶν κτημάτων μέρος, καὶ ἔπειτα ἐπανελθόντας συνοικεῖν μεθ᾽ ἡμῶν.’",
+      "lang": "grc",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        429,
+        882,
+        443,
+        893
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        521,
+        882,
+        536,
+        893
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        566,
+        123,
+        617,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ταῦτα δ᾽ εἰποῦσαι ἔπεισαν τοὺς νεανίσκους. ἀπολαχόντες οὖν οἱ νεανίσκοι τὸ τῶν κτημάτων μέρος, ἐπανῆλθον πάλιν παρὰ τὰς Ἀμαζόνας. εἶπον οὖν πρὸς αὐτοὺς αἱ Ἀμαζόνες· ‘ἀλλ᾽ ἡμᾶς ἔχει φόβος τις μέγας. οὐ γὰρ δυνάμεθα οἰκεῖν ἐν τούτῳ τῷ χώρῳ, διαρπάσασαι τὴν γῆν. ἀλλ᾽ εἰ βούλεσθε ἡμᾶς γυναῖκας ἔχειν, διὰ τί οὐκ ἐξανιστάμεθα ἐκ τῆς γῆς ταύτης καὶ τὸν Τάναϊν ποταμὸν διαβάντες ἐκεῖ οἰκοῦμεν;’ καὶ ἐπείθοντο καὶ ταῦτα οἱ νεανίαι. ἐξαναστάντες οὖν καὶ ἀφικόμενοι πρὸς τὸν χῶρον, ᾤκησαν αὐτόν.",
+      "lang": "grc",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        566,
+        882,
+        579,
+        893
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        632,
+        882,
+        645,
+        893
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        657,
+        220,
+        673,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        693,
+        123,
+        723,
+        300
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγαγ-οῦσ-αν bringing\n(acc. s. f.) (ἄγ-ω/ἤγαγ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        693,
+        391,
+        705,
+        500
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-ὴν herself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        693,
+        658,
+        705,
+        880
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διὰ σημείου by means of signs",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        707,
+        391,
+        719,
+        518
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-ὴ she herself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        707,
+        658,
+        754,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δια-βάντ-ες crossing, once\nacross (nom. pl. m.)\n(δια-βαίν-ω/δι-έ-βην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        723,
+        123,
+        735,
+        304
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄγ-ω (ἄγαγ-) lead, bring",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        723,
+        391,
+        735,
+        561
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-οí they themselves",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        737,
+        123,
+        749,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱ δὲ but they",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        737,
+        391,
+        749,
+        518
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-ὸς he himself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        753,
+        123,
+        767,
+        351
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἀμαζών (Ἀμαζον-), ἡ Amazon (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        753,
+        391,
+        801,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀφ-ικ-όμεν-οι upon arriving\n(nom. pl. m.) (ἀφ-ικνέ-ομαι/\nἀφ-ικ-όμην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        757,
+        658,
+        769,
+        827
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δι-αρπάζ-ω lay waste",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        769,
+        123,
+        797,
+        333
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπ-ελθ-ών going away (nom. s.\nm.) (ἀπ-έρχ-ομαι/ἀπ-ῆλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        771,
+        658,
+        783,
+        854
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δυν-άμεθα (we) are able",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        786,
+        658,
+        797,
+        761
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δύο two (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        800,
+        658,
+        834,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-δύν-ατο she was able\n(δύκ-αμαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        801,
+        391,
+        849,
+        576
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γεν-όμεν-α, τά what had\nhappened, the\nhappenings (γίγν-ομαι/\nἐ-γεν-όμην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        801,
+        123,
+        830,
+        250
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-λαγχάν-ω (ἀπο-λαχ-)\nobtain by lot",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        832,
+        123,
+        881,
+        364
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-λαχ-όντ-ες upon obtaining\n(nom. pl. m.) (ἀπο-λαγχάν-ω/\nἀπ-έ-λαχ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        836,
+        658,
+        867,
+        848
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-δύν-αντο they were able\n(δύκ-αμαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        853,
+        391,
+        865,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γυναικεῖ-ος -α -ον woman's",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 116
+}

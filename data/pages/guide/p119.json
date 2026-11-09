@@ -1,0 +1,348 @@
+{
+  "running_head": "Section 8C",
+  "folio": "105",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        156,
+        75,
+        597,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "25 δύναται GE p. 156, #177.\n25–26 οἱ μέν ... οἱ δέ ... ‘some ... others ...’\n27–30 A rather touching personal view. It shows Aristophanes’ sympathy with ‘honest country folk’, and a glimpse of the pre-war Athens.\n32 ἂν βουλοίμην ἄν + optative again – ‘could’, ‘would’.\nἀναπείσω What verb does this come from? Try πείθω.\n33 εἶμι (not εἰμί) ‘I shall go’.\n34 ἄλλο τι πλήν ... ‘anything else but ...’\n42–44 Note ἄν + optative repeatedly.\nPage 97\n46 A quotation from Homer, Odyssey 1.267.\n48–49 Two lines from the Homeric Hymn to Demeter 216–217. The vocabulary should give you all the help you need.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        191,
+        190,
+        401,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 8C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        413,
+        87,
+        482,
+        804
+      ],
+      "margin_number": null,
+      "speaker": "DIKAIOPOLIS",
+      "text": "You seem to speak the truth, Peisetairos. But who will save the city, since the orators seem to be worth nothing? Perhaps the people themselves?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        447,
+        88,
+        480,
+        855
+      ],
+      "margin_number": null,
+      "speaker": "EUELPIDES",
+      "text": "O Herakles, don’t say that! For the people are most skilled at home, but absolute idiots in the assembly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        486,
+        88,
+        501,
+        337
+      ],
+      "margin_number": null,
+      "speaker": "RHAPSODE",
+      "text": "But if Pericles –",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        507,
+        88,
+        521,
+        405
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "Don’t speak of Pericles!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        526,
+        88,
+        559,
+        879
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "What do you mean, my friend? Pericles seemed to be the best of them all, so they say.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        564,
+        88,
+        597,
+        796
+      ],
+      "margin_number": null,
+      "speaker": "PEISETAIROS",
+      "text": "But the good citizen makes the citizens better instead of worse. Did Pericles do this or not?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        603,
+        88,
+        618,
+        303
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "He did it, by Zeus!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        622,
+        88,
+        655,
+        882
+      ],
+      "margin_number": null,
+      "speaker": "PEI.",
+      "text": "When Pericles began to speak in the assembly, therefore, were the Athenians worse, and when he died were they better?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        661,
+        88,
+        694,
+        789
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "It is probable that they were. For the good citizen makes the others better.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        700,
+        88,
+        775,
+        893
+      ],
+      "margin_number": null,
+      "speaker": "PEI.",
+      "text": "But we know clearly, you and I, that at first Pericles was well thought of when the Athenians were, as you say, worse; but when they became better, because of him, they condemned him for theft, and it is clear that he was a villain.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        781,
+        88,
+        815,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "You speak the truth, I know it well. Who will save the city? A man who loves the city will save it and not destroy it. What must we do?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        820,
+        88,
+        834,
+        617
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "Dikaiopolis, you must seek the good of the city.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        839,
+        88,
+        874,
+        901
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "But what is the good, rhapsode? For I don’t know what it is that is the good [of the city].",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        880,
+        88,
+        913,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "You don’t know what ‘the good’ is? But on the ship you seemed to be some sort of a philosopher, knowing their jargon.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        918,
+        88,
+        951,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "Don’t mock me, rhapsode! For the philosophers search, as I hear, for ‘the good’, but no one can discover it. Some think that it is virtue, and others think",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 119
+}

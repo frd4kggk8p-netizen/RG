@@ -1,0 +1,1408 @@
+{
+  "running_head": "Exercises for section 8",
+  "folio": "107",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        93,
+        274,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        203,
+        271
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "food",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        191,
+        552,
+        203,
+        738
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ σίτου, τῶν σίτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        211,
+        191,
+        223,
+        353
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "a philosopher",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        211,
+        552,
+        223,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ φιλοσόφου, τῶν φιλοσόφων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        230,
+        191,
+        243,
+        325
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "the people",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        230,
+        552,
+        243,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ δήμου, τῶν δήμων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        250,
+        191,
+        263,
+        308
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "lawcourt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        250,
+        552,
+        263,
+        871
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ δικαστηρίου, τῶν δικαστηρίων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        269,
+        191,
+        282,
+        273
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "time",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        269,
+        552,
+        282,
+        774
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ χρόνου, τῶν χρόνων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        289,
+        191,
+        302,
+        273
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "river",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        289,
+        552,
+        302,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ποταμοῦ, τῶν ποταμῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        308,
+        191,
+        321,
+        328
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "young man",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        308,
+        552,
+        321,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ νεανίσκου, τῶν νεανίσκων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        328,
+        191,
+        342,
+        335
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "heaven, sky",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        328,
+        552,
+        342,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ οὐρανοῦ, τῶν οὐρανῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        366,
+        191,
+        379,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 5",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        386,
+        191,
+        399,
+        292
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "worthy",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        386,
+        358,
+        399,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ἀξίου, τῆς ἀξίας, τοῦ ἀξίου, τῶν ἀξίων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        405,
+        191,
+        418,
+        237
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "that",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        405,
+        358,
+        418,
+        880
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκείνου τοῦ, ἐκείνης τῆς, ἐκείνου τοῦ, ἐκείνων τῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        425,
+        191,
+        437,
+        271
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "right",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        425,
+        358,
+        437,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ δεξιοῦ, τῆς δεξιᾶς, τοῦ δεξιοῦ, τῶν δεξιῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        444,
+        191,
+        457,
+        273
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ready",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        444,
+        358,
+        457,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ἑτοίμου, τῆς ἑτοίμης, τοῦ ἑτοίμου, τῶν ἑτοίμων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        464,
+        191,
+        477,
+        292
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "himself",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        464,
+        358,
+        477,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ αὐτοῦ, τῆς αὐτῆς, τοῦ αὐτοῦ, τῶν αὐτῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        483,
+        191,
+        496,
+        313
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "difficult",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        483,
+        358,
+        496,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ χαλεποῦ, τῆς χαλεπῆς, τοῦ χαλεποῦ, τῶν χαλεπῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        503,
+        191,
+        516,
+        319
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "your (pl.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        503,
+        358,
+        532,
+        800
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ὑμετέρου, τῆς ὑμετέρας, τοῦ ὑμετέρου, τῶν\nὑμετέρων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        541,
+        191,
+        554,
+        301
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "greatest",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        541,
+        358,
+        570,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ μεγίστου, τῆς μεγίστης, τοῦ μεγίστου, τῶν\nμεγίστων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        579,
+        191,
+        592,
+        269
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "best",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        579,
+        358,
+        608,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ βελτίστου, τῆς βελτίστης, τοῦ βελτίστου, τῶν\nβελτίστων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        617,
+        191,
+        630,
+        319
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "your (s.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        617,
+        358,
+        630,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ σοῦ, τῆς σῆς, τοῦ σοῦ, τῶν σῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        637,
+        191,
+        650,
+        270
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "much",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        637,
+        358,
+        650,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ πολλοῦ, τῆς πολλῆς, τοῦ πολλοῦ, τῶν πολλῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        656,
+        191,
+        669,
+        260
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "this",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        656,
+        358,
+        669,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τούτου τοῦ, ταύτης τῆς, τούτου τοῦ, τούτων τῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 43,
+      "bbox": [
+        694,
+        191,
+        706,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 6",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        713,
+        191,
+        726,
+        298
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "suffering",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        713,
+        552,
+        726,
+        744
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ πάθους, τῶν παθῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        733,
+        191,
+        746,
+        335
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "number, crowd",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        733,
+        552,
+        746,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ πλήθους, τῶν πληθῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        752,
+        191,
+        765,
+        266
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "wall",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        752,
+        552,
+        765,
+        744
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ τείχους, τῶν τειχῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 50,
+      "bbox": [
+        789,
+        191,
+        802,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 7",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        809,
+        191,
+        822,
+        345
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "thing, affair",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        809,
+        552,
+        822,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ πράγματος, τῶν πραγμάτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        828,
+        191,
+        841,
+        260
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "herald",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        828,
+        552,
+        841,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ κήρυκος, τῶν κηρύκων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        847,
+        191,
+        860,
+        338
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "possession",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        847,
+        552,
+        860,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ κτήματος, τῶν κτημάτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        867,
+        191,
+        880,
+        290
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "speaker",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        867,
+        552,
+        880,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ῥήτορος, τῶν ῥητόρων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        886,
+        191,
+        899,
+        294
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "old man",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        886,
+        552,
+        899,
+        784
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ γέροντος, τῶν γερόντων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 61,
+      "bbox": [
+        906,
+        191,
+        918,
+        253
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "foot",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 62,
+      "bbox": [
+        906,
+        552,
+        918,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ ποδός, τῶν ποδῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 63,
+      "bbox": [
+        925,
+        191,
+        938,
+        309
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "thought",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 64,
+      "bbox": [
+        925,
+        552,
+        938,
+        800
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς φροντίδος, τῶν φροντίδων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 65,
+      "bbox": [
+        945,
+        191,
+        958,
+        354
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "thing, object",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 66,
+      "bbox": [
+        945,
+        552,
+        958,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ χρήματος, τῶν χρημάτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 67,
+      "bbox": [
+        964,
+        191,
+        977,
+        269
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "god",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 68,
+      "bbox": [
+        964,
+        552,
+        977,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῦ δαίμονος, τῶν δαιμόνων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 69,
+      "bbox": [
+        984,
+        191,
+        996,
+        308
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "woman",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 70,
+      "bbox": [
+        984,
+        552,
+        996,
+        803
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς γυναικός, τῶν γυναικῶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 121
+}

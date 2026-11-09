@@ -1,0 +1,161 @@
+{
+  "running_head": "Grammar for Section 7A–C",
+  "folio": "139",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        181,
+        63,
+        203,
+        110
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "161",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        78,
+        186,
+        237,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾔα ‘I was going, went’\nᾔα or ᾔειν\t‘I was going, went’\nᾔεισθα\t‘you (s.) were going, went’\nᾔει(ν)\t‘he/she/it was going, went’\nᾔμεν\t‘we were going, went’\nᾔτε\t‘you (pl.) were going, went’\nᾔσαν\t‘they were going, went’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        267,
+        179,
+        303,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        314,
+        186,
+        497,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A–C: 5. Revise the present and imperfect of εἰμί, ‘I am/was’ (44, 110) and the future and imperfect of εἶμι, ‘I shall go/was going’, (123, 161) and translate into Greek:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7A-C: 5",
+        "instruction": "Revise the present and imperfect of εἰμί, ‘I am/was’ (44, 110) and the future and imperfect of εἶμι, ‘I shall go/was going’, (123, 161) and translate into Greek:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "We were going"
+          },
+          {
+            "n": "2.",
+            "prompt": "We were"
+          },
+          {
+            "n": "3.",
+            "prompt": "They shall go"
+          },
+          {
+            "n": "4.",
+            "prompt": "She is"
+          },
+          {
+            "n": "5.",
+            "prompt": "He was going"
+          },
+          {
+            "n": "6.",
+            "prompt": "She shall go"
+          },
+          {
+            "n": "7.",
+            "prompt": "They are"
+          },
+          {
+            "n": "8.",
+            "prompt": "We were"
+          },
+          {
+            "n": "9.",
+            "prompt": "You (pl.) were going"
+          },
+          {
+            "n": "10.",
+            "prompt": "You (s.) were going"
+          },
+          {
+            "n": "11.",
+            "prompt": "We are"
+          },
+          {
+            "n": "12.",
+            "prompt": "They were"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        484,
+        186,
+        894,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 7A–C\nἀλήθεια, ἡ\ttruth (1b)\nἀνάγκη ἐστί\tit is obligatory (for X [acc. or dat.] to – (inf.))\nἀνάγκη, ἡ\tnecessity (1a)\nἀποφαίνω\treveil, show\nβούλομαι\twish, want\nγὰρ δή\treally; I assure you\nδεῖ\tit is necessary for X (acc.) to – (inf.)\nδιαβάλλω\tslander\n(διαβαλ-)\nδιαβολή, ἡ\tslander (1a)\nδιαφθείρω\tcorrupt; kill; destroy\n(διαφθειρα-)\nδοκέω\tseem; consider oneself to –\nδόξα, ἡ\treputation, opinion (1c)\nἑαυτόν\thimself\nεἰδώς εἰδυῖα\tknowing (part. of οἶδα)\nεἰδώς (εἰδοτ-)\nεἶμι\tI shall go; ἰέναι to go; ᾔα I went\nἐντεῦθεν\tfrom then, from there\nἐξετάζω\tquestion closely\nεὑρίσκω (εὑρ-)\tfind, come upon\nἤ\tthan\nἴσως\tperhaps\nλογίζομαι\treckon, calculate, consider\nnoέω\tthink, notice, mean, intend\nμή\tnot; don’t! (with imper.)\nοἶμαι\tthink (impf. ᾠμην)\nπάρειμι\tbe present, be at hand\nπειράομαι\ttry, test\n(πειρᾶσα-)\nποιητής, ὁ\tpoet (1d)\nπολλάκις\toften\nποτε\tonce, ever\nσοφία, ἡ\twisdom (1b)\nὡς\tthat",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 157
+}

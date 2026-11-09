@@ -1,0 +1,632 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "118",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        91,
+        206,
+        119
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "118",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        194,
+        209,
+        207,
+        822
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        194,
+        839,
+        206,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "134–138",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        215,
+        219,
+        230,
+        600
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Contract verbs with stems ending in -εα- and -ρα-",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        238,
+        196,
+        281,
+        915
+      ],
+      "margin_number": 134,
+      "speaker": null,
+      "text": "As in the future (116) an exception to this rule is verbs whose stems end in -εα- and -ρα-: the α of these verbs becomes long in the aorist.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        291,
+        246,
+        321,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δράω ‘I do, act’ (α > ᾱ) → ἔδρᾱσα ‘I did, acted’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        334,
+        246,
+        348,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Verbs with stems ending in λ, μ, ν or ρ",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        357,
+        196,
+        400,
+        915
+      ],
+      "margin_number": 135,
+      "speaker": null,
+      "text": "Verbs whose stems end in λ, μ, ν or ρ do not form their aorist by the addition of σ. The general rule is that:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        409,
+        246,
+        423,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) the aorist stem of these verbs is the same as the present;",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        426,
+        246,
+        442,
+        869
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) but if the final vowel in the present stem is short, it lengthens, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        448,
+        246,
+        461,
+        858
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διαφθείρω ‘I destroy’ διαφθειρ- → διέφθειρα ‘I destroyed’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "blue bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        464,
+        246,
+        477,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμύνω ‘I ward off’ ἀμυν- → ἠμῡνα ‘I warded off’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "blue bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        480,
+        246,
+        493,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μένω ‘I remain’ μειν- → ἔμεινα ‘I remained’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "blue bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        504,
+        246,
+        547,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Note that verbs of this type usually have an aorist stem that is different from the future stem: see 117.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 15,
+      "bbox": [
+        568,
+        195,
+        584,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Augments",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        593,
+        196,
+        624,
+        915
+      ],
+      "margin_number": 136,
+      "speaker": null,
+      "text": "The principles of augmentation are exactly the same as for the imperfect (see 104–5). Thus ἐ- is added to stems beginning in a consonant:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        638,
+        219,
+        650,
+        373
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Consonant stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        658,
+        224,
+        672,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διώκω ‘I pursue’ διωξ- → ἐ-δίωξα ‘I pursued’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        675,
+        224,
+        688,
+        833
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κολάζω ‘I punish’ κολασ- → ἐ-κόλασα ‘I punished’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        701,
+        246,
+        715,
+        354
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vowel stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 21,
+      "bbox": [
+        724,
+        196,
+        739,
+        865
+      ],
+      "margin_number": 137,
+      "speaker": null,
+      "text": "When a stem begins in a vowel, this vowel lengthens where possible:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 22,
+      "bbox": [
+        748,
+        246,
+        762,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκούω ‘I hear’ ἀκουσ- → ἠ-κουσα ‘I heard’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 23,
+      "bbox": [
+        764,
+        246,
+        778,
+        834
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐρωτάω ‘I ask’ ἐρωτησ- → ἠ-ρώτησα ‘I asked’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        780,
+        246,
+        794,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εύχομαι ‘I pray’ εὐξ- → η-ὐξά-μην ‘I prayed’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 25,
+      "bbox": [
+        796,
+        246,
+        810,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡσυχάζω ‘I keep quiet’ ἡσυχασ- → ἡ-σύχασα ‘I became quiet’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 26,
+      "bbox": [
+        821,
+        219,
+        834,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Compound verbs",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 27,
+      "bbox": [
+        843,
+        196,
+        873,
+        915
+      ],
+      "margin_number": 138,
+      "speaker": null,
+      "text": "Remember that with compound verbs it is the stem which is augmented, not the prefix:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 28,
+      "bbox": [
+        886,
+        246,
+        899,
+        892
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-χωρέω ‘I retreat’ ἀνα-χωρησ- → ἀν-ε-χώρησα ‘I retreated’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 29,
+      "bbox": [
+        902,
+        246,
+        915,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-κτείνω ‘I kill’ ἀπο-κτειν- → ἀπ-ε-κτεινα ‘I killed’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 30,
+      "bbox": [
+        926,
+        196,
+        940,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 31,
+      "bbox": [
+        951,
+        196,
+        963,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A–B: 4. Form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 4",
+        "instruction": "Form the aorist 3rd person s. and pl. of the following verbs, and translate:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 136
+}

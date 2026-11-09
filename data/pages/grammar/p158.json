@@ -1,0 +1,304 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "140",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        76,
+        706,
+        708
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7A–C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        193,
+        118,
+        518
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        128,
+        193,
+        243,
+        604
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1a. Change the following verbs into the infinitive form:\n1. λέγω\t6. διαφθείρω\n2. διαβάλλω\t7. εὑρίσκω\n3. δοκέω\t8. εἰμῖ\n4. ἀποφαίνω\t9. εἰμί\n5. διαλέγομαι\t10. οἶδα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1a",
+        "instruction": "Change the following verbs into the infinitive form:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "λέγω"
+          },
+          {
+            "n": "2",
+            "prompt": "διαβάλλω"
+          },
+          {
+            "n": "3",
+            "prompt": "δοκέω"
+          },
+          {
+            "n": "4",
+            "prompt": "ἀποφαίνω"
+          },
+          {
+            "n": "5",
+            "prompt": "διαλέγομαι"
+          },
+          {
+            "n": "6",
+            "prompt": "διαφθείρω"
+          },
+          {
+            "n": "7",
+            "prompt": "εὑρίσκω"
+          },
+          {
+            "n": "8",
+            "prompt": "εἰμῖ"
+          },
+          {
+            "n": "9",
+            "prompt": "εἰμί"
+          },
+          {
+            "n": "10",
+            "prompt": "οἶδα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        255,
+        193,
+        444,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1b. Adding subjects where indicated, use the ten infinitives you have created to complete the following sentences. Then translate the sentences:\na. δεῖ (you) (pl.) τὴν ἀλήθειαν (tell), καὶ μή (slander) Σωκράτη.\nb. οὐ βουλόμεθα (to seem) ἄριστοι, ἀλλʼ (to be).\nc. οἱ σοφοὶ δοκοῦσι τι (know), οὐκ εἰδότες.\nd. ἀνάγκη ἦν (Socrates) (to go) πρὸς τοὺς σοφοὺς καὶ (to talk) περὶ σοφίας.\ne. Σωκράτης, ὡς ἐγὼ οἶμαι, οὐ πειρᾶται (to corrupt) τοὺς νέους.\nf. Σωκράτης ἐβούλετο (to discover) πότερον τὴν ἀλήθειαν λέγει ὁ ἐν Δελφοῖς θεὸς ἢ οὔ. καὶ πολλάκις ἐπειρᾶτο Σωκράτης (to show) τὸν θεὸν οὐ τἀληθῆ λέγοντα.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": "Adding subjects where indicated, use the ten infinitives you have created to complete the following sentences. Then translate the sentences:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "δεῖ (you) (pl.) τὴν ἀλήθειαν (tell), καὶ μή (slander) Σωκράτη."
+          },
+          {
+            "n": "b",
+            "prompt": "οὐ βουλόμεθα (to seem) ἄριστοι, ἀλλʼ (to be)."
+          },
+          {
+            "n": "c",
+            "prompt": "οἱ σοφοὶ δοκοῦσι τι (know), οὐκ εἰδότες."
+          },
+          {
+            "n": "d",
+            "prompt": "ἀνάγκη ἦν (Socrates) (to go) πρὸς τοὺς σοφοὺς καὶ (to talk) περὶ σοφίας."
+          },
+          {
+            "n": "e",
+            "prompt": "Σωκράτης, ὡς ἐγὼ οἶμαι, οὐ πειρᾶται (to corrupt) τοὺς νέους."
+          },
+          {
+            "n": "f",
+            "prompt": "Σωκράτης ἐβούλετο (to discover) πότερον τὴν ἀλήθειαν λέγει ὁ ἐν Δελφοῖς θεὸς ἢ οὔ. καὶ πολλάκις ἐπειρᾶτο Σωκράτης (to show) τὸν θεὸν οὐ τἀληθῆ λέγοντα."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        465,
+        193,
+        764,
+        627
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Pair up the positive forms on the left with the comparative forms on the right. Add the superlative in each case.\n1. ἀγαθός\ta. καλλίων\n2. βέβαιος\tb. μείζων\n3. δεινός\tc. φίλτερος/φιλαίτερος*\n4. κακός\td. πολεμιώτερος\n5. καλός\te. μωρότερος\n6. μέγας\tf. δεινότερος\n7. μῶρος\tg. βεβαιότερος\n8. πολέμιος\th. ἀμείνων\n9. πολύς\ti. χρησιμώτερος\n10. φίλος\tj. πλείων\n11. χρήσιμος\tk. κακίων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Pair up the positive forms on the left with the comparative forms on the right. Add the superlative in each case.",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἀγαθός"
+          },
+          {
+            "n": "2",
+            "prompt": "βέβαιος"
+          },
+          {
+            "n": "3",
+            "prompt": "δεινός"
+          },
+          {
+            "n": "4",
+            "prompt": "κακός"
+          },
+          {
+            "n": "5",
+            "prompt": "καλός"
+          },
+          {
+            "n": "6",
+            "prompt": "μέγας"
+          },
+          {
+            "n": "7",
+            "prompt": "μῶρος"
+          },
+          {
+            "n": "8",
+            "prompt": "πολέμιος"
+          },
+          {
+            "n": "9",
+            "prompt": "πολύς"
+          },
+          {
+            "n": "10",
+            "prompt": "φίλος"
+          },
+          {
+            "n": "11",
+            "prompt": "χρήσιμος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 6,
+      "bbox": [
+        777,
+        193,
+        791,
+        478
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* Note these unusual comparative forms.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        792,
+        193,
+        804,
+        451
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        811,
+        193,
+        917,
+        739
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:\n1. ἀνάγκη ἐστὶ τοὺς γεωργοὺς εἰς τὸ ἄστυ ἰέναι.\nI was obliged to go to the poets.\n2. δεῖ ἡμᾶς θυσίας θύειν καὶ πρὸς τοὺς θεοὺς εὔχεσθαι.\nYou (s.) must question me closely and consider carefully.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "trans",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἀνάγκη ἐστὶ τοὺς γεωργοὺς εἰς τὸ ἄστυ ἰέναι."
+          },
+          {
+            "n": "2",
+            "prompt": "δεῖ ἡμᾶς θυσίας θύειν καὶ πρὸς τοὺς θεοὺς εὔχεσθαι."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 158
+}

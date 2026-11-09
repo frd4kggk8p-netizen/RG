@@ -1,0 +1,589 @@
+{
+  "running_head": "Section 6A",
+  "folio": "72",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        155,
+        78,
+        128,
+        910
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "ἐποίησαν Resumption of aorist endings. ἐ- (augment) and -σαν (person-ending).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        96,
+        155,
+        128,
+        867
+      ],
+      "margin_number": 42,
+      "speaker": null,
+      "text": "ὡς ἔλεγον ‘as I was saying’. Notice the difference between the imperfect tense and the aorists which follow, ‘they made the wax warm etc.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        191,
+        191,
+        219,
+        270
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 65",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        180,
+        122,
+        230,
+        908
+      ],
+      "margin_number": 46,
+      "speaker": null,
+      "text": "If the apparent lack of connection here is confusing, it is designed to convey the ignorance of Strepsiades. ‘Knowing the flea’s leap’ = ‘being educated’, and if he’s educated, then he’s sure to win his lawsuits.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        257,
+        191,
+        270,
+        360
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 6A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        280,
+        191,
+        295,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Strepsiades knocks at the door and shouts",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        308,
+        89,
+        321,
+        412
+      ],
+      "margin_number": null,
+      "speaker": "STREPSIADES",
+      "text": "Boy! Young boy!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        331,
+        89,
+        345,
+        665
+      ],
+      "margin_number": null,
+      "speaker": "STUDENT",
+      "text": "Go to hell. Who knocked at the door? Who shouted?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        351,
+        89,
+        365,
+        483
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I knocked at the door and I shouted.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        371,
+        89,
+        386,
+        752
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Who are you that you did that? Some ignoramus, I know well.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        392,
+        89,
+        406,
+        529
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Strepsiades, from the deme Kikynna.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        412,
+        89,
+        426,
+        351
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Go to hell, again.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        432,
+        89,
+        446,
+        600
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Alas! What shall I do? Well, I’ll knock again.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        453,
+        191,
+        467,
+        437
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(He knocks at the door again.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        474,
+        89,
+        519,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Who’s that knocking? Why did this fellow not stop knocking, when I told him to? Why are you knocking again? What do have in mind? You’ve knocked away my thought [by] doing that.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        525,
+        89,
+        557,
+        900
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "But I’ve just stopped, my dear fellow. For you told me to. Don’t throw me out, although I’m a rustic and ignorant. But what was your thought? Tell me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        564,
+        89,
+        578,
+        792
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "It isn’t right. Only the students learn these thoughts of the sophists.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        584,
+        89,
+        598,
+        810
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Tell me then. For I have come to the thinkery as a student of the sophists.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "label": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        604,
+        89,
+        631,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "I will tell you. A flea bites Chaerephon’s eyebrow. When it jumps onto Socrates’ head, the men converse as follows.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        638,
+        89,
+        666,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "SOCRATES",
+      "text": "Look, Chaerephon. The flea does not escape my notice being worthy of an Olympic crown. But tell [me], how many of its own feet did the flea leap?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        673,
+        89,
+        687,
+        827
+      ],
+      "margin_number": null,
+      "speaker": "CHAEREPHON",
+      "text": "I do not know, Socrates. But why don’t we measure the distance?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        693,
+        89,
+        707,
+        517
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "How shall we measure it, Chaerephon?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        713,
+        89,
+        741,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "CHA.",
+      "text": "Look. First I take some wax, then I make the wax warm. Finally I put the flea’s feet into the wax.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        748,
+        89,
+        762,
+        303
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "What then?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        768,
+        89,
+        782,
+        843
+      ],
+      "margin_number": null,
+      "speaker": "CHA.",
+      "text": "Now the wax is becoming cold. Look, Socrates: for the flea has slippers.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        788,
+        89,
+        802,
+        452
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "But what are you doing now?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        808,
+        89,
+        822,
+        490
+      ],
+      "margin_number": null,
+      "speaker": "CHA.",
+      "text": "Now I am loosing the slippers. Look!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        828,
+        89,
+        856,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "O king Zeus! Oh the wisdom of the men! But tell me, whatever did the men do, student?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        862,
+        89,
+        907,
+        909
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "You don’t escape my notice being a rustic, Strepsiades, not knowing anything. But as I was saying, first they made the wax warm. Then they put the flea’s feet into the wax. Finally they loosed the slippers and measured – of course – the distance.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 86
+}

@@ -1,0 +1,383 @@
+{
+  "running_head": "185-186 Grammar for Section 8A-C",
+  "folio": "169",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        204,
+        204,
+        240,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Middle contract optative",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 2,
+      "bbox": [
+        193,
+        194,
+        281,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "θεάομαι, ‘I watch’",
+            "ποιέομαι, ‘I make, do’",
+            "δουλόομαι, ‘I enslave for\nmyself’"
+          ],
+          [
+            "(α-contract verb)",
+            "(ε-contract verb)",
+            "(ο-contract verb)"
+          ]
+        ],
+        "rows": [
+          [
+            "θεά-οίμην > θεῴμην",
+            "ποιέ-οίμην > ποιοίμην",
+            "δουλό-οίμην > δουλοίμην"
+          ],
+          [
+            "θεά-οιο > θεῷο",
+            "ποιέ-οιο > ποιοῖο",
+            "δουλό-οιο > δουλοῖο"
+          ],
+          [
+            "θεά-οιτο > θεῷτο",
+            "ποιέ-οιτο > ποιοῖτο",
+            "δουλό-οιτο > δουλοῖτο"
+          ],
+          [
+            "θεά-οίμεθα > θεῴμεθα",
+            "ποιέ-οίμεθα > ποιοίμεθα",
+            "δουλό-οίμεθα > δουλοίμεθα"
+          ],
+          [
+            "θεά-οισθε > θεῷσθε",
+            "ποιέ-οισθε > ποιοῖσθε",
+            "δουλό-οισθε > δουλοῖσθε"
+          ],
+          [
+            "θεά-οιντο > θεῷντο",
+            "ποιέ-οιντο > ποιοῖντο",
+            "δουλό-οιντο > δουλοῖντο"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        316,
+        185,
+        330,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        337,
+        185,
+        372,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You can recognise present optatives from the combination of a present stem and\n-οι- (or ω).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        390,
+        187,
+        403,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        412,
+        187,
+        545,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 15",
+        "instruction": "Translate the following present indicatives and turn them into the equivalent optatives:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "φιλεῖς"
+          },
+          {
+            "n": "4.",
+            "prompt": "πειρᾶται"
+          },
+          {
+            "n": "2.",
+            "prompt": "διανοοῦνται"
+          },
+          {
+            "n": "5.",
+            "prompt": "τολμῶσιν"
+          },
+          {
+            "n": "3.",
+            "prompt": "νικᾷ"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        564,
+        195,
+        576,
+        333
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄν + OPTATIVE",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        587,
+        186,
+        638,
+        908
+      ],
+      "margin_number": 186,
+      "speaker": null,
+      "text": "The optative forms are used with the particle ἄν to express a ‘polite’ request\nor agreement. Sometimes ‘polite’ requests are difficult to distinguish from\nstraightforward requests. The best translations involve using the English\nforms ‘would’, ‘would like to’, ‘can’, or the simple future ‘will’, e.g.",
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        652,
+        238,
+        689,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγοις ἄν μοι; ‘Would you tell me? Would you like to/could you/will\nyou tell me?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        691,
+        237,
+        706,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγοιμι ἄν ‘I would/would like to/can/will tell you.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        728,
+        186,
+        742,
+        541
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that ἄν cannot come as first word.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        759,
+        186,
+        773,
+        312
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 13,
+      "bbox": [
+        784,
+        186,
+        925,
+        900
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 16",
+        "instruction": "Translate into the ‘polite’ form, ἄν + optative, using the verbs in brackets:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "They would bring (φέρω)"
+          },
+          {
+            "n": "6.",
+            "prompt": "They would do wrong (ἀδικέω)"
+          },
+          {
+            "n": "2.",
+            "prompt": "We would converse (διαλέγομαι)"
+          },
+          {
+            "n": "7.",
+            "prompt": "He would see (ὁράω)"
+          },
+          {
+            "n": "3.",
+            "prompt": "She would consider (σκοπέω)"
+          },
+          {
+            "n": "8.",
+            "prompt": "You (pl.) would persuade (πείθω)"
+          },
+          {
+            "n": "4.",
+            "prompt": "I would send (πέμπω)"
+          },
+          {
+            "n": "9.",
+            "prompt": "We would guard (φυλάττω)"
+          },
+          {
+            "n": "5.",
+            "prompt": "You (s.) would receive (δέχομαι)"
+          },
+          {
+            "n": "10.",
+            "prompt": "They would obey (πείθομαι)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 187
+}

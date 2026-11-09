@@ -1,0 +1,1648 @@
+{
+  "running_head": "Section Eight A–C: Aristophanes' Birds and visions of Utopia",
+  "folio": "97",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        194,
+        76,
+        872,
+        874
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "φεύγειν ⸂βουλοίμην. ἆρ’ οὐκ ἴσασιν ὅτι ἀληθῆ ἐποίησεν ὁ ποιητὴς ὁ ποιήσας·\n‘ἀλλ’ ἦ⸌ τοι μὲν ταῦτα θεῶν ἐν γούνασι κεῖται;’\nδεῖ γὰρ ἡμᾶς τὰ τῶν θεῶν δῶρα καρτερεῖν, καὶ χαλεπὰ καὶ τὰ ⸌βελτίω.\n‘ἀλλὰ θεῶν μὲν δῶρα, καὶ⸂ ἀχνύμενοί ⸌περ, ἀνάγκη\nτέτλαμεν ἄνθρωποι. ἐπί⸀ γὰρ ζυγὸς ⸂αὐχέι κεῖται.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        198,
+        194,
+        215,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Eight C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        235,
+        99,
+        252,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγρῷ the country",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        253,
+        99,
+        269,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄγ-ω live in, be at (peace)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        269,
+        99,
+        285,
+        318
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλλ’ οὖν however that may be",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        286,
+        99,
+        301,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνάγκη of necessity",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        302,
+        99,
+        318,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἂν βουλοίμην (I) would like to",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        320,
+        99,
+        347,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-πείθ-ω bring over to one’s\nside",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        347,
+        99,
+        363,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἂν ποι-οίην (I) would do",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        363,
+        99,
+        379,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀντὶ χειρόν-ων instead of worse",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        380,
+        99,
+        396,
+        235
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄξι-ος -α -ον worth",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        397,
+        99,
+        412,
+        250
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπ-ολ-εῖ (he) will destroy",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        414,
+        99,
+        444,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπορί-ας lack of provision;\nperplexity (after πλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        445,
+        99,
+        477,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-πράγμων ἄ-πραγμον\n(ἀπραγμον-) free from trouble",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        478,
+        99,
+        494,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρχ-ομαι begin (+ inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        495,
+        99,
+        537,
+        318
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-οῦ. . . πονηρ-οῦ ὄντος\nhim . . . being wicked (after\nκατεψηφίσαντο)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        538,
+        99,
+        554,
+        304
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀχν-ύμενος -η -ον grieving",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        555,
+        99,
+        570,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βελτί-ους better (nom./acc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        571,
+        99,
+        601,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γν-ούς knowing (nom. s. m.)\n(γιγνώσκ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        602,
+        99,
+        618,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γούνασι lap (lit. ‘knees’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        619,
+        99,
+        634,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεξι-ός -ά -όν clever, handy",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        635,
+        99,
+        665,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικαιοσún-η, ἡ justice, being\njust (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        666,
+        99,
+        682,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῶρ-ον, τό gift (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        683,
+        99,
+        698,
+        222
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰκός it is likely",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        699,
+        99,
+        715,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰρήν-η, ἡ peace (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        716,
+        99,
+        731,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑορτ-ή, -ῆς festival (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        732,
+        99,
+        745,
+        172
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπεί since",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        235,
+        365,
+        252,
+        550
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπὶ αὐχένι upon our neck",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        253,
+        365,
+        283,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕτοιμ-ος -η -ον ready (to)\n(+inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        284,
+        365,
+        313,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐ-δόκιμ-ος -ον well thought of\nζυγ-ός, ὁ yoke (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        314,
+        365,
+        329,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦτοι indeed",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        330,
+        365,
+        346,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡγέ-ομαι consider (x to be y)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        347,
+        365,
+        363,
+        576
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡδον-ῆς pleasure (after πλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        363,
+        365,
+        379,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἡράκλεις Herakles! (voc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        380,
+        365,
+        396,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καί. . . καί both. . . and",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        397,
+        365,
+        412,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ. . . πέρ despite, although",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        413,
+        365,
+        429,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι nonetheless",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        430,
+        365,
+        446,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κακὰ λέγ-ω speak ill of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        447,
+        365,
+        463,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καρτερέ-ω endure, put up with",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        463,
+        365,
+        493,
+        604
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-ψηφíz-ομαι condemn (x on\ncharge of y)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        495,
+        365,
+        524,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κεῖται (they=ταῦτα) lie;\n(it=ζυγός) lies",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        525,
+        365,
+        541,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλοπ-ή, ἡ theft (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        542,
+        365,
+        558,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μόν-ος -η -ον alone",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        558,
+        365,
+        574,
+        485
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νε-ῶν of ships",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        575,
+        365,
+        591,
+        575
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νόσ-ου disease (after πλέως)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        592,
+        365,
+        608,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νυν so, then",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        609,
+        365,
+        624,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἴν-ου wine (after πλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        626,
+        365,
+        642,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἱ δὲ others",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        642,
+        365,
+        658,
+        474
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἱ μὲν some",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        659,
+        365,
+        675,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ Περικλῆς Pericles",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        676,
+        365,
+        692,
+        476
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅ τι what",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        693,
+        365,
+        708,
+        469
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅτι because of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        710,
+        365,
+        725,
+        579
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐδενὸς nothing (after ἄξιοι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        726,
+        365,
+        742,
+        473
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάντ-ων of all",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        235,
+        631,
+        264,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρασκευ-ῆς equipping (after\nπλέως)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        267,
+        631,
+        282,
+        822
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περὶ εἰρήν-ης about peace",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        284,
+        631,
+        301,
+        815
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Περικλῆς Pericles (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        301,
+        631,
+        318,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλέ-ως -α -ων full of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        319,
+        631,
+        334,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποιέ-ομαι make",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        336,
+        631,
+        351,
+        722
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλὴν except",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 61,
+      "bbox": [
+        352,
+        631,
+        381,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλούτ-ου riches, wealth (after\nπλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 62,
+      "bbox": [
+        383,
+        631,
+        398,
+        807
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σίτ-ου food (after πλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 63,
+      "bbox": [
+        399,
+        631,
+        415,
+        806
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπεύδ-οιμι ἄν I would hurry",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 64,
+      "bbox": [
+        416,
+        631,
+        432,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπονδ-αί, αἱ truce, treaty (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 65,
+      "bbox": [
+        432,
+        631,
+        448,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συγγεν-ής, ὁ relation (3d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 66,
+      "bbox": [
+        450,
+        631,
+        465,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὰ βελτί-ω the better things (acc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 67,
+      "bbox": [
+        466,
+        631,
+        493,
+        782
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τᾶν my dear chap\n(condescendingly)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 68,
+      "bbox": [
+        494,
+        631,
+        509,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τέτλαμεν we endure",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 69,
+      "bbox": [
+        510,
+        631,
+        526,
+        816
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ ἐκκλησίᾳ the assembly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 70,
+      "bbox": [
+        527,
+        631,
+        542,
+        785
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ νηῒ the ship",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 71,
+      "bbox": [
+        543,
+        631,
+        558,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς πατρίδ-ος my fatherland",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 72,
+      "bbox": [
+        559,
+        631,
+        574,
+        807
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς πόλ-εως of the city",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 73,
+      "bbox": [
+        576,
+        631,
+        591,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὸν Περικλέ-α Pericles",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 74,
+      "bbox": [
+        592,
+        631,
+        608,
+        779
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τόπ-ος, ὁ place (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 75,
+      "bbox": [
+        609,
+        631,
+        624,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ δήμ-ῳ the people",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 76,
+      "bbox": [
+        626,
+        631,
+        642,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑγιεί-ας health (after πλέα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 77,
+      "bbox": [
+        643,
+        631,
+        658,
+        776
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε come! (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 78,
+      "bbox": [
+        659,
+        631,
+        674,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλό-πολις patriotic (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 79,
+      "bbox": [
+        676,
+        631,
+        692,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλό-σοφ-ος, ὁ philosopher (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 80,
+      "bbox": [
+        693,
+        631,
+        709,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χαλεπ-ός -ή -όν difficult, hard",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 81,
+      "bbox": [
+        710,
+        631,
+        725,
+        816
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χείρ-ους worse (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 82,
+      "bbox": [
+        727,
+        631,
+        742,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χείρων χεῖρον (χειρον-) worse",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 127
+}

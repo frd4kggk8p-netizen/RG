@@ -1,0 +1,488 @@
+{
+  "running_head": "Section 7E",
+  "folio": "91",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        154,
+        75,
+        597,
+        715
+      ],
+      "margin_number": 18,
+      "speaker": null,
+      "text": "ἀποκρινοῦμαι Tense? Cf. ἀποκρίνομαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        97,
+        154,
+        597,
+        715
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "πότεροι … ἤ … A double question, ‘are they … or …?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        121,
+        154,
+        597,
+        715
+      ],
+      "margin_number": 23,
+      "speaker": null,
+      "text": "… ἠπόρησεν. ἀπορήσας δ’ … Cf. line 17.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        136,
+        154,
+        597,
+        715
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "… ἐγέλασεν, γελάσας δέ … Cf. lines 17 and 23.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        172,
+        191,
+        597,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 7D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        193,
+        191,
+        597,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Yesterday I went to the Lyceum, Kriton, and I found Euthydemos and Dionysodoros conversing with many others. And you know that both these men have a good reputation, turning men to philosophy. Therefore, wanting to hear their arguments, I said: ‘Do you, Dionysodoros, have a reputation for turning people to philosophy and virtue or not?’",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        316,
+        209,
+        597,
+        583
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘We certainly seem to, Socrates,’ he said.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        336,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘So be it,’ I said. ‘Then you must turn this young man to philosophy and virtue. They call him Kleinias. He is young. But why don’t you question the young man closely, talking here in front of us?’",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        373,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Euthydemos immediately answered boldly: ‘We are certainly willing to talk here, Socrates. But the young man must answer.’",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        409,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘But,’ I said, ‘the fact is that, Kleinias, enjoys answering. For his friends often go to him, asking questions and discussing, and they always question him closely while he is speaking and answering.’",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        468,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "And Euthydemos said: ‘Listen then, Kleinias, and answer when you have listened.’",
+      "lang": "en",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        505,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Kleinias said: ‘I will do this and answer. For I enjoy answering. Speak then, Euthydemos, and question me. For it is by speaking and questioning that a sophist turns his students to virtue.’",
+      "lang": "en",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        564,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "And Euthydemos said: ‘Tell me then, which people learn, the clever or the ignorant?’",
+      "lang": "en",
+      "para_no": 8,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        603,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "And the young man – for it really was a big question – was at a loss. And being at a loss he looked at me and blushed.",
+      "lang": "en",
+      "para_no": 9,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        638,
+        209,
+        597,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I, seeing him blush, said: ‘Don’t worry, and don’t be afraid, but answer boldly.’",
+      "lang": "en",
+      "para_no": 10,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        661,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "And at this moment Dionysodoros laughed and with a laugh said: ‘Indeed I know very well that Euthydemos will defeat him in discussion.’",
+      "lang": "en",
+      "para_no": 11,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        698,
+        209,
+        597,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I did not answer. For while Dionysodoros was saying this, Kleinias happened to answer that the people who learn are the clever people.",
+      "lang": "en",
+      "para_no": 12,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 18,
+      "bbox": [
+        750,
+        191,
+        777,
+        255
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 19,
+      "bbox": [
+        791,
+        191,
+        807,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 81",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        816,
+        154,
+        827,
+        814
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ὠμολόγει ‘he agreed’. ὁμολογέω is another common word in Plato.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        835,
+        154,
+        847,
+        847
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ἦσθε What verb does this come from? See vocab., and GE p.146, #167.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        853,
+        154,
+        866,
+        303
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἦσμεν Cf. line 6.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        874,
+        154,
+        908,
+        859
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ἀμαθεῖς You can work out the meaning from μανθάνω and then make it negative with ἀ-, thus ἀ-μαθεῖς.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        912,
+        154,
+        925,
+        381
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "πάνυ γε ‘certainly’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 105
+}

@@ -1,0 +1,328 @@
+{
+  "running_head": "144–146 Grammar for Section 6C–D",
+  "folio": "125",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        78,
+        502,
+        95
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist indicative middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 2,
+      "bbox": [
+        187,
+        106,
+        907,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "ἐ-γεν-όμην ‘I became’",
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "ἐ-γεν-όμην",
+            "I became"
+          ],
+          [
+            "ἐ-γέν-ου",
+            "you (s.) became"
+          ],
+          [
+            "ἐ-γέν-ετο",
+            "he/she/it became"
+          ],
+          [
+            "ἐ-γεν-όμεθα",
+            "we became"
+          ],
+          [
+            "ἐ-γέν-εσθε",
+            "you (pl.) became"
+          ],
+          [
+            "ἐ-γέν-οντο",
+            "they became"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        187,
+        283,
+        373,
+        297
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        187,
+        307,
+        907,
+        396
+      ],
+      "margin_number": 145,
+      "speaker": null,
+      "text": "(a) The meaning of the second aorist is the same as the first aorist: ‘I -ed’ (or sometimes ‘I have -ed’ or ‘I had -ed’: see 142).\n(b) Note the -μην -σο -το middle endings (102).\n(c) The endings of the second aorist are exactly the same as those of the imperfect. The difference between the two tenses lies in the change of stem:",
+      "lang": "mixed",
+      "para_no": 145,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        83,
+        403,
+        907,
+        451
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorists have a stem or a form of the stem which is different from that of the present whereas the imperfect is based on the present stem.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "►",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        237,
+        458,
+        444,
+        474
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Observe the following:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "bbox": [
+        187,
+        488,
+        907,
+        564
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Imperfect",
+            "Aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "λαμβάν-ω, ‘I take’",
+            "ἐ-λάμβαν-ον, ‘I was taking’",
+            "ἔ-λαβ-ον, ‘I took’"
+          ],
+          [
+            "γίγν-ομαι, ‘I become’",
+            "ἐ-γιγν-όμην, ‘I was becoming’",
+            "ἐ-γεν-όμην, ‘I became’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        187,
+        581,
+        592,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Common verbs with second aorist forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        187,
+        607,
+        907,
+        678
+      ],
+      "margin_number": 146,
+      "speaker": null,
+      "text": "Verbs which take second aorist forms nearly always undergo a radical stem change. These stem changes have to be learnt. Some you should already recognise from earlier learning vocabularies. The most important and common verbs with second aorist forms are:",
+      "lang": "en",
+      "para_no": 146,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 10,
+      "bbox": [
+        187,
+        694,
+        907,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Aorist stem",
+            "Aorist",
+            "Meaning in aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "γίγνομαι",
+            "γεν-",
+            "ἐγενόμην",
+            "‘I became’"
+          ],
+          [
+            "εὑρίσκω",
+            "εὑρ-",
+            "ηὗρον",
+            "‘I found’"
+          ],
+          [
+            "ἔχω",
+            "σχ-",
+            "ἔσχον",
+            "‘I had’"
+          ],
+          [
+            "λαμβάνω",
+            "λαβ-",
+            "ἔλαβον",
+            "‘I took’"
+          ],
+          [
+            "μανθάνω",
+            "μαθ-",
+            "ἔμαθον",
+            "‘I learned’"
+          ],
+          [
+            "τυγχάνω",
+            "τυχ-",
+            "ἔτυχον",
+            "‘I happened (to be)’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        218,
+        873,
+        907,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "As you can see, aorist stems are generally shorter versions of the present stem (e.g. μανθαν- → μαθ-) and/or different from, but nevertheless recognisably",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 143
+}

@@ -1,0 +1,253 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "170 / 187-188",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        73,
+        417,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνίσταμαι, ‘I LEAVE, EMIGRATE’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        194,
+        193,
+        237,
+        915
+      ],
+      "margin_number": 187,
+      "speaker": null,
+      "text": "187. The verb ἀνίσταμαι, ‘I get up and go, leave, emigrate’ (stem ἀνιστα-), conjugates in the same way as δύναμαι, ‘I am able, can’ (177):",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        184,
+        193,
+        416,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνίσταμαι ‘I leave’\nἀνίσταμαι ‘I leave’\nἀνίστασαι ‘you (s.) leave’\nἀνίσταται ‘he/she/it leaves’\nἀνιστάμεθα ‘we leave’\nἀνίστασθε ‘you (pl.) leave’\nἀνίστανται ‘they leave’\nInfinitive\nἀνίστασθαι ‘to leave’\nParticiple\nἀνιστάμενος η ον ‘leaving’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        431,
+        245,
+        452,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "As with δύνα-μαι, there is no thematic vowel between stem and ending.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        471,
+        187,
+        492,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        499,
+        193,
+        620,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C",
+        "instruction": "17. Revise δύναμαι (177) and translate:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἀνίστασαι"
+          },
+          {
+            "n": "2",
+            "prompt": "δύναται"
+          },
+          {
+            "n": "3",
+            "prompt": "ἀνιστάμενος"
+          },
+          {
+            "n": "4",
+            "prompt": "δύνασθαι"
+          },
+          {
+            "n": "5",
+            "prompt": "ἀνίστασθε"
+          },
+          {
+            "n": "6",
+            "prompt": "δύνανται"
+          },
+          {
+            "n": "7",
+            "prompt": "δυνάμενος"
+          },
+          {
+            "n": "8",
+            "prompt": "ἀνίσταται"
+          },
+          {
+            "n": "9",
+            "prompt": "δυνάμεθα"
+          },
+          {
+            "n": "10",
+            "prompt": "ἀνίστασθαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        638,
+        194,
+        659,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "GREEK IDIOMS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        671,
+        195,
+        687,
+        331
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί + participle",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        693,
+        194,
+        735,
+        915
+      ],
+      "margin_number": 188,
+      "speaker": null,
+      "text": "188. Note the Greek love of τί + participle and the variety of possible translations it takes:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        737,
+        258,
+        876,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί βουλόμενος τοῦτο ποιεῖς;\nlit. ‘Wanting what do you do this?’\ni.e. ‘What is your motive/purpose/intention in doing this?’\nτί παθὼν τοῦτο λέγεις;\nlit. ‘On suffering what do you say this?’\ni.e. ‘What did you suffer to make you say this?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 188
+}

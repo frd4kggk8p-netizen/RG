@@ -1,0 +1,394 @@
+{
+  "running_head": "Summary Exercises for Section 8",
+  "folio": "173",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        59,
+        290,
+        659
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 8",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        185,
+        116,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A VOCABULARY-BUILDING",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        121,
+        185,
+        153,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        168,
+        218,
+        355,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀδικέω\nἀνίσταμαι\nἄξιος\nδῆμος/κρατέω\nἡγεμών\nκρατέω\nπέμπω\nπολίτης\nχαλεπός\nχείρ\nτὸ ἀδίκημα\nἡ ἀνάστασις\nἀξιόλογος ον\nἡ δημοκρατία\nἡ ἡγεμονία\nκράτιστος\nἡ πομπή\nἡ πολιτεία\nχαλεπαίνω\nἐπιχειρέω\nπολιτεύω\nπολιτικός ἡ όν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        379,
+        185,
+        390,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        396,
+        185,
+        429,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate the whole passage into English, putting the bracketed words into the gen. case:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate the whole passage into English, putting the bracketed words into the gen. case:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        444,
+        218,
+        458,
+        622
+      ],
+      "margin_number": null,
+      "speaker": "Α.",
+      "text": "ἀλλὰ τίς αἴτιός ἐστι (οὗτος ὁ πόλεμος) καὶ (αὕτη ἡ ἀπορία);",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        460,
+        218,
+        512,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "Β.",
+      "text": "οἱ ῥήτορες, εὖ οἶδ' ὅτι, αἴτιοι (τοῦτο τὸ πρᾶγμα). ἡ γὰρ πόλις πλέα (θόρυβος) καὶ (βοή) διὰ τόν τε πόλεμον καὶ τὴν (οἱ ῥήτορες) τόλμαν. τίς γὰρ οὐκ οἶδε περὶ (ἡ τόλμα) (αὐτούς);",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        515,
+        218,
+        566,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "Α.",
+      "text": "ἀλλ' οὐκ αἰτίους (ταῦτα τὰ πράγματα) ἡγοῦμαι τοὺς ῥήτορας ἔγωγε, ἀλλὰ βελτίστους (ἄνθρωποι). ἀεὶ γὰρ μάχονται περὶ (τὸ πλῆθος) καὶ (ἡ πόλις), ὡς φασὶν αὐτοί.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        569,
+        218,
+        621,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "Β.",
+      "text": "ναί. ἀλλὰ ψευδῆ λέγουσι. κακὸν γὰρ τὸ (οὗτοι οἱ ἄνδρες) πλῆθος καὶ οὐδεὶς χείρων (ῥήτωρ). οἱ γὰρ ῥήτορες λαμβάνονται (ἡ ἐκκλησία) καὶ (τὸ δικαστήριον).",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        643,
+        185,
+        678,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Convert these verb-forms into the corresponding polite form (optative + ἄν) and translate:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Convert these verb-forms into the corresponding polite form (optative + ἄν) and translate:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "μένεις"
+          },
+          {
+            "n": "2.",
+            "prompt": "λέγω"
+          },
+          {
+            "n": "3.",
+            "prompt": "βουλόμεθα"
+          },
+          {
+            "n": "4.",
+            "prompt": "πείθεσθε"
+          },
+          {
+            "n": "5.",
+            "prompt": "ἀποκρίνῃ"
+          },
+          {
+            "n": "6.",
+            "prompt": "κελεύεις"
+          },
+          {
+            "n": "7.",
+            "prompt": "παύομαι"
+          },
+          {
+            "n": "8.",
+            "prompt": "φέρομεν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        693,
+        248,
+        762,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. μένεις\n2. λέγω\n3. βουλόμεθα\n4. πείθεσθε",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 13,
+      "bbox": [
+        693,
+        391,
+        762,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. ἀποκρίνῃ\n6. κελεύεις\n7. παύομαι\n8. φέρομεν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 14,
+      "bbox": [
+        778,
+        185,
+        811,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these sentences and contrast the use and construction of the preposition in each pair.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Translate these sentences and contrast the use and construction of the preposition in each pair.",
+        "items": [
+          {
+            "n": "a. (i)",
+            "prompt": "ὁ ξένος ἐπὶ τοῦ βωμοῦ καθίζεται."
+          },
+          {
+            "n": "(ii)",
+            "prompt": "ἡ ναῦς ἐπὶ τοὺς πολεμίους ἐπέρχεται."
+          },
+          {
+            "n": "b. (i)",
+            "prompt": "εἶμι αὔριον εἰς τὴν ἀγορὰν μετὰ τῶν φίλων."
+          },
+          {
+            "n": "(ii)",
+            "prompt": "μετὰ δὲ ταῦτα ἐπάνειμι εἰς τὴν οἰκίαν."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        827,
+        218,
+        860,
+        569
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a. (i) ὁ ξένος ἐπὶ τοῦ βωμοῦ καθίζεται.\n(ii) ἡ ναῦς ἐπὶ τοὺς πολεμίους ἐπέρχεται.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 16,
+      "bbox": [
+        872,
+        218,
+        906,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "b. (i) εἶμι αὔριον εἰς τὴν ἀγορὰν μετὰ τῶν φίλων.\n(ii) μετὰ δὲ ταῦτα ἐπάνειμι εἰς τὴν οἰκίαν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 191
+}

@@ -1,0 +1,389 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "174",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        226,
+        68,
+        771,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "c_d",
+        "instruction": null,
+        "items": [
+          {
+            "n": "c. (i)",
+            "prompt": "τὸ πλοῖον πλεῖ παρὰ τὴν νῆσον."
+          },
+          {
+            "n": "(ii)",
+            "prompt": "ὁ σοφιστὴς πολλὰ χρήματα δέχεται παρὰ τῶν μαθητῶν."
+          },
+          {
+            "n": "d. (i)",
+            "prompt": "ὁ παῖς προσέδραμε πρὸς ἡμᾶς, βιαζόμενος διὰ τοῦ πλήθους."
+          },
+          {
+            "n": "(ii)",
+            "prompt": "ἡ ἐμὴ γυνὴ φοβεῖται τὸ ἄστυ διὰ τὴν νόσον."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        195,
+        195,
+        348,
+        915
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "Compare Dionysodorus with Euthydemos using the adjectives listed below and these formulae:\nΔιονυσόδωρος \nκακίων\nχείρων\n}\nἐστὶ(ν)\n{\nΕὐθυδήμου\nἢ Εὐθύδης\n1. καλός\n5. ἀγαθός\n2. μέγας\n6. μῶρος\n3. κακοδαίμων\n7. σοφός\n4. εὔφρων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        366,
+        195,
+        376,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        384,
+        195,
+        400,
+        532
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        412,
+        195,
+        444,
+        610
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ὁ υἱὸς ὁ τοῦ κήρυκος ἀκούει τοῦ ῥήτορος.\nThe man’s slave grabs the rhapsode’s hand.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        460,
+        195,
+        492,
+        746
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "τίς αἴτιός ἐστι ταύτης τῆς ἀνομίας, δεινοτάτης οὔσης;\nWho is responsible for those shouts, which are very loud?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        507,
+        195,
+        539,
+        563
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "᾿Αθηναῖοι ὄντες, πολλοῦ ἄξιoί ἐσμεν.\nYou are a sophist and worth nothing.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        555,
+        195,
+        587,
+        822
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "διὰ τί λέγεις ὅτι οὐδεὶς σοφώτερος τοῦ Σωκράτους;\nWhy are the politicians richer than the people of the city? Tell me!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        603,
+        195,
+        635,
+        907
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἐπορευόμεθα διὰ τῆς πόλεως τῆς τῶν Λακεδαιμονίων.\nWe suffered many bad experiences, but fought against the Persians for freedom.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        651,
+        195,
+        666,
+        629
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "Translate into Greek using the hints below to guide you:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        680,
+        226,
+        712,
+        915
+      ],
+      "margin_number": null,
+      "speaker": "Dikaiopolis",
+      "text": "Look! I see a slave running towards us. Whose slave are you?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        719,
+        226,
+        730,
+        888
+      ],
+      "margin_number": null,
+      "speaker": "Slave",
+      "text": "As it happens I am the slave of Euelpides, your friend.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        737,
+        226,
+        769,
+        915
+      ],
+      "margin_number": null,
+      "speaker": "Dik.",
+      "text": "Would you please say what you want, and for what reason you ran to me?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        776,
+        226,
+        788,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "Slave",
+      "text": "I will. For I must, as Euelpides ordered, ask you to wait.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        794,
+        226,
+        826,
+        915
+      ],
+      "margin_number": null,
+      "speaker": "Dik.",
+      "text": "Then I shall wait. Hello, Euelpides and Peisetairos. What is your purpose in leaving the city? Where are you off to?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        833,
+        226,
+        845,
+        861
+      ],
+      "margin_number": null,
+      "speaker": "Peisetairos",
+      "text": "We have to go away to a new and more useful city.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        869,
+        226,
+        881,
+        280
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Hints",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        890,
+        226,
+        901,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘As it happens’: i.e. ‘I happen to be ...’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 192
+}

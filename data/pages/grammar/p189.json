@@ -1,0 +1,768 @@
+{
+  "running_head": "Grammar for Section 8A–C",
+  "folio": "171",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        82,
+        83,
+        155,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note also that, since πάσχω basically means ‘I have something done to me’, a perfectly good translation of this last sentence would also be ‘What made you say this?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "black_right_pointing_pointer",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        189,
+        196,
+        219,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 8A–C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        223,
+        204,
+        248,
+        734
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγορά, ἡ                          market-place, agora (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        250,
+        204,
+        269,
+        732
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄγω (ἀγαγ-)                          live in, be at; lead, bring",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        272,
+        204,
+        287,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀδικέω                             be unjust, commit a crime, do wrong",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        291,
+        204,
+        308,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾄδω/ἀείδω                     sing",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        312,
+        204,
+        326,
+        611
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνίσταμαι (ἀναστα-)           get up, emigrate",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        329,
+        204,
+        347,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄξιος ᾱ ον                        worth, worthy of (+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        350,
+        204,
+        365,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπολέω                        I shall kill, destroy",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        368,
+        204,
+        385,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βέλτιστος η ον                best",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        388,
+        204,
+        404,
+        564
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βελτίων βέλτιον (βελτίον-)   better",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        407,
+        204,
+        422,
+        672
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεξιός ᾱ́ όν                    clever; right-hand",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        425,
+        204,
+        442,
+        677
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῆμος, ὁ                       people; deme (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        444,
+        204,
+        461,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διά                             (+gen.) through",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        463,
+        204,
+        480,
+        694
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικαστήριον, τό            law-court (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        483,
+        204,
+        498,
+        661
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικαστής, ὁ                   juror, dikast (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        501,
+        204,
+        518,
+        622
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐγγύς                       (+gen.) near",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        521,
+        204,
+        536,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰρήνη, ἡ                  peace (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        538,
+        204,
+        555,
+        683
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰρήνην ἄγω              live in/be at peace",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        557,
+        204,
+        574,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκεῖσε                    (to) there",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        577,
+        204,
+        592,
+        730
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκκλησίᾱ, ἡ               assembly, ekklesia (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        595,
+        204,
+        611,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐναντίον                  (+gen.) opposite, in front of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        614,
+        204,
+        630,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐν τούτῳ                meanwhile",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        633,
+        204,
+        649,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπεί                       since",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        652,
+        204,
+        668,
+        662
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπί                        (+g en.) on",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        671,
+        204,
+        686,
+        705
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕτοιμος η ον                ready (to) (+inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        689,
+        204,
+        706,
+        797
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐδαίμων εὔδαιμον (εὐδαιμον-)   happy, rich, blessed by the gods",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        709,
+        221,
+        725,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(comp. εὐδαιμονέστερος ᾱ ον;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        727,
+        219,
+        743,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "sup. εὐδαιμονέστατος η ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        746,
+        204,
+        763,
+        611
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡγεμών (ἡγεμον-), ὁ          leader (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        766,
+        204,
+        781,
+        768
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡγέομαι                      think, consider; lead (+ dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        784,
+        204,
+        800,
+        631
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡδονή, ἡ                     pleasure (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        802,
+        204,
+        819,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ἡρακλῆς, ὁ                 Herakles (3d uncontr.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        821,
+        204,
+        836,
+        673
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθοράω (κατιδ-)            see, look down on",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        840,
+        204,
+        855,
+        694
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαμβάνομαι                take hold of (+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        858,
+        204,
+        874,
+        646
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετά                        (+ gen.) with",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        877,
+        204,
+        893,
+        722
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέγιστος η ον              greatest (sup. of μέγας)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        896,
+        204,
+        912,
+        734
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μείζων μεῖζον (μειζον-)      greater (comp. of μέγας)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 189
+}

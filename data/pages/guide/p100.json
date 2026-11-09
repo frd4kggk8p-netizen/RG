@@ -1,0 +1,208 @@
+{
+  "folio": "86",
+  "running_head": "Section 7B",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        124,
+        122,
+        178,
+        871
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10–11 ἀποφαίνειν αὐτὸν δοκοῦντα σοφὸν εἶναι, οὐκ ὄντα  ‘to show him that he thought he was wise, though when he wasn't’. Cf. line 13.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        159,
+        159,
+        214,
+        604
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "11 πολλοὶ τῶν παρόντων  ‘many of those present’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        214,
+        122,
+        331,
+        883
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "12–13 οὗτος δοκεῖ τι εἰδέναι, οὐδὲν εἰδώς  ‘this man thinks he knows something, though he knows nothing’. Cf. lines 10 and 11.\nεἰδώς -οτος  This is the participle of οἶδα.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        332,
+        160,
+        431,
+        590
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "16 ᾖα  Cf. note on 7A line 17, if you are stuck.\nἐπὶ τοὺς ἄλλους τοὺς δοκοῦντάς τι εἰδέναι  Cf. line 11.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        431,
+        122,
+        587,
+        897
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "21–22 τοὺς δὲ λόγους τούτους οὐκ ἴσασιν ὅ τι νοοῦσιν  ‘they do not know these words what they mean’ – ‘they do not know what these words mean.’ This is a very common pattern of word order in Greek, which can be difficult for speakers of English. See p. 77, note on 6C line 8.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        587,
+        158,
+        622,
+        484
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "23 ἀπῇα  What verb? What tense?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        655,
+        192,
+        690,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 7B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        702,
+        192,
+        960,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "When I heard this, I reasoned in this way to myself: ‘What does the god wish to say? For I know that I am not wise. What then does the god mean when he says that I am the wisest and that no one is wiser? It cannot be that he is lying; for it is not lawful for him. It is necessary for the god to speak nothing but the truth.’ And for a long time I was at a loss to know what he meant, and then I turned to a search [to find out] whether the god was speaking the truth or not. For I did not want to be in doubt about the oracle.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        962,
+        213,
+        999,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Therefore I went to a wise man (at least he thought he was wise). For I wanted",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        215,
+        0,
+        891,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "want to be in doubt about the oracle.\n  Therefore I went to a wise man (at least he thought he was wise). For I wanted to test the oracle and to show that ‘You, Apollo, said that I was the wisest, but this man is wiser.’ Therefore I spoke with this wise man, who was a politician. And the man, as I thought, considered himself to be wise, though he was not. And when I tried to show him that he considered himself to be wise, though he was not, he and many of those present began to hate me. So, to myself, I reasoned that ‘I am wiser than this man. For this man thinks that he knows something, though he knows nothing. but I, though I know nothing, do not think that I know anything.’ From there, I went to another wise man and he too thought that he knew something, though he knew nothing. As a result of this (from this) that man and others of those present hated me.\n  After this, I went to the others who thought that they knew something. And, by the dog, those who thought that they knew something were more foolish, as I thought, while those who thought that they knew nothing were wiser. For after the politicians, I went to the poets. And I am ashamed to tell the truth, gentlemen, but nevertheless I must tell it. For the poets do not make up their poems by wisdom, but by instinct and inspiration, like the prophets and soothsayers. For indeed they say many beautiful things, but they do not know what these words mean. And, at the same time, the poets thought that they had knowledge, through their poetry, though they had none, and they thought they were the wisest of men, though they were not. So I went away from there thinking that I was wiser than the poets.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 100
+}

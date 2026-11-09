@@ -1,0 +1,243 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "78",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        224,
+        64,
+        259,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "C",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        105,
+        124,
+        414,
+        832
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τέλος δ᾽ ἐπὶ τους χειροτέχνας ᾖα. ἤδη γὰρ ὅτι οὐδὲν οἶδα καὶ ὅτι οἱ χειροτέχναί\nπολλὰ καὶ καλὰ ἴσασιν. πολλὰ οὖν εἰδότες, σοφώτεροι ἦσαν οἱ χειροτέχναὶ ἢ ἐγώ.\nἀλλ᾽ ἔδοξαν, ὡς ἐγὼ ᾤμην, διὰ τὴν τέχνην σοφώτατοι εἶναι περὶ ἄλλα πολλά, οὐκ\nὄντες. τοιοῦτον^[\n]\n^[\n]\nπάθος ἐφαίνοντο καὶ οἱ ποιηταὶ καὶ οἱ χειροτέχναὶ πάσχοντες.\nἐκ ταυτησί^[\n]\n^[\n]\nτῆς ^[\n]\nζητήσεως, ὦ ἄνδρες Ἀθηναῖοι, ἐγένοντο αἱ ἐμαὶ διαβολαί,\nβαρεῖαι δὴ οὖσαι, καὶ ἡ δόξα. καὶ δὴ καὶ οἱ νεανίαι, οἵ γε πλούσιοι ὄντες καὶ μάλιστα\nσχολὴν ἔχοντες, ἥδονται ἀκούοντες τοὺς ἐμοὺς λόγους καὶ πολλάκις πειρῶνται\nἄλλους ἐξετάζειν, ὥσπερ ἐγώ. ὑβρισταὶ γὰρ οἱ νεανίαι καὶ μάλιστα ἥδονται\nἐξετάζοντες τοὺς πρεσβυτέρους. καί, ὡς ἐγὼ οἶμαι, ἐξετάζοντες εὑρίσκουσι πολύ\nπλῆθος τῶν δοκούντων μέν τι εἰδέναι, εἰδότων δ᾽ ὀλίγα ἢ οὐδέν, ἐντεῦθεν οὖν οἱ\nδοκοῦντες τι εἰδέναι ὀργίζονται καὶ λέγουσιν ὅτι ‘Σωκράτης τίς ἐστι μιαρώτατος\nκαὶ διαφθείρει τους νέους.’ ἀλλ᾽ ἐγὼ ἐρωτῶν βούλομαι ‘πῶς διαφθείρει τοὺς νέους\nὁ Σωκράτης; τί ποιῶν, ἢ τί διδάσκων, διαφθείρει αὐτούς;’ ἔχουσι μὲν οὐδὲν λέγειν\nἐκεῖνοι, οὐ μέντοι βουλόμενοι δοκεῖν ἀπορεῖν, λέγουσιν ὅτι, ὥσπερ οἱ ἄλλοι\nφιλόσοφοι, διδάσκει Σωκράτης ‘τὰ μετέωρα καὶ τὰ ὑπὸ γῆς’ καὶ ‘θεοὺς μὴ νομίζειν’\nκαὶ ‘τὸν ἥττονα λόγον κρείττονα ποιεῖν’. οὐ γὰρ βούλονται, ὡς ἐγὼ οἶμαι, τἀληθῆ\nλέγειν, ὅτι κατάδηλοι γίγνονται δοκοῦντες μέν τι εἰδέναι, εἰδότες δ᾽ οὐδέν.",
+      "lang": "grc",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "ταυτησί",
+          "reason": "bracketted text in print",
+          "candidates": [
+            "ταυτησί"
+          ]
+        },
+        {
+          "span": "τῆς",
+          "reason": "bracketted text in print",
+          "candidates": [
+            "τῆς"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        179,
+        891,
+        192,
+        901
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        272,
+        882,
+        286,
+        902
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        364,
+        882,
+        377,
+        901
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        431,
+        224,
+        448,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        460,
+        124,
+        849,
+        361
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπορ-εῖν to be at a loss (ἀπορέ-ω)\nβαρεῖ-αι serious (nom.)\nδια-βολ-ή, ἡ slander (1a)\nδια-φθείρ-ω corrupt\nδοκ-εῖν to seem (δοκέ-ω)\nδοκέ-ω seem; have a reputation\nfor\nεἰδέναι to know (οἶδα)\nεἰδότ-ες knowing (nom.) (οἶδα)\nεἰδότ-ων knowing (gen.) (οἶδα)\nεἶναι to be (εἰμί)\nἐξ-ετάζ-ειν to question closely\n(ἐξ-ετάζ-ω)\nἐξ-ετάζ-ω question closely\nἐρωτ-ᾶν to ask (ἐρωτά-ω)\nεὑρίσκ-ω find, discover\nἔχω I am able (1.13)\nἦ-α I went, came (impf. of\nἔρχ-ομαι/εἶμι)\nᾖδ-η I knew (past of οἶδα)\nἥδ-ομαι enjoy\nκατά-δηλος -ον obvious\nλέγ-ειν to say, tell (λέγ-ω)\nμέντοι however, but",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        460,
+        392,
+        832,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετέωρ-α, τὰ things in the air\n(2b)\nμὴ not\nμιαρώτ-ος -η -ον most\nabominable (person)\n(μιαρ-ός)\nνομίζ-ειν to acknowledge\n(νομίζ-ω)\nοἶμαι think\nὀργίζ-ομαι get angry\nπάθ-ος, τό experience (3c)\nπειρά-ομαι try\nπλούσι-ος -α -ον rich\nποι-εῖν to make (ποιέ-ω)\nπολλάκις often\nπρεσβύτερ-ος, ὁ older man (2a)\nσοφώτ-ος -η -ον wisest\n(σοφ-ός)\nσοφώτερ-ος -α -ον wiser\n(σοφ-ός)\nσχολ-ή, ἡ leisure (1a)\nταυτησὶ τῆς ζητήσεως this\ninquiry",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        460,
+        658,
+        571,
+        896
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοιοῦτος τοιαύτη τοιοῦτο(ν) . . .\nκαί the same sort of . . . as\nὑβριστ-ής, ὁ bully (1d)\nὑπὸ γῆς beneath the earth\nφιλό-σοφ-ος, ὁ philosopher (2a)\nχειρο-τέχν-ης, ὁ craftsman (1d)\nᾤμην I thought (impf. of οἶμαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        591,
+        657,
+        606,
+        841
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        610,
+        657,
+        833,
+        872
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διαβολή, ἡ slander (1a)\nδιαφθείρω (διαφθειρα-) corrupt;\nkill; destroy\nδοκέω seem; have a reputation for\nεἰδώς εἰδυῖα εἰδώς (εἰδοτ-)\nknowing (part. of οἶδα)\nεἶμι, I shall go; ἰέναι to go; ᾖα\nI went\nἐξετάζω question closely\nεὑρίσκω (εὑρ-) find, come upon\nμή not; don't! (with imper.)\nοἶμαι think (impf. ᾤμην)\nπειράομαι (πειρᾶσα-) try, test\nπολλάκις often",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 108
+}

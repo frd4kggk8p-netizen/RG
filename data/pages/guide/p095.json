@@ -1,0 +1,637 @@
+{
+  "running_head": "Revision exercises for section 6C–D",
+  "folio": "81",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        203,
+        76,
+        497,
+        695
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἐγένετο, ἐγένοντο\n5. ἤλθετε\n6. εἶπες\n7. ἔμαθον\n8. ἔδραμον",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        99,
+        203,
+        110,
+        411
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἐγένετο, ἐγένοντο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        99,
+        549,
+        110,
+        695
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they became",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        121,
+        203,
+        133,
+        426
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ἔδραμε(ν), ἔδραμον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        121,
+        549,
+        133,
+        676
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they ran",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        143,
+        203,
+        155,
+        381
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ηὗρε(ν), ηὗρον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        143,
+        549,
+        155,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they found",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        165,
+        203,
+        177,
+        376
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "εἶδε(ν), εἶδον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        165,
+        549,
+        177,
+        678
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they saw",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        187,
+        203,
+        199,
+        410
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "ἔτυχε(ν), ἔτυχον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        187,
+        549,
+        199,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they happened to...",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        209,
+        192,
+        221,
+        417
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ἔσχε(ν), ἔσχον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        209,
+        549,
+        221,
+        671
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "he, they had",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 14,
+      "bbox": [
+        241,
+        191,
+        255,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6C-D: 2",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        273,
+        192,
+        285,
+        342
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ἐγένοντο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        273,
+        549,
+        285,
+        638
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἤλθετε",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        295,
+        192,
+        307,
+        303
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "εἴδομεν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        295,
+        549,
+        307,
+        632
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "εἶπες",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        317,
+        192,
+        329,
+        290
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ηὗρες",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        317,
+        549,
+        329,
+        646
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἔμαθον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        339,
+        192,
+        351,
+        313
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ἔλαβε(ν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        339,
+        549,
+        351,
+        668
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "ἔδραμον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 23,
+      "bbox": [
+        381,
+        191,
+        396,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 6C–D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 24,
+      "bbox": [
+        419,
+        191,
+        431,
+        516
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        445,
+        191,
+        536,
+        429
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "βιασα- ἐβιασάμην\nκλεψα- ἔκλεψα\nθαυμασα- ἐθαύμασα\nδιδαξα- ἐδίδαξα\nδεξα- ἐδεξάμην\nφιλησα- ἐφίλησα\nδηλωσα- ἐδήλωσα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        546,
+        191,
+        597,
+        342
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "μαθ- ἔμαθον\nἐλθ- ἦλθον\nἐξευρ- ἐξηὗρον\nδιελθ- διῆλθον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        607,
+        191,
+        767,
+        415
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "I saw (ὁράω)\nI said (λέγω)\nI escaped notice (λανθάνω)\nI found (εὑρίσκω)\nI learned (μανθάνω)\nI went (ἔρχομαι)\nI became (γίγνομαι)\nI suffered (πάσχω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 28,
+      "bbox": [
+        789,
+        191,
+        802,
+        401
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        815,
+        191,
+        840,
+        755
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "The sailors said that the captain had finally learned the truth.\nὁ μαθητὴς εἶπεν ὅτι ἐξηὗren ὁπόσον ἐστὶ/ῆν τὸ χωρίον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "ἐξηὗren",
+          "reason": "Printed with latin n at the end instead of nu",
+          "candidates": [
+            "ἐξηὗren",
+            "ἐξηὗρεν"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        852,
+        191,
+        878,
+        555
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "The young men happen to be suffering terribly.\nὁ γεωργὸς ἔτυχεν ἀμαθὴς ὤν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        890,
+        191,
+        915,
+        604
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "The suppliants ran into the temple/shrine.\nὁ γέρων ἀπῆλθεν εἰς τὴν πόλιν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 95
+}

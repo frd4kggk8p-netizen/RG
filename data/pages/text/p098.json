@@ -1,0 +1,688 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "68",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        239,
+        74,
+        259,
+        268
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 2,
+      "bbox": [
+        134,
+        122,
+        150,
+        606
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἀπέρχεται ὁ μαθητής. ὁ Στρεψιάδης τὸν Σωκράτη καλεῖ.)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        153,
+        123,
+        168,
+        638
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ὦ Σώκρατες, ὦ Σωκρατίδιον, δεῦρ᾽ ἐλθέ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        170,
+        123,
+        185,
+        761
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "τίς ἐβόησε; τίς ἐβιάσατο εἰς τὸ φροντιστήριον τὸ τῶν σοφιστῶν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        187,
+        123,
+        222,
+        723
+      ],
+      "margin_number": 5,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἐβόησα ἐγώ, Στρεψιάδης Κικυννόθεν. ἀλλ᾽ οὐκ ἐβιασάμην εἰς τὸ φροντιστήριον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        225,
+        123,
+        239,
+        617
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "τί με καλεῖς, ὦ ἐφήμερε; ἦλθες δὲ σὺ κατὰ τί;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        242,
+        123,
+        257,
+        820
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἦλθον μαθητὴς εἰς τὸ φροντιστήριον. ἤδη γάρ σε ἤκουσα ὡς εἶ σοφός.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        259,
+        123,
+        273,
+        718
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "εἰπέ μοι, τίς εἶπε τοῦτο; πῶς δ᾽ ἤκουσάς με ὡς σοφός εἰμι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        275,
+        123,
+        291,
+        469
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "εἶπε τοῦτο τῶν μαθητῶν τις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        294,
+        123,
+        308,
+        506
+      ],
+      "margin_number": 10,
+      "speaker": "ΣΩΚ.",
+      "text": "τί δ᾽ εἶπεν ὁ μαθητής; λέγε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        311,
+        123,
+        383,
+        860
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "εἶπε γὰρ ὁ μαθητὴς ὡς ψύλλα τις ἔδακε τὴν Χαιρεφῶντος ὀφρῦν. εἶτα ἐπὶ τὴν σὴν κεφαλὴν ἐπήδησε. σὺ δὲ τὸν Χαιρεφῶντα ἤρου ὁπόσους ἐκ αὐτῆς πόδας ἐπήδησεν ἡ ψύλλα. ἀν-εμετρήσατε δ᾽ ὑμεῖς οὕτως· πρῶτον μὲν γὰρ τὴν ψύλλαν ἐλάβετε καὶ ἔθετε εἰς κηρὸν θερμόν. ἐπειδὴ δὲ ψυχρὸς ἐγένετο ὁ κηρός, ἡ ψύλλα ἔσχεν ἐμβάδας τινὰς Περσικάς. εἶτα δ᾽ ἀν-εμετρήσατε τὸ χωρίον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        386,
+        222,
+        400,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(with an admiring glance)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        403,
+        222,
+        418,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐδέποτε εἶδον ἔγωγ᾽ πρᾶγμα οὕτω σοφόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        420,
+        123,
+        454,
+        820
+      ],
+      "margin_number": 20,
+      "speaker": "ΣΩΚ.",
+      "text": "οὐδέποτε εἶδες σύ γε πρᾶγμα οὕτω σοφόν; ἀλλὰ πόθεν ὢν τυγχάνεις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        457,
+        123,
+        471,
+        345
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "Κικυννόθεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        474,
+        123,
+        488,
+        617
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "οὐ γὰρ ἔλαθες με ἄγροικος ὤν, καὶ ἀμαθής.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        491,
+        123,
+        526,
+        832
+      ],
+      "margin_number": 25,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "μὴ μέμφου μοι. ἀλλ᾽ εἰπέ, τί δρᾷς ἐπὶ ταύτης τῆς κρεμάθρας ὤν, ὦ Σώκρατες;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 18,
+      "bbox": [
+        528,
+        222,
+        542,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(solemnly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        544,
+        222,
+        560,
+        551
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀεροβατῶ καὶ περιφρονῶ τὸν ἥλιον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        563,
+        123,
+        597,
+        870
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "τί δ᾽ ἀπὸ κρεμάθρας τοῦτο δρᾷς, ἀλλ᾽ οὐκ ἀπὸ τῆς γῆς; τί ἐξευρίσκεις ἢ τί μανθάνεις, ἐπὶ κρεμάθρας ὤν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        600,
+        123,
+        634,
+        903
+      ],
+      "margin_number": 30,
+      "speaker": "ΣΩΚ.",
+      "text": "οὐδέποτε γὰρ ἐξῆῦρον ἐγὼ τὰ μετέωρα πράγματα οὐδ᾽ ἔμαθον οὐδέν, ἀπὸ τῆς γῆς σκοπῶν. ἡ γὰρ γῆ ἔτυχε κωλύουσα τὴν φροντίδα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 22,
+      "bbox": [
+        677,
+        222,
+        691,
+        476
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Six C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 23,
+      "bbox": [
+        705,
+        222,
+        786,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 6C-D\n• Second aorist indicative, active and middle: ἔλαβον, ἐλαβόμην\n• Interrogatives: τί\n• Indirect speech",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        837,
+        123,
+        849,
+        310
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀερο-βατέ-ω tread the air",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        853,
+        123,
+        867,
+        309
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-μαθής ignorant (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        869,
+        123,
+        882,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-μετρέ-ω measure up",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        885,
+        123,
+        899,
+        278
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπ-έρχ-ομαι depart",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        837,
+        394,
+        866,
+        629
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βιάζ-ομαι use force, force one's\nway",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        869,
+        394,
+        882,
+        462
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δρά-ω do",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        885,
+        394,
+        899,
+        630
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-γέν-ετο (it) became (γίγν-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        837,
+        659,
+        851,
+        840
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-δακ-ε (it) bit (δάκν-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        853,
+        659,
+        867,
+        873
+      ],
+      "margin_number": null,
+      "speaker": "ἔ-θε-τε",
+      "text": "you (pl.) put (τίθημι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        869,
+        659,
+        882,
+        827
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἶδ-ον (I) saw (ὁρά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        885,
+        659,
+        899,
+        870
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἶδ-ες (you) (s.) saw (ὁρά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 98
+}

@@ -1,0 +1,388 @@
+{
+  "folio": "5",
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        121,
+        24,
+        781,
+        57
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘ὑμεῖς ἄρα’, ἦν δ’ ἐγώ, ‘ὦ Διονυσόδωρε, δόξαν ἔχετε ὅτι προτρέπετε τοὺς ἀνθρώπους εἰς φιλοσοφίαν καὶ ἀρετὴν ἢ οὔ;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        98,
+        122,
+        545,
+        137
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘δοκοῦμέν γε δή, ὦ Σώκρατες’, ἦν δ’ ὅς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        197,
+        196,
+        528,
+        221
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        197,
+        239,
+        876,
+        423
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 7D–F\n• First aorist participles, active and middle: παύσας, παυσάμενος\n• Aspect in participles\n• Past of οἶδα: ᾔδη ‘I knew’\n• Present and past of φημί ‘I say’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        453,
+        479,
+        584,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμφότερ-οι -αι -α both",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        77,
+        506,
+        219,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀρετ-ή, ἡ excellence, virtue (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        101,
+        532,
+        338,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Διονυσόδωρ-ος, ὁ Dionysodoros",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        133,
+        558,
+        172,
+        581
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(2a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        121,
+        584,
+        266,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦν δ’ ἐγώ I said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        121,
+        610,
+        252,
+        634
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦ δ’ ὅς he said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        366,
+        479,
+        582,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-λαμβάν-ω (κατα-λαβ-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        411,
+        506,
+        504,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "come upon",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        366,
+        532,
+        558,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Λύκει-ον, τό Lykeion (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        384,
+        558,
+        572,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a training ground, where\nyoung and old met)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        632,
+        479,
+        843,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετ(ὰ) ἄλλων πολλῶν with",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        678,
+        506,
+        755,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "many others",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        632,
+        532,
+        825,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προ-τρέπ-ω urge, impel",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        632,
+        558,
+        852,
+        581
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλοσοφί-α, ἡ philosophy (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        632,
+        584,
+        741,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χθές yesterday",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 109
+}

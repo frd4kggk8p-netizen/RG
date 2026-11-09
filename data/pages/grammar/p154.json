@@ -1,0 +1,269 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "136",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        78,
+        329,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Special cases",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        194,
+        114,
+        119,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) With δεῖ, the person who ‘must’ goes into the acc. case, e.g.\n    δεῖ με/σε/αὐτοὺς ἰέναι ‘it is necessary for me/you/them/ to go’, ‘I/you/they must go’\n(b) With ἀνάγκη ἐστί, the person for whom it is obligatory goes into the acc. case (or sometimes the dat.), e.g.\n    ἀνάγκη ἐστὶ τὸν θεὸν/ὑμᾶς λέγειν      lit. ‘It is obligatory for the god/you to speak’ or\n    ἀνάγκη ἐστὶ τῷ θεῷ/ὑμῖν λέγειν\n    i.e. ‘The god is/you are obliged to speak’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        187,
+        187,
+        210,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        195,
+        201,
+        484,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A–C: 2. Translate into Greek, using the infinitives of the verbs in brackets:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7A-C: 2",
+        "instruction": "Translate into Greek, using the infinitives of the verbs in brackets:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "I wish to go (εἶμι)"
+          },
+          {
+            "n": "2",
+            "prompt": "They wish to believe (πιστεύω)"
+          },
+          {
+            "n": "3",
+            "prompt": "He seems to think (νομίζω)"
+          },
+          {
+            "n": "4",
+            "prompt": "They seem to slander (διαβάλλω)"
+          },
+          {
+            "n": "5",
+            "prompt": "I/we/you (pl.) ought to be present (πάρειμι)"
+          },
+          {
+            "n": "6",
+            "prompt": "Socrates ought to teach (διδάσκω)"
+          },
+          {
+            "n": "7",
+            "prompt": "It is obligatory to depart (ἄπειμι)"
+          },
+          {
+            "n": "8",
+            "prompt": "It is obligatory for you (s.) to learn (μανθάνω)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        203,
+        203,
+        524,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "COMPARATIVE AND SUPERLATIVE ADJECTIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        196,
+        542,
+        237,
+        915
+      ],
+      "margin_number": "154",
+      "speaker": null,
+      "text": "Comparative and superlative adjectives of the καλός type are formed as follows:",
+      "lang": "mixed",
+      "para_no": 154,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "bbox": [
+        196,
+        584,
+        720,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Positive"
+          ],
+          [
+            "Comparative"
+          ],
+          [
+            "Superlative"
+          ]
+        ],
+        "rows": [
+          [
+            "σοφ-ός\n‘wise’",
+            "σοφ-ώτερ-οςᾱον\n‘wiser’",
+            "σοφ-ώτατ-οςηον\n‘wisest, most/very wise’"
+          ],
+          [
+            "δειν-ός\n‘clever’",
+            "δειν-ότερ-οςᾱον\n‘cleverer’",
+            "δειν-ότατ-οςηον\n‘cleverest, most/very clever’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        194,
+        747,
+        245,
+        246
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        195,
+        756,
+        822,
+        916
+      ],
+      "margin_number": "155",
+      "speaker": null,
+      "text": "The big giveaway with comparatives and superlatives is the -τερος -τατος\nendings. But should that be -ωτερος or -οτερος, -ωτατος or -οτατος? Learn\nthe usual rules for the formation of the comp. and sup. adjectives:",
+      "lang": "en",
+      "para_no": 155,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        195,
+        822,
+        916,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Short vowel stem: σοφ-\nUsually, when the last syllable of the adjective’s stem is short (i.e. contains a\nsingle short vowel as in σοφ-ός), -ώτερος and -ώτατος are added to form the\ncomparative and superlative adjectives, e.g. σοφώτερος and σοφώτατος.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 154
+}

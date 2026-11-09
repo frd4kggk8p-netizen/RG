@@ -1,0 +1,210 @@
+{
+  "running_head": "Section 7H",
+  "folio": "96",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        138,
+        77,
+        893,
+        830
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7H",
+        "instruction": null,
+        "items": [
+          {
+            "n": "14",
+            "prompt": "τοὺς ἑαυτῶν νεανίσκους ‘their own young men’ (lit. the young men of themselves).\nἕπεσθαι Note the rough breathing. It is from ἔπομαι ‘I follow’."
+          },
+          {
+            "n": "15",
+            "prompt": "εἴποντο What verb? What had they been told to do?"
+          },
+          {
+            "n": "16",
+            "prompt": "ἀπῆλθον ... ἀπελθοῦσαι The pattern as before."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        188,
+        189,
+        361,
+        205
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 7G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        210,
+        189,
+        344,
+        632
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "When the Greeks came upon the Amazons and were fighting them, they defeated them in the battle. And having defeated them, they captured the Amazons who survived the battle. And having captured them, they went away in three ships. They did not, however, arrive at their native land. For while they were on the sea they did not guard the Amazons. And the Amazons, seeing that the men were not guarding [them], killed [them]. But the Amazons were not experienced in seafaring, and so, having killed the men, they sailed where the wind carried [them].",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        368,
+        189,
+        498,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Finally having arrived at the land of the Scythians and having disembarked from the ships, they found a herd of horses, and taking the horses they laid waste the land of the Scythians. But the Scythians, not knowing the language, and thinking the Amazons were men, attacked and having fought a battle (lit. having attacked and fought) took up the corpses. Thus, then, they discovered that they were women, on taking up the corpses.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        508,
+        189,
+        642,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Having discovered this, and not wanting to kill [them] any more, but to have children by them, they sent their own young men to them, ordering them not to fight, but to follow and to make camp near the Amazons. So, coming near, the young men followed [them] and made camp. And first the Amazons went away, but on going away they saw the men following. So the Amazons gave chase, and the men fled. Seeing the men fleeing, the Amazons became quiet. In this way, then, having learned that the men were not hostile, they did not worry about them any longer.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        654,
+        191,
+        675,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        693,
+        189,
+        274,
+        253
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 86",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        693,
+        164,
+        928,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7H",
+        "instruction": null,
+        "items": [
+          {
+            "n": "3",
+            "prompt": "εἰς τὸ αὐτὸ χωρίον ‘to the same place’, αὐτός preceded by the article always means ‘the same’. See GE pp. 153–155, #172–176 for the different uses of αὐτός. Be careful to distinguish between αὐτόν ‘him’ and ἑαυτόν (or αὐτόν) reflexive ‘himself’."
+          },
+          {
+            "n": "4",
+            "prompt": "τὸ αὐτό ‘the same thing’.\nἄξξει What tense? What verb?"
+          },
+          {
+            "n": "5",
+            "prompt": "τῇ δ᾽ ὑστεραίᾳ ‘on the next day’. Dative of time when.\nαὐτός ‘himself’, emphatic; agrees with the subject: ‘coming himself ...’"
+          },
+          {
+            "n": "6",
+            "prompt": "τὴν Ἀμαζόνα αὐτήν ‘the Amazon herself’ (emphatic)."
+          },
+          {
+            "n": "8",
+            "prompt": "ἐποίουν τὸ αὐτὸ καὶ αὐτοί Cf. lines 4 and 5 ‘they did the same thing themselves also’."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 110
+}

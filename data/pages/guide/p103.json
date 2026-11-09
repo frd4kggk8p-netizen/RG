@@ -1,0 +1,662 @@
+{
+  "running_head": "Revision exercises for section 7A–C",
+  "folio": "89",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        190,
+        80,
+        203,
+        208
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "τοῖς μείζοσι, μεγίστοις βασιλεῦσι\nto, for the greater, greatest kings",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "4",
+            "prompt": "τοῖς μείζοσι, μεγίστοις βασιλεῦσι\nto, for the greater, greatest kings"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        211,
+        80,
+        252,
+        513
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "τῇ κακίοϊν, κακίστῃ γυναικί\nto, for the worse, worst woman",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "5",
+            "prompt": "τῇ κακίοϊν, κακίστῃ γυναικί\nto, for the worse, worst woman"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        255,
+        80,
+        289,
+        532
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "τοῦ καλλίονος, καλλίστου ἄστεως\nof the more beautiful, most beautiful city.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "6",
+            "prompt": "τοῦ καλλίονος, καλλίστου ἄστεως\nof the more beautiful, most beautiful city."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        311,
+        191,
+        323,
+        428
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PAST OF εἶμι I SHALL GO",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        339,
+        191,
+        350,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A–C: 5",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        363,
+        191,
+        397,
+        282
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ἦμεν\n2. ἦμεν\n3. ἴασι(ν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἦμεν"
+          },
+          {
+            "n": "2",
+            "prompt": "ἦμεν"
+          },
+          {
+            "n": "3",
+            "prompt": "ἴασι(ν)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        399,
+        191,
+        415,
+        296
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. ἐστί(ν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "4",
+            "prompt": "ἐστί(ν)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        418,
+        191,
+        431,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. ᾔει",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "5",
+            "prompt": "ᾔει"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        434,
+        191,
+        447,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. εἶσι(ν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "6",
+            "prompt": "εἶσι(ν)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        363,
+        555,
+        396,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. εἰσί(ν)\n8. ἦμεν\n9. ἦτε",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "7",
+            "prompt": "εἰσί(ν)"
+          },
+          {
+            "n": "8",
+            "prompt": "ἦμεν"
+          },
+          {
+            "n": "9",
+            "prompt": "ἦτε"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        399,
+        555,
+        415,
+        666
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10. ᾔεισθα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "10",
+            "prompt": "ᾔεισθα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        418,
+        555,
+        431,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "11. ἐσμέν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "11",
+            "prompt": "ἐσμέν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 13,
+      "bbox": [
+        434,
+        555,
+        447,
+        632
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "12. ἦσαν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": null,
+        "instruction": null,
+        "items": [
+          {
+            "n": "12",
+            "prompt": "ἦσαν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 14,
+      "bbox": [
+        471,
+        191,
+        483,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7A–C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 15,
+      "bbox": [
+        507,
+        191,
+        520,
+        514
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 16,
+      "bbox": [
+        530,
+        191,
+        582,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1a. 1. λέγειν\n2. διαβάλλειν\n3. δοκεῖν\n4. ἀποφαίνειν\n5. διαλέγεσθαι\n6. διαφθείρειν\n7. εὑρίσκειν\n8. ἰέναι\n9. εἶναι\n10. εἰδέναι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1a",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "λέγειν"
+          },
+          {
+            "n": "2",
+            "prompt": "διαβάλλειν"
+          },
+          {
+            "n": "3",
+            "prompt": "δοκεῖν"
+          },
+          {
+            "n": "4",
+            "prompt": "ἀποφαίνειν"
+          },
+          {
+            "n": "5",
+            "prompt": "διαλέγεσθαι"
+          },
+          {
+            "n": "6",
+            "prompt": "διαφθείρειν"
+          },
+          {
+            "n": "7",
+            "prompt": "εὑρίσκειν"
+          },
+          {
+            "n": "8",
+            "prompt": "ἰέναι"
+          },
+          {
+            "n": "9",
+            "prompt": "εἶναι"
+          },
+          {
+            "n": "10",
+            "prompt": "εἰδέναι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 17,
+      "bbox": [
+        585,
+        230,
+        622,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a. δεῖ ὑμᾶς τὴν ἀλήθειαν λέγειν, καὶ μὴ διαβάλλειν Σωκράτη.\nYou must tell the truth, and not slander Socrates.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "a",
+            "prompt": "δεῖ ὑμᾶς τὴν ἀλήθειαν λέγειν, καὶ μὴ διαβάλλειν Σωκράτη.\nYou must tell the truth, and not slander Socrates."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 18,
+      "bbox": [
+        626,
+        230,
+        663,
+        722
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "b. οὐ βουλόμεθα δοκεῖν ἄριστοι, ἀλλ᾽ εἶναι.\nWe do not want to seem the best, but to be the best.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "b",
+            "prompt": "οὐ βουλόμεθα δοκεῖν ἄριστοι, ἀλλ᾽ εἶναι.\nWe do not want to seem the best, but to be the best."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 19,
+      "bbox": [
+        666,
+        230,
+        704,
+        615
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "c. οἱ σοφοὶ δοκοῦσί τι εἰδέναι, οὐκ εἰδότες.\nThe wise men seem to know something, although they do not.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "c",
+            "prompt": "οἱ σοφοὶ δοκοῦσί τι εἰδέναι, οὐκ εἰδότες.\nThe wise men seem to know something, although they do not."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 20,
+      "bbox": [
+        706,
+        230,
+        759,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "d. ἀνάγκη ἦν Σωκράτη ἰέναι πρὸς τοὺς σοφοὺς καὶ διαλέγεσθαι περὶ σοφίας.\nIt was necessary for Socrates to go to the wise men and talk about wisdom [with them].",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "d",
+            "prompt": "ἀνάγκη ἦν Σωκράτη ἰέναι πρὸς τοὺς σοφοὺς καὶ διαλέγεσθαι περὶ σοφίας.\nIt was necessary for Socrates to go to the wise men and talk about wisdom [with them]."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 21,
+      "bbox": [
+        783,
+        230,
+        820,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "e. Σωκράτης, ὡς ἐγὼ οἶμαι, οὐ πειρᾶται διαφθείρειν τοὺς νέους.\nSocrates, as I see it, is not trying to corrupt the young men.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "e",
+            "prompt": "Σωκράτης, ὡς ἐγὼ οἶμαι, οὐ πειρᾶται διαφθείρειν τοὺς νέους.\nSocrates, as I see it, is not trying to corrupt the young men."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 22,
+      "bbox": [
+        823,
+        230,
+        931,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "f. Σωκράτης ἐβούλετο εὑρίσκειν πότερον τὴν ἀλήθειαν λέγει ὁ ἐν Δελφοῖς θεὸς ἢ οὔ. καὶ πολλάκις ἐπειρᾶτο Σωκράτης δηλοῦν τὸν θεὸν οὐ τὰληθῆ λέγοντα.\nSocrates wanted to discover whether the god in Delphi was telling the truth or not. And Socrates often tried to show that the god was not telling the truth.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1b",
+        "instruction": null,
+        "items": [
+          {
+            "n": "f",
+            "prompt": "Σωκράτης ἐβούλετο εὑρίσκειν πότερον τὴν ἀλήθειαν λέγει ὁ ἐν Δελφοῖς θεὸς ἢ οὔ. καὶ πολλάκις ἐπειρᾶτο Σωκράτης δηλοῦν τὸν θεὸν οὐ τὰληθῆ λέγοντα.\nSocrates wanted to discover whether the god in Delphi was telling the truth or not. And Socrates often tried to show that the god was not telling the truth."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 103
+}

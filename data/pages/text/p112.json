@@ -1,0 +1,548 @@
+{
+  "folio": "82",
+  "running_head": "Part Two: Moral decay",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        223,
+        157,
+        269,
+        268
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        223,
+        221,
+        264,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "It is left for Dionysodoros to confuse Kleinias further, by turning the argument on its head.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        313,
+        125,
+        404,
+        842
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ταῦτ' οὖν εἶπεν ὁ Εὐθύδημος. οἱ δὲ μαθηταὶ, ἅμα θορυβήσαντές τε καὶ γελάσαντες, τὴν σοφίαν ταύτην ἐπήνεσαν. καὶ ὥσπερ σφαῖραν εὐθὺς ἐξεδέξατο τὸν λόγον ὁ Διονυσόδωρος, ἐκδεξάμενος δέ,",
+      "lang": "grc",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        412,
+        125,
+        482,
+        770
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘τί δέ, ὦ Κλεινία;’ ἔφη. ‘καὶ δὴ λέγει ὁ διδάσκαλος λόγους τινάς. πότεροι μανθάνουσι τοὺς λόγους, οἱ σοφοὶ ἢ οἱ ἀμαθεῖς;’",
+      "lang": "grc",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        458,
+        893,
+        477,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        484,
+        125,
+        503,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οἱ σοφοὶ’, ἦ δ' ὅς ὁ Κλεινίας.",
+      "lang": "grc",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        510,
+        125,
+        529,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘οἱ σοφοὶ ἄρα μανθάνουσιν, ἀλλ' οὐχὶ οἱ ἀμαθεῖς, καὶ οὐκ εὖ σὺ ἄρτι ἀπεκρίνω.’",
+      "lang": "grc",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        530,
+        125,
+        600,
+        785
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα δὴ καὶ πάνυ γελάσαντές τε καὶ θορυβήσαντες, οἱ μαθηταὶ τὴν σοφίαν ταύτην εὐθὺς ἐπήνεσαν. ἡμεῖς δ' ἐν ἀπορίᾳ ἐμπίπτοντες, ἐσιωπῶμεν.",
+      "lang": "grc",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        655,
+        222,
+        680,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        719,
+        127,
+        739,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμαθεῖς ignorant (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        743,
+        127,
+        763,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπορία perplexity",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        766,
+        127,
+        786,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρτι just now",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        790,
+        127,
+        863,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γελάσ-αντ-ες laughing, with\nlaughs (nom. pl. m.)\n(γελά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        866,
+        127,
+        959,
+        353
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκ-δεξ-άμεν-ος receiving in turn\n(ἐκ-δέξ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        718,
+        421,
+        738,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα at this point",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        742,
+        421,
+        785,
+        552
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπ-αινέ-ω praise (aor.\nἐπ-ήνεσ-α)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        789,
+        421,
+        807,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐθὺς at once",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        811,
+        421,
+        831,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-φη (he) said (φημί)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        835,
+        421,
+        928,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θορυβήσ-αντ-ες making a\ndin, with a din (nom. pl. m.)\n(θορυβέ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        932,
+        421,
+        951,
+        537
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ δὴ let's suppose",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 21,
+      "bbox": [
+        719,
+        660,
+        740,
+        842
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        743,
+        660,
+        762,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γελάω (γελασα-) laugh",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        766,
+        660,
+        786,
+        819
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκδέχομαι receive in turn",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        789,
+        660,
+        832,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμπίπτω (ἐμπεσ-) fall into, on\n(+ ἐν or εἰς)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        835,
+        660,
+        856,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπαινέω (ἐπαινεσα-) praise",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        860,
+        660,
+        878,
+        864
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐθύς at once, straightaway",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        882,
+        660,
+        902,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φημί/ἔφην I say/I said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 112
+}

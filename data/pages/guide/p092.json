@@ -1,0 +1,386 @@
+{
+  "running_head": "Section 6C",
+  "folio": "78",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        124,
+        124,
+        276,
+        886
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "11–16 The content is repeated from earlier in the chapter, but note the presence of second aorists – ἔδακε (second aorist of δάκνω), ἤρου (second aorist of ἐρωτάω), ἐλάβετε (second aorist of λαμβάνω), ἐγένετο (second aorist of γίγνομαι), and ἔθετε (aorist of τίθημι, a verb which you have not yet learned in detail).\n18 εἶδον ἰδ- is the second aorist stem of ὁράω.\n19–20 πόθεν ὢν τυγχάνεις ‘Where do you happen to come from?’\n27 ἐξευρίσκεις εὑρίσκω has perfect tense ηὕρηκα, familiar from Archimedes’ cry on discovering the principle of displacement. Second aorist stem εὑρ- is met in the next line.\n29–30 ἔμαθον, ἔτυχε Second aorists respectively of μανθάνω, τυγχάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        207,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 6C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        214,
+        191,
+        230,
+        642
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The student goes away. Strepsiades calls Socrates.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        243,
+        88,
+        258,
+        616
+      ],
+      "margin_number": null,
+      "speaker": "STREPSIADES",
+      "text": "Socrates! Dear little Socrates! Come here!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        263,
+        88,
+        296,
+        722
+      ],
+      "margin_number": null,
+      "speaker": "SOCRATES",
+      "text": "Who called? Who forced his way into the thinkery of the\nsophists?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        303,
+        88,
+        336,
+        893
+      ],
+      "margin_number": null,
+      "speaker": "SRT.",
+      "text": "I shouted, Strepsiades from the deme Kikynna. But I didn't force my way into\nthe thinkery.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        342,
+        88,
+        375,
+        781
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "Why call'st thou me, O creature of the day? For what purpose have you\ncome?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        381,
+        88,
+        415,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I have come as a student into the thinkery. For I have already heard that you are\nwise.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        421,
+        88,
+        436,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "Tell me, who said that? How did you hear that I was wise?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        441,
+        88,
+        456,
+        501
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "One of the students said this.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        461,
+        88,
+        477,
+        513
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "What did the student say? Tell [me].",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        481,
+        88,
+        694,
+        880
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "The student said that a flea bit Chaerephon's eyebrow. Then it jumped onto\nyour head. You asked Chaerephon how many of its own feet the flea leapt.\nYou measured it thus: first you took the flea and put it into warm wax. When\nthe wax became cold, the flea had Persian slippers. Then you measured the\ndistance. I have never seen anything so wise.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        700,
+        88,
+        733,
+        842
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "You have never seen anything so wise? But where do you actually come\nfrom?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        739,
+        88,
+        755,
+        235
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Kikynna.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        759,
+        88,
+        775,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "You did not escape my notice being a rustic, and ignorant.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        780,
+        88,
+        813,
+        764
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Don't blame me. But tell me, what are you doing in that basket,\nSocrates?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        818,
+        88,
+        835,
+        626
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "I am walking on air and contemplating the sun.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        840,
+        88,
+        873,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Why are you doing that from a basket and not from the ground? What are you\ndiscovering or learning, being in a basket?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        879,
+        88,
+        905,
+        888
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "I never discovered meteoric phenomena nor learnt anything, looking from the\nground. For the earth happened to prevent thought.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 92
+}

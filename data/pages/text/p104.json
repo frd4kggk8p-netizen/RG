@@ -1,0 +1,568 @@
+{
+  "folio": null,
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        127,
+        0,
+        160,
+        768
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾔει οὖν ὁ Χαιρεφῶν εἰς Δελφούς, καὶ ταύτην τὴν μαντείαν ἐμαντεύσατο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        160,
+        0,
+        192,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρὰ τῷ θεῷ. καὶ μὴ θορυβεῖτε, ὦνδρες. ᾔρετο γὰρ δὴ εἴ τίς ἐστι σοφώτερος ἢ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        192,
+        0,
+        226,
+        650
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σωκράτης, ἀπεκρίνατο δ᾽ ἡ Πυθία ὅτι οὐδείς ἐστι σοφώτερος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        234,
+        222,
+        255,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Seven A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        263,
+        225,
+        432,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 7A-C\n• Present infinitives, active and middle: παύειν, παύεσθαι\n• Irregular present infinitives: εἶναι, ἰέναι, εἰδέναι\n• Verbs taking infinitives (e.g. βούλομαι, δεῖ, δοκέω)\n• Comparative and superlative adjectives, regular and irregular\n• Past of εἶμι: ᾖα ‘I went‘",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        447,
+        127,
+        477,
+        280
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλήθει-α, ἡ truth (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        477,
+        127,
+        502,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνάγκ-η, ἡ necessity (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        504,
+        127,
+        552,
+        361
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνάγκ-η ἐστὶ it is obligatory for\nx (acc.) to – (inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        553,
+        127,
+        603,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-κρίν-ομαι (ἀποκριν-)\n answer",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        604,
+        127,
+        626,
+        286
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βούλ-ομαι wish, want",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        626,
+        127,
+        650,
+        312
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γὰρ δὴ I assure you; indeed",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        650,
+        127,
+        698,
+        353
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γὰρ . . . που of course (no need\nto ask)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        447,
+        421,
+        497,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεῖ it is necessary for x (acc.) to\n– (inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        498,
+        421,
+        521,
+        575
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Δελφ-οí, οἱ Delphi (2a) (site of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        522,
+        452,
+        545,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Apollo's oracle)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        546,
+        421,
+        567,
+        533
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Δελφοῖs Delphi",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        569,
+        421,
+        591,
+        565
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δια-βάλλ-ειν to slander",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        591,
+        421,
+        638,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δια-βάλλ-ω (διαβαλ-)\nslander",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        639,
+        421,
+        661,
+        588
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δια-βολ-ή, ἡ a slander (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        662,
+        421,
+        683,
+        557
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διδάσκ-ειν to teach",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        447,
+        684,
+        493,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δι-é-βαλ-ον they slandered\n (aor. of διαβάλλ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        493,
+        684,
+        517,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δόξ-α, ἡ reputation (1c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        517,
+        684,
+        541,
+        800
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑαυτ-όν himself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        541,
+        684,
+        563,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ειδέναι to know (οἶδα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        564,
+        684,
+        587,
+        821
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑταῖρ-ος, ὁ friend (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        587,
+        684,
+        608,
+        760
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἤ than",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        609,
+        684,
+        655,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾔ-ει (he) went (impf. of\n ἔρχ-ομαι/εἶμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        656,
+        684,
+        678,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θορυβέ-ω make a din",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 104
+}

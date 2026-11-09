@@ -1,0 +1,185 @@
+{
+  "running_head": "Summary exercises for section 7",
+  "folio": "100",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        56,
+        204,
+        169
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        215,
+        191,
+        387,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μάχη battle, μάχομαι I fight; ἀληθής true, ἀλήθεια truth; διαβάλλω I slander, διαβολή slander; σοφία wisdom, σοφός wise; ἀποφαίνω I reveal, φάσμα apparition, φαίνομαι I appear; λόγος word, argument, λογίζομαι I reason; ἡδέως with pleasure, ἥδομαι I have pleasure; νέος young, νεανías young man; οἰκέω I live, οἰκία house; δοκέω I seem, δόξα reputation",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        410,
+        191,
+        423,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        431,
+        191,
+        401,
+        896
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱ δ᾽ Ἀμαζόνες τοὺς Ἀθηναίους ἀποκτεῖναισαι πρὸς τὴν τῶν Σκυθῶν γῆν ἀφίκοντο. ἀφικόμεναι δὲ καὶ ἵππους εὑροῦσαι πρὸς τοὺς Σκύθας ἐμαχέσαντο. οἱ δὲ Σκύθαι αὐτὰς νικήσαντές τε καὶ περὶ αὐτῶν γνόντες φίλοι γίγνεσθαι ἐβούλοντο. οἱ οὖν νεάνιαι πλησίον ἑπόμενοι οὐκ ἐμαχέσαντο. αἱ δ᾽ Ἀμαζόνες ταῦτα ἰδοῦσαι αὐταὶ ἡσύχαζον. τέλος δὲ φίλοι γενόμενοι συνῴκησαν ἀλλήλοις, ἀλλὰ ἔδει τοὺς τε νεανίας καὶ τὰς γυναῖκας διὰ τὸν ποταμὸν διαβαίνειν καὶ ἄλλην τινὰ χώραν οἰκεῖν. ‘τὴν γὰρ ὑμετέραν γῆν’, ἔφασαν αἱ Ἀμαζόνες, ‘οὐ βουλόμεθα οἰκεῖν, ἐπειδὴ ἀφικόμεναι πρὸς ὑμᾶς ἐμαχεσάμεθα.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        423,
+        191,
+        436,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E – TEST EXERCISE 7",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        448,
+        191,
+        674,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Some Amazons arrived in the land of the Scythians and disembarked from their boats, and falling on the land they laid it waste. The Scythians defeated them in battle, and taking up their corpses and finding them to be women, wanted to have children by them. So they ordered their young men never to fight, but to go closer and become friends, and they sent them towards the Amazons. The Amazons, on seeing them following close by but not fighting, no longer worried about them. Then a Scythian, coming across an Amazon who was on her own, and becoming friendly [with her], advised the others to do the same, and, if they came on any Amazons, to become friends. So the others obeyed, and eventually the Scythians and the Amazons began to live together. But the Amazons did not wish to go back to the mass of the Scythians. ‘For’, they said, ‘we cannot live with your women. For our customs and those of the Scythians are not the same.’ So, taking their possessions and crossing the river, they found a land near by and lived in it.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        696,
+        191,
+        706,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        717,
+        191,
+        772,
+        812
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "(a) aorist     (b) aorist     (c) present     (d) aorist"
+          },
+          {
+            "n": "",
+            "prompt": "(e) present     (f) aorist"
+          },
+          {
+            "n": "2.",
+            "prompt": "(a) imperfect     (b) aorist     (c) imperfect     (d) aorist"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 114
+}

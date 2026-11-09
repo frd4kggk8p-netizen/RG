@@ -1,0 +1,28 @@
+{
+  "running_head": null,
+  "folio": null,
+  "blocks": [
+    {
+      "type": "figure",
+      "order": 1,
+      "bbox": [
+        223,
+        119,
+        905,
+        823
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "Comic actors",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 118
+}

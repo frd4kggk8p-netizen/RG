@@ -1,0 +1,3388 @@
+{
+  "id": "s08",
+  "label_new": "Section 8: Aristophanes’ Birds and visions of Utopia",
+  "para_range": [
+    170,
+    181
+  ],
+  "blocks": [
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            null,
+            "s.",
+            null,
+            null,
+            null,
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "nom.",
+            "acc.",
+            "gen.",
+            "dat.",
+            "nom.",
+            "acc.",
+            "gen.",
+            "dat."
+          ]
+        ],
+        "rows": [
+          [
+            "Personal pronouns",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "ἐγώ",
+            "(ἐ)μέ",
+            "(ἐ)μοῦ",
+            "(ἐ)μοί",
+            "ἡμεῖς",
+            "ἡμᾶς",
+            "ἡμῶν",
+            "ἡμῖν"
+          ],
+          [
+            "σύ",
+            "σέ",
+            "σοῦ",
+            "σοί",
+            "ὑμεῖς",
+            "ὑμᾶς",
+            "ὑμῶν",
+            "ὑμῖν"
+          ],
+          [
+            "Adjectives",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "καλ-ός",
+            "καλ-όν",
+            "καλ-οῦ",
+            "καλ-ῷ",
+            "καλ-οί",
+            "καλ-ούς",
+            "καλ-ῶν",
+            "καλ-οῖς"
+          ],
+          [
+            "καλ-ή",
+            "καλ-ήν",
+            "καλ-ῆς",
+            "καλ-ῇ",
+            "καλ-αί",
+            "καλ-άς",
+            "καλ-ῶν",
+            "καλ-αῖς"
+          ],
+          [
+            "καλ-όν",
+            "καλ-όν",
+            "καλ-οῦ",
+            "καλ-ῷ",
+            "καλ-ά",
+            "καλ-ά",
+            "καλ-ῶν",
+            "καλ-οῖς"
+          ],
+          [
+            "ἡμέτερ-ος",
+            "ἡμέτερ-ον",
+            "ἡμέτερ-ου",
+            "ἡμέτερ-ῳ",
+            "ἡμέτερ-οι",
+            "ἡμέτερ-ους",
+            "ἡμέτερ-ων",
+            "ἡμέτερ-οις"
+          ],
+          [
+            "ἡμέτερ-α",
+            "ἡμέτερ-αν",
+            "ἡμέτερ-ας",
+            "ἡμέτερ-ᾳ",
+            "ἡμέτερ-αι",
+            "ἡμέτερ-ας",
+            "ἡμέτερ-ων",
+            "ἡμέτερ-αις"
+          ],
+          [
+            "ἡμέτερ-ον",
+            "ἡμέτερ-ον",
+            "ἡμέτερ-ου",
+            "ἡμέτερ-ῳ",
+            "ἡμέτερ-α",
+            "ἡμέτερ-α",
+            "ἡμέτερ-ων",
+            "ἡμέτερ-οις"
+          ],
+          [
+            "οὗτ-ος",
+            "τοῦτ-ον",
+            "τούτ-ου",
+            "τούτ-ῳ",
+            "οὗ-οι",
+            "τούτ-ους",
+            "τούτ-ων",
+            "τούτ-οις"
+          ],
+          [
+            "αὗτ-η",
+            "ταύτ-ην",
+            "ταύτ-ης",
+            "ταύτ-ῃ",
+            "αὗτ-αι",
+            "ταύτ-ας",
+            "τούτ-ων",
+            "ταύτ-αις"
+          ],
+          [
+            "τοῦτ-ο",
+            "τοῦτ-ο",
+            "τούτ-ου",
+            "τούτ-ῳ",
+            "ταῦτ-α",
+            "ταῦτ-α",
+            "τούτ-ων",
+            "τούτ-οις"
+          ],
+          [
+            "ἐκεῖν-ος",
+            "ἐκεῖν-ον",
+            "ἐκεῖν-ου",
+            "ἐκεῖν-ῳ",
+            "ἐκεῖν-οι",
+            "ἐκεῖν-ους",
+            "ἐκεῖν-ων",
+            "ἐκεῖν-οις"
+          ],
+          [
+            "ἐκεῖν-η",
+            "ἐκεῖν-ην",
+            "ἐκεῖν-ης",
+            "ἐκεῖν-ῃ",
+            "ἐκεῖν-αι",
+            "ἐκεῖν-ας",
+            "ἐκεῖν-ων",
+            "ἐκεῖν-αις"
+          ],
+          [
+            "ἐκεῖν-ο",
+            "ἐκεῖν-ο",
+            "ἐκεῖν-ου",
+            "ἐκεῖν-ῳ",
+            "ἐκεῖν-α",
+            "ἐκεῖν-α",
+            "ἐκεῖν-ων",
+            "ἐκεῖν-οις"
+          ],
+          [
+            "αὐτ-ός",
+            "αὐτ-όν",
+            "αὐτ-οῦ",
+            "αὐτ-ῷ",
+            "αὐτ-οί",
+            "αὐτ-ούς",
+            "αὐτ-ῶν",
+            "αὐτ-οῖς"
+          ],
+          [
+            "αὐτ-ή",
+            "αὐτ-ήν",
+            "αὐτ-ῆς",
+            "αὐτ-ῇ",
+            "αὐτ-αί",
+            "αὐτ-άς",
+            "αὐτ-ῶν",
+            "αὐτ-αῖς"
+          ],
+          [
+            "αὐτ-ό",
+            "αὐτ-ό",
+            "αὐτ-οῦ",
+            "αὐτ-ῷ",
+            "αὐτ-ά",
+            "αὐτ-ά",
+            "αὐτ-ῶν",
+            "αὐτ-οῖς"
+          ],
+          [
+            "πολ-ύς",
+            "πολ-ύν",
+            "πολλ-οῦ",
+            "πολλ-ῷ",
+            "πολλ-οί",
+            "πολλ-ούς",
+            "πολλ-ῶν",
+            "πολλ-οῖς"
+          ],
+          [
+            "πολλ-ή",
+            "πολλ-ήν",
+            "πολλ-ῆς",
+            "πολλ-ῇ",
+            "πολλ-αί",
+            "πολλ-άς",
+            "πολλ-ῶν",
+            "πολλ-αῖς"
+          ],
+          [
+            "πολ-ύ",
+            "πολύ",
+            "πολλ-οῦ",
+            "πολλ-ῷ",
+            "πολλ-ά",
+            "πολλ-ά",
+            "πολλ-ῶν",
+            "πολλ-οῖς"
+          ],
+          [
+            "εὔφρων",
+            "εὔφρον-α",
+            "εὔφρον-ος",
+            "εὔφρον-ι",
+            "εὔφρον-ες",
+            "εὔφρον-ας",
+            "εὔφρον-ων",
+            "εὔφρον-σι(ν)"
+          ],
+          [
+            "εὔφρον",
+            "εὔφρον",
+            "εὔφρον-ος",
+            "εὔφρον-ι",
+            "εὔφρον-α",
+            "εὔφρον-α",
+            "εὔφρον-ων",
+            "εὔφρον-σι(ν)"
+          ],
+          [
+            "τις",
+            "τιν-α",
+            "τιν-ος",
+            "τιν-ι",
+            "τιν-ες",
+            "τιν-ας",
+            "τιν-ων",
+            "τι-σι(ν)"
+          ],
+          [
+            "τι",
+            "τι",
+            "τιν-ος",
+            "τιν-ι",
+            "τιν-α",
+            "τιν-α",
+            "τιν-ων",
+            "τι-σι(ν)"
+          ],
+          [
+            "οὐδ-εἰς",
+            "οὐδ-ένα",
+            "οὐδ-ενός",
+            "οὐδ-ενί",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "οὐδέ-μία",
+            "οὐδέ-μίαν",
+            "οὐδέ-μιᾶς",
+            "οὐδέ-μιᾷ",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "οὐδ-έν",
+            "οὐδ-έν",
+            "οὐδ-ενός",
+            "οὐδ-ενί",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "ὤν",
+            "ὄντ-α",
+            "ὄντ-ος",
+            "ὄντ-ι",
+            "ὄντ-ες",
+            "ὄντ-ας",
+            "ὄντ-ων",
+            "οὖ-σι(ν)"
+          ],
+          [
+            "οὖσ-α",
+            "οὖσ-αν",
+            "οὔσ-ης",
+            "οὔσ-ῃ",
+            "οὖσ-αι",
+            "οὖσ-ας",
+            "οὔσ-ων",
+            "οὖσ-αις"
+          ],
+          [
+            "ὄν",
+            "ὄν",
+            "ὄντ-ος",
+            "ὄντ-ι",
+            "ὄντ-α",
+            "ὄντ-α",
+            "ὄντ-ων",
+            "οὖ-σι(ν)"
+          ],
+          [
+            "παύσα-ς",
+            "παύσα-ντα",
+            "παύσα-ντος",
+            "παύσα-ντι",
+            "παύσα-ντες",
+            "παύσα-ντας",
+            "παυσά-ντων",
+            "παῦσα-σι(ν)"
+          ],
+          [
+            "παῦσα-σα",
+            "παῦσα-σαν",
+            "παυσά-σης",
+            "παυσά-σῃ",
+            "παῦσα-σαι",
+            "παῦσα-σας",
+            "παυσά-σων",
+            "παυσά-σαις"
+          ],
+          [
+            "παῦσα-ν",
+            "παῦσα-ν",
+            "παύσα-ντος",
+            "παύσα-ντι",
+            "παύσα-ντα",
+            "παύσα-ντα",
+            "παυσά-ντων",
+            "παῦσα-σι(ν)"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "161",
+        "pdf_page": 179
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "179. Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "t": "box",
+      "title": "(a) All gen. plurals end in -ων.\n(b) Gen. singular",
+      "items": [
+        "(a) All gen. plurals end in -ων.\n(b) Gen. singulars of type 3 nouns/adjectives all originally ended in -ος.\nLater contractions and other changes gave rise to forms in -ους and -εως.\n(c) Gen. singulars in types 1 and 2 nouns/adjectives end (masculine)\nin -ου and (feminine) in -ης (1a, 1c) or -ας (1b). Remind yourself of the\nrules for these nouns (especially the ι ρ ε rule) at 56-57.\n(d) 1d nouns like ναύτης, νεανίας are tricky: ναύτης, νεανίας is their\nnom. form (not feminine gen. s.!) and their gen. s. is ναύτου, νεανίου."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Select from this list according to need.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "9. βέλτιστος\n10. σός\n11. πολύς (N.B. irregular stem)\n12. οὗτος* (N.B. irregular stem)\n* Position def. art. correctly with these words.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "USES OF THE GENITIVE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "t": "para",
+      "no": 180,
+      "text": "180. The most common uses of the genitive are as follows:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) To correspond to English phrases introduced by 'of' in such senses as:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "▪ (i) possession, e.g.\nἡ τοῦ Δικαιοπόλεως οἰκία 'the house of [belonging to] Dikaiopolis'",
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "■ (ii) a part, e.g.\n      ὀλίγοι τῶν ἀνθρώπων    ‘few of [‘out of the whole number of’] the men’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "■ (iii) source or origin, e.g.\n      οἱ λόγοι οἱ τοῦ ἀνθρώπου    ‘the words of [‘that come from’] the fellow’\n      ἡ τῶν Ἕνδεκα ἀνομία    ‘the lawlessness of the Eleven’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "■ (iv) content or material, e.g.\n      τὸ τῶν πολιτῶν πλῆθος    ‘the crowd of [‘made up of’] citizens, the citi-\n                                   zen crowd’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) With certain adjectives, e.g.\n      ἄξιος    ‘worthy of’\n      πλέως    ‘full of’\n      αἴτιος    ‘responsible for’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) With certain prepositions, e.g.\n      ἀπό    ‘away from’\n      παρά    ‘from’ (esp. a person)\n      ἐκ    ‘out of, from’\n      μετά    ‘(in company) with’\n      ἐπί    ‘on’, ‘on part of’, ‘in the time of’\n      διά    ‘through’\n      ἕνεκα    ‘for the sake of’ (comes after the noun)\n      περί    ‘concerning, about’ (also with acc.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "box",
+      "title": "▶ Note that διά and μετά have quite different mean",
+      "items": [
+        "▶ Note that διά and μετά have quite different meanings depending on the\n  case they take:\n▶ διά + acc. ‘because of’; διά + gen. ‘through’\n▶ μετά + acc. ‘after’; μετά + gen. ‘with’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(d) With certain verbs, e.g.\n      ἀκούω    ‘I hear’ (a person)*\n      καταδικάζω    ‘I condemn’\n      λαμβάνομαι    ‘I seize, take hold of’ (see (a)[ii] above)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "* ἀκούω normally takes the acc. of the thing heard (e.g. words) but the gen. of the source of sound\n(e.g. the person who is speaking):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀκούω τοὺς λόγους    ‘I hear the words’\n ἀκούω σοῦ λέγοντος    ‘I hear you speaking’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Cf. [a](iii) above. You will find that other verbs of perception behave in a similar way.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(e) To express comparison\n      So far you have met comparisons of the type described at 158 i.e. constructed\n      with ἤ = ‘than’. Greek can also express comparison without ἤ by putting the\n      thing compared in the gen., e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "164",
+        "pdf_page": 182
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Σωκράτης σοφώτερός ἐστι τούτου τοῦ ἀνθρώπου.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "‘Socrates is wiser than this fellow.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(This can also be expressed as Σωκράτης σοφώτερός ἐστιν ἢ οὗτος ὁ ἄνθρωπος.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ALTERNATIVE COMPARATIVE FORMS",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "181. Revise the alternative comparative and superlative forms of ἀγαθός and κακός:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ]
+        ],
+        "rows": [
+          [
+            "ἀγαθός\n\n‘good’",
+            "ἀμείνων ἄμεινον (ἀμεινον-)\nβελτίων βελτίον (βελτίον-)\n‘better’",
+            "ἄριστος η ον\nβέλτιστος η ον\n‘best’"
+          ],
+          [
+            "κακός\n\n‘bad’",
+            "κακίων κάκιον (κακῖον-)\nχείρων χεῖρον (χειρον-)\n‘worse’",
+            "κάκιστος η ον\nχείριστος η ον\n‘worst’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Meaning",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The alternative comparative and superlative forms of ἀγαθός carry slightly different nuances:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "box",
+      "title": "ἀμείνων and ἄριστος imply superiority in terms of ",
+      "items": [
+        "ἀμείνων and ἄριστος imply superiority in terms of physical or mental ability\nβελτίων and βέλτιστος imply moral superiority"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The full declension of comparative adjectives is as follows:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "181-182",
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "box",
+      "title": "βελτίων βέλτιον (βελτιον-) ‘better’ (comparative o",
+      "items": [
+        "βελτίων βέλτιον (βελτιον-) ‘better’ (comparative of ἀγαθός)\ns.\n  m.lf.\n  n.\nNom. βελτίων\n  βέλτιον\nAcc.\n  βελτίον-α or βελτίω\n  βέλτιον\nGen.\n  βελτίον-ος\n  βελτίον-ος\nDat.\n  βελτίον-ι\n  βελτίον-ι\npl.\n  m.lf.\n  n.\nNom. βελτίον-ες or βελτίους\n  βελτίον-α or βελτίω\nAcc.\n  βελτίον-ας or βελτίους*\n  βελτίον-α or βελτίω\nGen.\n  βελτίον-ων\n  βελτίον-ων\nDat.\n  βελτίοσι(ν)\n  βελτίοσι(ν)"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Note the alternative forms in the m./f. acc. s. and the m./f./n. nom. and acc. pl.\nThese are old forms, arising from a stem ending not in -ιον- but in -ιο-:\nβελτίο(ν)α > βελτίω (m./f. acc. s.; n. nom./acc. pl.)\nβελτίο(ν)ες > βελτίους (m./f. nom. pl.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "* This form, which should by contraction be βελτίως, has not in fact been contracted but simply\ntaken over from the nom. pl.\nYou will find that these old forms are used far more often by Greek authors than their new -ν- stem\nequivalents.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "COMPARING ADJECTIVES LIKE εὔφρων",
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Observe also that adjectives ending in -ων like εὔφρων form their comparatives and superlatives as follows:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ]
+        ],
+        "rows": [
+          [
+            "εὔφρων ον\n‘lucky’",
+            "εὐφρονέστερος α ον\n‘luckier’",
+            "εὐφρονέστατος η ον\n‘luckiest, very lucky’"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The regular suffixes -τερος and -τατος are still there waving like mad, but on a stem extended by -εσ-.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "MOOD: THE OPTATIVES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Most of the verbs you have met so far have been in one of two ‘moods’: the indicative or the imperative. The ‘mood’ of a verb gives important clues as to its function in a sentence:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "box",
+      "title": "The indicative mood, for example, is generally use",
+      "items": [
+        "The indicative mood, for example, is generally used to make statements or ask questions."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "The imperative mood is used to give orders.",
+      "items": [
+        "The imperative mood is used to give orders."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "There are two further moods in Greek: the optative",
+      "items": [
+        "There are two further moods in Greek: the optative and the subjunctive."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Here you encounter the optative (and you can fight over whether to stress the ‘o’ or the ‘a’). You will meet a number of uses of this mood in future sections, but as you will discover, most examples of the optative in Greek require the use of words like ‘would’, ‘could’ and ‘might’ when translating in English.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Present optative active and middle",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The forms of the present optative active and middle for non-contract verbs are as follows:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "t": "box",
+      "title": "Present optative active: παύοιμι\nπαύ-οιμι\nπαύ-οις\n",
+      "items": [
+        "Present optative active: παύοιμι\nπαύ-οιμι\nπαύ-οις\nπαύ-οι\nπαύ-οιμεν\nπαύ-οιτε\nπαύ-οιεν"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "Present optative middle: παυοίμην\nπαυ-οίμην\nπαυ-οi",
+      "items": [
+        "Present optative middle: παυοίμην\nπαυ-οίμην\nπαυ-οio\nπαυ-οιτο\nπαυ-οίμεθα\nπαυ-οισθε\nπαυ-οιντο"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "168",
+        "pdf_page": 186
+      }
+    },
+    {
+      "t": "box",
+      "title": "Note the -μην-σο -το middle endings (102). The 2s.",
+      "items": [
+        "Note the -μην-σο -το middle endings (102). The 2s. was originally παυ-οι-σο, with the intervocalic sigma dropping out to give παυ-οι-ο.\nThe thematic vowel is -ο- throughout; the optative mood is marked by the immediately following -ι-."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Present optative of contract verbs",
+      "src": {
+        "book": "grammar",
+        "printed_page": "168",
+        "pdf_page": 186
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "The forms for contract verbs in the active are as follows. Note that in the s. active the forms arise from contracting the vowel with the endings -οίην, -οίης, -οίη:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "168",
+        "pdf_page": 186
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "τιμάω, ‘I honour’",
+            "ποιέω, ‘I make, do’",
+            "δηλόω, ‘I show, reveal’"
+          ],
+          [
+            "(α-contract verb)",
+            "(ε-contract verb)",
+            "(ο-contract verb)"
+          ]
+        ],
+        "rows": [
+          [
+            "τιμα-οίην > τιμῴην",
+            "ποιε-οίην > ποιοίην",
+            "δηλο-οίην > δηλοίην"
+          ],
+          [
+            "τιμα-οίης > τιμῴης",
+            "ποιε-οίης > ποιοίης",
+            "δηλο-οίης > δηλοίης"
+          ],
+          [
+            "τιμα-οίη > τιμῴη",
+            "ποιε- οίη > ποιοίη",
+            "δηλο-οίη > δηλοίη"
+          ],
+          [
+            "τιμά-οιμεν > τιμῷμεν",
+            "ποιέ-οιμεν > ποιοῖμεν",
+            "δηλό-οιμεν > δηλοῖμεν"
+          ],
+          [
+            "τιμά-οιτε > τιμῷτε",
+            "ποιέ-οιτε > ποιοῖτε",
+            "δηλό-οιτε > δηλοῖτε"
+          ],
+          [
+            "τιμά-οιεν > τιμῷεν",
+            "ποιέ-οιεν > ποιοῖεν",
+            "δηλό-οιεν > δηλοῖεν"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "168",
+        "pdf_page": 186
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Middle contract optative",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "θεάομαι, ‘I watch’",
+            "ποιέομαι, ‘I make, do’",
+            "δουλόομαι, ‘I enslave for\nmyself’"
+          ],
+          [
+            "(α-contract verb)",
+            "(ε-contract verb)",
+            "(ο-contract verb)"
+          ]
+        ],
+        "rows": [
+          [
+            "θεά-οίμην > θεῴμην",
+            "ποιέ-οίμην > ποιοίμην",
+            "δουλό-οίμην > δουλοίμην"
+          ],
+          [
+            "θεά-οιο > θεῷο",
+            "ποιέ-οιο > ποιοῖο",
+            "δουλό-οιο > δουλοῖο"
+          ],
+          [
+            "θεά-οιτο > θεῷτο",
+            "ποιέ-οιτο > ποιοῖτο",
+            "δουλό-οιτο > δουλοῖτο"
+          ],
+          [
+            "θεά-οίμεθα > θεῴμεθα",
+            "ποιέ-οίμεθα > ποιοίμεθα",
+            "δουλό-οίμεθα > δουλοίμεθα"
+          ],
+          [
+            "θεά-οισθε > θεῷσθε",
+            "ποιέ-οισθε > ποιοῖσθε",
+            "δουλό-οισθε > δουλοῖσθε"
+          ],
+          [
+            "θεά-οιντο > θεῷντο",
+            "ποιέ-οιντο > ποιοῖντο",
+            "δουλό-οιντο > δουλοῖντο"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "You can recognise present optatives from the combination of a present stem and\n-οι- (or ω).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἄν + OPTATIVE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "The optative forms are used with the particle ἄν to express a ‘polite’ request\nor agreement. Sometimes ‘polite’ requests are difficult to distinguish from\nstraightforward requests. The best translations involve using the English\nforms ‘would’, ‘would like to’, ‘can’, or the simple future ‘will’, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "λέγοις ἄν μοι; ‘Would you tell me? Would you like to/could you/will\nyou tell me?’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "λέγοιμι ἄν ‘I would/would like to/can/will tell you.’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Note that ἄν cannot come as first word.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀνίσταμαι, ‘I LEAVE, EMIGRATE’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "187. The verb ἀνίσταμαι, ‘I get up and go, leave, emigrate’ (stem ἀνιστα-), conjugates in the same way as δύναμαι, ‘I am able, can’ (177):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "box",
+      "title": "ἀνίσταμαι ‘I leave’\nἀνίσταμαι ‘I leave’\nἀνίστασαι ",
+      "items": [
+        "ἀνίσταμαι ‘I leave’\nἀνίσταμαι ‘I leave’\nἀνίστασαι ‘you (s.) leave’\nἀνίσταται ‘he/she/it leaves’\nἀνιστάμεθα ‘we leave’\nἀνίστασθε ‘you (pl.) leave’\nἀνίστανται ‘they leave’\nInfinitive\nἀνίστασθαι ‘to leave’\nParticiple\nἀνιστάμενος η ον ‘leaving’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As with δύνα-μαι, there is no thematic vowel between stem and ending.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "GREEK IDIOMS",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τί + participle",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "188. Note the Greek love of τί + participle and the variety of possible translations it takes:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τί βουλόμενος τοῦτο ποιεῖς;\nlit. ‘Wanting what do you do this?’\ni.e. ‘What is your motive/purpose/intention in doing this?’\nτί παθὼν τοῦτο λέγεις;\nlit. ‘On suffering what do you say this?’\ni.e. ‘What did you suffer to make you say this?’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "t": "box",
+      "title": "Note also that, since πάσχω basically means ‘I hav",
+      "items": [
+        "Note also that, since πάσχω basically means ‘I have something done to me’, a perfectly good translation of this last sentence would also be ‘What made you say this?’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 8A–C",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀγορά, ἡ                          market-place, agora (1b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἄγω (ἀγαγ-)                          live in, be at; lead, bring",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀδικέω                             be unjust, commit a crime, do wrong",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ᾄδω/ἀείδω                     sing",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀνίσταμαι (ἀναστα-)           get up, emigrate",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἄξιος ᾱ ον                        worth, worthy of (+gen.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀπολέω                        I shall kill, destroy",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "βέλτιστος η ον                best",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "βελτίων βέλτιον (βελτίον-)   better",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δεξιός ᾱ́ όν                    clever; right-hand",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δῆμος, ὁ                       people; deme (2a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "διά                             (+gen.) through",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δικαστήριον, τό            law-court (2b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "δικαστής, ὁ                   juror, dikast (1d)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐγγύς                       (+gen.) near",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εἰρήνη, ἡ                  peace (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εἰρήνην ἄγω              live in/be at peace",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐκεῖσε                    (to) there",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐκκλησίᾱ, ἡ               assembly, ekklesia (1b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐναντίον                  (+gen.) opposite, in front of",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐν τούτῳ                meanwhile",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐπεί                       since",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐπί                        (+g en.) on",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἕτοιμος η ον                ready (to) (+inf.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εὐδαίμων εὔδαιμον (εὐδαιμον-)   happy, rich, blessed by the gods",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(comp. εὐδαιμονέστερος ᾱ ον;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "sup. εὐδαιμονέστατος η ον)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡγεμών (ἡγεμον-), ὁ          leader (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡγέομαι                      think, consider; lead (+ dat.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡδονή, ἡ                     pleasure (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Ἡρακλῆς, ὁ                 Herakles (3d uncontr.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "καθοράω (κατιδ-)            see, look down on",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "λαμβάνομαι                take hold of (+gen.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μετά                        (+ gen.) with",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μέγιστος η ον              greatest (sup. of μέγας)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μείζων μεῖζον (μειζον-)      greater (comp. of μέγας)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "171",
+        "pdf_page": 189
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 8A–C\nCONTINUED",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μόνος η ον",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μῶν;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "νυν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "οἰκτίρω (οἰκτῖρα-)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὁ μέν ... ὁ δέ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πάθος, τό",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πανταχοῦ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πέμπω",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "περί",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πλέως ᾱ ων",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ποιέομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "πολίτης, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "προστρέχω (προσδραμ-)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ῥήτωρ (ῥήτορ-) ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σῖτος, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σπονδαί, αἱ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "συγγενής, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τᾶν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὑπέρ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὑπό",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "φιλόσοφος, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χαῖρε",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χαλεπός ἣ όν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χείρ (χειρ-), ἡ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χείρων χεῖρον (χειρον-)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "χρόνος, ὁ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "alone",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "surely not?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "then (cf. νῦν now)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "pity",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "one ... another",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "experience, suffering (3C)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "everywhere",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "send",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(+gen.) about",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "full of (+ gen.) (as if α-ος α-α α-ον contr.)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "make",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "citizen (1d)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "run towards",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "orator, politician (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "food (2a) (pl. σῖτα, τά 2b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "treaty, truce (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "relation (3d)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "my dear chap (condescendingly )",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(+gen.) for, on behalf of",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(+gen.) by, at the hands of",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "philosopher (2a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "hello! farewell!",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "difficult, hard",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "hand (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "worse",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "time (2a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "172",
+        "pdf_page": 190
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 8",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "A VOCABULARY-BUILDING",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀδικέω\nἀνίσταμαι\nἄξιος\nδῆμος/κρατέω\nἡγεμών\nκρατέω\nπέμπω\nπολίτης\nχαλεπός\nχείρ\nτὸ ἀδίκημα\nἡ ἀνάστασις\nἀξιόλογος ον\nἡ δημοκρατία\nἡ ἡγεμονία\nκράτιστος\nἡ πομπή\nἡ πολιτεία\nχαλεπαίνω\nἐπιχειρέω\nπολιτεύω\nπολιτικός ἡ όν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλὰ τίς αἴτιός ἐστι (οὗτος ὁ πόλεμος) καὶ (αὕτη ἡ ἀπορία);",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "οἱ ῥήτορες, εὖ οἶδ' ὅτι, αἴτιοι (τοῦτο τὸ πρᾶγμα). ἡ γὰρ πόλις πλέα (θόρυβος) καὶ (βοή) διὰ τόν τε πόλεμον καὶ τὴν (οἱ ῥήτορες) τόλμαν. τίς γὰρ οὐκ οἶδε περὶ (ἡ τόλμα) (αὐτούς);",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλ' οὐκ αἰτίους (ταῦτα τὰ πράγματα) ἡγοῦμαι τοὺς ῥήτορας ἔγωγε, ἀλλὰ βελτίστους (ἄνθρωποι). ἀεὶ γὰρ μάχονται περὶ (τὸ πλῆθος) καὶ (ἡ πόλις), ὡς φασὶν αὐτοί.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ναί. ἀλλὰ ψευδῆ λέγουσι. κακὸν γὰρ τὸ (οὗτοι οἱ ἄνδρες) πλῆθος καὶ οὐδεὶς χείρων (ῥήτωρ). οἱ γὰρ ῥήτορες λαμβάνονται (ἡ ἐκκλησία) καὶ (τὸ δικαστήριον).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "1. μένεις\n2. λέγω\n3. βουλόμεθα\n4. πείθεσθε",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "5. ἀποκρίνῃ\n6. κελεύεις\n7. παύομαι\n8. φέρομεν",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "a. (i) ὁ ξένος ἐπὶ τοῦ βωμοῦ καθίζεται.\n(ii) ἡ ναῦς ἐπὶ τοὺς πολεμίους ἐπέρχεται.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "b. (i) εἶμι αὔριον εἰς τὴν ἀγορὰν μετὰ τῶν φίλων.\n(ii) μετὰ δὲ ταῦτα ἐπάνειμι εἰς τὴν οἰκίαν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Compare Dionysodorus with Euthydemos using the adjectives listed below and these formulae:\nΔιονυσόδωρος \nκακίων\nχείρων\n}\nἐστὶ(ν)\n{\nΕὐθυδήμου\nἢ Εὐθύδης\n1. καλός\n5. ἀγαθός\n2. μέγας\n6. μῶρος\n3. κακοδαίμων\n7. σοφός\n4. εὔφρων",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "D ENGLISH INTO GREEK",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate these pairs of sentences:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὁ υἱὸς ὁ τοῦ κήρυκος ἀκούει τοῦ ῥήτορος.\nThe man’s slave grabs the rhapsode’s hand.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τίς αἴτιός ἐστι ταύτης τῆς ἀνομίας, δεινοτάτης οὔσης;\nWho is responsible for those shouts, which are very loud?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "᾿Αθηναῖοι ὄντες, πολλοῦ ἄξιoί ἐσμεν.\nYou are a sophist and worth nothing.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "διὰ τί λέγεις ὅτι οὐδεὶς σοφώτερος τοῦ Σωκράτους;\nWhy are the politicians richer than the people of the city? Tell me!",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἐπορευόμεθα διὰ τῆς πόλεως τῆς τῶν Λακεδαιμονίων.\nWe suffered many bad experiences, but fought against the Persians for freedom.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate into Greek using the hints below to guide you:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Look! I see a slave running towards us. Whose slave are you?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "As it happens I am the slave of Euelpides, your friend.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Would you please say what you want, and for what reason you ran to me?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "I will. For I must, as Euelpides ordered, ask you to wait.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Then I shall wait. Hello, Euelpides and Peisetairos. What is your purpose in leaving the city? Where are you off to?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "We have to go away to a new and more useful city.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Hints",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "‘As it happens’: i.e. ‘I happen to be ...’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "'your friend': this must be in the same case as the noun it is in apposition to\n(i.e. further describing), i.e. Euelpides.\n'Would you please say?': use optative + ἄν.\n'I will': i.e. 'I will say'. Remember, too, that in a reply to a question Greek\noften repeats the question word prefixed with ὁ- (126).\n'Hello': s. χαῖρε, pl. χαίρετε.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "E TEST EXERCISE EIGHT",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate into English:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "παῖς τις, διὰ τοῦ τῶν πολιτῶν πλήθους ἰών, προσέδραμε πρὸς τὸν\nΔικαιόπολιν καί, λαβόμενος τῆς χειρός, μένειν ἐκέλευεν. ἔπειτα οἱ τὸν\nπαῖδα πέμψαντες, ὅ τε Εὐελπίδης καὶ ὁ Πεισέταιρος, φίλοι ὄντες τοῦ\nΔικαιόπολεως προσελθόντες ἠσπάζοντο Δικαιόπολιν. ὁ δέ, οὐκ εἰδὼς τί",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "βουλόμενοι ἐκ τοῦ ἄστεως ἀπέρχονται, ἤρετο ποῦ ἀπιέναι διανοοῦνται\nκαὶ τίνος ἕνεκα. ἐκεῖνοι δὲ ἀπεκρίναντο ὅτι δεῖ αὐτοὺς Νεφελοκοκκυγίαν\nζητεῖν, εὑρόντας δὲ οἰκεῖν. Δικαιόπολις δὲ εὐδαιμονεστάτας ἡγεῖτο",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τὰς ᾿Αθήνας καὶ βελτίω τῶν ᾿Αθηνῶν οὐδεμίαν πόλιν. πρῶτον μὲν οὖν\nμανθάνειν οὐκ ἐδύνατο τίνος ἕνεκα ἀνίστανται, ἔπειτα ἀκούσας τὰ περὶ",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τῶν δικαστῶν καὶ τοῦ δικαστηρίου καὶ τῶν ῥητόρων, ὡμολόγησεν. οἱ\nμὲν γὰρ δικασταὶ ἐφαίνοντο ἀδικοῦντες τοὺς ἀγαθούς, οἱ δὲ ῥήτορες (ὡς\nἔδοξαν) ἔτυχον διαφθείροντες τὸν δῆμον καὶ οὐκ οἰκτίροντες. οἱ μὲν\nοὖν φίλοι οἱ Δικαιόπολεως ἀπῇσαν. αὐτὸς δέ, βαρέως φέρων τὰ τῆς τε\nπόλεως καὶ τοῦ δήμου καὶ βελτίστην ἡγούμενος τὴν εἰρήνην, διενοεῖτο",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σπονδὰς ποιεῖσθαι ἐν τῇ ἐκκλησίᾳ. ἀλλ᾽ ὁ ῥαψῳδός, ἀμαθεῖς ἡγούμενος\nτοὺς ἄνδρας καὶ μώρους, αὐτὸς οὐκ ἐβούλετο μετιέναι μετ᾽ αὐτοῦ, ἀλλ᾽\nἀπῆλθε μόνος.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vocabulary",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Νεφελοκοκκυγία, ἡ Cloud-cuckooland (1b)\nἀμαθεῖς ignorant (m. acc. pl.)\nμετιέναι inf. of μετέρχομαι accompany",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "8A-C: 1",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 1a-c type nouns:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "ἀνομία"
+        },
+        {
+          "n": "2.",
+          "prompt": "εἰρήνη"
+        },
+        {
+          "n": "3.",
+          "prompt": "ἀγορά"
+        },
+        {
+          "n": "4.",
+          "prompt": "ἐκκλησία"
+        },
+        {
+          "n": "5.",
+          "prompt": "μάχη"
+        },
+        {
+          "n": "6.",
+          "prompt": "φωνή"
+        },
+        {
+          "n": "7.",
+          "prompt": "ἀρετή"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "id": "8A-C: 2",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 1d type nouns:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "πολίτης"
+        },
+        {
+          "n": "2.",
+          "prompt": "δικαστής"
+        },
+        {
+          "n": "3.",
+          "prompt": "ποιητής"
+        },
+        {
+          "n": "4.",
+          "prompt": "σοφιστής"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "id": "8A-C: 3",
+      "instruction": "Give the meaning and (where possible) gen. s. and pl. (with def. art.) of the following 3d type nouns:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "τριήρης"
+        },
+        {
+          "n": "2.",
+          "prompt": "Σωκράτης"
+        },
+        {
+          "n": "3.",
+          "prompt": "συγγενής"
+        },
+        {
+          "n": "4.",
+          "prompt": "Περικλῆς"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "id": "8A-C: 4",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following 2a-b type nouns:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "σῖτος"
+        },
+        {
+          "n": "2.",
+          "prompt": "φιλόσοφος"
+        },
+        {
+          "n": "3.",
+          "prompt": "δῆμος"
+        },
+        {
+          "n": "4.",
+          "prompt": "δικαστήριον"
+        },
+        {
+          "n": "5.",
+          "prompt": "χρόνος"
+        },
+        {
+          "n": "6.",
+          "prompt": "ποταμός"
+        },
+        {
+          "n": "7.",
+          "prompt": "νεανίσκος"
+        },
+        {
+          "n": "8.",
+          "prompt": "οὐρανός"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "id": "8A-C: 5",
+      "instruction": "Give the meaning and gen. s. and pl. in all genders (with def. art.) of the following type '2-1-2' adjectives:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "ἄξιος"
+        },
+        {
+          "n": "2.",
+          "prompt": "ἐκεῖνος*"
+        },
+        {
+          "n": "3.",
+          "prompt": "δεξιός"
+        },
+        {
+          "n": "4.",
+          "prompt": "ἕτοιμος"
+        },
+        {
+          "n": "5.",
+          "prompt": "αὐτός"
+        },
+        {
+          "n": "6.",
+          "prompt": "χαλεπός"
+        },
+        {
+          "n": "7.",
+          "prompt": "ὑμέτερος"
+        },
+        {
+          "n": "8.",
+          "prompt": "μέγιστος"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "162",
+        "pdf_page": 180
+      }
+    },
+    {
+      "id": "6",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following type 3c nouns:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "πάθος"
+        },
+        {
+          "n": "2",
+          "prompt": "πλῆθος"
+        },
+        {
+          "n": "3",
+          "prompt": "τεῖχος"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "id": "7",
+      "instruction": "Give the meaning and gen. s. and pl. of the following 3a-b type nouns:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "πρᾶγμα"
+        },
+        {
+          "n": "2",
+          "prompt": "κῆρυξ"
+        },
+        {
+          "n": "3",
+          "prompt": "κτῆμα"
+        },
+        {
+          "n": "4",
+          "prompt": "ῥήτωρ"
+        },
+        {
+          "n": "5",
+          "prompt": "γέρων"
+        },
+        {
+          "n": "6",
+          "prompt": "πούς"
+        },
+        {
+          "n": "7",
+          "prompt": "φροντίς"
+        },
+        {
+          "n": "8",
+          "prompt": "χρῆμα"
+        },
+        {
+          "n": "9",
+          "prompt": "δαίμων"
+        },
+        {
+          "n": "10",
+          "prompt": "γυνή"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "id": "8",
+      "instruction": "Give the meaning and gen. s. and pl. in all genders of the following type 3rd declension and '3-1-3' adjectives/participles:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "κακοδαίμων"
+        },
+        {
+          "n": "2",
+          "prompt": "ἰών"
+        },
+        {
+          "n": "3",
+          "prompt": "ὤν"
+        },
+        {
+          "n": "4",
+          "prompt": "βελτίων"
+        },
+        {
+          "n": "5",
+          "prompt": "λύσας"
+        },
+        {
+          "n": "6",
+          "prompt": "χείρων"
+        },
+        {
+          "n": "7",
+          "prompt": "τις"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "id": "9",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art. [where meaningful]) of the following:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "Ζεύς"
+        },
+        {
+          "n": "2",
+          "prompt": "ἐγώ"
+        },
+        {
+          "n": "3",
+          "prompt": "ναῦς"
+        },
+        {
+          "n": "4",
+          "prompt": "βασιλεύς"
+        },
+        {
+          "n": "5",
+          "prompt": "σύ"
+        },
+        {
+          "n": "6",
+          "prompt": "ὀφρῦς"
+        },
+        {
+          "n": "7",
+          "prompt": "γραῦς"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "id": "10",
+      "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "δικαστής"
+        },
+        {
+          "n": "2",
+          "prompt": "παῖς"
+        },
+        {
+          "n": "3",
+          "prompt": "ἥλιος"
+        },
+        {
+          "n": "4",
+          "prompt": "οἴκησις"
+        },
+        {
+          "n": "5",
+          "prompt": "κτῆμα"
+        },
+        {
+          "n": "6",
+          "prompt": "διάνοια"
+        },
+        {
+          "n": "7",
+          "prompt": "ἱερόν"
+        },
+        {
+          "n": "8",
+          "prompt": "ἄστυ"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "163",
+        "pdf_page": 181
+      }
+    },
+    {
+      "id": "8A-C: 11",
+      "instruction": "Translate into Greek using the prepositions and adjectives listed at (c) above:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "in company with (the) Socrates"
+        },
+        {
+          "n": "2",
+          "prompt": "away from the assembly"
+        },
+        {
+          "n": "3",
+          "prompt": "through the crowd"
+        },
+        {
+          "n": "4",
+          "prompt": "out of the ship"
+        },
+        {
+          "n": "5",
+          "prompt": "I condemn the man"
+        },
+        {
+          "n": "6",
+          "prompt": "I hear the women"
+        },
+        {
+          "n": "7",
+          "prompt": "I seize the citizen"
+        },
+        {
+          "n": "8",
+          "prompt": "worthy of (the) excellence"
+        },
+        {
+          "n": "9",
+          "prompt": "responsible for (the) lawlessness"
+        },
+        {
+          "n": "10",
+          "prompt": "in company with the herald"
+        },
+        {
+          "n": "11",
+          "prompt": "through the river"
+        },
+        {
+          "n": "12",
+          "prompt": "concerning the law"
+        },
+        {
+          "n": "13",
+          "prompt": "away from (the) Athens"
+        },
+        {
+          "n": "14",
+          "prompt": "out of the house"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "165",
+        "pdf_page": 183
+      }
+    },
+    {
+      "id": "8A-C",
+      "instruction": "12. Add the correct forms of the βελτίων to the following phrases, giving alternatives where appropriate, and translate:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "τὸν ναύτην"
+        },
+        {
+          "n": "2.",
+          "prompt": "τοὺς λιμένας"
+        },
+        {
+          "n": "3.",
+          "prompt": "τὴν θεάν"
+        },
+        {
+          "n": "4.",
+          "prompt": "αἱ νῆες"
+        },
+        {
+          "n": "5.",
+          "prompt": "οἱ γεωργοί"
+        },
+        {
+          "n": "6.",
+          "prompt": "τὰς γυναῖκας"
+        },
+        {
+          "n": "7.",
+          "prompt": "τὸ ἄστυ"
+        },
+        {
+          "n": "8.",
+          "prompt": "τὰ πλοῖα"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "166",
+        "pdf_page": 184
+      }
+    },
+    {
+      "id": "8A-C: 13",
+      "instruction": "Add the correct comparative and superlative forms of the quoted adjectives to the following phrases, and translate:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "ὁ (εὐδαίμων) ναύτης"
+        },
+        {
+          "n": "2",
+          "prompt": "τὸ (κακοδαίμων) ἄστυ"
+        },
+        {
+          "n": "3",
+          "prompt": "τὴν (εὔφρων) θεάν"
+        },
+        {
+          "n": "4",
+          "prompt": "τὰς (κακοδαίμων) γυναῖκας"
+        },
+        {
+          "n": "5",
+          "prompt": "ἡ (εὐδαίμων) νῆσος"
+        },
+        {
+          "n": "6",
+          "prompt": "τοὺς (κακοδαίμων) διδασκάλους"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "167",
+        "pdf_page": 185
+      }
+    },
+    {
+      "id": "8A–C: 14",
+      "instruction": "Translate the following present indicatives and turn them into the equivalent optative forms:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "εὑρίσκουσιν"
+        },
+        {
+          "n": "2",
+          "prompt": "ἐξετάζει"
+        },
+        {
+          "n": "3",
+          "prompt": "λογιζόμεθα"
+        },
+        {
+          "n": "4",
+          "prompt": "γίγνεται"
+        },
+        {
+          "n": "5",
+          "prompt": "θαυμάζεις"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "168",
+        "pdf_page": 186
+      }
+    },
+    {
+      "id": "8A-C: 15",
+      "instruction": "Translate the following present indicatives and turn them into the equivalent optatives:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "φιλεῖς"
+        },
+        {
+          "n": "4.",
+          "prompt": "πειρᾶται"
+        },
+        {
+          "n": "2.",
+          "prompt": "διανοοῦνται"
+        },
+        {
+          "n": "5.",
+          "prompt": "τολμῶσιν"
+        },
+        {
+          "n": "3.",
+          "prompt": "νικᾷ"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "id": "8A-C: 16",
+      "instruction": "Translate into the ‘polite’ form, ἄν + optative, using the verbs in brackets:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "They would bring (φέρω)"
+        },
+        {
+          "n": "6.",
+          "prompt": "They would do wrong (ἀδικέω)"
+        },
+        {
+          "n": "2.",
+          "prompt": "We would converse (διαλέγομαι)"
+        },
+        {
+          "n": "7.",
+          "prompt": "He would see (ὁράω)"
+        },
+        {
+          "n": "3.",
+          "prompt": "She would consider (σκοπέω)"
+        },
+        {
+          "n": "8.",
+          "prompt": "You (pl.) would persuade (πείθω)"
+        },
+        {
+          "n": "4.",
+          "prompt": "I would send (πέμπω)"
+        },
+        {
+          "n": "9.",
+          "prompt": "We would guard (φυλάττω)"
+        },
+        {
+          "n": "5.",
+          "prompt": "You (s.) would receive (δέχομαι)"
+        },
+        {
+          "n": "10.",
+          "prompt": "They would obey (πείθομαι)"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "169",
+        "pdf_page": 187
+      }
+    },
+    {
+      "id": "8A-C",
+      "instruction": "17. Revise δύναμαι (177) and translate:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "ἀνίστασαι"
+        },
+        {
+          "n": "2",
+          "prompt": "δύναται"
+        },
+        {
+          "n": "3",
+          "prompt": "ἀνιστάμενος"
+        },
+        {
+          "n": "4",
+          "prompt": "δύνασθαι"
+        },
+        {
+          "n": "5",
+          "prompt": "ἀνίστασθε"
+        },
+        {
+          "n": "6",
+          "prompt": "δύνανται"
+        },
+        {
+          "n": "7",
+          "prompt": "δυνάμενος"
+        },
+        {
+          "n": "8",
+          "prompt": "ἀνίσταται"
+        },
+        {
+          "n": "9",
+          "prompt": "δυνάμεθα"
+        },
+        {
+          "n": "10",
+          "prompt": "ἀνίστασθαι"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "170",
+        "pdf_page": 188
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+      "items": [],
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Translate the whole passage into English, putting the bracketed words into the gen. case:",
+      "items": [],
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "id": "2",
+      "instruction": "Convert these verb-forms into the corresponding polite form (optative + ἄν) and translate:",
+      "items": [
+        {
+          "n": "1.",
+          "prompt": "μένεις"
+        },
+        {
+          "n": "2.",
+          "prompt": "λέγω"
+        },
+        {
+          "n": "3.",
+          "prompt": "βουλόμεθα"
+        },
+        {
+          "n": "4.",
+          "prompt": "πείθεσθε"
+        },
+        {
+          "n": "5.",
+          "prompt": "ἀποκρίνῃ"
+        },
+        {
+          "n": "6.",
+          "prompt": "κελεύεις"
+        },
+        {
+          "n": "7.",
+          "prompt": "παύομαι"
+        },
+        {
+          "n": "8.",
+          "prompt": "φέρομεν"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "id": "3",
+      "instruction": "Translate these sentences and contrast the use and construction of the preposition in each pair.",
+      "items": [
+        {
+          "n": "a. (i)",
+          "prompt": "ὁ ξένος ἐπὶ τοῦ βωμοῦ καθίζεται."
+        },
+        {
+          "n": "(ii)",
+          "prompt": "ἡ ναῦς ἐπὶ τοὺς πολεμίους ἐπέρχεται."
+        },
+        {
+          "n": "b. (i)",
+          "prompt": "εἶμι αὔριον εἰς τὴν ἀγορὰν μετὰ τῶν φίλων."
+        },
+        {
+          "n": "(ii)",
+          "prompt": "μετὰ δὲ ταῦτα ἐπάνειμι εἰς τὴν οἰκίαν."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "173",
+        "pdf_page": 191
+      }
+    },
+    {
+      "id": "c_d",
+      "instruction": "",
+      "items": [
+        {
+          "n": "c. (i)",
+          "prompt": "τὸ πλοῖον πλεῖ παρὰ τὴν νῆσον."
+        },
+        {
+          "n": "(ii)",
+          "prompt": "ὁ σοφιστὴς πολλὰ χρήματα δέχεται παρὰ τῶν μαθητῶν."
+        },
+        {
+          "n": "d. (i)",
+          "prompt": "ὁ παῖς προσέδραμε πρὸς ἡμᾶς, βιαζόμενος διὰ τοῦ πλήθους."
+        },
+        {
+          "n": "(ii)",
+          "prompt": "ἡ ἐμὴ γυνὴ φοβεῖται τὸ ἄστυ διὰ τὴν νόσον."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "174",
+        "pdf_page": 192
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Answer the following questions based on the passage above.",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "Give the aspect (i.e. present or aorist) of the following participles: (a) λαβόμενος (line 2), (b) προσελθόντες (line 4), (c) βουλόμενοι (line 5), (d) εὑρόντας (line 7), (e) ἀκούσας (line 9), (f) διαφθείροντες (line 12), (g) φέρων (line 13), (h) ἡγούμενος (line 15)"
+        },
+        {
+          "n": "2",
+          "prompt": "Give the case of the following: (a) πλήθους (line 1), (b) τίνος (line 6), (c) βελτίω (line 8), (d) ῥήτορες (line 11), (e) πόλεως (line 14), (f) ἄνδρας (line 16)"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "175",
+        "pdf_page": 193
+      }
+    }
+  ]
+}

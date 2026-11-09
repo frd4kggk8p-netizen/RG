@@ -1,0 +1,365 @@
+{
+  "running_head": "Grammar for Section 7A–C",
+  "folio": "135",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        39,
+        219,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "151–153",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        81,
+        186,
+        238,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ε-contract verbs: ε + -ειν/-εσθαι\nActive infinitive in -εῖν, e.g. ποιεῖν, ‘to stop’\nMiddle infinitive in -εῖσθαι, e.g. φοβεῖσθαι, ‘to be afraid’\no-contract verbs: ο + -ειν/-εσθαι\nActive infinitive in -οῦν, e.g. δηλοῦν, ‘to show’ (not δηλοῖν: see on τιμᾶν above)\nMiddle infinitive in -οῦσθαι, e.g. δουλοῦσθαι, ‘to enslave for oneself’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        254,
+        186,
+        269,
+        376
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Irregular infinitives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        278,
+        186,
+        292,
+        678
+      ],
+      "margin_number": 152,
+      "speaker": null,
+      "text": "152. Learn the following infinitives of irregular verbs:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        311,
+        186,
+        392,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰμί, ‘I am’\t\t\t→\t\tεἶναι, ‘to be’\nεἶμι, ‘I shall go’\t→\t\tἰέναι, ‘to go’\noἶδα, ‘I know’\t\t→\t\tεἰδέναι, ‘to know’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        414,
+        206,
+        427,
+        350
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and Usage",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        435,
+        186,
+        465,
+        912
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) While εἶμι, ‘I shall go’, is used with reference to future time, its infinitive,\nἰέναι, is present in meaning.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        471,
+        186,
+        483,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) The negative with the infinitive is usually μή.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        492,
+        186,
+        507,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) Note the -ναι ending. It will recur.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        535,
+        186,
+        549,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        560,
+        186,
+        722,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A–C: 1. Form in Greek the present infinitives of the following verbs and translate:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7A-C: 1",
+        "instruction": "Form in Greek the present infinitives of the following verbs and translate:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "διαβάλλω"
+          },
+          {
+            "n": "2",
+            "prompt": "εὑρίσκω"
+          },
+          {
+            "n": "3",
+            "prompt": "πειράομαι"
+          },
+          {
+            "n": "4",
+            "prompt": "οἶδα"
+          },
+          {
+            "n": "5",
+            "prompt": "δηλόω"
+          },
+          {
+            "n": "6",
+            "prompt": "λογίζομαι"
+          },
+          {
+            "n": "7",
+            "prompt": "πάρειμι"
+          },
+          {
+            "n": "8",
+            "prompt": "νομίζω"
+          },
+          {
+            "n": "9",
+            "prompt": "εἶμι"
+          },
+          {
+            "n": "10",
+            "prompt": "κλέπτω"
+          },
+          {
+            "n": "11",
+            "prompt": "ἀπέρχομαι"
+          },
+          {
+            "n": "12",
+            "prompt": "βιάζομαι"
+          },
+          {
+            "n": "13",
+            "prompt": "θαυμάζω"
+          },
+          {
+            "n": "14",
+            "prompt": "πείθομαι"
+          },
+          {
+            "n": "15",
+            "prompt": "δέχομαι"
+          },
+          {
+            "n": "16",
+            "prompt": "ποιέω"
+          },
+          {
+            "n": "17",
+            "prompt": "μανθάνω"
+          },
+          {
+            "n": "18",
+            "prompt": "λαμβάνω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        732,
+        186,
+        747,
+        594
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VERBS TAKING INFINITIVE CONSTRUCTIONS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        758,
+        186,
+        775,
+        658
+      ],
+      "margin_number": 153,
+      "speaker": null,
+      "text": "153. Certain verbs take infinitive constructions, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 14,
+      "bbox": [
+        791,
+        186,
+        891,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βούλομαι\t\t‘I wish to’ + inf.\nδοκέω\t\t‘I seem (to myself)’, ‘I think that I’ + inf.\nδεῖ\t\t\t‘it is necessary to’, ‘X must’ + inf.\nἀνάγκη ἐστί\t‘it is obligatory to’ + inf.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 153
+}

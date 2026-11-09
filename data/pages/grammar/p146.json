@@ -1,0 +1,68 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "128",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        212,
+        213,
+        100,
+        821
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 6A–D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        211,
+        137,
+        526,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄγροικος ον\nἀδύνατος ον\nἈθῆναι, αἱ\nἀμαθής\nἀπέρχομαι (ἀπελθ-)\nἄρα\nβάλλ' εἰς κόρακας\nβιάζομαι\nγέρων (γεροντ-), ὁ\nγνώμη, ἡ\nδάκνω (δακ-)\nδεξιός ά όν\nδεξιά, ἡ\nδῆμος, ὁ\nδῆτα\nδράω (δρᾶσα-)\nεἰ\nεἶτα\nἐκβάλλω (ἐκβαλ-)\nἐμαυτόν\nἐν νῷ ἔχω\nἐξευρίσκω (ἐξευρ- )\nἕτερος ᾱ ον\nἥλιος, ὁ\nἥττων ἧττον (ἥττον-)\nθαυμάζω\nκαίπερ\nκεφαλή, ἡ\nκλέπτω\nκρείττων κρεῖττον (κρειττον-)\nλύω\nὁπόσος η ον\nὅπου\nὅτε\nοὐρανός, ὁ\nοὗτος\nπάνυ\nπείθομαι (πιθ-)\nπηδάω\nπόρρω\nπότερος ᾱ ον",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        521,
+        138,
+        885,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "from the country, boorish\nimpossible\nAthens (1a)\nignorant\ndepart, go away\nthen, in that case (inferring)\ngo to hell!\nuse force\nold man (3a)\nmind, purpose, judgment, plan (1a)\nbite, worry\nright\nright hand (1b)\ndeme (2a)\nthen\ndo, act\nif\nthen, next\nthrow out\nmyself\nintend, have in mind\nfind out\none (or the other) of two\nsun (2a)\nlesser, weaker\nwonder at, be amazed at\nalthough (+part.)\nhead (1a)\nsteal\nstronger, greater\nrelease\nhow much, many\nwhere? where\nwhen\nsky, heavens (2a)\nhey there! hey you!\nvery (much); at all\nbelieve, trust, obey\nleap, jump\nfar, far off\nwhich (of two)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 146
+}

@@ -1,0 +1,208 @@
+{
+  "running_head": "Part Three Athens through the comic poet's eyes",
+  "folio": "89",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        198,
+        198,
+        241,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Introduction",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        286,
+        198,
+        393,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The narrative returns to Dikaiopolis, who continues on his way through the city with the rhapsode. They meet Euelpides and Peisetairos, two friends who plan to escape from Athens and its troubles and found a new city, Cloudcuckooland (Νεφελοκοκκυγία), a Utopia in the sky with the birds (Section 8). ‘Utopia’ (a word confected in 1516 by Sir Thomas More to describe an ideal society) = οὐ τόπος ‘no place’ – or should that be εὖ τόπος (Eutopia)?",
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        396,
+        198,
+        510,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "We have already seen some of the troubles they want to escape – the war, the plague, increasing lawlessness and disrespect for the gods and human institutions, the collapse of morality and the challenge of the sophists – but Euelpides mentions another, the Athenian obsession with law-suits, a theme which is comically explored in scenes from Aristophanes’ Wasps (Section 9).",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        513,
+        198,
+        560,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Peisetairos and Euelpides have already decided on their plan of escape, but Aristophanes provides two other possible comic solutions: in Lysistrata (Section 10) the women of Athens stage a sex-strike to end the war, and in Akharnians (Section 11) Dikaiopolis finally finds his own solution to the problems of Athens at war.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        576,
+        198,
+        592,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Sources",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        613,
+        198,
+        776,
+        506
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Aristophanes, Birds 32–48 Knights 303–7, 752–3\nHomer, Odyssey 1.267\nHomeric Hymn to Demeter 216–17\nPhilemon (fragment – Kock 71)\nPlato, Gorgias 515b–516a Republic 327b\nAristophanes, Wasps 1, 54, 67–213, 760–862, 891–1008",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        613,
+        550,
+        776,
+        835
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Aristophanes, Lysistrata 120–80, 240–6, 829–955\nAkharnians 19–61, 129–32, 175–203\nPlato, Republic 557e–558c, 563c–e\nAlkibiades 1, 134b\nAristophanes, Knights 1111–30\n(Xenophon), Constitution of Athens 1.6–8, 3.1–2",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        803,
+        198,
+        818,
+        650
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: Aristophanes and politics 8.78–9.",
+      "lang": "en",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        834,
+        198,
+        850,
+        351
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Time to be taken",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        859,
+        198,
+        874,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Seven weeks",
+      "lang": "en",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 119
+}

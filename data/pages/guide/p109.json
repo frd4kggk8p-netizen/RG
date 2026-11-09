@@ -1,0 +1,438 @@
+{
+  "running_head": "Section 7G",
+  "folio": "95",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        188,
+        92,
+        252,
+        284
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        188,
+        191,
+        209,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1 (a)",
+            "prompt": "present indicative"
+          },
+          {
+            "n": "(b)",
+            "prompt": "future indicative"
+          },
+          {
+            "n": "(c)",
+            "prompt": "imperfect indicative"
+          },
+          {
+            "n": "(d)",
+            "prompt": "imperfect indicative"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        211,
+        191,
+        232,
+        630
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "2 (a)",
+            "prompt": "acc."
+          },
+          {
+            "n": "(b)",
+            "prompt": "acc."
+          },
+          {
+            "n": "(c)",
+            "prompt": "acc."
+          },
+          {
+            "n": "(d)",
+            "prompt": "nom."
+          },
+          {
+            "n": "(e)",
+            "prompt": "m. acc."
+          },
+          {
+            "n": "(f)",
+            "prompt": "s."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        235,
+        208,
+        260,
+        723
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G–H Herodotus: Histories 4.110–116, the Amazons",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        263,
+        191,
+        314,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Now we change to Herodotus and the narrative style. You will often find that the sentences are longer, but the syntax will usually follow the sequence of events, with a series of participles leading on to the final event in the main verb.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        318,
+        191,
+        353,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Aorist participles are frequent, for where in English we would write ‘they attacked them and fought them’, the Greeks preferred to have only one main verb and to say ‘having attacked them, they fought them’.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        378,
+        191,
+        430,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The second aorist participle has the same endings as the present participle, but has the aorist stem, GE pp. 151–152, #169–171: e.g. λαμβάνων present participle, λαβών aorist participle.",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        453,
+        209,
+        477,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        492,
+        191,
+        508,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 83",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        515,
+        167,
+        529,
+        810
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "εἰσπεσόντες Nom. pl. masc. aor. part. of εἰσπίπτω (second aor. ἔπεσον).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        534,
+        167,
+        574,
+        889
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "αὐτάς ‘them’, see GE p. 153, #172–173. There are other uses and meanings (GE pp. 153–155, #174–176) which will be gradually introduced.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        577,
+        143,
+        627,
+        908
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "2–3 τὰς ἐκ τῆς μάχης περιοούσας περιοούσας agrees with τὰς Ἀμαζόνας and is the acc. pl. fem., participle of περίειμι ‘I survive’. ἔλαβον. λαβόντες δ’ αὐτάς Note the ‘echo’ effect. Cf. 7D lines 17 and 23 and 7F lines 2–3.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        648,
+        191,
+        663,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 84",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        671,
+        167,
+        712,
+        876
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἰδοῦσαι εἶδον (second aorist of ὁράω) drops the augment to give the stem ἰδ-, therefore the participle is ἰδών, ἰδοῦσα, ἰδόν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        715,
+        167,
+        728,
+        547
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ἀποκτείνασαι Cf. ἀπέκτειναν line 5.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        732,
+        145,
+        765,
+        887
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "9 ἀφικόμεναι ... ἀποβᾶσαι Remember that the Amazons are feminine. Note: participle ... participle ... main verb.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        768,
+        123,
+        836,
+        897
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "12 Note the structure: οἱ δὲ Σκύθαι / οὐ γιγνώσκοντες τὴν φωνὴν / καὶ ἄνδρας νομίζοντες τὰς Ἀμαζόνας / ἐμπεσόντες καὶ μαχεσάμενοι / τοὺς νεκροὺς ἀνεῖλον (subject / pres. part. / pres. part. / aor. part. and aor. part. / main verb). ἀνελοντες What verb is this from? ἀν-αιρέω, second aorist εἷλον, stem ἑλ-.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        839,
+        157,
+        881,
+        887
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "γόντες From γιγνώσκω, second aorist ἔγνων; the aorist participle is γνοὺς γόντος.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        884,
+        191,
+        898,
+        413
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ αὐτῶν ‘from them’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 109
+}

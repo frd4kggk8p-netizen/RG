@@ -1,0 +1,408 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "96",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        221,
+        74,
+        271,
+        93
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 2,
+      "bbox": [
+        107,
+        122,
+        135,
+        158
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: benefits of empire 6.74, 81–2; Pericles tried 6.26–7; peace 7.4; festivals 3.40ff.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        168,
+        122,
+        202,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀληθῆ γε δοκεῖς λέγειν, ὦ Πεισέταιρε. ἀλλὰ τίς σώσει τὴν πόλιν, ἐπεὶ οὐδενὸς ἄξιοι φαίνονται ὄντες οἵ γε ῥήτορες; ἴσως αὐτὸς ὁ δῆμος –",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        191,
+        122,
+        228,
+        741
+      ],
+      "margin_number": null,
+      "speaker": "ΕΥ.",
+      "text": "ὦ Ἡράκλεις, μὴ λέγε τοῦτό γε. ὁ γὰρ δῆμος οἴκοι μέν ἐστι δεξιώτατος, ἐν δὲ τῇ ̂ ἐκκλησίᾳ μωρότατος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        236,
+        122,
+        248,
+        377
+      ],
+      "margin_number": 5,
+      "speaker": "ΡΑΨ.",
+      "text": "ἀλλ' εἰ Περικλῆς –",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        253,
+        122,
+        264,
+        395
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "τὸν ̂ Περικλέα μὴ λέγε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        268,
+        122,
+        281,
+        642
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "πῶς φής, ὦ τᾶν; πάντων ἄριστός γε ἐδόκει ὁ ̂ Περικλῆς, ὡς φασίν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        286,
+        122,
+        318,
+        790
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣ.",
+      "text": "ἀλλ' ὁ ἀγαθὸς πολίτης βελτίονας ποιεῖ τοὺς πολίτας ἀντὶ ̂ χειρόνων. τοῦτ' ἐποίει Περικλῆς, ἢ οὔ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        327,
+        122,
+        339,
+        316
+      ],
+      "margin_number": 10,
+      "speaker": "ΡΑΨ.",
+      "text": "ἐποίει νὴ Δία.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        344,
+        122,
+        375,
+        786
+      ],
+      "margin_number": null,
+      "speaker": "ΠΕΙΣ.",
+      "text": "οὐκοῦν, ὅτε Περικλῆς ἤρχετο λέγειν ἐν τῷ ̂ δήμῳ, χειρόνες ἦσαν οἱ Ἀθηναῖοι, ὅτε δὲ ἀπέθανε, βελτίονες;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        381,
+        122,
+        393,
+        642
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "εἰκός. ὁ γὰρ ἀγαθὸς πολίτης βελτίους ποιεῖ τοὺς ἄλλους.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        397,
+        122,
+        463,
+        902
+      ],
+      "margin_number": 15,
+      "speaker": "ΠΕΙΣ.",
+      "text": "ἀλλ' ἴσμεν σαφῶς καὶ ἐγὼ καὶ σύ, ὅτι πρῶτον μὲν εὐδόκιμος ἦν Περικλῆς ὅτε χείρους, ὡς σὺ φής, ἦσαν οἱ Ἀθηναῖοι, ἐπειδὴ δὲ ἐγένοντο βελτίους διὰ αὐτόν, κλοπὴν κατεψηφίσαντο αὐτοῦ ̂, δῆλον ὅτι ̂πονηροῦ ̂ ὄντος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        476,
+        122,
+        508,
+        882
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "ἀληθῆ λέγεις, εὖ οἶδ' ὅτι. τίς οὖν σώσει τὴν πόλιν; ἀνὴρ γὰρ φιλόπολις σώσει τὴν πόλιν, ἀλλ' οὐκ ἀπολεῖ. τί δεῖ ποιεῖν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        513,
+        122,
+        526,
+        738
+      ],
+      "margin_number": 20,
+      "speaker": "ΡΑΨ.",
+      "text": "δεί σε, ὦ Δικαιόπολι, ζητεῖν τὸ τῆς ̂ πόλεως ἀγαθόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        531,
+        122,
+        544,
+        897
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "τί τὸ ἀγαθόν, ὦ ῥαψῳδέ; οὐ γὰρ αὐτό, ὅ τι ποτ' ἐστὶ τὸ ἀγαθόν, τυγχάνω εἰδώς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        549,
+        122,
+        579,
+        867
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "σὺ δ' οὐκ οἶσθα τί τὸ ἀγαθόν; ἐν δὲ τῇ ̂ νὴ ἐδοξάς γε φιλόσοφός τις εἶναι, γνοὺς τὰ τῶν φιλοσόφων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        588,
+        122,
+        617,
+        896
+      ],
+      "margin_number": 25,
+      "speaker": "ΔΙΚ.",
+      "text": "μὴ παῖζε πρὸς ἐμέ, ὦ ῥαψῳδέ. οἱ γὰρ φιλόσοφοι ζητοῦσιν, ὡς ἀκούω, τί ἐστιν ἀγαθόν, εὑρίσκειν δ' οὐδεὶς δύναται. οἱ ̂ μὲν γὰρ ἀρετήν, οἱ ̂ δὲ δικαιοσύνην ἡγοῦνται τὸ ἀγαθόν. ἀλλ' οὐδὲν ἴσασιν ἐκεῖνοι. οἱ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        618,
+        221,
+        805,
+        902
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "δὲ γεωργοὶ τὸ ἀγαθὸν ἴσασι, τί ἐστιν. ἐν ἀγρῷ γὰρ ἔτυχον εὑρόντες αὐτό. ἔστι δ' εἰρήνη. ὁ μὲν γὰρ πόλεμος πλέως πραγμάτων, ἀπορίας, νόσου, παρασκευῆς νεῶν, ἡ δ' εἰρήνη πλέα γάμων, ἑορτῶν, συγγενῶν, παίδων, φίλων, πλούτου, ὑγιείας, σίτου, οἴνου, ἡδονῆς. εἰ δ' ἄλλος τις βούλεται σπονδὰς ποιεῖσθαι καὶ εἰρήνην ἄγειν, οὐκ οἶδα. ἀλλ' ἐγὼ αὐτὸς ἂν ̂ βουλοίμην. ἀλλὰ πῶς μόνος ὢν τὸν δῆμον ἀναπείσω; τί λέγων, ἢ τί βοῶν, ἢ τί κελεύων, σπονδὰς ποιήσομαι; ἀλλ' ̂οὖν εἴμι, ἑτοῖμος ὢν βοᾶν καὶ κακὰ ̂ λέγειν τὸν ̂ ἄλλο τι πλὴν περὶ ̂ εἰρήνης ̂ λέγοντα. φέρε νυν, εἰς τὴν ἐκκλησίαν, Δικαιόπολι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        810,
+        122,
+        823,
+        867
+      ],
+      "margin_number": 35,
+      "speaker": "ΕΥ. καὶ ΠΕΙΣ.",
+      "text": "καίτοι ἡμεῖς γ' ἀνιστάμεθα εἰς τὸν τόπον τὸν ἀπράγμονα. χαίρετε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        828,
+        122,
+        858,
+        879
+      ],
+      "margin_number": null,
+      "speaker": "ΡΑΨ.",
+      "text": "μώρους δὴ ἡγοῦμαι τούτους τοὺς ἀνθρώπους. ἐγὼ γὰρ οὐκ ἂν ̂ ποιοίην ταῦτα. οὔτε γὰρ εἰς ἐκκλησίαν σπεύδοιμ' ἂν, οὔτε ἂν ̂ ἐκ τῆς ̂ πατρίδος",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 126
+}

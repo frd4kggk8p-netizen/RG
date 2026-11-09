@@ -1,0 +1,789 @@
+{
+  "running_head": "Exercises for section 6C-D",
+  "folio": "80",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        72,
+        106,
+        755
+      ],
+      "margin_number": null,
+      "speaker": "SOCRATES",
+      "text": "But how did you become a debtor? How do you suffer this?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        108,
+        88,
+        126,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I escaped my own notice having a horse-mad son. So I became a debtor. And I",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        128,
+        189,
+        146,
+        898
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "suffered this through horse-fever and my son. For my creditors always exact",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        148,
+        189,
+        166,
+        900
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "justice, and unless I do something they will always exact [justice]. So teach me",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        168,
+        189,
+        185,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "one of your arguments.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        188,
+        88,
+        205,
+        126
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "One of my arguments? Which do you mean? The greater or the lesser?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        207,
+        88,
+        225,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I mean the unjust one, the lesser, the one stopping debts. For this argument will",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        227,
+        189,
+        245,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "win lawsuits, the greater won't. What shall I do?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        247,
+        88,
+        265,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "What? First lie down on the couch. Then think out some way out of your affairs.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        267,
+        88,
+        285,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Alas for me! The bedbugs will exact their penalty today.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        287,
+        88,
+        305,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "You there, what are you doing? Aren't you thinking?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        307,
+        88,
+        325,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I? [Yes] by Poseidon.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        327,
+        88,
+        345,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "And what did you think?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        347,
+        88,
+        365,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Whether I shall escape the bedbugs, which are biting me terribly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        367,
+        88,
+        385,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "You are talking rubbish.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        387,
+        192,
+        405,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But the fellow's silent. What's he doing?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 17,
+      "bbox": [
+        407,
+        192,
+        424,
+        380
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(He addresses Strepsiades.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        426,
+        192,
+        444,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You there, are you asleep?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        446,
+        88,
+        464,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "By Apollo, I am not.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        466,
+        88,
+        484,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "Do you have something?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        486,
+        88,
+        503,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "By Zeus, I haven't.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        505,
+        88,
+        523,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "Nothing at all?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        525,
+        88,
+        543,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I have my penis in my right hand.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        545,
+        88,
+        563,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "To hell with you! Don't joke, fellow.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        565,
+        88,
+        582,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Socratikins!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        584,
+        88,
+        602,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "What, old man?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        604,
+        88,
+        622,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I have an idea.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        624,
+        88,
+        642,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "Tell [me] your idea.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        644,
+        88,
+        661,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I shall take a witch woman and I shall steal the moon by night.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        663,
+        88,
+        681,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "What are you saying? You will steal the moon? Tell [me] – how is this useful?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        683,
+        88,
+        701,
+        116
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "How? Listen. The creditors lend money by the month. So I will steal the moon.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        703,
+        192,
+        721,
+        883
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The moon will no longer rise. How then will the creditors take their money?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 33,
+      "bbox": [
+        723,
+        88,
+        741,
+        127
+      ],
+      "margin_number": null,
+      "speaker": "SOC.",
+      "text": "To hell with you! You are a peasant and ignorant. I will not teach you any",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 34,
+      "bbox": [
+        743,
+        189,
+        761,
+        469
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "longer, since you are ignorant.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 35,
+      "bbox": [
+        792,
+        192,
+        810,
+        510
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 6C-D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 36,
+      "bbox": [
+        828,
+        192,
+        842,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE SECOND AORIST",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 37,
+      "bbox": [
+        857,
+        192,
+        871,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6C-D: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 38,
+      "bbox": [
+        879,
+        192,
+        925,
+        694
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6C-D: 1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "εἶπε(ν), εἶπον             he, they spoke"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἔλαβε(ν), ἔλαβον             he, they took"
+          },
+          {
+            "n": "3.",
+            "prompt": "ἔμαθε(ν), ἔμαθον             he, they learned"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἦλθε(ν), ἦλθον             he, they went"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 94
+}

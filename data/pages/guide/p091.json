@@ -1,0 +1,273 @@
+{
+  "running_head": "Section 6C",
+  "folio": "77",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        189,
+        190,
+        421,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        190,
+        190,
+        347,
+        881
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "English into Greek",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "The woman looked for her son.\nὁ γεωργὸς ἐβόησε καὶ ἔκοψε τὴν θύραν."
+          },
+          {
+            "n": "2",
+            "prompt": "Don't they know that you did this job easily?\nἆρ’ οὐκ ἴσασιν ὅτι σὺ/ὑμεῖς ἡδέως ταύτην τὴν γνώμην\nἐδέξω/ἐδέξασθε;"
+          },
+          {
+            "n": "3",
+            "prompt": "The suppliant did not respect/honour the goddess.\nὁ σοφιστὴς οὐκ ἔπεισε τοὺς σοφοὺς νεανίας."
+          },
+          {
+            "n": "4",
+            "prompt": "Even though they were wicked, the neighbours did not punish the young\nman.\nὁ δίκαιος, καίπερ σοφὸς ὤν, ἐθαύμασε τὸν ἄδικον λόγον."
+          },
+          {
+            "n": "5",
+            "prompt": "She stopped looking at the stranger.\nἐπαύσαντο βλέποντες τοὺς ἵππους."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        372,
+        210,
+        386,
+        235
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        402,
+        190,
+        452,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "New in this section is the second aorist; see GE pp. 124–126, #144–146. As you\nmeet them, make a list of these verbs with their principal parts (present, future,\nand aorist).",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        462,
+        216,
+        477,
+        714
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The aorist tense in Greek is formed in one of two ways:",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        492,
+        190,
+        560,
+        891
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "First aorist, which has an augment at the beginning of the word and suffix\nat the end – compare English ‘regular’ past tenses adding ‘-d’ or ‘-ed’ to\nthe present stem (e.g. ‘walk’, ‘walked’). This is the sort you have just\nlearned.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        568,
+        190,
+        659,
+        907
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "Second aorist, which still has the augment but it is added to a stem changed\nin some way – compare English ‘irregular’ past tenses (e.g. ‘sleep’,\n‘slept’). The endings are the same as those for the imperfect, but the\nimperfect uses the present stem, while the aorist has its own stem which is\nalways different from the present stem.",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        674,
+        190,
+        708,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that, again as in English, most verbs have either a first or a second aorist:\nthey are not alternative forms for the same verb.",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        730,
+        190,
+        746,
+        270
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 68",
+      "lang": "en",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        756,
+        168,
+        792,
+        907
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ἐλθέ You have met this already (in fact, three of the most irregular past stems\nhave been introduced). ἐλθ- is the second aorist stem of ἔρχομαι.",
+      "lang": "mixed",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        795,
+        168,
+        852,
+        863
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "ὦ ἐφήμερε ἐφήμερος has been met in section 4A (p. 46, line 33) with the\nmeaning ‘ephemeral’, ‘short-lived’. Here Socrates uses it for comic effect.\nἦλθες 2nd singular of the second aorist.",
+      "lang": "mixed",
+      "para_no": 8,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        854,
+        168,
+        925,
+        835
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "εἰπέ εἰπ- is the second aorist stem of λέγω.\nNotice the word order in πῶς δ’ ἤκουσάς με ὡς σοφός εἰμι; Literally,\n‘How did you hear me that I am wise?’ or ‘How do you hear that I was\nwise?’",
+      "lang": "mixed",
+      "para_no": 9,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 91
+}

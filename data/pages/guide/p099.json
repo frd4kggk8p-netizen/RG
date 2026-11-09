@@ -1,0 +1,328 @@
+{
+  "running_head": "Section 7B",
+  "folio": "85",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        154,
+        78,
+        226,
+        804
+      ],
+      "margin_number": 14,
+      "speaker": null,
+      "text": "σοφώτερος ἤ ... ‘wiser than ...’ See GE p.136–138, #155–160 for comparison of adjectives.\nσοφώτατος ‘wisest’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        232,
+        122,
+        245,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί οὖν ποιεῖν με δεῖ ‘What is it necessary for me to do? ‘What must I do?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        252,
+        153,
+        266,
+        903
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "ἦῠει What verb does this come from? See vocabulary and GE pp.138–139, #161.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        272,
+        153,
+        329,
+        905
+      ],
+      "margin_number": 18,
+      "speaker": null,
+      "text": "μὴ θορυβεῖτε The jurors are reacting unfavourably. This is a frequent plea by orators who are battling to be heard.\nὤνδρες = ὦ ἄνδρες.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        347,
+        191,
+        359,
+        359
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 7A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        371,
+        191,
+        426,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Some people therefore are asking ‘But, Socrates, why are these men slandering you? What do they have in mind? From where do these slanders arise and this reputation of yours? Speak, then, and explain to us. For we do not want to slander you.’ Therefore I want to explain to you and tell you why these men slandered me and from where the slanders and this reputation arose. Listen then. And know well that I do not want to joke with you, for perhaps I shall appear to be joking, but you must be assured (know well) that I wish to speak nothing but the truth.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        433,
+        191,
+        477,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "For, gentlemen of Athens, I happen to have this reputation on account of some kind of wisdom. Do you want to know what this wisdom is? As witness, I want to bring the god at Delphi. For the god at Delphi will bear witness to my wisdom. And indeed it is necessary for the god to speak the truth.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        485,
+        191,
+        593,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You know Chaerephon, I suppose. He was my companion from childhood, and you know how impetuous Chaerephon was about everything. And Chaerephon once reasoned thus to himself. ‘That Socrates is wise, I know well. But I want to know if anyone is wiser than Socrates. For perhaps Socrates is the wisest of men. What then must I do? It is clear that I must go to Delphi and consult the oracle. For there is great necessity for the god to speak the truth.’",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        601,
+        191,
+        634,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "So Chaerephon went to Delphi and he obtained this oracle in the presence of the god. Do not make a din, gentlemen! For, indeed, he asked whether there is anyone wiser than Socrates, and the Pythia answered that no one is wiser.",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 10,
+      "bbox": [
+        663,
+        191,
+        694,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        711,
+        191,
+        725,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 76",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        735,
+        146,
+        773,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγει ... λέγων You may want to translate this as ‘What does the god mean when he says?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        778,
+        154,
+        825,
+        821
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "πολὺν μὲν χρόνον ‘for a long time’. Accusative of duration of time.\nἠπόρουν What verb? What tense?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        829,
+        190,
+        842,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐτράπόμην Second aorist middle of τρέπω. Lit.: ‘I turned myself towards’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        847,
+        155,
+        876,
+        874
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "πολιτικός τινα ὄντα Agrees with τοῦτον τὸν σοφόν and refers to him. We might say ‘who was a politician’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        883,
+        155,
+        946,
+        896
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ᾤμην Tense? Verb? The vocabulary will tell you.\nἔδοξέ γε σοφὸς εἶναι, οὐκ ὤν ‘He thought he was wise, not being.’ Note the use of the participle. ‘He thought he was wise, though, in reality, he was not.’\nἐπειρώμην ‘I tried’: the imperfect of πειράομαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 99
+}

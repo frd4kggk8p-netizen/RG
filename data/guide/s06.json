@@ -1,0 +1,836 @@
+{
+  "section": "06",
+  "notes": [
+    {
+      "passage": "6A",
+      "line": "25–26",
+      "quoted": "ὁπόσους … πόδας",
+      "text": "‘how many of its own feet’, i.e. how many ‘flea-feet’?",
+      "src": {
+        "book": "guide",
+        "printed_page": "71",
+        "pdf_page": 85
+      }
+    },
+    {
+      "passage": "6A",
+      "line": "30–31",
+      "quoted": "πρῶτον μὲν … εἶτα … τέλος δέ …",
+      "text": "Three stages of the experiment.",
+      "src": {
+        "book": "guide",
+        "printed_page": "71",
+        "pdf_page": 85
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "3–5",
+      "quoted": "πάσχεις … ἔμαθον",
+      "text": "The question–answer format may help to link these two.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "4",
+      "quoted": "ἔλαβον",
+      "text": "Second aorist of λανθάνω, cf. λαμβάνω, ἔλαβον.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "6",
+      "quoted": "λήψονται",
+      "text": "Irregular future of λαμβάνω.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "7",
+      "quoted": "ἕτερον",
+      "text": "‘one of two’. Cf. line 8 πότερον ‘which of two?’",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "10–12",
+      "quoted": "τί δράσω",
+      "text": "‘What shall I do?’ is answered by ὅ τι; ‘What?’",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "12",
+      "quoted": "κατακλίνηθι",
+      "text": "An irregular imperative form. The -κλιν- (Latin clin-) stem may guide you towards the meaning ‘lie down’ (‘recline’), and the noun κλίνη is anticipated in the stage directions ‘couch’.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "20",
+      "quoted": "λήσω",
+      "text": "Irregular future of λανθάνω.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "28",
+      "quoted": "ἔχεις τι",
+      "text": "‘Do you have something?’ meaning ‘Have you an idea/suggestion?’, but the literal translation is probably better to lead into the vulgarity which follows.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    },
+    {
+      "passage": "6D",
+      "line": "38",
+      "quoted": "γυναῖκα φαρμακίδα",
+      "text": "‘a woman sorceress’, a ‘witch’ in the sense of a woman with supernatural powers.",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    }
+  ],
+  "translations": [
+    {
+      "passage": "6A",
+      "text": "Translation for 6A",
+      "src": {
+        "book": "guide",
+        "printed_page": "72",
+        "pdf_page": 86
+      }
+    },
+    {
+      "passage": "6B",
+      "text": "Translation for 6B",
+      "src": {
+        "book": "guide",
+        "printed_page": "73",
+        "pdf_page": 87
+      }
+    },
+    {
+      "passage": "6C",
+      "text": "Translation for 6C",
+      "src": {
+        "book": "guide",
+        "printed_page": "78",
+        "pdf_page": 92
+      }
+    },
+    {
+      "passage": "6D",
+      "text": "Translation for 6D",
+      "src": {
+        "book": "guide",
+        "printed_page": "79",
+        "pdf_page": 93
+      }
+    }
+  ],
+  "answers": [
+    {
+      "exercise_id": "6A-B: 1",
+      "item": "1.",
+      "answer": "ἔθυσε(ν) he sacrificed  ἔθυσαν they sacrificed",
+      "src": {
+        "book": "guide",
+        "printed_page": "74",
+        "pdf_page": 88
+      }
+    },
+    {
+      "exercise_id": "6A-B: 1",
+      "item": "2.",
+      "answer": "ἐκέλευσε(ν) he ordered  ἐκέλευσαν they ordered",
+      "src": {
+        "book": "guide",
+        "printed_page": "74",
+        "pdf_page": 88
+      }
+    },
+    {
+      "exercise_id": "top_list",
+      "item": "3.",
+      "answer": "ἐκώλυσε(ν) he hindered  ἐκώλυσαν they hindered",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "top_list",
+      "item": "4.",
+      "answer": "ἔλυσε(ν) he set free  ἔλυσαν they set free",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 2",
+      "item": "1.",
+      "answer": "you (pl.) pray  ηὔξασθε",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 2",
+      "item": "2.",
+      "answer": "they hit  ἔτυψαν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 2",
+      "item": "3.",
+      "answer": "he keeps quiet  ἡσύχασε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 2",
+      "item": "4.",
+      "answer": "we turn  ἐτρεψάμεθα",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 2",
+      "item": "5.",
+      "answer": "I persuade  ἔπεισα",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 3",
+      "item": "1.",
+      "answer": "we defeated  νικῶμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 3",
+      "item": "2.",
+      "answer": "he loved  φιλεῖ",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 3",
+      "item": "3.",
+      "answer": "I held power over  κρατῶ (έω)",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 3",
+      "item": "4.",
+      "answer": "you (pl.) sought  ζητεῖτε",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 3",
+      "item": "5.",
+      "answer": "they set free  ἐλευθεροῦσι(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "1.",
+      "answer": "ἤκουσε(ν)  he heard\nἤκουσαν  they heard",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "2.",
+      "answer": "ἀνεχώρησε(ν)  he retreated\nἀνεχώρησαν  they retreated",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "3.",
+      "answer": "ἠτίμασε(ν)  he dishonoured\nἠτίμασαν  they dishonoured",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "4.",
+      "answer": "ἔβλεψε(ν)  he looked\nἔβλεψαν  they looked",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "5.",
+      "answer": "ἐβόησε(ν)  he shouted\nἐβόησαν  they shouted",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "6.",
+      "answer": "ἐδέξατο  he received\nἐδέξαντο  they received",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "7.",
+      "answer": "ἐλύσατο  he ransomed\nἐλύσαντο  they set free",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "8.",
+      "answer": "ἐδίδαξε(ν)  he taught\nἐδίδαξαν  they taught",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "9.",
+      "answer": "ἐθαύμασε(ν)  he marvelled\nἐθαύμασαν  they marvelled",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "10.",
+      "answer": "ἔθυσυε(ν)  he sacrificed\nἔθυσαν  they sacrificed",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "11.",
+      "answer": "ἐνίκησε(ν)  he defeated\nἐνίκησαν  they won",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "12.",
+      "answer": "ἐθεάσατο  he watched\nἐθεάσαντο  they watched",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "13.",
+      "answer": "ἐτρέψατο  he turned\nἐτρέψαντο  they turned",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "14.",
+      "answer": "ἔκοψε(ν)  he knocked\nἔκοψαν  they knocked",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 4",
+      "item": "15.",
+      "answer": "ἐχώρησε(ν)  he went\nἐχώρησαν  they went",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "1.",
+      "answer": "ἠκούσαμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "2.",
+      "answer": "ἐδέξαντο",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "3.",
+      "answer": "ἀνεχώρησας",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "4.",
+      "answer": "ἐδίωξε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "5.",
+      "answer": "ἐκόλασαν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "6.",
+      "answer": "ἐβόησατε",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "7.",
+      "answer": "ἐνόμισε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "8.",
+      "answer": "ἐδήλωσα",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "9.",
+      "answer": "ἔμειναν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "6A-B: 5",
+      "item": "10.",
+      "answer": "διέφθειραν",
+      "src": {
+        "book": "guide",
+        "printed_page": "75",
+        "pdf_page": 89
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "a",
+      "answer": "Who is knocking at the door? ἔκοψε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "b",
+      "answer": "Who is going into the thinkery? ἐχώρησε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "c",
+      "answer": "But I knock again and do not stop knocking. ἔκοψα, ἐπαυσáμην",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "d",
+      "answer": "I will tell you. ἔλεξα, εἶπον",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "e",
+      "answer": "Finally we shall release the slipper. ἐλύσαμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "f",
+      "answer": "Why do we admire that Thales? ἐθαυμάσαμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "a",
+      "answer": "The flea leaps onto Socrates' head. ἐπήδησεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "b",
+      "answer": "But how will you measure, Chaerephon? ἐμέτρησας",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "c",
+      "answer": "Finally we measure the distance. ἐμέτρησαμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "d",
+      "answer": "These are seeking things below the ground and do not stop seeking. ἐζήτησαν, ἐπαύσαντο",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "e",
+      "answer": "What does the matter reveal, Socrates? ἐδήλωσε(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "a",
+      "answer": "αὐδάω\tthey spoke\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tf. ὠθέω\tI pushed",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "b",
+      "answer": "ἐλπίζω\tyou (s.) hoped\t\t\t\t\t\t\t\t\t\t\t\t\t\tg. ἐρωτάω\tthey asked",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "c",
+      "answer": "ὁμολογέω\tyou (pl.) agreed\t\t\t\t\t\t\t\t\t\t\t\t\th. οἰκέω\tI lived, dwelt",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "d",
+      "answer": "ἡγέομαι\tI considered, led\t\t\t\t\t\t\t\t\t\t\t\ti. ἀσπάζομαι\tthey greeted",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "e",
+      "answer": "ἄρχομαι\tthey began\t\t\t\t\t\t\t\t\t\t\t\t\t\tj. ἐκπέμπω\the sent out",
+      "src": {
+        "book": "guide",
+        "printed_page": "76",
+        "pdf_page": 90
+      }
+    },
+    {
+      "exercise_id": "D",
+      "item": "1",
+      "answer": "The woman looked for her son.\nὁ γεωργὸς ἐβόησε καὶ ἔκοψε τὴν θύραν.",
+      "src": {
+        "book": "guide",
+        "printed_page": "77",
+        "pdf_page": 91
+      }
+    },
+    {
+      "exercise_id": "D",
+      "item": "2",
+      "answer": "Don't they know that you did this job easily?\nἆρ’ οὐκ ἴσασιν ὅτι σὺ/ὑμεῖς ἡδέως ταύτην τὴν γνώμην\nἐδέξω/ἐδέξασθε;",
+      "src": {
+        "book": "guide",
+        "printed_page": "77",
+        "pdf_page": 91
+      }
+    },
+    {
+      "exercise_id": "D",
+      "item": "3",
+      "answer": "The suppliant did not respect/honour the goddess.\nὁ σοφιστὴς οὐκ ἔπεισε τοὺς σοφοὺς νεανίας.",
+      "src": {
+        "book": "guide",
+        "printed_page": "77",
+        "pdf_page": 91
+      }
+    },
+    {
+      "exercise_id": "D",
+      "item": "4",
+      "answer": "Even though they were wicked, the neighbours did not punish the young\nman.\nὁ δίκαιος, καίπερ σοφὸς ὤν, ἐθαύμασε τὸν ἄδικον λόγον.",
+      "src": {
+        "book": "guide",
+        "printed_page": "77",
+        "pdf_page": 91
+      }
+    },
+    {
+      "exercise_id": "D",
+      "item": "5",
+      "answer": "She stopped looking at the stranger.\nἐπαύσαντο βλέποντες τοὺς ἵππους.",
+      "src": {
+        "book": "guide",
+        "printed_page": "77",
+        "pdf_page": 91
+      }
+    },
+    {
+      "exercise_id": "6C-D: 1",
+      "item": "1.",
+      "answer": "εἶπε(ν), εἶπον             he, they spoke",
+      "src": {
+        "book": "guide",
+        "printed_page": "80",
+        "pdf_page": 94
+      }
+    },
+    {
+      "exercise_id": "6C-D: 1",
+      "item": "2.",
+      "answer": "ἔλαβε(ν), ἔλαβον             he, they took",
+      "src": {
+        "book": "guide",
+        "printed_page": "80",
+        "pdf_page": 94
+      }
+    },
+    {
+      "exercise_id": "6C-D: 1",
+      "item": "3.",
+      "answer": "ἔμαθε(ν), ἔμαθον             he, they learned",
+      "src": {
+        "book": "guide",
+        "printed_page": "80",
+        "pdf_page": 94
+      }
+    },
+    {
+      "exercise_id": "6C-D: 1",
+      "item": "4.",
+      "answer": "ἦλθε(ν), ἦλθον             he, they went",
+      "src": {
+        "book": "guide",
+        "printed_page": "80",
+        "pdf_page": 94
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "1",
+      "answer": "(a) aorist (b) imperfect (c) imperfect (d) present (e) aorist (f) future (g) aorist",
+      "src": {
+        "book": "guide",
+        "printed_page": "83",
+        "pdf_page": 97
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "2",
+      "answer": "(a) m. pl. nom. (b) f. s. acc. (c) m. s. acc.",
+      "src": {
+        "book": "guide",
+        "printed_page": "83",
+        "pdf_page": 97
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "3",
+      "answer": "(a) vocative (b) genitive",
+      "src": {
+        "book": "guide",
+        "printed_page": "83",
+        "pdf_page": 97
+      }
+    }
+  ]
+}

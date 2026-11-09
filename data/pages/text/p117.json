@@ -1,0 +1,1328 @@
+{
+  "running_head": "Section Seven A-H: Socrates and intellectual inquiry",
+  "folio": "87",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        99,
+        117,
+        137,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰπ-οῦσ-αι saying (nom. pl. f.) (λέγ-ω/εἶπ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        99,
+        142,
+        153,
+        343
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκεῖ there",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        99,
+        140,
+        169,
+        334
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλθ-όντ-ας on going (acc. pl. m.) (ἔρχ-ομαι/ἦλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        99,
+        126,
+        201,
+        334
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλθ-ὼν upon coming (nom. s. m.) (ἔρχ-ομαι/ἦλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        99,
+        99,
+        258,
+        339
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-ανα-στά-ντ-ες upon getting up and going off (nom. pl. m.) (ἐξ-ἀν-ίστα-μαι/ἐξ-ἀν-έστη-ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        99,
+        99,
+        296,
+        340
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-ἀν-ιστά-μεθα we get up and go off",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        99,
+        100,
+        329,
+        330
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕξ-ομεν we shall have (fut. of ἔχ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        99,
+        99,
+        361,
+        341
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπ-αν-ελθ-όντ-ας upon returning (acc. pl. m.) (ἐπ-αν-ἐρχ-ομαι/ἐπ-αν-ἤλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        99,
+        99,
+        410,
+        341
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπ-αν-ἐρχ-ομαι (ἐπ-αν-ελθ-) return",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        99,
+        126,
+        426,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐργάζ-ομαι perform, do",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        99,
+        117,
+        461,
+        334
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὑρ-όντ-ες on finding (nom. pl. m.) (εὑρίσκ-ω/ηὗρ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        99,
+        99,
+        474,
+        264
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἱππάζ-ομαι ride horses",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        99,
+        99,
+        526,
+        341
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-λαβ-ὼν on coming across (nom. s. m.) (κατα-λαμβάν-ω/κατ-ἐ-λαβ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        99,
+        100,
+        563,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-λαμβάν-ω (κατα-λαβ-) come across",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        361,
+        361,
+        396,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κτῆμα (κτῆματ-), τό possession (3b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        361,
+        361,
+        411,
+        580
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λοιπ-ός -ή -όν other, rest of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        361,
+        361,
+        447,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαθ-όντ-ες on learning (nom. pl. m.) (μανθάν-ω/ἔ-μαθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        361,
+        361,
+        461,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μεθ’ ἡμῶν with us",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        361,
+        361,
+        474,
+        578
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέρ-ος, τό share, portion (3c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        361,
+        361,
+        513,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετὰ τῶν ὑμετέρων γυναικῶν with your women",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        361,
+        361,
+        526,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετὰ (+acc.) after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        361,
+        361,
+        540,
+        544
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μόν-ος -η -ον alone",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        361,
+        361,
+        552,
+        573
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νόμ-ος, ὁ custom, usage (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        361,
+        361,
+        565,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἱ αὐτοὶ the same",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        361,
+        361,
+        578,
+        551
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκέ-ω dwell in",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        361,
+        361,
+        592,
+        500
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁμοῦ together",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        361,
+        361,
+        604,
+        550
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάλιν back, again",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        361,
+        361,
+        618,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποταμ-ός, ὁ river (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        361,
+        361,
+        631,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σημαίν-ω give a sign",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        361,
+        361,
+        644,
+        546
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σκύθ-ης, ὁ Scythian (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        361,
+        361,
+        658,
+        546
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συν-οἰκέ-ω live together",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        361,
+        361,
+        670,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ταῖς ἁμάξαις their waggons",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        432,
+        381,
+        486,
+        564
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Scythians were nomads)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        361,
+        361,
+        498,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Tάνα-ϊς, ὁ Tanais (3e) (the river Don)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        361,
+        361,
+        511,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ ὑστεραίᾳ on the next day",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        361,
+        361,
+        524,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς γῆς ταύτης this land",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        361,
+        361,
+        537,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὸ αὐτὸ the same",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        361,
+        361,
+        550,
+        528
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοκ-ῆς, οἱ parents (3g)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        361,
+        361,
+        563,
+        580
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοξεύ-ω use bows and arrows",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        117,
+        631,
+        155,
+        820
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τούτῳ τῷ χώρῳ this land",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        117,
+        631,
+        169,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑστεραί-α, ἡ next day (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        117,
+        631,
+        182,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φωνέ-ω speak, converse",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        117,
+        631,
+        196,
+        805
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φων-ή, ἡ language (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        117,
+        631,
+        209,
+        835
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χρά-ομαι use, have sex with",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        117,
+        631,
+        222,
+        834
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χῶρ-ος, ὁ place, region (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 46,
+      "bbox": [
+        201,
+        631,
+        214,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        217,
+        631,
+        230,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄγω (ἀγαγ-) lead, bring",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        217,
+        631,
+        243,
+        759
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτός ἡ ὁ self",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        217,
+        631,
+        256,
+        784
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διαβαίνω (διαβα-) cross",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        217,
+        631,
+        269,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δύναμαι be able",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        217,
+        631,
+        282,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δύο two",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        217,
+        631,
+        308,
+        823
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπανέρχομαι (ἐπανελθ-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        295,
+        663,
+        309,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "return",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        217,
+        631,
+        335,
+        808
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καταλαμβάνω (καταλαβ-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        323,
+        664,
+        336,
+        806
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "come across, overtake",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        217,
+        631,
+        362,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κτῆμα (κτῆματ-), τό",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        349,
+        663,
+        363,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "possession (3b)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        217,
+        631,
+        375,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μετά (+acc.) after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        217,
+        631,
+        388,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ αὐτός the same",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        217,
+        631,
+        401,
+        783
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκέω dwell (in), live",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 61,
+      "bbox": [
+        217,
+        631,
+        414,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάλιν back, again",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 62,
+      "bbox": [
+        217,
+        631,
+        427,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποταμός, ὁ river (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 63,
+      "bbox": [
+        217,
+        631,
+        441,
+        840
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σημεῖον, τό sign, signal (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 64,
+      "bbox": [
+        217,
+        631,
+        454,
+        767
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑμέτεροςᾱον your",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 65,
+      "bbox": [
+        217,
+        631,
+        467,
+        760
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φωνέω speak, utter",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 66,
+      "bbox": [
+        217,
+        631,
+        493,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φωνή, ἡ voice, language, speech (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 117
+}

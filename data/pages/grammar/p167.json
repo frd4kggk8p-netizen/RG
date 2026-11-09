@@ -1,0 +1,456 @@
+{
+  "running_head": "Revision Exercises for Section 7D-F",
+  "folio": "149",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        50,
+        201,
+        702
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7D-F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        204,
+        185,
+        215,
+        510
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        220,
+        185,
+        241,
+        693
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Form the m. nom. s. aorist participles of these verbs:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Form the m. nom. s. aorist participles of these verbs:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "βλέπω"
+          },
+          {
+            "n": "2",
+            "prompt": "φροντίζω"
+          },
+          {
+            "n": "3",
+            "prompt": "ῥίπτω"
+          },
+          {
+            "n": "4",
+            "prompt": "σῴζω"
+          },
+          {
+            "n": "5",
+            "prompt": "παύομαι"
+          },
+          {
+            "n": "6",
+            "prompt": "δέχομαι"
+          },
+          {
+            "n": "7",
+            "prompt": "βιάζομαι"
+          },
+          {
+            "n": "8",
+            "prompt": "λογίζομαι"
+          },
+          {
+            "n": "9",
+            "prompt": "μάχομαι (μαχεσα-)"
+          },
+          {
+            "n": "10",
+            "prompt": "ἀποκρίνομαι (ἀποκρινα-)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        255,
+        185,
+        269,
+        782
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Form the m. nom. s. aorist participles of these contracted verbs:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Form the m. nom. s. aorist participles of these contracted verbs:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ποιέω"
+          },
+          {
+            "n": "2",
+            "prompt": "βοηθέω"
+          },
+          {
+            "n": "3",
+            "prompt": "ἀπορέω"
+          },
+          {
+            "n": "4",
+            "prompt": "ἐλευθερόω"
+          },
+          {
+            "n": "5",
+            "prompt": "τολμάω"
+          },
+          {
+            "n": "6",
+            "prompt": "θεάομαι (θεασα-)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        350,
+        185,
+        381,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. Translate into Greek the italicised phrases, using either aorist or present participles of the verb in brackets to suit the sense:\na. We sat silently, all the time perplexed as to his meaning. (ἀπορέω)\nb. With a glance at me the teacher began to speak. (βλέπω)\nc. The spectators heard his arguments and applauded. (ἀκούω)\nd. Dionysodoros replied with laughter constantly in his voice. (γελάω: aor. stem γελασα-)\ne. The woman picked up the argument and replied. (ἐκδέχομαι)\nf. He happened to say in answer. (ἀποκρίνομαι: aor. stem ἀποκρινα-)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Translate into Greek the italicised phrases, using either aorist or present participles of the verb in brackets to suit the sense:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "We sat silently, all the time perplexed as to his meaning. (ἀπορέω)"
+          },
+          {
+            "n": "b",
+            "prompt": "With a glance at me the teacher began to speak. (βλέπω)"
+          },
+          {
+            "n": "c",
+            "prompt": "The spectators heard his arguments and applauded. (ἀκούω)"
+          },
+          {
+            "n": "d",
+            "prompt": "Dionysodoros replied with laughter constantly in his voice. (γελάω: aor. stem γελασα-)"
+          },
+          {
+            "n": "e",
+            "prompt": "The woman picked up the argument and replied. (ἐκδέχομαι)"
+          },
+          {
+            "n": "f",
+            "prompt": "He happened to say in answer. (ἀποκρίνομαι: aor. stem ἀποκρινα-)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        552,
+        185,
+        563,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        568,
+        185,
+        580,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        595,
+        185,
+        631,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. οἱ μαθηταὶ ἀποκρινάμενοι εἶπον ὅτι ἡ ἀνομία οὐκ ἔστι δικαία.\n   The teacher answered and said that the love of wisdom was a virtue.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "οἱ μαθηταὶ ἀποκρινάμενοι εἶπον ὅτι ἡ ἀνομία οὐκ ἔστι δικαία.\nThe teacher answered and said that the love of wisdom was a virtue."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        642,
+        185,
+        678,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. ὁ Σωκράτης ἀκούσας τὸν λόγον ἐγέλασεν.\n   Dionysodoros laughed and took up the argument.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "2",
+            "prompt": "ὁ Σωκράτης ἀκούσας τὸν λόγον ἐγέλασεν.\nDionysodoros laughed and took up the argument."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        690,
+        185,
+        726,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. οἱ ἱκέται σπεύσαντες πρὸς τὸ ἱερὸν ηὔξαντο πρὸς τοὺς θεούς.\n   The sophist, with a glance at me, agreed.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "3",
+            "prompt": "οἱ ἱκέται σπεύσαντες πρὸς τὸ ἱερὸν ηὔξαντο πρὸς τοὺς θεούς.\nThe sophist, with a glance at me, agreed."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        739,
+        185,
+        775,
+        649
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. βλέψασα πρὸς ἐμὲ ἡ γυνὴ ἐσιώπησεν.\n   I praised them and said, ‘Urge them on at once.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "4",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "4",
+            "prompt": "βλέψασα πρὸς ἐμὲ ἡ γυνὴ ἐσιώπησεν.\nI praised them and said, ‘Urge them on at once.’"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        787,
+        185,
+        824,
+        719
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. κλέψας τὰ χρήματα ὁ νεανίας μέγα ἐβόησεν.\n   Once in a state of perplexity, the student tried to escape.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "5",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "5",
+            "prompt": "κλέψας τὰ χρήματα ὁ νεανίας μέγα ἐβόησεν.\nOnce in a state of perplexity, the student tried to escape."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        847,
+        185,
+        858,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E TEST EXERCISE SEVEN D-F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        863,
+        185,
+        878,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into English:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        902,
+        219,
+        917,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Kriton reports how he and Socrates discussed the nature of expertise and",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 167
+}

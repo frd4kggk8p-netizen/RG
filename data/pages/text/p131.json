@@ -1,0 +1,408 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "101",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        98,
+        100,
+        206,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μοι to me\nΞανθί-ας, ὁ Xanthias (1d)\noἷ-ος -α -ον what sort of\nπολλ-οῖσ οὖσιν being many\n  (goes with τοῖς θεατ-αῖς)\nσοι to you (s.); you (after\n  ἐμ-πεσ-εῖται)\nσοῦ ἕνεκα for your sake",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        98,
+        363,
+        191,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σωσί-ας, ὁ Sosias (1d)\nτίν-ι to whom? (s.)\nτοῖς to/with/by the\nτοῖς θεατ-αῖς to the audience\nτῷ to/with/by the\nτῷ πληθ-ει to the crowd\nχρά-ομαι use, employ",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        98,
+        631,
+        156,
+        866
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt\nδρᾶμα (δρᾶματ-), τὸ play, drama\n  (3b)\nθεατ-ής, ὁ spectator, member of\n  audience (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        223,
+        193,
+        246,
+        243
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        257,
+        98,
+        271,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: homosexuality 5.32–5.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        321,
+        131,
+        345,
+        781
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "ἔστιν γὰρ ἡμῖν δεσπότης ἐκεῖνοσί, ὁ ἄνω ἥσυχοι καθεύδων. ἆρ’ οὐχ ὁρᾶτε\nαὐτὸν καθεύδοντα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 7,
+      "bbox": [
+        353,
+        134,
+        368,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(points up to the roof)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        372,
+        131,
+        503,
+        874
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἔστι μὲν οὖν ἡμῖν δεσπότης οὗτος. τῷ Ὶδεσπότῃ πατήρ ἐστι πάνυ γέρων.\nὁ δὲ δεσπότης ἡμᾶς ἐκέλευε φυλάττειν τὸν πατέρα, κελεύοντι δὲ ἐπιθόμεθα.\nἐν γὰρ ἀπορίᾳ ἐνέπεσεν ὁ δεσπότης περὶ τοῦ πατρός, ἐπειδὴ ἔγνω αὐτὸν\nπονηρότερον ὄντα τῶν ἄλλων ἐν τῇ῝πόλει, καὶ αἴτιον κακῶν πολλῶν. ἔστι\nγὰρ τῷ῝πατρὶ῝τῷ τοῦ δεσπότου νόσος τις. ἐρωτῶ οὖν ὑμᾶς, ὦ θεαταί, τί\nτυγχάνει ὂν τὸ ὄνομα ταύτῃ῝τῇ῝νόσῳ; ὑμεῖς δ’ ἀποκρίνεσθε ἡμῖν ῝ἐρωτῶσιν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 9,
+      "bbox": [
+        507,
+        134,
+        521,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(appeals to the audience for suggestions)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        525,
+        131,
+        538,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε νυν· τί φησιν οὗτος;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        541,
+        131,
+        555,
+        307
+      ],
+      "margin_number": null,
+      "speaker": "Σ.",
+      "text": "οὗτοσί μὲν ἡμῖν ἀποκρινόμενοσις ‘φιλόκυβον’ ἡγεῖται τὸν γέροντα. ἀλλὰ λέγω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        558,
+        131,
+        588,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ῝ἀνδρὶ ὅτι δῆλός ἐστιν οὐδὲν λέγων, τοιαῦτα ἀποκρινόμενοσ. οὐ μὴν ἀλλὰ\n‘φιλο’ μὲν ἐστιν ἡ ἀρχὴ τοῦ κακοῦ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        591,
+        131,
+        606,
+        874
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "φιλεῖ γάρ τι ὁ γέρων. ἀλλὰ τί φησιν οὗτος;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        609,
+        131,
+        624,
+        303
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "φιλεῖ γάρ τι ὁ γέρων. ἀλλὰ τί φησιν οὗτος;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        626,
+        131,
+        655,
+        609
+      ],
+      "margin_number": null,
+      "speaker": "Σ.",
+      "text": "οὗτος δέ μοι῝ ἐρομένῳ ἀποκρίνεται ὅτι ‘φιλοθύτην’ ἢ ‘φιλόξενον’ νομίζει τὸν\nπατέρα εἶναι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        659,
+        131,
+        674,
+        737
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "μὰ τὸν κύνα, ὦ τᾶν, οὐ φιλόξενος, ἐπεὶ καταπύγων ἐστὶν ὅ γε Φιλόξενος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        691,
+        195,
+        706,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        722,
+        98,
+        885,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄνω above, up there\nἀπορί-α perplexity\nἀρχ-ή, ἡ beginning (1a)\nἔ-γνω he realised (γιγνώσκ-\n  ω/ἔ-γνω-ν)\nἡμ-ῖν to us\nἡμ-ῖν ἐρωτ-ῶσιν to us asking\nἥσυχο-ς -ον quiet(ly)\nκατα-πύγων κατά-πυγoν\n  (καταπυγoν-) insulting term\n  for homosexual\nκελεύ-οντ-ι him ordering (after\n  ἐπιθόμεθα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        722,
+        363,
+        911,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κύων (κυν-), ὁ dog (3a)\nμοι ἐρ-ομέν-ῳ to me asking\nὄνομα (ὀνοματ- ), τὸ name (3b)\nοὐ μὴν ἀλλὰ nonetheless\nπονηρ-ός -ά -όν wicked, bad\nταύτ-ῃ τῇ νόσ-ῳ to this disease\nτῇ in/with/by the\nτῇ πόλ-ει the city\nτοι-οῦτ-ος τοι-αύτ-η τοι-οῦτ-\n  o(v) of such a kind, like this\nτῷ ἀνδρ-ὶ to the man\nτῷ δεσπότ-ῃ to the master\nτῷ πατρ-ὶ to the father",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        722,
+        631,
+        836,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε come!\nφιλο- lover of\nφιλο-θύτ-ης, ὁ lover of sacrifices\n  (1d)\nφιλό-κυβ-ος -ον lover of dice,\n  gambler\nφιλό-ξεν-ος -ον loving\n  strangers, hospitable\nΦιλόξεν-ος, ὁ Philoxenos (2a) (a\n  noted homosexual)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 131
+}

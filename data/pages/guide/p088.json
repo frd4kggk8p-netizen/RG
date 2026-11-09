@@ -1,0 +1,538 @@
+{
+  "running_head": "Exercises for section 6A–B",
+  "folio": "74",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        77,
+        102,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Geometry.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        121,
+        88,
+        137,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "And what use is this? Tell [me]!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        140,
+        88,
+        153,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "With this we measure the land. This is a map of the world.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        161,
+        214,
+        175,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Do you see? This is Athens.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        183,
+        88,
+        196,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "What are you saying? I don’t believe [you]: I don’t see any one of the jurors sitting. Where is my deme?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        217,
+        88,
+        230,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "It’s here. Do you see Euboea?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        241,
+        88,
+        253,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "I see [it]. But where does Sparta happen to be?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        262,
+        88,
+        275,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Where? Here.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        281,
+        88,
+        308,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Alas! Go away, go away! How near us Sparta is. But why don’t you drag this away from us a very long way?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        321,
+        88,
+        334,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Impossible.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        339,
+        88,
+        353,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "By Zeus, you’ll regret it. But tell me, who’s this who is in the basket?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        359,
+        88,
+        372,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Himself.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        378,
+        88,
+        391,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STR.",
+      "text": "Who’s Himself?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        398,
+        88,
+        411,
+        131
+      ],
+      "margin_number": null,
+      "speaker": "STU.",
+      "text": "Socrates.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 15,
+      "bbox": [
+        431,
+        191,
+        283,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        453,
+        191,
+        467,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "At this point your chart should look like this:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "bbox": [
+        486,
+        191,
+        715,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            "Present",
+            "Future",
+            "Aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "Vowel stems",
+            "παύω",
+            "παύσω",
+            "ἔπαυσα"
+          ],
+          [
+            "Consonant stems",
+            null,
+            null,
+            null
+          ],
+          [
+            "κ, γ, χ",
+            "εὔχομαι",
+            "εύξομαι",
+            "ηὐξάμην"
+          ],
+          [
+            "π, β, φ",
+            "κόπτω",
+            "κόψω",
+            "ἔκοψα"
+          ],
+          [
+            "τ, δ, θ",
+            "πείθω",
+            "πείσω",
+            "ἔπεισα"
+          ],
+          [
+            "most ζ",
+            "θαυμάζω",
+            "θαυμάσω",
+            "ἐθαύμασα"
+          ],
+          [
+            "μ, ν, λ, ρ",
+            "διαφθείρω",
+            "διαφθερῶ (έω)",
+            "διέφθειρα"
+          ],
+          [
+            "most -ίζω",
+            "νομίζω",
+            "νομιῶ (έω)",
+            "ἐνόμισα"
+          ],
+          [
+            "Contracted verbs",
+            "ποιέω",
+            "ποιήσω",
+            "ἐποίησα"
+          ],
+          [
+            null,
+            "δηλόω",
+            "δηλώσω",
+            "ἐδήλωσα"
+          ],
+          [
+            null,
+            "τιμάω",
+            "τιμήσω",
+            "ἐτίμησα"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        763,
+        191,
+        801,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note once again that the aorist of contracted verbs has ‘ordinary’ endings -α, -ας, -ε ... You will meet the aorists of the irregular verbs in the next section.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 19,
+      "bbox": [
+        830,
+        191,
+        843,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 6A–B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        863,
+        191,
+        876,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE AORIST",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 21,
+      "bbox": [
+        892,
+        191,
+        903,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A–B: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 22,
+      "bbox": [
+        914,
+        191,
+        946,
+        858
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B: 1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἔθυσε(ν) he sacrificed  ἔθυσαν they sacrificed"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἐκέλευσε(ν) he ordered  ἐκέλευσαν they ordered"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 88
+}

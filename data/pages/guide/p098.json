@@ -1,0 +1,288 @@
+{
+  "running_head": "Section Seven: Socrates and intellectual inquiry",
+  "folio": "84",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        193,
+        228,
+        307,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This is another very important section which introduces some more extremely valuable grammar: infinitives in 7A (GE pp. 134–135, #150–152), and then in 7D the aorist participle is introduced (GE pp. 142–145, #162–166).",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        310,
+        193,
+        461,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You will find the style of these passages, which are only slightly adapted from the original, rather different from the style you have met before. In the first (7A–C), taken from Plato's version of Socrates' defence at his trial (see Introduction), you will find some rhetorical features mixed with a discursive, almost colloquial style. In the second (7D–F) you will meet the typical style of the Platonic dialogue, reflecting a technical philosophical argument, and in the third (7G–H) you will meet the narrative style that Herodotus uses in his History.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        464,
+        193,
+        521,
+        910
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You may find that it takes you a little while to get used to these changes of style and at first the Greek may seem more difficult. But once you adapt, you will enjoy the variation and will have acquired a new skill.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        524,
+        193,
+        558,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Make sure that you read the ‘Introduction’ to each passage so that you understand the context.",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        587,
+        209,
+        608,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A–C Plato: Apology 20c–23b",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        617,
+        209,
+        638,
+        245
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        653,
+        193,
+        668,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 74",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        676,
+        169,
+        729,
+        863
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ἐρωτῶσιν οὖν τινες ‘some people ask, therefore ...’: a typical rhetorical device which allows the speaker to pose the question which he wants to answer.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        735,
+        168,
+        770,
+        881
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "οὐ βουλόμεθα διαβάλλειν σε ‘we don't want to slander you’: βούλομαι + the infinitive – a very common pattern.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        776,
+        168,
+        788,
+        458
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "διέβαλον, ἐγένοντο Tense?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        794,
+        168,
+        874,
+        846
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "φανοῦμαι Tense?\nὅτι οὐδὲν ἄλλο ἢ τὴν ἀλήθειαν λέγειν βούλομαι ‘that I want to speak nothing other than the truth'.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        877,
+        168,
+        900,
+        831
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "ειδέναι Learn carefully to distinguish the three infinitives εἶναι, ἰέναι, εἰδέναι, GE p. 135, #152.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        903,
+        168,
+        915,
+        545
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ἀνάγκη ἐστί ... See GE p. 135, #153.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        911,
+        168,
+        944,
+        900
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "που The particle means something like ‘I suppose’, although it is literally the indefinite form of ποῦ ‘where?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 98
+}

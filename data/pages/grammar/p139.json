@@ -1,0 +1,206 @@
+{
+  "running_head": "Grammar for Section 6A–B",
+  "folio": "121",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        270,
+        58,
+        335,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "duration of time over which it occurred. The action is regarded as a single complete event, not as an uncompleted process (cf. the imperfect tense).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        144,
+        83,
+        214,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The way in which a verb-form looks at an action – e.g. as an event (complete) or a process (uncompleted) – is known as aspect. You will learn more about aspect in future sections.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_right_pointing_pointer",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        245,
+        186,
+        268,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A FINAL TYPE 3 NOUN: ὀφρύς, ἡ ‘EYEBROW’ (3H)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        277,
+        186,
+        292,
+        844
+      ],
+      "margin_number": 143,
+      "speaker": null,
+      "text": "Here is the final type 3 noun you are asked to learn, classified as 3h:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        308,
+        186,
+        495,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "ὀφρύς, ἡ eyebrow (3h)",
+            null
+          ],
+          [
+            "s.",
+            "pl."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ὀφρύ-ς",
+            "ὀφρύ-ες"
+          ],
+          [
+            "Acc.",
+            "ὀφρύ-ν",
+            "ὀφρῦ-ς"
+          ],
+          [
+            "Gen.",
+            "ὀφρύ-ος",
+            "ὀφρύ-ων"
+          ],
+          [
+            "Dat.",
+            "ὀφρύ-ι",
+            "ὀφρύ-σι(ν)"
+          ],
+          [
+            "Voc.",
+            "ὦ ὀφρύ",
+            null
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        500,
+        207,
+        511,
+        265
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        521,
+        218,
+        552,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(i) Be careful to distinguish 3h nouns like ὀφρύς from 3e nouns like πρέσβυς (79).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        560,
+        218,
+        574,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ii) Some 3h nouns have acc. pl. in -ῦας, e.g. ἰχθύς → ἰχθῦας ‘fish’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 139
+}

@@ -1,0 +1,228 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "132",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        83,
+        453,
+        93
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        97,
+        98,
+        916,
+        129
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Below is the first passage of continuous prose you are asked to translate into Greek. Here are three tips to help you with this new kind of exercise.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        125,
+        141,
+        916,
+        192
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You will probably find it helpful at first – and less daunting – to consider each passage as a series of sentences. Simply attempt each of the twelve sentences in turn, looking up vocabulary and checking endings in the same way that you usually do when you translate from English to Greek.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        198,
+        220,
+        916,
+        322
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You will sometimes find that you have to think your way around problems when translating. For example, when you come to translate ‘a great deal’ in the fifth sentence of the passage, you won’t find the word ‘deal’ in your English to Greek vocabulary. On such occasions you will have to ask yourself what Greek words and expressions you have met which can be of use to you.",
+      "lang": "en",
+      "para_no": 3,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        328,
+        327,
+        916,
+        482
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Once you have worked through the passage and checked your work, there will still be one job left to do: that is, to make sure that your passage of Greek contains the necessary particles. You will have noticed that most Greek sentences have a word near the beginning such as ἀλλά, γάρ, γε, δέ, δή, καί, μέν...δέ or οὖν. Sometimes words in the English passage like ‘so’, ‘and’ or ‘but’ will prompt you to use a particle, but to make your translation read well, you may need to add a word such as δέ (which usually comes as the second word, never the first) to join a sentence to a previous one.",
+      "lang": "mixed",
+      "para_no": 4,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        499,
+        500,
+        379,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into Greek:",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        517,
+        516,
+        916,
+        744
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "An old man and his son, a young man, were talking about money. The youngster, as it happened, owed a lot of money. And because of this, his creditors would not stop pursuing his father. The father did not punish the son (for his mother stopped him), but conceived a clever plan. So when the father managed to persuade his son, the boy went obediently to the sophists and learnt a great deal. The sophists always persuaded him, taught a lot of clever stuff and received a lot of money. So the son learnt quickly the just and unjust arguments, always winning his case. But when the youth came home, this plan did not put a stop to his father’s debts. The young man did not like his father (who was a yokel), but hated him. So he never stopped mocking him. Finally, the old man threw him out.",
+      "lang": "en",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        749,
+        194,
+        425,
+        760
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E TEST EXERCISE SIX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        764,
+        194,
+        395,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into English.",
+      "lang": "en",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        790,
+        194,
+        854,
+        844
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νεανίας δέ τις ἔτυχε πολλὰ χρήματα ὀφείλων διὰ τὴν ἱππικήν. οὕτως οὖν ὁ μὲν πατὴρ ἀεὶ τὰς δίκας τὰς τῶν χρηστῶν ἔφευγεν, οἱ δὲ χρησταὶ ἐδίωκον αὐτὸν καὶ οὐκ ἐπαύοντο δίκην λαμβανόντες. διαλέγονται οὖν ὅ τε πατὴρ καὶ ἡ μήτηρ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        852,
+        147,
+        916,
+        904
+      ],
+      "margin_number": 5,
+      "speaker": "ΠΑΤΗΡ",
+      "text": "σὺ δή, ὦ γύναι, φαίνην αἰτία οὖσα τῶν ἐμῶν κακῶν. τίς γὰρ ἐλάμβανε τὸν υἱὸν καὶ περὶ ἵππων διελέγετο, εἰ μὴ σύ; τίς οὖν ἱππομανῆ ἐποίησε τὸν υἱόν, εἰ μὴ σύ; τί νῦν ποιήσω ἐγώ; πῶς παύσω τὰ χρέα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 150
+}

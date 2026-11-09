@@ -1,0 +1,188 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "165",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        71,
+        915,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PARTICIPLES AND ASPECT",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        195,
+        195,
+        226,
+        915
+      ],
+      "margin_number": 165,
+      "speaker": null,
+      "text": "What is the difference in meaning between, say, παύων and παύσας, or between βλέπων and βλέψας?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        245,
+        246,
+        517,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "One vital thing to say is that the difference is not necessarily one of time. παύσας or βλέψας need not be translated ‘having stopped’ or ‘having looked’.\nThe difference is one of what is called aspect and is the same difference that has already been shown to exist between the imperfect and aorist indicatives – i.e. the difference regarding the action as an incomplete process (imperfect) and a complete event (aorist).\nA present participle regards the action as a process (and is therefore sometimes called ‘imperfective’, Latin imperfectus ‘incomplete, unfinished’).\nThe aorist participle regards it as simply a single event.\nThus it is possible to translate both βλέπων and βλέψας as ‘looking’; in the former case, it would be understood that the look went on, in the latter that it simply took place.\nAnother way of stating this difference is that the action described by a present (‘imperfective’) participle is capable of being broken off, whereas that of an aorist participle is not. Rather, the action of an aorist (‘perfective’) participle is conceived of as having a definite end point: it has been (Latin) perfectus ‘completed’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        530,
+        246,
+        545,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Consider the following pairs of sentences:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        558,
+        246,
+        592,
+        691
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ‘After boarding the ship, the sailors shouted.’\n2. ‘The sailors shouted while boarding the ship.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        605,
+        246,
+        620,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this case, the difference between the two acts of ‘boarding’ is one of time:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        633,
+        246,
+        743,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In the first sentence, the sailors have finished ‘boarding’ before they shout: the action is complete and would therefore be translated by an aorist participle in Greek.\nIn the second sentence, however, the ‘boarding’ is going on at the same time as the shouting – and as the action is incomplete it would therefore be translated into Greek by a present (‘imperfective’) participle.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        756,
+        246,
+        867,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "It is important to note that both sentences could be rephrased as ‘Boarding the ship, the sailors shouted.’ That is to say, English practice differs from Greek, in that English speakers often use a present participle (such as ‘entering’) to describe a past, complete action. An implication of this is that when translating into Greek you will sometimes have to think carefully about what the English means, not just what it says.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        880,
+        246,
+        915,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ‘With a laugh, the girl replied.’\n2. ‘The girl replied, laughing as she spoke.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 162
+}

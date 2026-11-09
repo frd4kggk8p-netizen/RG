@@ -1,0 +1,523 @@
+{
+  "running_head": "Revision exercises for section 7G-H",
+  "folio": "98",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        192,
+        192,
+        517,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 7G-H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        192,
+        192,
+        137,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SECOND AORIST PARTICIPLES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        192,
+        151,
+        163,
+        264
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 1",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        192,
+        192,
+        248,
+        739
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τὸν λαβόντα"
+          },
+          {
+            "n": "2.",
+            "prompt": "τοὺς ἐλθόντας"
+          },
+          {
+            "n": "3.",
+            "prompt": "τὴν μαθοῦσαν"
+          },
+          {
+            "n": "4.",
+            "prompt": "αἱ ἰδοῦσαι"
+          },
+          {
+            "n": "5.",
+            "prompt": "οἱ γενόμενοι"
+          },
+          {
+            "n": "6.",
+            "prompt": "τὰς ἀφικομένας"
+          },
+          {
+            "n": "7.",
+            "prompt": "τὸ πεσόν"
+          },
+          {
+            "n": "8.",
+            "prompt": "ἡ ἑλοῦσα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        192,
+        191,
+        275,
+        265
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 2",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        192,
+        191,
+        388,
+        771
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τῷ μαθόντι"
+          },
+          {
+            "n": "2.",
+            "prompt": "τῆς τυχούσης"
+          },
+          {
+            "n": "3.",
+            "prompt": "ταῖς δραμούσαις"
+          },
+          {
+            "n": "4.",
+            "prompt": "τοῦ ἀφικομένου"
+          },
+          {
+            "n": "5.",
+            "prompt": "τῇ εἰπούσῃ/λεξάσῃ"
+          },
+          {
+            "n": "6.",
+            "prompt": "τοῖς γενομένοις"
+          },
+          {
+            "n": "7.",
+            "prompt": "τῷ εὑρόντι"
+          },
+          {
+            "n": "8.",
+            "prompt": "τοῦ λαβόντος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "λεξάσῃ",
+          "reason": "slanted slash and slightly blurry text",
+          "candidates": [
+            "λεξάσῃ",
+            "λεξάση"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        192,
+        190,
+        401,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ADJECTIVES/PRONOUNS: αὐτός-ή-όν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        192,
+        190,
+        429,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 3",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        192,
+        190,
+        521,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "I saw the man"
+          },
+          {
+            "n": "2.",
+            "prompt": "I saw him"
+          },
+          {
+            "n": "3.",
+            "prompt": "I saw the man himself"
+          },
+          {
+            "n": "4.",
+            "prompt": "I myself saw the man himself"
+          },
+          {
+            "n": "5.",
+            "prompt": "I myself saw the same man"
+          },
+          {
+            "n": "6.",
+            "prompt": "I myself saw the same man"
+          },
+          {
+            "n": "7.",
+            "prompt": "He himself saw him (someone else)"
+          },
+          {
+            "n": "8.",
+            "prompt": "He himself did the same thing"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        192,
+        190,
+        555,
+        267
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 4",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        192,
+        190,
+        627,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τὸν αὐτὸν ἄνδρα"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἆρ' εἶδες αὐτάς;"
+          },
+          {
+            "n": "3.",
+            "prompt": "αὐτὴ ἦλθεν"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἔλαβεν αὐτόν"
+          },
+          {
+            "n": "5.",
+            "prompt": "αὐτοὶ ἀφίκοντο"
+          },
+          {
+            "n": "6.",
+            "prompt": "τὴν γυναῖκα αὐτήν"
+          },
+          {
+            "n": "7.",
+            "prompt": "οἱ αὐτοὶ νόμοι"
+          },
+          {
+            "n": "8.",
+            "prompt": "εἶδεν αὐτό"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        192,
+        191,
+        661,
+        620
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 7G-H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        192,
+        191,
+        694,
+        514
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 14,
+      "bbox": [
+        192,
+        191,
+        807,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "B/C",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1. 1.",
+            "prompt": "ἐγένομην γενόμενος"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἔμαθον μαθών"
+          },
+          {
+            "n": "3.",
+            "prompt": "εἶδον ἰδών"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἀφικόμην ἀφικόμενος"
+          },
+          {
+            "n": "5.",
+            "prompt": "ἦλθον ἐλθών"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἔλαβον λαβών"
+          },
+          {
+            "n": "7.",
+            "prompt": "ηὗρον εὑρών"
+          },
+          {
+            "n": "8.",
+            "prompt": "εἷλον ἑλών"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἔπεσον πεσών"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        192,
+        191,
+        946,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "B/C-2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "2. a.",
+            "prompt": "The young men went away and said these things to the rest.\nἀπελθόντες"
+          },
+          {
+            "n": "b.",
+            "prompt": "The Amazons came across the young men and conversed with them.\nκαταλαβοῦσαι"
+          },
+          {
+            "n": "c.",
+            "prompt": "The young man saw the Amazon and went towards her.\nἰδών"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 112
+}

@@ -1,0 +1,188 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "158",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        196,
+        79,
+        219,
+        668
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 7",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        230,
+        196,
+        241,
+        474
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A VOCABULARY-BUILDING",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        247,
+        196,
+        401,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Deduce the meaning of the words in the right-hand columns from those in the left:\n\nἀνάγκη\nἀναγκαῖος ᾱ ον\nἀναγκάζω\nγελάω\nὁ γέλως\nγέλοιος\nδιαβαίνω\nἡ διάβασις\nδιαφθείρω\nἡ διαφθορά\nδύναμαι\nδυνατός η ον\nἡ δύναμις\nἐπαινέω\nὁ ἔπαινος\nκτῆμα\nκτάομαι\nἡ κτῆσις\nλογίζομαι\nὁ λογισμός\nὁμολογέω\nἡ ὁμολογία\nπειράομαι\nἡ πεῖρα\nφυλάττω\nὁ φύλαξ\nἡ φυλακή\nἀφύλακτος ον",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "1.",
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        409,
+        196,
+        534,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Group this pool of words into sets of cognate words (i.e. words which share common roots). Give the meaning of each word:\n\nμάχη\nἀληθής\nδιαβάλλω\nσοφία\nἀποφαίνω\nλόγος\nἡδέως\nνέος\nοἰκέω\nφάσμα\nδοκέω\nνεανίας\nδιαβολή\nμάχομαι\nλογίζομαι\nφαίνομαι\nἡδομαι\nδόξα\nσοφός\nοἰκία\nἀλήθεια",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "2.",
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Group this pool of words into sets of cognate words (i.e. words which share common roots). Give the meaning of each word:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        559,
+        196,
+        569,
+        451
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        576,
+        196,
+        742,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into Greek (and don’t forget connecting particles!):\nWhen the Amazons had killed the Athenians, they came to the land of the Scythians. On arrival, they found horses and fought with the Scythians. The Scythians, defeating them and learning about them, wished to become friends. The young men therefore followed closely, but did not fight; and the Amazons, seeing this, kept quiet themselves. At last they became friends and lived together; but it was necessary for the young men and their wives to cross the river and inhabit another place. ‘For’, said the Amazons, ‘we do not want to live in your land, since on arrival we fought you.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        768,
+        196,
+        778,
+        459
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E TEST EXERCISE SEVEN",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        785,
+        196,
+        902,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into English:\n\nἍμαζόνες τινές, εἰς τὴν τῶν Scυθῶν γῆν ἀφικόμεναι καὶ ἀπὸ τῶν πλοίων ἀποβᾶσαι, εἰσπεσοῦσαι τὴν γῆν διήρπασαν. οἱ δὲ Σκύθαι, ἐν μάχῃ νικήσαντες αὐτάς, τοὺς νεκροὺς ἀνεῖλον καὶ μαθόντες γυναῖκας οὔσας, ἐβούλοντο ἐκ τῶν ᾿Αμαζόνων παιδοποιεῖσθαι. κελεύοντες γυναῖκες τοὺς νεανίσκους μάχεσθαι μὲν μηδέποτε, πλησίον δὲ ἐλθόντας φίλους γίγνεσθαι, ἀπέπεμψαν αὐτοὺς πρὸς τὰς ᾿Αμαζόνας. αἱ δὲ ᾿Αμαζόνες, ἰδοῦσαι αὐτοὺς πλησίον μὲν ἑπομένους, μαχομένους δὲ οὐδέποτε, οὐκέτι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "E",
+        "instruction": "Translate into English:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "Scυθῶν",
+          "reason": "Latin 'S' used in Greek text",
+          "candidates": [
+            "Σκυθῶν"
+          ]
+        }
+      ]
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 176
+}

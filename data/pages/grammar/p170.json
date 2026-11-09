@@ -1,0 +1,205 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "152",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        193,
+        193,
+        260,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβ-ών λαβ-οῦσα λαβ-όν (λαβ-οντ-), ‘taking’, ‘on taking’, ‘having taken’ (λαμβάνω) (continued)\npl.\nm. f. n.\nNom. λαβ-όντ-ες λαβ-οῦσ-αι λαβ-όντ-α\nAcc. λαβ-όντ-ας λαβ-ούς-ᾱς λαβ-όντ-α\nGen. λαβ-όντ-ων λαβ-ους-ῶν λαβ-όντ-ων\nDat. λαβ-οῦσι(ν) λαβ-ούς-αις λαβ-οῦσι(ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        277,
+        209,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        193,
+        219,
+        335,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The endings for these participles (-ών -οῦσ-α -όν) are exactly the same as for present participles (87).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        193,
+        351,
+        364,
+        519
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist middle participles",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        193,
+        375,
+        431,
+        915
+      ],
+      "margin_number": 171,
+      "speaker": null,
+      "text": "The second aorist middle participle is formed by adding the familiar -oμɛν-ος -η -oν endings to the aorist stem:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        193,
+        442,
+        762,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γεν-όμεν-ος γεν-ομένη γεν-όμεν-ον ‘becoming’, ‘on becoming’, ‘having become’ (γίγνομαι)\ns.\nm. f. n.\nNom. γεν-όμεν-ος γεν-ομένη γεν-όμεν-ον\nAcc. γεν-όμεν-ον γεν-ομένην γεν-όμεν-ον\nGen. γεν-ομένου γεν-ομένης γεν-ομένου\nDat. γεν-ομένῳ γεν-ομένῃ γεν-ομένῳ\npl.\nm. f. n.\nNom. γεν-όμεν-οι γεν-όμεν-αι γεν-όμεν-α\nAcc. γεν-όμεν-ους γεν-ομέν-ᾱς γεν-όμεν-α\nGen. γεν-ομένων γεν-ομένων γεν-ομένων\nDat. γεν-ομένοις γεν-ομέναις γεν-ομένοις",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        193,
+        786,
+        819,
+        338
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        193,
+        831,
+        929,
+        928
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 1. Attach the appropriate form of the aorist participle to the given form of the definite article:\n1. τὸν (λαμβάνω)\n2. τοὺς (ἔρχομαι)\n3. τὴν (μανθάνω)\n4. αἱ (ὁράω)\n5. οἱ (γίγνομαι)\n6. τὰς (ἀφικνέομαι)\n7. τὸ (πίπτω)\n8. ἡ (ἀιρέω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H",
+        "instruction": "Attach the appropriate form of the aorist participle to the given form of the definite article:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "τὸν (λαμβάνω)"
+          },
+          {
+            "n": "2",
+            "prompt": "τοὺς (ἔρχομαι)"
+          },
+          {
+            "n": "3",
+            "prompt": "τὴν (μανθάνω)"
+          },
+          {
+            "n": "4",
+            "prompt": "αἱ (ὁράω)"
+          },
+          {
+            "n": "5",
+            "prompt": "οἱ (γίγνομαι)"
+          },
+          {
+            "n": "6",
+            "prompt": "τὰς (ἀφικνέομαι)"
+          },
+          {
+            "n": "7",
+            "prompt": "τὸ (πίπτω)"
+          },
+          {
+            "n": "8",
+            "prompt": "ἡ (ἀιρέω)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 170
+}

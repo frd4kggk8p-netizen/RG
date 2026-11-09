@@ -1,0 +1,225 @@
+{
+  "running_head": "Summary exercises for section 6",
+  "folio": "83",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        74,
+        195,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐδίδασκον καὶ πολλὰ χρήματα ἐδέξοντο. οὗτος οὖν ὁ υἱὸς μανθάνων ταχέως τὸν δίκαιον καὶ τὸν ἄδικον λόγον, ἀεὶ τὰς δίκας ἐνίκα, ἀλλὰ ἐπεὶ ὁ υἱὸς ἐπανῆλθεν οἴκαδε, αὕτη ἡ γνώμη οὐκ ἔπαυε τὰ χρέα τὰ τοῦ πατρός. ὁ γὰρ νεανίας οὐκ ἐφίλει τὸν πατέρα, ἄγροικον ὄντα, ἀλλὰ ἐμίσει. καὶ οὐκ ἐπαύετο παίζων πρὸς τὸν πατέρα. τέλος δὲ ὁ γέρων ἐξέβαλεν αὐτόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        215,
+        191,
+        230,
+        426
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E – TEST EXERCISE 6",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        241,
+        191,
+        285,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A young man happened to owe much money because of his horse-fever. So, while the father was always defending the lawsuits of his creditors, the creditors pursued him and did not stop exacting their dues. So the father and mother converse.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        301,
+        88,
+        331,
+        896
+      ],
+      "margin_number": null,
+      "speaker": "FATHER",
+      "text": "You, wife, appear to be responsible for my troubles. For who took our son and talked to him about horses, except you? Who made our son horse-mad, except you? Now what shall I do? How shall I stop our debts?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        337,
+        88,
+        411,
+        898
+      ],
+      "margin_number": null,
+      "speaker": "MOTHER",
+      "text": "You are responsible, husband. As you are ignorant and a yokel, the young man does not love you or obey you, but since I am from the city he loves me particularly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        416,
+        191,
+        451,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But don't worry about it. For I have an idea. I will persuade and teach our son, and by persuading [him] I will stop [him] from his horse-madness.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        464,
+        191,
+        538,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But [despite] teaching and persuading, the mother did not stop the young man, nor did their son stop being horse-mad. Finally the young man went into the thinkery of the sophists and became a student. He saw and heard many wise things, and the sophists taught him much. When the son learnt the just and the unjust argument, the father said:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        551,
+        88,
+        601,
+        889
+      ],
+      "margin_number": null,
+      "speaker": "FA.",
+      "text": "Hurrah hurrah! For now the creditors will not get their money any longer. For my son will win the lawsuits through the unjust argument, which is stronger, and we shall escape our creditors.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        624,
+        186,
+        636,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        643,
+        186,
+        760,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "(a) aorist (b) imperfect (c) imperfect (d) present (e) aorist (f) future (g) aorist"
+          },
+          {
+            "n": "2",
+            "prompt": "(a) m. pl. nom. (b) f. s. acc. (c) m. s. acc."
+          },
+          {
+            "n": "3",
+            "prompt": "(a) vocative (b) genitive"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 97
+}

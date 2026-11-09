@@ -1,0 +1,311 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "174",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        88,
+        206,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Self’",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        215,
+        194,
+        230,
+        703
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Agreeing with the noun it picks out, it means ‘self’, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        245,
+        219,
+        276,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σωκράτης αὐτός ‘Socrates himself’\nτὸν ἄνδρα αὐτόν ‘the man himself’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        296,
+        194,
+        308,
+        404
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Myself’, ‘yourself’, etc.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        323,
+        194,
+        337,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Combined with the appropriate pronoun, it serves as a reflexive pronoun:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        347,
+        194,
+        848,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            "‘Myself’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f."
+          ]
+        ],
+        "rows": [
+          [
+            "Acc.",
+            "ἐμαυτ-όν",
+            "ἐμαυτ-ήν"
+          ],
+          [
+            "Gen.",
+            "ἐμαυτ-οῦ",
+            "ἐμαυτ-ῆς"
+          ],
+          [
+            "Dat.",
+            "ἐμαυτ-ῷ",
+            "ἐμαυτ-ῇ"
+          ],
+          [
+            null,
+            "‘Ourselves’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f."
+          ],
+          [
+            "Acc.",
+            "ἡμᾶς αὐτ-ούς",
+            "ἡμᾶς αὐτ-άς"
+          ],
+          [
+            "Gen.",
+            "ἡμῶν αὐτ-ῶν",
+            "ἡμῶν αὐτ-ῶν"
+          ],
+          [
+            "Dat.",
+            "ἡμῖν αὐτ-οῖς",
+            "ἡμῖν αὐτ-αῖς"
+          ],
+          [
+            null,
+            "‘Yourself’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f."
+          ],
+          [
+            "Acc.",
+            "σ(ε)αυτ-όν",
+            "σ(ε)αυτ-ήν"
+          ],
+          [
+            "Gen.",
+            "σ(ε)αυτ-οῦ",
+            "σ(ε)αυτ-ῆς"
+          ],
+          [
+            "Dat.",
+            "σ(ε)αυτ-ῷ",
+            "σ(ε)αυτ-ῇ"
+          ],
+          [
+            null,
+            "‘Yourselves’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f."
+          ],
+          [
+            "Acc.",
+            "ὑμᾶς αὐτ-ούς",
+            "ὑμᾶς αὐτ-άς"
+          ],
+          [
+            "Gen.",
+            "ὑμῶν αὐτ-ῶν",
+            "ὑμῶν αὐτ-ῶν"
+          ],
+          [
+            "Dat.",
+            "ὑμῖν αὐτ-οῖς",
+            "ὑμῖν αὐτ-αῖς"
+          ],
+          [
+            null,
+            "‘Himself’, ‘herself’, ‘itself’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ],
+          [
+            "Acc.",
+            "ἑαυτ-όν* (αὐτ-όν)",
+            "ἑαυτ-ήν (αὐτ-ήν)",
+            "ἑαυτ-ό (αὐτ-ό)"
+          ],
+          [
+            "Gen.",
+            "ἑαυτ-οῦ (αὐτ-οῦ )",
+            "ἑαυτ-ῆς (αὐτ-ῆς)",
+            "ἑαυτ-οῦ (αὐτοῦ)"
+          ],
+          [
+            "Dat.",
+            "ἑαυτ-ῷ (αὐτ-ῷ)",
+            "ἑαυτ-ῇ (αὐτῇ)",
+            "ἑαυτ-ῷ (αὐτ-ῷ)"
+          ],
+          [
+            null,
+            "‘Themselves’",
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ],
+          [
+            "Acc.",
+            "ἑαυτ-ούς* (αὐτ-ούς)",
+            "ἑαυτ-άς (αὐτ-άς)",
+            "ἑαυτ-ά (αὐτ-ά)"
+          ],
+          [
+            "Gen.",
+            "ἑαυτ-ῶν (αὐτ-ῶν)",
+            "ἑαυτ-ῶν (αὐτ-ῶν)",
+            "ἑαυτ-ῶν (αὐτ-ῶν)"
+          ],
+          [
+            "Dat.",
+            "ἑαυτ-οῖς (αὐτ-οῖς)",
+            "ἑαυτ-αῖς (αὐτ-αῖς)",
+            "ἑαυτ-οῖς (αὐτ-οῖς)"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 7,
+      "bbox": [
+        880,
+        194,
+        915,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* Note that the έ- is a 3rd person pronoun found mostly in Homer. Watch the breathing where έ- is contracted out!",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 172
+}

@@ -1,0 +1,136 @@
+{
+  "running_head": "Revision Exercises for Section 6A-B",
+  "folio": "123",
+  "blocks": [
+    {
+      "type": "table",
+      "order": 1,
+      "bbox": [
+        185,
+        79,
+        912,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "present",
+            "imperfect",
+            "future",
+            "aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "σπεύδω\nδιαφθείρω\nμένω",
+            null,
+            null,
+            null
+          ],
+          [
+            "ἀπορέω\nδηλόω\nμισέω\nνικάω",
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        292,
+        185,
+        442,
+        300
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        310,
+        185,
+        493,
+        326
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        339,
+        185,
+        565,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ἡ γυνὴ ἐζήτησε τὸν υἱόν.\nThe farmer gave a shout and knocked on the door."
+          },
+          {
+            "n": "2.",
+            "prompt": "ἆρ' οὐκ ἴσασιν ὅτι ἐποίησας τοῦτο τὸ ἔργον ῥᾳδίως;\nDon't they know that you received this idea with pleasure?"
+          },
+          {
+            "n": "3.",
+            "prompt": "ὁ ἱκέτης οὐκ ἠτίμασε τὴν θεάν.\nThe sophist did not persuade the clever young men."
+          },
+          {
+            "n": "4.",
+            "prompt": "οἱ γείτονες, καίπερ κακοὶ ὄντες, τὸν νεανίαν οὐκ ἐκόλασαν.\nThe just man, though clever, was astounded at the unjust argument."
+          },
+          {
+            "n": "5.",
+            "prompt": "ἐπαύσατο βλέπουσα τὸν ξένον.\nThey stopped looking at the horses."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 141
+}

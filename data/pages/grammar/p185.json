@@ -1,0 +1,277 @@
+{
+  "running_head": "Grammar for Section 8A–C",
+  "folio": "167",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        218,
+        218,
+        307,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The regular suffixes -τερος and -τατος are still there waving like mad, but on a stem extended by -εσ-.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        180,
+        180,
+        203,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        210,
+        186,
+        273,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 13",
+        "instruction": "Add the correct comparative and superlative forms of the quoted adjectives to the following phrases, and translate:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ὁ (εὐδαίμων) ναύτης"
+          },
+          {
+            "n": "2",
+            "prompt": "τὸ (κακοδαίμων) ἄστυ"
+          },
+          {
+            "n": "3",
+            "prompt": "τὴν (εὔφρων) θεάν"
+          },
+          {
+            "n": "4",
+            "prompt": "τὰς (κακοδαίμων) γυναῖκας"
+          },
+          {
+            "n": "5",
+            "prompt": "ἡ (εὐδαίμων) νῆσος"
+          },
+          {
+            "n": "6",
+            "prompt": "τοὺς (κακοδαίμων) διδασκάλους"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        316,
+        186,
+        335,
+        411
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "MOOD: THE OPTATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        323,
+        184,
+        401,
+        907
+      ],
+      "margin_number": 183,
+      "speaker": null,
+      "text": "Most of the verbs you have met so far have been in one of two ‘moods’: the indicative or the imperative. The ‘mood’ of a verb gives important clues as to its function in a sentence:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        408,
+        186,
+        452,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The indicative mood, for example, is generally used to make statements or ask questions.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        455,
+        186,
+        477,
+        665
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The imperative mood is used to give orders.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 8,
+      "bbox": [
+        486,
+        186,
+        532,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "There are two further moods in Greek: the optative and the subjunctive.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "arrow",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        526,
+        237,
+        616,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Here you encounter the optative (and you can fight over whether to stress the ‘o’ or the ‘a’). You will meet a number of uses of this mood in future sections, but as you will discover, most examples of the optative in Greek require the use of words like ‘would’, ‘could’ and ‘might’ when translating in English.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        643,
+        186,
+        658,
+        535
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Present optative active and middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        664,
+        184,
+        703,
+        907
+      ],
+      "margin_number": 184,
+      "speaker": null,
+      "text": "The forms of the present optative active and middle for non-contract verbs are as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 12,
+      "bbox": [
+        715,
+        186,
+        904,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Present optative active: παύοιμι\nπαύ-οιμι\nπαύ-οις\nπαύ-οι\nπαύ-οιμεν\nπαύ-οιτε\nπαύ-οιεν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 185
+}

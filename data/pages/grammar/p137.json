@@ -1,0 +1,673 @@
+{
+  "running_head": "Grammar for Section 6A–B",
+  "folio": "119",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        42,
+        204,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "138-140",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        53,
+        252,
+        64,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ἀκούω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        69,
+        251,
+        80,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. ἀναχωρέω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        85,
+        251,
+        96,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. ἀτιμάζω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        101,
+        251,
+        112,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. βλέπω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        117,
+        250,
+        129,
+        317
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. βοάω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        53,
+        439,
+        64,
+        535
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. δέχομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        69,
+        440,
+        80,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. λύομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        85,
+        439,
+        96,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8. διδάσκω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        101,
+        439,
+        112,
+        523
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9. θαυμάζω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        117,
+        430,
+        129,
+        503
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10. θύω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        53,
+        626,
+        64,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "11. νικάω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        69,
+        626,
+        80,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "12. θεάομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        85,
+        625,
+        96,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "13. τρέπομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        101,
+        625,
+        112,
+        707
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "14. κόπτω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        117,
+        626,
+        129,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "15. χωρέω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 17,
+      "bbox": [
+        146,
+        187,
+        305,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6A-B: 5. Translate into Greek using the verbs in brackets:\n1. We heard (ἀκούω)\n2. They received (δέχομαι)\n3. You (s.) retreated (ἀναχωρέω)\n4. He pursued (διώκω)\n5. They punished (κολάζω)\n6. You (pl.) shouted (βοάω)\n7. She considered (νομίζω)\n8. I showed (δηλόω)\n9. They waited (μένω)\n10. He destroyed (διαφθείρω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6A-B:5",
+        "instruction": "Translate into Greek using the verbs in brackets:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "We heard (ἀκούω)"
+          },
+          {
+            "n": "2",
+            "prompt": "They received (δέχομαι)"
+          },
+          {
+            "n": "3",
+            "prompt": "You (s.) retreated (ἀναχωρέω)"
+          },
+          {
+            "n": "4",
+            "prompt": "He pursued (διώκω)"
+          },
+          {
+            "n": "5",
+            "prompt": "They punished (κολάζω)"
+          },
+          {
+            "n": "6",
+            "prompt": "You (pl.) shouted (βοάω)"
+          },
+          {
+            "n": "7",
+            "prompt": "She considered (νομίζω)"
+          },
+          {
+            "n": "8",
+            "prompt": "I showed (δηλόω)"
+          },
+          {
+            "n": "9",
+            "prompt": "They waited (μένω)"
+          },
+          {
+            "n": "10",
+            "prompt": "He destroyed (διαφθείρω)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        323,
+        187,
+        340,
+        480
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Recognising first aorist forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        349,
+        187,
+        396,
+        908
+      ],
+      "margin_number": 139,
+      "speaker": null,
+      "text": "When you encounter an aorist indicative form in a reading passage, you will at times be faced with a challenge. In order to look a verb up, you will have to ascertain its dictionary form (i.e. the first person s. present indicative).",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        412,
+        211,
+        428,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Simple stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 21,
+      "bbox": [
+        435,
+        218,
+        467,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Sometimes this process is simple, since it will require only the removal of the augment, σ and personal ending, e.g.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 22,
+      "bbox": [
+        483,
+        218,
+        500,
+        310
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκέλευσε:",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 23,
+      "bbox": [
+        510,
+        218,
+        523,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) remove augment = κελευσε",
+      "lang": "mixed",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        526,
+        218,
+        539,
+        531
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Remove σε (3s. ending) = κελευ-",
+      "lang": "mixed",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 25,
+      "bbox": [
+        542,
+        218,
+        578,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) κελευ- is the stem. Therefore the verb is κελεύω, ‘I order’. Translation:\n‘he/she/it ordered’.",
+      "lang": "mixed",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 26,
+      "bbox": [
+        595,
+        211,
+        610,
+        338
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Complex stems",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 27,
+      "bbox": [
+        617,
+        187,
+        664,
+        908
+      ],
+      "margin_number": 140,
+      "speaker": null,
+      "text": "On other occasions, however, the process will be more complex. For example, it may not be immediately clear what the final consonant of the stem would be in the present, e.g.",
+      "lang": "en",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 28,
+      "bbox": [
+        679,
+        218,
+        696,
+        310
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔβλεψα:",
+      "lang": "mixed",
+      "para_no": 8,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 29,
+      "bbox": [
+        705,
+        218,
+        718,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Remove augment = βλεψα",
+      "lang": "mixed",
+      "para_no": 9,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 30,
+      "bbox": [
+        721,
+        218,
+        735,
+        608
+      ],
+      "margin_number": null,
+      "speaker": 31,
+      "text": "(b) Remove σα (1s. ending) = what stem?",
+      "lang": "en",
+      "para_no": 10,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 32,
+      "bbox": [
+        743,
+        83,
+        913,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• It might be ψ-, from the verb βλέψ-ω. Look it up – no such verb.\n• But βλεψ- might have been produced by a combination of β or π or πτ or φ + σ.\n• The stem could therefore be any of βλεβ-, βλεπ-, βλεπτ- or βλεφ- .\n• If so, the verb could be βλέβω, βλέπω, βλέπτω or βλέφω.\n• If you recognise βλέπω, ‘I look (at)’, you will translate ἔβλεψα ‘I looked at’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 137
+}

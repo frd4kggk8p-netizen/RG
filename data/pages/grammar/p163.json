@@ -1,0 +1,273 @@
+{
+  "folio": "145",
+  "running_head": "Grammar for Section 7D–F",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        238,
+        153,
+        907,
+        429
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this case, the difference between the sentences is not strictly one of time, since in both cases the girl's reply can be understood as being accompanied by laughter (i.e., in both cases the laughing and replying are simultaneous). However, in the first sentence, the laugh seems to be a single event with an identifiable start- and end-point, which suggests that ‘with a laugh’ should be translated into Greek with an aorist participle. In the second sentence, however, the laughter is ongoing: an incomplete action which would best be rendered in Greek by a present (‘imperfective’) participle.\nAspect in Greek is subtle, and is unlikely to be mastered overnight. Indeed, at times the distinction between the two aspects may seem quite arbitrary to an English speaker, but the more you read the more used you will get to the different ways in which Greek uses present and aorist participles.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        83,
+        611,
+        907,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Whatever else you do, it is essential that you pay close attention to the actual Greek usage: ask yourself ‘What does the aspect of this present or aorist participle here suggest about the way the Greek wants us to see the action (however much we may want to see it differently)?’",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_right_triangle",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        185,
+        815,
+        473,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translating aorist participles",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        185,
+        861,
+        907,
+        957
+      ],
+      "margin_number": 166,
+      "speaker": null,
+      "text": "What does all this mean in practical terms when you are translating from Greek into English? Perhaps the most important point to grasp is that there is rarely a single right way to translate an aorist participle. Depending on context:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        239,
+        0,
+        404,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "single right way to translate an aorist participle. Depending on context:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        55,
+        270,
+        143,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσας may be correctly translated as ‘having stopped’, ‘on stopping’, ‘stopping’.",
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        146,
+        270,
+        238,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "On occasion you may find it best to translate an aorist participle as if it were an ordinary verb in the aorist, e.g. βλέψας πρὸς ἐμὲ ἠρυθρίασεν ‘he glanced at me and blushed’.",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        241,
+        270,
+        310,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You may translate it as a noun e.g. βλέψας πρὸς ἐμὲ ἠρυθρίασεν ‘with a glance at me, he blushed’.",
+      "lang": "mixed",
+      "para_no": 4,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        342,
+        238,
+        404,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Because aorist participles occur so regularly in Greek, you will find that you have plenty of opportunities to experiment with different ways of translating them.",
+      "lang": "en",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        458,
+        179,
+        483,
+        327
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        503,
+        179,
+        603,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7D–F: 1. Give the gender, number and case of the following aorist participles\n(e.g. m. s. nom.) and the form in which you would find them if you looked\nthem up in the dictionary:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7D-F: 1",
+        "instruction": "Give the gender, number and case of the following aorist participles (e.g. m. s. nom.) and the form in which you would find them if you looked them up in the dictionary:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "παυσάμενοι"
+          },
+          {
+            "n": "2",
+            "prompt": "λύσαντας"
+          },
+          {
+            "n": "3",
+            "prompt": "ζητήσας"
+          },
+          {
+            "n": "4",
+            "prompt": "ζητησάσας"
+          },
+          {
+            "n": "5",
+            "prompt": "δεξαμένη"
+          },
+          {
+            "n": "6",
+            "prompt": "βλέψαντες"
+          },
+          {
+            "n": "7",
+            "prompt": "δηλώσασα"
+          },
+          {
+            "n": "8",
+            "prompt": "πείσαντα"
+          },
+          {
+            "n": "9",
+            "prompt": "βοήσας"
+          },
+          {
+            "n": "10",
+            "prompt": "τρεψαμένους"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 163
+}

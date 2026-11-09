@@ -1,0 +1,308 @@
+{
+  "running_head": "Summary Exercises for Section 6",
+  "folio": "131",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        59,
+        80,
+        658
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 6",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        185,
+        116,
+        465
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A VOCABULARY BUILDING",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        121,
+        185,
+        301,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Deduce the meaning of the words in the right-hand columns from those in the left:\nἀδύνατος\nἡ δύναμις\nδύναμαι\nβιάζομαι\nβίαιος α ον\nἡ βία\nδράω\nτὸ δρᾶμα\nθαυμάζω\nθαυμάσιος α ον\nτὸ θαῦμα\nθαυμαστός ἡ όν\nἱππομανής\nμαίνομαι\nἡ μανία\nἵππος\nἵππος\nἡ ἱππική\nὁ ἱππεύς\nκλέπτω\nὁ κλέπτης\nἡ κλοπή",
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        310,
+        185,
+        492,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Translate these pairs of words: what is the significance of the change from left to right?\nγέρων\nγερόντιον\nπαῖς\nπαιδίον\nθύρα\nθυρίδιον\nοἰκία\nοἰκίδιον\nπατήρ\nπατρίδιον\nΣωκράτης\nΣωκρατίδιον\nΦειδιππίδης\nΦειδιππίδιον",
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        514,
+        185,
+        526,
+        509
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        530,
+        185,
+        560,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate this passage (if you did not do Test Exercise Two); then change the tense of the verbs to imperfect or aorist as indicated:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        576,
+        227,
+        788,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπειδὴ οὖν προσέρχονται (aorist) ἡ τῶν Περσῶν στρατιὰ καὶ τὸ ναυτικόν, οἱ Ἀθηναῖοι ταχέως εἰσβαίνουσιν (imperfect) εἰς τὰς ναῦς καὶ πρὸς τὴν Σαλαμῖνα πλέουσιν (aorist). ἔπειτα δὲ οἵ τε Ἀθηναῖοι καὶ οἱ ἄλλοι Ἕλληνες ἡσυχάζουσι (imperfect). τέλος δὲ ἀφικνεῖται (aorist) τὸ τῶν Περσῶν ναυτικόν, καὶ ἐπειδὴ νὺξ γίγνεται (aorist), ἔνθα καὶ ἔνθα βραδέως πλέουσιν (aorist) αἱ νῆες. καὶ ἐπειδὴ γίγνεται (aorist) ἡ ἡμέρα, οἱ Ἕλληνες ἀποροῦσι (aorist) καὶ φοβοῦνται (imperfect). τέλος δὲ οὐκέτι φοβοῦνται (imperfect), ἀλλὰ τολμῶσι (imperfect) καὶ ἐπέρχονται (aorist) ἐπὶ τοὺς βαρβάρους. μάχονται (imperfect) οὖν εὐκόσμως καὶ νικῶσι (imperfect), φεύγει (aorist) δὲ καὶ ὁ Ξέρξης. οὕτως οὖν ἐλεύθεροι γίγνονται (aorist) οἱ Ἕλληνες διὰ τὴν ἀρετήν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        790,
+        206,
+        804,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        819,
+        206,
+        831,
+        453
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔνθα καὶ ἔνθα up and down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        838,
+        206,
+        850,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡμέρα, ἡ day (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        857,
+        206,
+        869,
+        423
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐκόσμως in good order",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        876,
+        206,
+        889,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀρετή, ἡ courage (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        819,
+        547,
+        831,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλέω aor. ἔπλευσα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        838,
+        547,
+        850,
+        789
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀφικνέομαι aor. ἀφικόμην",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        857,
+        547,
+        869,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φεύγω aor. ἔφυγον",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 149
+}

@@ -1,0 +1,349 @@
+{
+  "running_head": "180-181 Grammar for Section 8A-C",
+  "folio": "165",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        247,
+        51,
+        137,
+        707
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σωκράτης σοφώτερός ἐστι τούτου τοῦ ἀνθρώπου.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        248,
+        214,
+        160,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Socrates is wiser than this fellow.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        126,
+        215,
+        203,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(This can also be expressed as Σωκράτης σοφώτερός ἐστιν ἢ οὗτος ὁ ἄνθρωπος.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        186,
+        185,
+        201,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        223,
+        186,
+        388,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 11. Translate into Greek using the prepositions and adjectives listed at (c) above:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 11",
+        "instruction": "Translate into Greek using the prepositions and adjectives listed at (c) above:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "in company with (the) Socrates"
+          },
+          {
+            "n": "2",
+            "prompt": "away from the assembly"
+          },
+          {
+            "n": "3",
+            "prompt": "through the crowd"
+          },
+          {
+            "n": "4",
+            "prompt": "out of the ship"
+          },
+          {
+            "n": "5",
+            "prompt": "I condemn the man"
+          },
+          {
+            "n": "6",
+            "prompt": "I hear the women"
+          },
+          {
+            "n": "7",
+            "prompt": "I seize the citizen"
+          },
+          {
+            "n": "8",
+            "prompt": "worthy of (the) excellence"
+          },
+          {
+            "n": "9",
+            "prompt": "responsible for (the) lawlessness"
+          },
+          {
+            "n": "10",
+            "prompt": "in company with the herald"
+          },
+          {
+            "n": "11",
+            "prompt": "through the river"
+          },
+          {
+            "n": "12",
+            "prompt": "concerning the law"
+          },
+          {
+            "n": "13",
+            "prompt": "away from (the) Athens"
+          },
+          {
+            "n": "14",
+            "prompt": "out of the house"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        419,
+        186,
+        434,
+        530
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ALTERNATIVE COMPARATIVE FORMS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        448,
+        186,
+        483,
+        905
+      ],
+      "margin_number": "181",
+      "speaker": null,
+      "text": "181. Revise the alternative comparative and superlative forms of ἀγαθός and κακός:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 8,
+      "bbox": [
+        501,
+        186,
+        658,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ]
+        ],
+        "rows": [
+          [
+            "ἀγαθός\n\n‘good’",
+            "ἀμείνων ἄμεινον (ἀμεινον-)\nβελτίων βελτίον (βελτίον-)\n‘better’",
+            "ἄριστος η ον\nβέλτιστος η ον\n‘best’"
+          ],
+          [
+            "κακός\n\n‘bad’",
+            "κακίων κάκιον (κακῖον-)\nχείρων χεῖρον (χειρον-)\n‘worse’",
+            "κάκιστος η ον\nχείριστος η ον\n‘worst’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        687,
+        186,
+        702,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        712,
+        186,
+        742,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The alternative comparative and superlative forms of ἀγαθός carry slightly different nuances:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        759,
+        186,
+        835,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμείνων and ἄριστος imply superiority in terms of physical or mental ability\nβελτίων and βέλτιστος imply moral superiority",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        856,
+        186,
+        871,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        881,
+        186,
+        894,
+        718
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The full declension of comparative adjectives is as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 183
+}

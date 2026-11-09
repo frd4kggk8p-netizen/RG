@@ -1,0 +1,303 @@
+{
+  "running_head": "Exercises for section 8",
+  "folio": "106",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        57,
+        237,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "that it is justice, but they do not know. But the farmers know what is good. They have found it in the fields. It is peace. For war is full of events, perplexity and plague and fitting out ships; but peace is full of weddings, feasts, relations, children, friends, wealth, health, food, wine and pleasure. I do not know if anyone else wants to make a treaty and to live at peace, but I would like to, myself. But how shall I alone persuade the people? What shall I say or shout or order, if I am going to make a treaty? But I shall go, ready to shout and abuse anyone who speaks about anything else except peace. Come on now, Dikaiopolis, off to the assembly!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        239,
+        89,
+        252,
+        747
+      ],
+      "margin_number": null,
+      "speaker": "Εὓ. + ΠΕΙ.",
+      "text": "Yet we are setting off for a place that is peaceful. Farewell!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        253,
+        137,
+        348,
+        906
+      ],
+      "margin_number": null,
+      "speaker": "RHAP.",
+      "text": "I think these men are stupid. I wouldn't do that. I wouldn't hurry off to the assembly, nor would I want to flee from my own country. Don't they know that the poet spoke truly who said",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        351,
+        362,
+        375,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘These matters lie in the lap of the gods’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        375,
+        191,
+        407,
+        894
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "For we must accept the gifts of the gods with resignation, both the bad and the better.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        410,
+        359,
+        467,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘We men must endure the gifts of the gods,\nthough grieving. For the yoke lies\nupon our necks.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        478,
+        191,
+        490,
+        468
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 8",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        512,
+        191,
+        523,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE GENITIVE CASE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        538,
+        191,
+        696,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "lawlessness                             τῆς ἀνομίας, τῶν ἀνομιῶν"
+          },
+          {
+            "n": "2.",
+            "prompt": "peace                                   τῆς εἰρήνης, τῶν εἰρηνῶν"
+          },
+          {
+            "n": "3.",
+            "prompt": "market-place                            τῆς ἀγορᾶς, τῶν ἀγορῶν"
+          },
+          {
+            "n": "4.",
+            "prompt": "assembly                                τῆς ἐκκλησίας, τῶν ἐκκλησιῶν"
+          },
+          {
+            "n": "5.",
+            "prompt": "battle                                  τῆς μάχης, τῶν μαχῶν"
+          },
+          {
+            "n": "6.",
+            "prompt": "voice                                   τῆς φωνῆς, τῶν φωνῶν"
+          },
+          {
+            "n": "7.",
+            "prompt": "virtue, courage                         τῆς ἀρετῆς, τῶν ἀρετῶν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        715,
+        191,
+        810,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 2",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "citizen                                 τοῦ πολίτου, τῶν πολιτῶν"
+          },
+          {
+            "n": "2.",
+            "prompt": "juror                                   τοῦ δικαστοῦ, τῶν δικαστῶν"
+          },
+          {
+            "n": "3.",
+            "prompt": "poet                                    τοῦ ποιητοῦ, τῶν ποιητῶν"
+          },
+          {
+            "n": "4.",
+            "prompt": "a sophist                               τοῦ σοφιστοῦ, τῶν σοφιστῶν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        831,
+        191,
+        925,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A-C: 3",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "trireme                                 τῆς τριήρους, τῶν τριηρῶν"
+          },
+          {
+            "n": "2.",
+            "prompt": "Socrates                                τοῦ Σωκράτους"
+          },
+          {
+            "n": "3.",
+            "prompt": "relation, kinsman                       τοῦ συγγενοῦς, τῶν συγγενῶν"
+          },
+          {
+            "n": "4.",
+            "prompt": "Pericles                                τοῦ Περικλέους"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 120
+}

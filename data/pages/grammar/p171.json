@@ -1,0 +1,409 @@
+{
+  "running_head": "Grammar for Section 7G-H",
+  "folio": "153",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        56,
+        206,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "171-174",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        226,
+        187,
+        260,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H:2",
+        "instruction": "7G-H: 2. Attach the appropriate form of the aorist participle to the given form of the definite article:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τῷ (μανθάνω)"
+          },
+          {
+            "n": "2.",
+            "prompt": "τῆς (τυγχάνω)"
+          },
+          {
+            "n": "3.",
+            "prompt": "ταῖς (τρέχω)"
+          },
+          {
+            "n": "4.",
+            "prompt": "τοῦ (ἀφικνέομαι)"
+          },
+          {
+            "n": "5.",
+            "prompt": "τῇ (λέγω)"
+          },
+          {
+            "n": "6.",
+            "prompt": "τοῖς (γίγνομαι)"
+          },
+          {
+            "n": "7.",
+            "prompt": "τῷ (εὑρίσκω)"
+          },
+          {
+            "n": "8.",
+            "prompt": "τοῦ (λαμβάνω)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        224,
+        186,
+        248,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PRONOUN/ADJECTIVE: αὐτός -ή -ό",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        255,
+        186,
+        290,
+        907
+      ],
+      "margin_number": 172,
+      "speaker": null,
+      "text": "The declension of αὐτός -ή -ό (‘self, same’); αὐτόν -ήν -ό (‘him, her, it’) is as follows:",
+      "lang": "mixed",
+      "para_no": 172,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "bbox": [
+        308,
+        186,
+        608,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            "s.",
+            null,
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ],
+          [
+            "Nom.",
+            "αὐτ-ός",
+            "αὐτ-ή",
+            "αὐτ-ό"
+          ],
+          [
+            "Acc.",
+            "αὐτ-όν",
+            "αὐτ-ήν",
+            "αὐτ-ό"
+          ],
+          [
+            "Gen.",
+            "αὐτ-οῦ",
+            "αὐτ-ῆς",
+            "αὐτ-οῦ"
+          ],
+          [
+            "Dat.",
+            "αὐτ-ῷ",
+            "αὐτ-ῇ",
+            "αὐτ-ῷ"
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            "pl.",
+            null,
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ],
+          [
+            "Nom.",
+            "αὐτ-οί",
+            "αὐτ-αί",
+            "αὐτ-ά"
+          ],
+          [
+            "Acc.",
+            "αὐτ-ούς",
+            "αὐτ-Ᾱ́ς",
+            "αὐτ-ά"
+          ],
+          [
+            "Gen.",
+            "αὐτ-ῶν",
+            "αὐτ-ῶν",
+            "αὐτ-ῶν"
+          ],
+          [
+            "Dat.",
+            "αὐτ-οῖς",
+            "αὐτ-αῖς",
+            "αὐτ-οῖς"
+          ]
+        ],
+        "rows": []
+      },
+      "exercise": null,
+      "caption": "αὐτός αὐτή αὐτό",
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        631,
+        186,
+        645,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        655,
+        186,
+        690,
+        907
+      ],
+      "margin_number": 173,
+      "speaker": null,
+      "text": "αὐτός is one of very few pronouns in Greek which (like the def. art.) end in -ο in the n. s. nom./acc. You have already met others: e.g. οὗτος and ἐκεῖνος (69).",
+      "lang": "mixed",
+      "para_no": 173,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        704,
+        186,
+        719,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meanings of αὐτός",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        728,
+        186,
+        743,
+        532
+      ],
+      "margin_number": 174,
+      "speaker": null,
+      "text": "αὐτός has a variety of meanings:",
+      "lang": "mixed",
+      "para_no": 174,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        759,
+        186,
+        775,
+        389
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Him’, ‘her’, ‘it’, ‘them’",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        784,
+        186,
+        819,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Used as an unstressed pronoun, but never in the nom. (nor as the first word of a clause, when it will always mean ‘self’) αὐτός means ‘him’, ‘her’, ‘them’, e.g.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        830,
+        263,
+        843,
+        686
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἶδεν αὐτοὺς τρέχοντας ‘he saw them running’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        845,
+        263,
+        859,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔλαβον αὐτήν ‘I caught her’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        865,
+        186,
+        880,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that οὗτος and ἐκεῖνος are used when the pronoun is stressed.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 171
+}

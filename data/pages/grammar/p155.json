@@ -1,0 +1,263 @@
+{
+  "running_head": "Grammar for Section 7A–C",
+  "folio": "137",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        41,
+        210,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "155–159",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        187,
+        185,
+        155,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Long vowel stem: δῆλ-\nWhen the last syllable of the stem is long (i.e. contains a 'diphthong' [vowel + ɩ or ʋ] as in δειν-ός, or a long vowel as in δῆλ-ος), -ότερος, -ότατος are added, e.g. δηλότερος, δηλότατος.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        168,
+        185,
+        182,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Declension",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        193,
+        185,
+        230,
+        906
+      ],
+      "margin_number": 156,
+      "speaker": null,
+      "text": "All regular comparative adjectives decline in the same way as ἡμέτερος ᾱ ον (36), and all superlative adjectives decline like καλός ή όν (10).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        243,
+        185,
+        258,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meanings of comp. and sup. adjectives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        267,
+        185,
+        330,
+        907
+      ],
+      "margin_number": 157,
+      "speaker": null,
+      "text": "As well as '-er' and 'more -', comparatives can mean 'rather -', 'fairly -',\n'quite -'; superlatives, on top of '-est' and 'most -', also mean 'extremely -', 'very -'.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        343,
+        185,
+        357,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Comparison in Greek",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        367,
+        185,
+        431,
+        814
+      ],
+      "margin_number": 158,
+      "speaker": null,
+      "text": "When two things are being compared, Greek uses ἤ, 'than', e.g.\nὁ ἀνὴρ ἐστι σοφώτερος ἢ ὁ παῖς. 'The man is wiser than the boy.'\nNote that the two things being compared are in the same case.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        451,
+        185,
+        464,
+        627
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Irregular comparative and superlative forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        474,
+        185,
+        509,
+        907
+      ],
+      "margin_number": 159,
+      "speaker": null,
+      "text": "There are some important irregular comparatives (like e.g. English 'good',\n'better', 'best'):",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 11,
+      "bbox": [
+        521,
+        189,
+        873,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ]
+        ],
+        "rows": [
+          [
+            "ἀγαθός\nor\n'good'",
+            "ἀμείνων ἄμεινον (ἀμεινον-)\nβελτίων βελτίον (βελτίον-)\n'better'",
+            "ἄριστος η ον\nβέλτιστος η ον\n'best'"
+          ],
+          [
+            "κακός\nor\n'bad'",
+            "κακίων κάκιον (κακῖον-)\nχείρων χεῖρον (χειρον-)\n'worse'",
+            "κάκιστος η ον\nχείριστος η ον\n'worst'"
+          ],
+          [
+            "καλός\n'beautiful, fine'",
+            "καλλίων κάλλιον (καλλῖον-)\n'more beautiful, finer'",
+            "κάλλιστος η ον\n'most beautiful, finest'"
+          ],
+          [
+            "μέγας\n'big'",
+            "μείζων μεῖζον (μειζον-)\n'bigger'",
+            "μέγιστος η ον\n'biggest'"
+          ],
+          [
+            "πολύς\n'much'",
+            "πλείων πλεῖον (πλειον-)\n'more'",
+            "πλεῖστος η ον\n'most'"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 155
+}

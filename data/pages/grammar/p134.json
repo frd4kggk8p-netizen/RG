@@ -1,0 +1,268 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "116",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        194,
+        302,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        194,
+        195,
+        118,
+        755
+      ],
+      "margin_number": 130,
+      "speaker": null,
+      "text": "The aorist of a verb such as παύω, ‘I stop’, is formed by:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        129,
+        91,
+        216,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "adding σa to the present stem: παυ-σα;\nadding an ‘augment’ to this stem, ἐ-παυ-σα, to indicate that the action is past;\nadding the appropriate personal endings",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_right_pointing_triangle",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        232,
+        216,
+        244,
+        449
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist indicative active",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        267,
+        194,
+        444,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-παυσα ‘I stopped’\nἔ-παυσα\t‘I stopped’\nἔ-παυσα-ς\t‘you (s.) stopped’\nἔ-παυσε(ν)\t‘he/she/it stopped’\nἐ-παύσα-μεν\t‘we stopped’\nἐ-παύσα-τε\t‘you (pl.) stopped’\nἔ-παυσα-ν\t‘they stopped’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        444,
+        216,
+        456,
+        457
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist indicative middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        478,
+        194,
+        634,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐ-παυσά-μην ‘I ceased, stopped [myself]’\nἐ-παυσά-μην\t‘I ceased’\nἐ-παύσω\t‘you (s.) ceased’\nἐ-παύσα-το\t‘he/she/it ceased’\nἐ-παυσά-μεθα\t‘we ceased’\nἐ-παύσα-σθε\t‘you (pl.) ceased’\nἐ-παύσα-ντο\t‘they ceased’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        684,
+        216,
+        696,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        706,
+        194,
+        739,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) You can see why the first aorist is also known as the ‘sigmatic’ or ‘alpha’\naorist. Originally there was no α; ἔπαυσεν avoided confusion with ἔπαυσαν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        740,
+        194,
+        796,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Revisit 102 and observe that we have here the -μην -σο -το middle endings.\nWith the loss of intervocalic sigma keenly in mind, you will understand how\nthe original 2s. ἐπαύσα-σο became ἐπαύσα-o and so ἐπαύσ-ω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        788,
+        194,
+        803,
+        480
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forming the first aorist stem",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        813,
+        216,
+        825,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Simple verbs",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black_square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        836,
+        194,
+        912,
+        915
+      ],
+      "margin_number": 131,
+      "speaker": null,
+      "text": "As you have seen above, the first aorist stem is typically formed by adding\nsa to the present stem: παύ-ω ‘I stop’ > παυ-σα. On to this is added the aug-\nment (ἔ + παυ-σα). The aorist stem is παυσα-.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 134
+}

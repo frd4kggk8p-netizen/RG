@@ -1,0 +1,188 @@
+{
+  "running_head": "Grammar for Section 7D–F",
+  "folio": "143",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        36,
+        219,
+        148
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "163-164",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        88,
+        187,
+        260,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσα-ς παύσᾱ-σ-α παύσα-ν (παυσα-ντ-) ‘having stopped, on stopping, stopping’ (continued)\npl.\nm. f. n.\nNom. παύσα-ντ-ες παυσά-σ-αι παύσα-ντ-α\nAcc. παύσα-ντ-ας παυσᾱ́-σ-ᾱς παύσα-ντ-α\nGen. παυσᾱ́-ντ-ων παυσᾱ́-σ-ῶν παυσᾱ́-ντ-ων\nDat. παυσᾱ́-σι(ν) παυσᾱ́-σ-αις παυσᾱ́-σι(ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        281,
+        187,
+        292,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        303,
+        187,
+        396,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Just like the present active participle (ὤν οὖσα ὄν, etc.), παύσας παύσασα παῦσαν (παυσαvτ-) follows a ‘3-1-3’ pattern, i.e. the m. and n. forms follow the pattern of type 3a and 3b nouns and the f. follows that of a type 1c noun like θάλασσα. See 87.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        414,
+        187,
+        431,
+        479
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist middle participles",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        438,
+        187,
+        470,
+        906
+      ],
+      "margin_number": 164,
+      "speaker": null,
+      "text": "The first aorist middle participle is formed by adding -μεν-ος -η -ον to the aorist stem:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        489,
+        187,
+        781,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παυσά-μεν-ος η ον ‘having stopped / on stopping / stopping / onself / ceasing’\ns.\nm. f. n.\nNom. παυσά-μεν-ος παυσα-μένη παυσά-μεν-ον\nAcc. παυσά-μεν-ον παυσα-μένην παυσά-μεν-ον\nGen. παυσά-μεν-ου παυσα-μένης παυσά-μεν-ου\nDat. παυσά-μεν-ῳ παυσα-μένη παυσά-μεν-ῳ\npl.\nm. f. n.\nNom. παυσά-μεν-οι παυσά-μεν-αι παυσά-μεν-α\nAcc. παυσά-μεν-ους παυσα-μέν-ᾱς παυσά-μεν-α\nGen. παυσά-μεν-ων παυσά-μεν-ων παυσά-μεν-ων\nDat. παυσά-μεν-οις παυσά-μεν-αις παυσά-μεν-οις",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        798,
+        187,
+        810,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        820,
+        187,
+        852,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Like all middle participles, first aorist middle participles are declined in the same way as καλ-ός -ή -όν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 161
+}

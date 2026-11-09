@@ -1,0 +1,688 @@
+{
+  "running_head": "Section Seven A-H: Socrates and intellectual inquiry",
+  "folio": "85",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        99,
+        78,
+        201,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀν-εῖλ-ον they took up (aor. of\nἀν-αιρέ-ω)\nἀν-ελ-όντ-ες on taking up\n(nom. pl. m.) (ἀναιρέ-ω/ἀν-\nεῖλ-ον )\nἄνεμ-ος, ὁ wind (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        99,
+        99,
+        230,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπ-ελθ-οῦσ-αι upon going away\n(nom. pl. f.) (ἀπ-έρχ-ομαι/\nἀπ-ῆλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        99,
+        99,
+        278,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-βᾶσ-αι upon disembarking\n(nom. pl. f.) (ἀπο-βαίν-ω/\nἀπ-έ-βην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        99,
+        99,
+        311,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-πέμπ-ω send off\nἀφ-ίκ-οντο they arrived (aor. of\nἀφ-ικνέ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        99,
+        93,
+        379,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γιγνώσκ-ω/ γν-όντ-ες knowing, realizing\n(nom. pl. m.) (γιγνώσκ-ω/\nἔ-γνω-ν)\nδι-αρπάζ-ω lay waste",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        363,
+        365,
+        380,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-γνω-σαν they recognized\n(them) (aor. of γιγνώσκ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        383,
+        365,
+        422,
+        594
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμ-πες-όντ-ες attacking, falling\nupon (nom. pl. m.)\n(ἐμ-πίπτω/ἐν-έ-πεσ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        425,
+        365,
+        451,
+        589
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλθ-όντ-ες upon coming (nom.\npl. m.) (ἔρχ-ομαι/ἦλθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        454,
+        365,
+        467,
+        473
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕπ-ομαι follow",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        469,
+        365,
+        482,
+        459
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἦπερ just where",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        484,
+        365,
+        511,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ηὗρ-ον they came upon (aor. of\nεὑρίσκ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        514,
+        365,
+        539,
+        536
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἱππο-φόρβι-ον, τό herd of\nhorses (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        542,
+        365,
+        567,
+        582
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβ-οῦσ-αι upon taking (nom.\npl. f.) (λαμβάν-ω/\nἔ-λαβ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        570,
+        365,
+        597,
+        595
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαθ-οῦσ-αι upon understanding\n(nom. pl. f.) (μανθάν-ω/\nἔ-μαθ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        90,
+        631,
+        126,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νομίζ-ω think x (acc.) to be y\n(acc.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        128,
+        631,
+        140,
+        819
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παιδο-ποιέ-ομαι beget children",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        143,
+        631,
+        156,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλησίον nearby, near (+ gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        159,
+        631,
+        170,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Σκύθ-ης, ὁ Scythian (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        172,
+        631,
+        185,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "στρατοπεδεύ-ομαι make camp",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        187,
+        631,
+        199,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ μάχῃ the battle",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        201,
+        631,
+        214,
+        779
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς μάχης the battle",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        216,
+        631,
+        229,
+        862
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φων-ή, ἡ language, speech (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 23,
+      "bbox": [
+        252,
+        631,
+        264,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        267,
+        631,
+        281,
+        809
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναιρέω (ἀνελ-) pick up",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        283,
+        631,
+        309,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀποβαίνω (ἀποβα-) leave,\ndepart",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        312,
+        631,
+        325,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕπομαι (ἐσπ-) follow",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        327,
+        631,
+        340,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μάχη, ἡ fight, battle (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        342,
+        631,
+        355,
+        780
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέντοι however, but",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        357,
+        631,
+        370,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νομίζω think, acknowledge",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        372,
+        631,
+        385,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φυλάττω guard",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 31,
+      "bbox": [
+        426,
+        373,
+        440,
+        696
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The ‘threat’ of alternative life-styles",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 32,
+      "bbox": [
+        465,
+        194,
+        589,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Greeks endlessly debated subjects the nature of justice and the relationship\nbetween it and written law; the nature of right and wrong, and where expedi-\nency fitted in; the nature of power, and the rights that the stronger held over the\nweaker; and, most famous of all, the relationship between nomos (‘custom’,\n‘law’, ‘culture’) and phusis (‘nature’) and the question ‘Is there an absolute right\nand wrong in any situation, or does it depend on the circumstances?’ Herodotos\nwas fascinated by this issue, and puts it at its sharpest in the following story:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 33,
+      "bbox": [
+        591,
+        194,
+        831,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘If anyone were to offer men the opportunity to make from all the customs in\nthe world what seemed to them the best selection, everyone would after careful\nconsideration choose his own; for everyone considers his own customs far the\nbest . . . A particular piece of evidence is this: when Dareios was King of Persia,\nhe summoned certain Greeks who were at their court and asked them how much\nhe would have to pay them to eat the bodies of their dead fathers. They replied\nthat there was no sum for which they would do such a thing. Later he summoned\ncertain Indians of a tribe called Callatians, who do eat their parents’ bodies,\nand asked them in the presence of the Greeks, through an interpreter so that the\nGreeks understood what was being said, how much they would have to be paid\nto burn their fathers’ dead bodies. They cried aloud and told him not to utter such\nblasphemy. Such is custom, and Pindar was in my opinion right when he wrote\nthat “Custom is King of all”.’ (Herodotos, Histories 3.38)",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 34,
+      "bbox": [
+        834,
+        194,
+        886,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": ". . . These questions can easily seem, and seemed to many Athenians, to strike\nat the very heart of morality, and set the stage for the long and at times bitter\nintellectual debate which rages still today. (World of Athens, 8.32)",
+      "lang": "en",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 115
+}

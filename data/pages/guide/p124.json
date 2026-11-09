@@ -1,0 +1,340 @@
+{
+  "running_head": "Summary exercises for section 8",
+  "folio": "110",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        189,
+        58,
+        277,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "7.",
+            "prompt": "ὁρῷη ἄν"
+          },
+          {
+            "n": "8.",
+            "prompt": "πείθοιτε ἄν"
+          },
+          {
+            "n": "9.",
+            "prompt": "φυλάττοιμεν ἄν"
+          },
+          {
+            "n": "10.",
+            "prompt": "πείθοιντο ἄν"
+          }
+        ]
+      },
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        193,
+        193,
+        311,
+        444
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνίσταμαι, I LEAVE, EMIGRATE",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        161,
+        192,
+        172,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 17",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        184,
+        192,
+        303,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "you (s.) leave"
+          },
+          {
+            "n": "2.",
+            "prompt": "he/she is able"
+          },
+          {
+            "n": "3.",
+            "prompt": "leaving (n.m.s.)"
+          },
+          {
+            "n": "4.",
+            "prompt": "to be able"
+          },
+          {
+            "n": "5.",
+            "prompt": "you (pl.) leave, leave!"
+          },
+          {
+            "n": "6.",
+            "prompt": "they are able"
+          },
+          {
+            "n": "7.",
+            "prompt": "being able"
+          },
+          {
+            "n": "8.",
+            "prompt": "he/she leaves"
+          },
+          {
+            "n": "9.",
+            "prompt": "we are able"
+          },
+          {
+            "n": "10.",
+            "prompt": "to leave"
+          }
+        ]
+      },
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        309,
+        192,
+        323,
+        587
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 8",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        343,
+        192,
+        357,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A — VOCABULARY-BUILDING",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        371,
+        91,
+        585,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I wrong\nthe wrongdoing\nI stand up\nthe awakening,\nresurrection\nworthy\nimportant\npeople/I am\nthe power of the\npowerful\npeople\nleader\nthe leadership\nI am powerful\nmost powerful\nI send\nthe procession\ncitizen\nconstitution",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        542,
+        501,
+        577,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I engage in\npolitical/to do with the\ngovernment\ncity",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        585,
+        128,
+        634,
+        460
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "difficult\nI am difficult/angry\nhand\nI set my hand to\nsomething, I try",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        655,
+        192,
+        668,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C — WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        679,
+        192,
+        725,
+        843
+      ],
+      "margin_number": null,
+      "speaker": "A",
+      "text": "But who is responsible for this war and this perplexity? (τούτου τοῦ\nπολέμου, ταύτης τῆς ἀπορίας)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        730,
+        192,
+        809,
+        881
+      ],
+      "margin_number": null,
+      "speaker": "B",
+      "text": "The orators are responsible for this matter, I know it well. For the city is\nfull of noise and shouting because of the war and the boldness of the\norators. For who does not know about their boldness? (τούτου τοῦ\nπράγματος, θορύβου, βοῆς, τῶν ῥητόρων, τῆς τόλμης, αὐτῶν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        813,
+        192,
+        911,
+        895
+      ],
+      "margin_number": null,
+      "speaker": "A",
+      "text": "But I don't think the orators are responsible for these matters, but [I\nconsider them] the best of men. For they always fight for the people and\nthe city, as themselves say. (τούτων τῶν πραγμάτων, ἀνθρώπων, τοῦ\nπλήθους, τῆς πόλεως)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        915,
+        192,
+        951,
+        860
+      ],
+      "margin_number": null,
+      "speaker": "B",
+      "text": "Yes. But they tell lies. For the mass of these men is bad and no\none is worse than an orator. For the orators seize the assembly and the",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 124
+}

@@ -1,0 +1,272 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "130",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        80,
+        711,
+        709
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 6C-D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        193,
+        118,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        126,
+        193,
+        303,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Form the aorist stem of these verbs and then give the aorist (1st s.):\n\ne.g. παύω παυσα ἔπαυσα\nβιάζομαι\nκλέπτω\nθαυμάζω\nδιδάσκω\nδέχομαι\nφιλέω\nδηλόω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Form the aorist stem of these verbs and then give the aorist (1st s.):",
+        "items": [
+          {
+            "n": "e.g.",
+            "prompt": "παύω παυσα ἔπαυσα"
+          },
+          {
+            "n": null,
+            "prompt": "βιάζομαι"
+          },
+          {
+            "n": null,
+            "prompt": "κλέπτω"
+          },
+          {
+            "n": null,
+            "prompt": "θαυμάζω"
+          },
+          {
+            "n": null,
+            "prompt": "διδάσκω"
+          },
+          {
+            "n": null,
+            "prompt": "δέχομαι"
+          },
+          {
+            "n": null,
+            "prompt": "φιλέω"
+          },
+          {
+            "n": null,
+            "prompt": "δηλόω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        313,
+        193,
+        431,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Give the aorist stem of these verbs and then the aorist (1st s.):\n\ne.g. τρέχω δραμ- ἔδραμον\nμανθάνω\nτυγχάνω\nἐξευρίσκω\nδιέρχομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Give the aorist stem of these verbs and then the aorist (1st s.):",
+        "items": [
+          {
+            "n": "e.g.",
+            "prompt": "τρέχω δραμ- ἔδραμον"
+          },
+          {
+            "n": null,
+            "prompt": "μανθάνω"
+          },
+          {
+            "n": null,
+            "prompt": "τυγχάνω"
+          },
+          {
+            "n": null,
+            "prompt": "ἐξευρίσκω"
+          },
+          {
+            "n": null,
+            "prompt": "διέρχομαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        444,
+        193,
+        558,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. Pair each aorist with the equivalent present from the list below (unaugmented\nstem in brackets). Then give the meaning of each verb:\n\nεἶδον (ἰδ-) εἶπον (εἰπ-) ἔλαθον (λαθ-) ηὗρον (εὑρ-)\nἔμαθον (μαθ-) ἦλθον (ἐλθ-) ἐγενόμην (γεν-) ἔπαθον (παθ-)\n\nγίγνομαι, λέγω, πάσχω, λανθάνω, εὑρίσκω, ἔρχομαι, μανθάνω, ὁράω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Pair each aorist with the equivalent present from the list below (unaugmented stem in brackets). Then give the meaning of each verb:",
+        "items": [
+          {
+            "n": null,
+            "prompt": "εἶδον (ἰδ-) εἶπον (εἰπ-) ἔλαθον (λαθ-) ηὗρον (εὑρ-)"
+          },
+          {
+            "n": null,
+            "prompt": "ἔμαθον (μαθ-) ἦλθον (ἐλθ-) ἐγενόμην (γεν-) ἔπαθον (παθ-)"
+          },
+          {
+            "n": null,
+            "prompt": "γίγνομαι, λέγω, πάσχω, λανθάνω, εὑρίσκω, ἔρχομαι, μανθάνω, ὁράω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        581,
+        193,
+        594,
+        453
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        599,
+        212,
+        613,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        628,
+        193,
+        853,
+        807
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. οἱ ναῦται εἶπον ὅτι ὁ κυβερνήτης τέλος τἀληθῆ ἔμαθεν.\nThe student said that he (had) discovered how big the space was.\n2. οἱ νεανίαι τυγχάνουσι κακὰ πάσχοντες.\nThe farmer happened to be a fool.\n3. οἱ ἱκέται ἔδραμον εἰς τὸ ἱερόν.\nThe old man departed to the city.\n4. αἱ γυναῖκες εἶδον τὴν σελήνην.\nThe father became unjust.\n5. ἐλάβετε τὰ χρήματα διὰ τὰ χρέα.\nI noticed that you were a bumpkin.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "οἱ ναῦται εἶπον ὅτι ὁ κυβερνήτης τέλος τἀληθῆ ἔμαθεν. The student said that he (had) discovered how big the space was."
+          },
+          {
+            "n": "2",
+            "prompt": "οἱ νεανίαι τυγχάνουσι κακὰ πάσχοντες. The farmer happened to be a fool."
+          },
+          {
+            "n": "3",
+            "prompt": "οἱ ἱκέται ἔδραμον εἰς τὸ ἱερόν. The old man departed to the city."
+          },
+          {
+            "n": "4",
+            "prompt": "αἱ γυναῖκες εἶδον τὴν σελήνην. The father became unjust."
+          },
+          {
+            "n": "5",
+            "prompt": "ἐλάβετε τὰ χρήματα διὰ τὰ χρέα. I noticed that you were a bumpkin."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 148
+}

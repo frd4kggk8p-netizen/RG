@@ -1,0 +1,218 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "168 / 184–185",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        195,
+        195,
+        241,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Present optative middle: παυοίμην\nπαυ-οίμην\nπαυ-οio\nπαυ-οιτο\nπαυ-οίμεθα\nπαυ-οισθε\nπαυ-οιντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        195,
+        195,
+        252,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        296,
+        91,
+        383,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note the -μην -σο -το middle endings (102). The 2s. was originally παυ-οι-σο, with the intervocalic sigma dropping out to give παυ-οι-ο.\nThe thematic vowel is -ο- throughout; the optative mood is marked by the immediately following -ι-.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "●",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        404,
+        195,
+        532,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8A–C: 14",
+        "instruction": "Translate the following present indicatives and turn them into the equivalent optative forms:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "εὑρίσκουσιν"
+          },
+          {
+            "n": "2",
+            "prompt": "ἐξετάζει"
+          },
+          {
+            "n": "3",
+            "prompt": "λογιζόμεθα"
+          },
+          {
+            "n": "4",
+            "prompt": "γίγνεται"
+          },
+          {
+            "n": "5",
+            "prompt": "θαυμάζεις"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        556,
+        195,
+        570,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Present optative of contract verbs",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        581,
+        195,
+        631,
+        915
+      ],
+      "margin_number": 185,
+      "speaker": null,
+      "text": "The forms for contract verbs in the active are as follows. Note that in the s. active the forms arise from contracting the vowel with the endings -οίην, -οίης, -οίη:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        650,
+        195,
+        882,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "τιμάω, ‘I honour’",
+            "ποιέω, ‘I make, do’",
+            "δηλόω, ‘I show, reveal’"
+          ],
+          [
+            "(α-contract verb)",
+            "(ε-contract verb)",
+            "(ο-contract verb)"
+          ]
+        ],
+        "rows": [
+          [
+            "τιμα-οίην > τιμῴην",
+            "ποιε-οίην > ποιοίην",
+            "δηλο-οίην > δηλοίην"
+          ],
+          [
+            "τιμα-οίης > τιμῴης",
+            "ποιε-οίης > ποιοίης",
+            "δηλο-οίης > δηλοίης"
+          ],
+          [
+            "τιμα-οίη > τιμῴη",
+            "ποιε- οίη > ποιοίη",
+            "δηλο-οίη > δηλοίη"
+          ],
+          [
+            "τιμά-οιμεν > τιμῷμεν",
+            "ποιέ-οιμεν > ποιοῖμεν",
+            "δηλό-οιμεν > δηλοῖμεν"
+          ],
+          [
+            "τιμά-οιτε > τιμῷτε",
+            "ποιέ-οιτε > ποιοῖτε",
+            "δηλό-οιτε > δηλοῖτε"
+          ],
+          [
+            "τιμά-οιεν > τιμῷεν",
+            "ποιέ-οιεν > ποιοῖεν",
+            "δηλό-οιεν > δηλοῖεν"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": "Active contract optative",
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 186
+}

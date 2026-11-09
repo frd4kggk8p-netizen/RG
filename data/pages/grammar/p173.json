@@ -1,0 +1,382 @@
+{
+  "running_head": "175-177 Grammar for Section 7G-H",
+  "folio": "155",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        60,
+        203,
+        153
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        185,
+        185,
+        196,
+        222
+      ],
+      "margin_number": 175,
+      "speaker": null,
+      "text": "Reflexive forms are used when ‘me’, ‘you’, ‘him’, etc. refer to the same person as the subject of the clause e.g. μὴ ἀπόκτεινε σεαυτόν ‘don’t kill yourself/commit suicide!’. In further clauses, they can refer to the subject of the main verb of the sentence, e.g.",
+      "lang": "en",
+      "para_no": 175,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        212,
+        237,
+        225,
+        613
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ ᾿Αμαζὼν ἔπεισε τὸν ἄνδρα ἑαυτήν/αὐτὴν λύειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        235,
+        237,
+        248,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘The Amazon persuaded the man to release her’ (i.e. the Amazon).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        257,
+        237,
+        270,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ ᾿Αμαζὼν ἔπεισε τὸν ἄνδρα αὐτὴν λύειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        280,
+        237,
+        292,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘The Amazon persuaded the man to release her’ (i.e. another woman).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        302,
+        185,
+        313,
+        264
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Same’",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        321,
+        185,
+        332,
+        222
+      ],
+      "margin_number": 176,
+      "speaker": null,
+      "text": "αὐτός preceded by the definite article is an adjective meaning ‘same’, e.g.",
+      "lang": "en",
+      "para_no": 176,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        347,
+        265,
+        360,
+        408
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ αὐτὸς νεανίας",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        347,
+        501,
+        360,
+        634
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘the same youth’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        386,
+        179,
+        397,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        412,
+        185,
+        532,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 3. Translate into English:\n1. τὸν ἄνδρα εἶδον\n2. αὐτὸν εἶδον\n3. τὸν ἄνδρα αὐτὸν εἶδον\n4. αὐτὸς τὸν ἄνδρα αὐτὸν εἶδον\n5. αὐτὸς τὸν αὐτὸν ἄνδρα εἶδον\n6. αὐτὸς τὸν αὐτὸν εἶδον\n7. αὐτὸς αὐτὸν εἶδεν\n8. αὐτὸς ἐποίησε τὸ αὐτὸ πρᾶγμα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 3",
+        "instruction": "Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "τὸν ἄνδρα εἶδον"
+          },
+          {
+            "n": "2",
+            "prompt": "αὐτὸν εἶδον"
+          },
+          {
+            "n": "3",
+            "prompt": "τὸν ἄνδρα αὐτὸν εἶδον"
+          },
+          {
+            "n": "4",
+            "prompt": "αὐτὸς τὸν ἄνδρα αὐτὸν εἶδον"
+          },
+          {
+            "n": "5",
+            "prompt": "αὐτὸς τὸν αὐτὸν ἄνδρα εἶδον"
+          },
+          {
+            "n": "6",
+            "prompt": "αὐτὸς τὸν αὐτὸν εἶδον"
+          },
+          {
+            "n": "7",
+            "prompt": "αὐτὸς αὐτὸν εἶδεν"
+          },
+          {
+            "n": "8",
+            "prompt": "αὐτὸς ἐποίησε τὸ αὐτὸ πρᾶγμα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 13,
+      "bbox": [
+        549,
+        185,
+        668,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7G-H: 4. Translate each of the words in brackets into Greek using a version of αὐτός ἡ ὁ:\n1. τὸν ἄνδρα (same)\n2. ἆρ᾽ εἶδες (them, f.)\n3. ἦλθε (herself)\n4. ἔλαβεν (him)\n5. ἀφίκοντο (themselves, m.)\n6. τὴν γυναῖκα (herself)\n7. οἱ νόμοι (same)\n8. εἶδεν (it)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7G-H: 4",
+        "instruction": "Translate each of the words in brackets into Greek using a version of αὐτός ἡ ὁ:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "τὸν ἄνδρα (same)"
+          },
+          {
+            "n": "2",
+            "prompt": "ἆρ᾽ εἶδες (them, f.)"
+          },
+          {
+            "n": "3",
+            "prompt": "ἦλθε (herself)"
+          },
+          {
+            "n": "4",
+            "prompt": "ἔλαβεν (him)"
+          },
+          {
+            "n": "5",
+            "prompt": "ἀφίκοντο (themselves, m.)"
+          },
+          {
+            "n": "6",
+            "prompt": "τὴν γυναῖκα (herself)"
+          },
+          {
+            "n": "7",
+            "prompt": "οἱ νόμοι (same)"
+          },
+          {
+            "n": "8",
+            "prompt": "εἶδεν (it)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 14,
+      "bbox": [
+        684,
+        185,
+        696,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δύναμαι ‘I AM ABLE, CAN’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        705,
+        185,
+        716,
+        222
+      ],
+      "margin_number": 177,
+      "speaker": null,
+      "text": "Note the -α- dominated δύναμαι, ‘I am able, can’. The stem is δυνα-. Instead of taking the thematic vowel and being a contract verb, it is athematic: the endings are simply added to the stem. You should learn this verb now as you will meet other verbs that conjugate in the same way (such as ἀνίσταμαι, ‘I get up, emigrate’: 187):",
+      "lang": "en",
+      "para_no": 177,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 173
+}

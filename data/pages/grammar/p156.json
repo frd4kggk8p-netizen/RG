@@ -1,0 +1,254 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "138 / 160-161",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        193,
+        307,
+        306
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Declension",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        193,
+        137,
+        915
+      ],
+      "margin_number": 160,
+      "speaker": null,
+      "text": "160. Irregular comparative adjectives in -(ι)ων decline like εὔφρων, ‘well-disposed’ (82), i.e.:",
+      "lang": "mixed",
+      "para_no": 160,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        193,
+        193,
+        442,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμείνων ἄμεινον (ἀμεινον-) ‘better’ (comparative of ἀγαθός)\ns.\nm./f.\nn.\nNom. ἀμείνων\nἄμεινον\nAcc. ἀμείνων-α or ἀμείνω\nἄμεινον\nGen. ἀμείνον-ος\nἀμείνον-ος\nDat. ἀμείνον-ι\nἀμείνον-ι\npl.\nm./f.\nn.\nNom. ἀμείνον-ες or ἀμείνους*\nἀμείνον-α or ἀμείνω\nAcc. ἀμείνον-ας or ἀμείνους*\nἀμείνον-α or ἀμείνω\nGen. ἀμείνον-ων\nἀμείνον-ων\nDat. ἀμείνοσι(ν)\nἀμείνοσι(ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 4,
+      "bbox": [
+        460,
+        193,
+        474,
+        672
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* More will be said about these irregular, and other, forms at 181.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        502,
+        193,
+        515,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        530,
+        193,
+        649,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7A-C: 3",
+        "instruction": "Add the correct comparative and superlative forms of the quoted adjectives to the following phrases, and translate:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τὸν (πολέμιος) ναύτην"
+          },
+          {
+            "n": "2.",
+            "prompt": "(βέβαιος) λιμένας"
+          },
+          {
+            "n": "3.",
+            "prompt": "τὴν (ἀγαθός) θεάν"
+          },
+          {
+            "n": "4.",
+            "prompt": "αἱ (πολύς) νῆες"
+          },
+          {
+            "n": "5.",
+            "prompt": "οἱ (μέγας) βασιλῆs"
+          },
+          {
+            "n": "6.",
+            "prompt": "τὰς (κακός) γυναῖκας"
+          },
+          {
+            "n": "7.",
+            "prompt": "τὸ (καλός) ἄστυ"
+          },
+          {
+            "n": "8.",
+            "prompt": "ἡ (δῆλος) ἀνομία"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        658,
+        193,
+        786,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7A-C: 4",
+        "instruction": "Add the correct comparative and superlative forms of the quoted adjectives to the following phrases, and translate:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "τῷ (πολέμιος) ναύτῃ"
+          },
+          {
+            "n": "2.",
+            "prompt": "τῶν (βέβαιος) λιμένων"
+          },
+          {
+            "n": "3.",
+            "prompt": "τῆς (ἀγαθός) θεᾶς"
+          },
+          {
+            "n": "5.",
+            "prompt": "τοῖς (μέγας) βασιλεῦσι"
+          },
+          {
+            "n": "6.",
+            "prompt": "τῇ (κακός) γυναικί"
+          },
+          {
+            "n": "7.",
+            "prompt": "τοῦ (καλός) ἄστεως"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        792,
+        193,
+        811,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PAST OF εἶμι ‘I SHALL GO’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        823,
+        193,
+        836,
+        659
+      ],
+      "margin_number": 161,
+      "speaker": null,
+      "text": "161. εἶμι, ‘I shall go’, has an irregular imperfect:",
+      "lang": "mixed",
+      "para_no": 161,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 156
+}

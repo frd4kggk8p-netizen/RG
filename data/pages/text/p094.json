@@ -1,0 +1,406 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "64",
+  "blocks": [
+    {
+      "type": "stage_direction",
+      "order": 1,
+      "bbox": [
+        222,
+        65,
+        365,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(re-appears, annoyed)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        99,
+        222,
+        137,
+        792
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "διὰ τί σὺ πάλιν κόπτεις; τί ἐν νῷ ἔχεις; τὴν γὰρ ἐμὴν φροντίδα ἀπέκοψας, ποιῶν τοῦτο.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        138,
+        127,
+        187,
+        800
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ἀλλ' ἄρτι ἐπαυσάμην, ὦ ᾿γαθέ. ἐκέλευσας γὰρ σύ. μὴ οὖν ἐκβάλλε με, καίπερ ἄγροικον ὄντα καὶ ἀμαθῆ. ἀλλὰ τίς ἡ φροντίς, εἰπὲ δή.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        188,
+        125,
+        226,
+        796
+      ],
+      "margin_number": 20,
+      "speaker": "ΜΑΘ.",
+      "text": "ἀλλ' οὐ θέμις. μόνοι γὰρ μανθάνουσι τὰς τῶν σοφιστῶν φροντίδας ταύτας οἱ μαθηταί.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        227,
+        127,
+        241,
+        755
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "εἰπέ μοι οὖν. ἥκω γὰρ ἐγὼ μαθητὴς τῶν σοφιστῶν εἰς τὸ φροντιστήριον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        243,
+        127,
+        305,
+        829
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "λέξω σοι· ψύλλα γάρ τις δάκνει τὴν ⌈ Χαιρεφῶντος ᾿ὀφρῦν. ὅτε δὲ πηδᾷ ἐπὶ τὴν κεφαλὴν τὴν Σωκράτους, οὕτως διαλέγονται οἱ ἄνδρες.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        306,
+        222,
+        368,
+        903
+      ],
+      "margin_number": 25,
+      "speaker": "⌈ ΣΩΚΡΑΤΗΣ",
+      "text": "ὅρα, ὦ Χαιρεφῶν. οὐ γὰρ λανθάνει με ἡ ψύλλα ἀξία οὖσα τοῦ ᾿Ολυμπίκου ⌢ στεφάνου. ἀλλὰ λέγε, ὁπόσους ⌢ τοὺς ᾿ἑαυτῆς ⌢ πόδας ἐπήδησεν ἡ ψύλλα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        369,
+        222,
+        407,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "ΧΑΙΡΕΦΩΝ",
+      "text": "οὐκ οἶδα, ὦ Σώκρατες. ἀλλὰ διὰ τί οὐ μετροῦμεν τὸ χωρίον;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        408,
+        222,
+        421,
+        654
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "ἀλλὰ πῶς μετρήσομεν, ὦ Χαιρεφῶν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        422,
+        222,
+        461,
+        902
+      ],
+      "margin_number": 30,
+      "speaker": "ΧΑΙ.",
+      "text": "ἰδού. πρῶτον μὲν γὰρ κηρὸν λαμβάνω, εἶτα τὸν κηρὸν θερμὸν ποιῶ. τέλος δὲ τοὺς τῆς ⌢ ψύλλης πόδας εἰς τὸν κηρὸν τίθημι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        463,
+        222,
+        477,
+        432
+      ],
+      "margin_number": null,
+      "speaker": "ΣΩΚ.",
+      "text": "τί ⌢ δέ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        478,
+        222,
+        508,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "ΧΑΙ.",
+      "text": "νῦν ὁ κηρὸς ψυχρὸς γίγνεται. ἰδού, ὦ Σώκρατες. ἡ γὰρ ψύλλα ἐμβάδας ἔχει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        510,
+        222,
+        523,
+        532
+      ],
+      "margin_number": 35,
+      "speaker": "ΣΩΚ.",
+      "text": "ἀλλὰ τί νῦν ποιεῖς;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        525,
+        222,
+        540,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "ΧΑΙ.",
+      "text": "νῦν δὲ τὰς ἐμβάδας λύω. ἰδού.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        541,
+        127,
+        555,
+        592
+      ],
+      "margin_number": null,
+      "speaker": "ΣΤΡΕΨ.",
+      "text": "ὦ Ζεῦ βασιλεῦ. ὦ τῆς ⌢ σοφίας τῶν ἀνδρῶν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 16,
+      "bbox": [
+        556,
+        222,
+        573,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(admiration fades into bewilderment)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        574,
+        222,
+        589,
+        718
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "ἀλλ' εἰπέ μοι, τί ποτ' ἐποίησαν οἱ ἄνδρες, ὦ μαθητά;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        591,
+        127,
+        649,
+        829
+      ],
+      "margin_number": null,
+      "speaker": "ΜΑΘ.",
+      "text": "οὐ λανθάνεις με ἄγροικος ὤν, ὦ Στρεψιάδη, οὐ μανθάνων οὐδέν. ἀλλ' ὡς ἔλεγον, πρῶτον μὲν θερμὸν ἐποίησαν τὸν κηρόν. ἔπειτα τοὺς τῆς ⌢ ψύλλης πόδας ἔθεσαν εἰς τὸν κηρόν. τέλος δὲ τὰς ἐμβάδας ἔλυσαν καὶ ἐμέτρησαν – πῶς γὰρ οὔ; – τὸ χωρίον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 19,
+      "bbox": [
+        678,
+        230,
+        822,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "caption",
+      "order": 20,
+      "bbox": [
+        836,
+        222,
+        851,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμβάδες",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ἐμβάδες",
+      "uncertain": []
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "running_head": "Part Two: Moral decay",
+  "folio": "80",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        128,
+        68,
+        185,
+        904
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "‘εἶεν’, ἦν δ᾽ ἐγώ. ‘δεῖ οὖν ὑμᾶς προτρέπειν τουτονὶ τὸν νεανίσκον εἰς φιλοσοφίαν καὶ ἀρετήν. καλοῦσι δ᾽ αὐτὸν Κλεινίαν. ἔστι δὲ νέος, ἀλλὰ διὰ τί οὐκ ἐξετάζετε τὸν νεανίσκον, διαλεγόμενοι ἐνθάδε ἐναντίον ἡμῶν;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        188,
+        143,
+        233,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ δ᾽ Εὐθύδημος εὐθὺς ἀνδρείως ἀπεκρίνατο·\n‘βουλόμεθα δὴ ἐνθάδε διαλέγεσθαι, ὦ Σώκρατες. ἀλλὰ δεῖ τὸν νεανίσκον ἀποκρίνεσθαι.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        235,
+        128,
+        298,
+        904
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "‘ἀλλὰ μὲν δὴ δή’, ἔφην ἐγώ, ‘ὅ γε Κλεινίας ἥδεται ἀποκρινόμενος. πολλάκις γὰρ πρὸς αὐτὸν προσέρχονται οἱ φίλοι ἐρωτῶντες καὶ διαλεγόμενοι, ἀεὶ δὲ λέγοντα αὐτὸν καὶ ἀποκρινομένων ἐξετάζουσιν.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        301,
+        143,
+        327,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ὁ Εὐθύδημος, ‘ἄκουε οὖν, ὦ Κλεινία’, ἦ δ᾽ ὅς, ‘ἀκούσας δέ, ἀποκρίνου.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        329,
+        128,
+        383,
+        904
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "ὁ δὲ Κλεινίας, ‘ποιήσω τοῦτο’, ἦ δ᾽ ὅς, ‘καὶ ἀκρινοῦμαι. ἥδομαι γὰρ ἔγωγε ἀποκρινόμενος. λέγε οὖν, ὦ Εὐθύδημε, καὶ ἐξέταζε. λέγων γὰρ δήπου καὶ ἐξετάζων ὁ σοφιστὴς προτρέπει τοὺς μαθητὰς εἰς ἀρετήν.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        386,
+        143,
+        429,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ὁ Εὐθύδημος ‘εἰπὲ οὖν’, ἔφη, ‘πότεροί εἰσιν οἱ μανθάνοντες, οἱ σοφοὶ ἢ οἱ ἀμαθεῖς;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        432,
+        143,
+        477,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ὁ νεανίσκος – μέγα γὰρ ἔτυχε ὂν τὸ ἐρώτημα – ἠπόρησεν. ἀπορήσας δ᾽ ἔβλεπεν εἰς ἐμέ, καὶ ἠρυθρίασεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        479,
+        128,
+        524,
+        904
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "ἐγὼ δ᾽ ἐρυθριῶντα αὐτὸν ὁρῶν ‘μὴ φρόντιζε’, ἔφην, ‘μηδὲ φοβοῦ, ἀλλ᾽ ἀνδρείως ἀποκρίνου.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        526,
+        143,
+        582,
+        775
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ἐν τούτῳ ὁ Διονυσόδωρος ἐγέλασεν, γελάσας δέ,\n‘καὶ μήν’, ἦ δ᾽ ὅς, ‘εὖ οἶδ᾽ ὅτι Εὐθύδημος αὐτὸν νικήσει λέγων.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        585,
+        128,
+        626,
+        904
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "καὶ ἐγὼ οὐκ ἀπεκρινάμην. ὁ γὰρ Κλεινίας, ἕως ταῦτα ἔλεγεν ὁ Διονυσόδωρος, ἀποκρινάμενος ἔτυχεν ὅτι οἱ σοφοὶ εἰσιν οἱ μανθάνοντες.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        534,
+        128,
+        829,
+        345
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκούσ-ας upon hearing (nom. s. m.) (ἀκού-ω)\nἀλλὰ μὲν δὴ . . . γε but the fact is that . . .\nἀμαθεῖς ignorant (nom.)\nἀνδρεί-ως bravely\nἀπο-κρίν-ομαι answer (fut. ἀπο-κριν-οῦμαι)\nἀπο-κρίν-ἀμεν-ος in answer, answering (ἀπο-κρίν-ομαι)\nἀπορήσ-ας on being at a loss (nom. s. m.) (ἀπορέ-ω)\nἀρετ-ή, ἡ excellence, virtue (1a)\nγὰρ δήπου of course\nγε δὴ certainly\nγελά-ω (γελασ-) laugh\nγελάσ-ας on laughing, with a laugh (nom. s. m.) (γελά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        534,
+        396,
+        829,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Διονυσόδωρ-os, ὁ Dionysodoros (2a)\nεἶεν well, all right then!\nἐναντίον ἡμῶν in front of us\nἐνθάδε here\nἐρυθριά-ω blush\nἐρώτημα (ἐρωτημα-), τό question (3b)\nΕὐθύδημ-os, ὁ Euthydemos (2a)\nεὐθὺς at once\nἔ-φην (I) said (φημί)\nἔ-φη (he) said (φημί)\nἕως while\nἥδ-ομαι enjoy\nἦ δ᾽ ὅς he said\nἠρυθρίας-εν see ἐρυθριά-ω\nκαὶ μὴν look here\nΚλεινί-ας, ὁ Kleinias (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        534,
+        661,
+        829,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Κρίτων (Κριτων-), ὁ Kriton (3a)\nμηδὲ and don't\nνεανίσκ-ος, ὁ young man (2a)\nπρο-τρέπ-ω urge, impel\nτούτῳ this [interval of time]\nφιλοσοφί-α, ἡ philosophy (1b)\nVocabulary to be learnt\nἀνδρεῖος ᾱ ον brave, manly\nἀποκρίνομαι (ἀποκρῖνα-) answer\nἀρετή, ἡ virtue, excellence (1a)\nδήπου of course, surely\nἥδομαι enjoy, be pleased\nἦν δ᾽ ἐγώ I said\nἦ δ᾽ ὅς he said\nνεανίσκος, ὁ young man (2a)\nπροτρέπω urge on, impel\nφιλοσοφία, ἡ philosophy (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 110
+}

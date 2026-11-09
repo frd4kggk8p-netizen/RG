@@ -1,0 +1,776 @@
+{
+  "section": "08",
+  "notes": [
+    {
+      "line": "28",
+      "quoted": "μῶν εἰς",
+      "text": "κόρακας; Joke! Cf. 6A line 4 βάλλ᾽ εἰς κόρακας.",
+      "src": {
+        "book": "guide",
+        "printed_page": "102",
+        "pdf_page": 116
+      }
+    }
+  ],
+  "translations": [
+    {
+      "passage": "8A",
+      "text": "Translation for 8A",
+      "src": {
+        "book": "guide",
+        "printed_page": "102",
+        "pdf_page": 116
+      }
+    },
+    {
+      "passage": "8A",
+      "text": "Translation for 8B",
+      "src": {
+        "book": "guide",
+        "printed_page": "103",
+        "pdf_page": 117
+      }
+    },
+    {
+      "passage": "8A",
+      "text": "Translation for 8C",
+      "src": {
+        "book": "guide",
+        "printed_page": "105",
+        "pdf_page": 119
+      }
+    }
+  ],
+  "answers": [
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "1.",
+      "answer": "lawlessness                             τῆς ἀνομίας, τῶν ἀνομιῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "2.",
+      "answer": "peace                                   τῆς εἰρήνης, τῶν εἰρηνῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "3.",
+      "answer": "market-place                            τῆς ἀγορᾶς, τῶν ἀγορῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "4.",
+      "answer": "assembly                                τῆς ἐκκλησίας, τῶν ἐκκλησιῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "5.",
+      "answer": "battle                                  τῆς μάχης, τῶν μαχῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "6.",
+      "answer": "voice                                   τῆς φωνῆς, τῶν φωνῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 1",
+      "item": "7.",
+      "answer": "virtue, courage                         τῆς ἀρετῆς, τῶν ἀρετῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 2",
+      "item": "1.",
+      "answer": "citizen                                 τοῦ πολίτου, τῶν πολιτῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 2",
+      "item": "2.",
+      "answer": "juror                                   τοῦ δικαστοῦ, τῶν δικαστῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 2",
+      "item": "3.",
+      "answer": "poet                                    τοῦ ποιητοῦ, τῶν ποιητῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 2",
+      "item": "4.",
+      "answer": "a sophist                               τοῦ σοφιστοῦ, τῶν σοφιστῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 3",
+      "item": "1.",
+      "answer": "trireme                                 τῆς τριήρους, τῶν τριηρῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 3",
+      "item": "2.",
+      "answer": "Socrates                                τοῦ Σωκράτους",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 3",
+      "item": "3.",
+      "answer": "relation, kinsman                       τοῦ συγγενοῦς, τῶν συγγενῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 3",
+      "item": "4.",
+      "answer": "Pericles                                τοῦ Περικλέους",
+      "src": {
+        "book": "guide",
+        "printed_page": "106",
+        "pdf_page": 120
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "1.",
+      "answer": "μετὰ τοῦ Σωκράτους",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "2.",
+      "answer": "ἀπὸ τῆς ἐκκλησίας",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "3.",
+      "answer": "διὰ τοῦ πλήθους",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "4.",
+      "answer": "ἐκ τοῦ πλοίου",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "5.",
+      "answer": "καταδικάζω τοῦ ἀνθρώπου",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "6.",
+      "answer": "ἀκούω τῆς γυναικός",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11",
+      "item": "7.",
+      "answer": "λαμβάνομαι τοῦ πολίτου",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "8.",
+      "answer": "ἄξιος τῆς ἀρετῆς",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "9.",
+      "answer": "αἴτιος τῆς ἀνομίας",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "10.",
+      "answer": "μετὰ τοῦ κήρυκος",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "11.",
+      "answer": "διὰ τοῦ ποταμοῦ",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "12.",
+      "answer": "περὶ τοῦ νόμου",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "13.",
+      "answer": "ἀπὸ τῶν Ἀθηνῶν",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "8A-C: 11 (cont)",
+      "item": "14.",
+      "answer": "ἐκ τῆς οἰκίας",
+      "src": {
+        "book": "guide",
+        "printed_page": "108",
+        "pdf_page": 122
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "7.",
+      "answer": "ὁρῷη ἄν",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "8.",
+      "answer": "πείθοιτε ἄν",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "9.",
+      "answer": "φυλάττοιμεν ἄν",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "10.",
+      "answer": "πείθοιντο ἄν",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "1.",
+      "answer": "you (s.) leave",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "2.",
+      "answer": "he/she is able",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "3.",
+      "answer": "leaving (n.m.s.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "4.",
+      "answer": "to be able",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "5.",
+      "answer": "you (pl.) leave, leave!",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "6.",
+      "answer": "they are able",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "7.",
+      "answer": "being able",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "8.",
+      "answer": "he/she leaves",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "9.",
+      "answer": "we are able",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "10.",
+      "answer": "to leave",
+      "src": {
+        "book": "guide",
+        "printed_page": "110",
+        "pdf_page": 124
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "1",
+      "answer": "μένοις ἂν You could wait",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "2",
+      "answer": "λέγοιμι ἂν I might speak",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "3",
+      "answer": "βουλοίμεθα ἂν We would like to",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "4",
+      "answer": "πείθοισθε ἂν You would obey",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "5",
+      "answer": "ἀποκρινοῖν ἂν You could answer",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "6",
+      "answer": "κελεύοις ἂν You would order",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "7",
+      "answer": "παυοίμην ἂν I could stop",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "8",
+      "answer": "φέροιμεν ἂν We would carry",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "a (i)",
+      "answer": "The foreigner sits on the altar. (ἐπί + gen.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "a (ii)",
+      "answer": "The ship goes towards the enemy. (ἐπί + acc.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "b (i)",
+      "answer": "I shall go tomorrow into the agora with my friends. (μετά + gen.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "b (ii)",
+      "answer": "After this I shall go back home. (μετά + acc.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "c (i)",
+      "answer": "The ship sails past the island. (παρά + acc.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "c (ii)",
+      "answer": "The sophist receives much money from the pupils. (παρά + gen.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "d (i)",
+      "answer": "The slave ran towards us, forcing his way through the crowd. (διά + gen.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "d (ii)",
+      "answer": "My wife is afraid of the city because of the plague. (διά + acc.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "1",
+      "answer": "Διονυσόδωρος καλλίων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "2",
+      "answer": "Διονυσόδωρος μείζων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "3",
+      "answer": "Διονυσόδωρος κακοδαιμονέστερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "4",
+      "answer": "Διονυσόδωρος εὐφρονέστερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "5",
+      "answer": "Διονυσόδωρος ἀμείνων ἐστὶν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "6",
+      "answer": "Διονυσόδωρος μωρότερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "4",
+      "item": "7",
+      "answer": "Διονυσόδωρος σοφώτερός ἐστιν Εὐθύδσμου\nἢ Εὐθύδημος",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "1",
+      "answer": "The herald's son listens to the speaker.\nὁ παῖς ὁ τοῦ ἀνδρὸς τῆς τοῦ ῥαψῳδοῦ χειρὸς λαμβάνεται.",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "2",
+      "answer": "Who is responsible for this lawlessness, which is so dreadful?\nτίς ἐστιν αἴτιος ἐκείνων τῶν βοῶν, μεγίστων οὐσῶν;",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "3",
+      "answer": "Since we are Athenians we are worth much.\nσοφιστὴς ὤν, οὐδενὸς ἄξιος εἶ.",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "4",
+      "answer": "Why do you say that no one is wiser than Socrates?\nδιὰ τί οἱ ῥήτορες πλουσιώτεροί εἰσιν ἢ τὸ τῆς πόλεως πλῆθος/[no ἢ]\nτοῦ τῆς πόλεως πλῆθος; εἰπέ μοι.",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "5",
+      "answer": "We made our way through the city of the Lacedemonians.\nπολλὰ κακὰ παθόντες πρὸς τοὺς Πέρσας ἐμαχεσάμεθα ὑπὲρ τῆς\nἐλευθερίας.",
+      "src": {
+        "book": "guide",
+        "printed_page": "111",
+        "pdf_page": 125
+      }
+    },
+    {
+      "exercise_id": "EXERCISE",
+      "item": "1.",
+      "answer": "(a) aorist (b) aorist (c) present (d) aorist (e) aorist (f) present (g) present (h) present",
+      "src": {
+        "book": "guide",
+        "printed_page": "112",
+        "pdf_page": 126
+      }
+    },
+    {
+      "exercise_id": "EXERCISE",
+      "item": "2.",
+      "answer": "(a) genitive (b) genitive (c) accusative (d) nominative (e) genitive (f) accusative",
+      "src": {
+        "book": "guide",
+        "printed_page": "112",
+        "pdf_page": 126
+      }
+    }
+  ]
+}

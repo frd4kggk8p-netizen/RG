@@ -1,0 +1,373 @@
+{
+  "running_head": "179-180 Grammar for Section 8A-C",
+  "folio": "163",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        257,
+        75,
+        423,
+        760
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9. βέλτιστος\n10. σός\n11. πολύς (N.B. irregular stem)\n12. οὗτος* (N.B. irregular stem)\n* Position def. art. correctly with these words.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        184,
+        185,
+        234,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 6. Give the meaning and gen. s. and pl. (with def. art.) of the following type 3c nouns:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following type 3c nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "πάθος"
+          },
+          {
+            "n": "2",
+            "prompt": "πλῆθος"
+          },
+          {
+            "n": "3",
+            "prompt": "τεῖχος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        243,
+        185,
+        362,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 7. Give the meaning and gen. s. and pl. of the following 3a-b type nouns:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7",
+        "instruction": "Give the meaning and gen. s. and pl. of the following 3a-b type nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "πρᾶγμα"
+          },
+          {
+            "n": "2",
+            "prompt": "κῆρυξ"
+          },
+          {
+            "n": "3",
+            "prompt": "κτῆμα"
+          },
+          {
+            "n": "4",
+            "prompt": "ῥήτωρ"
+          },
+          {
+            "n": "5",
+            "prompt": "γέρων"
+          },
+          {
+            "n": "6",
+            "prompt": "πούς"
+          },
+          {
+            "n": "7",
+            "prompt": "φροντίς"
+          },
+          {
+            "n": "8",
+            "prompt": "χρῆμα"
+          },
+          {
+            "n": "9",
+            "prompt": "δαίμων"
+          },
+          {
+            "n": "10",
+            "prompt": "γυνή"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        379,
+        185,
+        501,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 8. Give the meaning and gen. s. and pl. in all genders of the following type 3rd declension and '3-1-3' adjectives/participles:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8",
+        "instruction": "Give the meaning and gen. s. and pl. in all genders of the following type 3rd declension and '3-1-3' adjectives/participles:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "κακοδαίμων"
+          },
+          {
+            "n": "2",
+            "prompt": "ἰών"
+          },
+          {
+            "n": "3",
+            "prompt": "ὤν"
+          },
+          {
+            "n": "4",
+            "prompt": "βελτίων"
+          },
+          {
+            "n": "5",
+            "prompt": "λύσας"
+          },
+          {
+            "n": "6",
+            "prompt": "χείρων"
+          },
+          {
+            "n": "7",
+            "prompt": "τις"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        517,
+        185,
+        638,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 9. Give the meaning and gen. s. and pl. (with def. art. [where meaningful]) of the following:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art. [where meaningful]) of the following:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Ζεύς"
+          },
+          {
+            "n": "2",
+            "prompt": "ἐγώ"
+          },
+          {
+            "n": "3",
+            "prompt": "ναῦς"
+          },
+          {
+            "n": "4",
+            "prompt": "βασιλεύς"
+          },
+          {
+            "n": "5",
+            "prompt": "σύ"
+          },
+          {
+            "n": "6",
+            "prompt": "ὀφρῦς"
+          },
+          {
+            "n": "7",
+            "prompt": "γραῦς"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        642,
+        185,
+        770,
+        897
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "8A-C: 10. Give the meaning and gen. s. and pl. (with def. art.) of the following:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10",
+        "instruction": "Give the meaning and gen. s. and pl. (with def. art.) of the following:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "δικαστής"
+          },
+          {
+            "n": "2",
+            "prompt": "παῖς"
+          },
+          {
+            "n": "3",
+            "prompt": "ἥλιος"
+          },
+          {
+            "n": "4",
+            "prompt": "οἴκησις"
+          },
+          {
+            "n": "5",
+            "prompt": "κτῆμα"
+          },
+          {
+            "n": "6",
+            "prompt": "διάνοια"
+          },
+          {
+            "n": "7",
+            "prompt": "ἱερόν"
+          },
+          {
+            "n": "8",
+            "prompt": "ἄστυ"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        766,
+        185,
+        790,
+        404
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "USES OF THE GENITIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        800,
+        185,
+        814,
+        719
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "180. The most common uses of the genitive are as follows:",
+      "lang": "en",
+      "para_no": 180,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        827,
+        185,
+        842,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) To correspond to English phrases introduced by 'of' in such senses as:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        862,
+        185,
+        922,
+        846
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "▪ (i) possession, e.g.\nἡ τοῦ Δικαιοπόλεως οἰκία 'the house of [belonging to] Dikaiopolis'",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 181
+}

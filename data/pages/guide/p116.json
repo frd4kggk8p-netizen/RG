@@ -1,0 +1,428 @@
+{
+  "running_head": "Section 8A",
+  "folio": "102",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        154,
+        75,
+        172,
+        898
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "κυρία ἐκκλησία There was a ‘sovereign’ assembly once a month unless additional emergency ones were needed. κύριος is a word with a wide range of meanings, all of which are concerned with authority or power. The head of the family is ὁ κύριος, and the word is also used in the New Testament for Jesus Christ.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        191,
+        208,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 92",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        211,
+        154,
+        227,
+        736
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "28 μῶν εἰς κόρακας; Joke! Cf. 6A line 4 βάλλ᾽ εἰς κόρακας.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        230,
+        156,
+        246,
+        421
+      ],
+      "margin_number": 29,
+      "speaker": null,
+      "text": "ἀνιστάμεθα See GE p. 170, #187.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        249,
+        154,
+        347,
+        881
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "λέγοιτ᾽ ἄν This is a new mood, called the optative (GE pp. 167–169, #183–186). Don’t try to learn it now, but you may want to start making a chart to fill in. You can usually recognise it easily because of -οι- in the ending. The optative + ἄν means ‘could’ or ‘would’. It is called the potential optative.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        351,
+        155,
+        367,
+        447
+      ],
+      "margin_number": 31,
+      "speaker": null,
+      "text": "ἂν ἀκούοιμι Another one.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        371,
+        154,
+        444,
+        888
+      ],
+      "margin_number": 32,
+      "speaker": null,
+      "text": "λέγοιμι ἄν And another.\nἀπράγμονα ἀ-πράγμων = ‘not busy’ or more often ‘not meddlesome’, or ‘trouble-free’. It is the opposite of πολυπράγμων ‘meddling’. Cf. πράττω and πρᾶγμα.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        469,
+        190,
+        483,
+        361
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 8A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        492,
+        190,
+        603,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Dikaiopolis, having observed the lawlessness of the Eleven and having heard the words of the suppliant, goes away through the crowd of citizens towards the agora with the rhapsode. And Euelpides the son of Polemarchos sees him going away with the rhapsode towards the market-place. Having seen them, he sends his slave to them. Thus Euelpides’ slave approaches Dikaiopolis and shouts, as he comes up.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        621,
+        88,
+        634,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "SLAVE",
+      "text": "Wait, Dikaiopolis, wait!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        637,
+        88,
+        651,
+        722
+      ],
+      "margin_number": null,
+      "speaker": "DIKAIOPOLIS",
+      "text": "What shout is that? Who is responsible for that shout?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        657,
+        190,
+        672,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The slave runs up and grabs his tunic.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        678,
+        88,
+        690,
+        368
+      ],
+      "margin_number": null,
+      "speaker": "SL.",
+      "text": "I was the cause of the shouting.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        696,
+        88,
+        710,
+        789
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "Who are you, and why are you holding my tunic, my good fellow?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        715,
+        88,
+        727,
+        269
+      ],
+      "margin_number": null,
+      "speaker": "SL.",
+      "text": "I am a slave.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        734,
+        88,
+        747,
+        560
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "But whose slave are you? Who sent you?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        753,
+        88,
+        790,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "SL.",
+      "text": "I am the slave of Euelpides, and he happened to send me. For Euelpides, the son of Polemarchos, greets you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        796,
+        88,
+        807,
+        339
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "But where is he?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        813,
+        88,
+        891,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "SL.",
+      "text": "Here he is, he is coming up behind. Do you not see him, running through the crowd of people? And a friend of his is following with him, Peisetairos, the son of Stilbonides. It is clear that he is running after you. But wait!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        897,
+        88,
+        910,
+        314
+      ],
+      "margin_number": null,
+      "speaker": "DIK.",
+      "text": "We will wait.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 21,
+      "bbox": [
+        916,
+        190,
+        951,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Euelpides runs up, holding a basket in his hand. He gets there before Peisetairos and taking Dikaiopolis’ hand he greets him.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 116
+}
