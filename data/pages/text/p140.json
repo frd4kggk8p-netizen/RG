@@ -1,0 +1,428 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "110",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        223,
+        75,
+        273,
+        274
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 2,
+      "bbox": [
+        108,
+        126,
+        119,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: water-clock 6.46.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        144,
+        126,
+        156,
+        513
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἆρα πάντ' ἀρέσκει σοι, πάτερ; εἰπέ μοι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        159,
+        126,
+        170,
+        521
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "πάντα δή μοι ἀρέσκει, εὖ ἴσθ' ὅτι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        173,
+        126,
+        185,
+        712
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "οὐκοῦν κάθιζε, πάτερ. ἰδού· τὴν γὰρ πρώτην δίκην καλῶ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        188,
+        126,
+        199,
+        563
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "μὴ κάλει τὴν δίκην, ὦ παῖ, ἀλλ' ἄκουσον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        202,
+        126,
+        214,
+        604
+      ],
+      "margin_number": 5,
+      "speaker": "ΒΔΕΛ.",
+      "text": "καὶ δὴ ἀκούω. τί λέγεις; ἴθι, ὦ πάτερ, λέξον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        217,
+        126,
+        250,
+        835
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ποῦ εἰσιν οἱ κάδοι; οὐ γὰρ δύναμαι τὴν ψῆφον θέσθαι ἄνευ τῶν κάδων, εὖ ἴσθ' ὅτι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 9,
+      "bbox": [
+        253,
+        126,
+        266,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐκτρέχων ἄρχεται ὁ γέρων)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        269,
+        126,
+        296,
+        314
+      ],
+      "margin_number": 10,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(shouting after him)\nοὗτος, σὺ ποῖ σπεύδεις;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        299,
+        126,
+        311,
+        458
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "κάδων ἕνεκα ἐκτρέχω.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        314,
+        126,
+        326,
+        718
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "μὴ ἄπιθι μηδαμῶς, ἀλλ' ἐμοὶ πιθοῦ καὶ ἄκουσον, ὦ πάτερ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        329,
+        126,
+        356,
+        846
+      ],
+      "margin_number": 15,
+      "speaker": "ΦΙΛ.",
+      "text": "(looking back over his shoulder)\nἀλλ' ὦ παῖ, δεῖ με τοὺς κάδους ζητήσαντα τὴν ψῆφον θέσθαι. ἀλλ' ἔασον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        359,
+        126,
+        372,
+        320
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(αὖθις ἄρχεται ἐκτρέχων)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        375,
+        126,
+        417,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(points to some cups)\nπαῦσαι ἐκτρέχων, πάτερ, ἐπειδὴ τυγχάνων ἔχων ταῦτα τὰ κυμβία. μὴ οὖν ἄπιθι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        420,
+        126,
+        451,
+        659
+      ],
+      "margin_number": 20,
+      "speaker": "ΦΙΛ.",
+      "text": "(satisfied)\nκαλῶς γε. πάντα γὰρ τὰ τοῦ δικαστηρίου πάρεστι –",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 17,
+      "bbox": [
+        454,
+        126,
+        467,
+        309
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(has a sudden thought)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        470,
+        126,
+        481,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλὴν –",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        484,
+        126,
+        497,
+        283
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "λέξον· τὸ τί;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 20,
+      "bbox": [
+        579,
+        125,
+        868,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "αἱ κλεψύδραι",
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 21,
+      "bbox": [
+        579,
+        484,
+        868,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ἡ ἀμὶς κλεψύδρα ἀρίστη",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 140
+}

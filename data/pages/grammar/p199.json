@@ -1,0 +1,461 @@
+{
+  "running_head": "190–191 Grammar for Section 9A–E",
+  "folio": "181",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        178,
+        80,
+        313,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        182,
+        185,
+        246,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 11",
+        "instruction": "Translate into Greek:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "It seems to Socrates"
+          },
+          {
+            "n": "2.",
+            "prompt": "I follow you (pl.)"
+          },
+          {
+            "n": "3.",
+            "prompt": "I meet with the king"
+          },
+          {
+            "n": "4.",
+            "prompt": "In the ships"
+          },
+          {
+            "n": "5.",
+            "prompt": "It seems to us"
+          },
+          {
+            "n": "6.",
+            "prompt": "In addition to the spectators"
+          },
+          {
+            "n": "7.",
+            "prompt": "With our help (with the help of us)"
+          },
+          {
+            "n": "8.",
+            "prompt": "I use you (s.)"
+          },
+          {
+            "n": "9.",
+            "prompt": "I follow them"
+          },
+          {
+            "n": "10.",
+            "prompt": "In the crowd"
+          },
+          {
+            "n": "11.",
+            "prompt": "For the purpose of victory"
+          },
+          {
+            "n": "12.",
+            "prompt": "In word/theory … but in fact"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        253,
+        185,
+        298,
+        331
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "TIME PHRASES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        306,
+        185,
+        345,
+        772
+      ],
+      "margin_number": 191,
+      "speaker": null,
+      "text": "Greek can express the idea of time by the use of case alone:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        362,
+        233,
+        376,
+        423
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Accusative (‘throughout’)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        386,
+        218,
+        419,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The acc. case expresses a length of time, the time throughout which something happens (often expressed in English by ‘for’), e.g.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        428,
+        248,
+        467,
+        863
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔμενεν ἐν τῇ οἰκίᾳ δέκα ἡμέρας ‘he stayed in the house for 10 days’\nκαθεύδει ὅλην τὴν νύκτα ‘he sleeps (for) the whole night’",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        486,
+        233,
+        501,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Genitive (‘within’)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        510,
+        218,
+        543,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The gen. case expresses time within which something happens (generally expressed in English by ‘during’, ‘in the course of’, ‘within’ or simply ‘in’), e.g.",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        552,
+        248,
+        607,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς νυκτὸς κρίνει ‘he judges during the night/in (the course of) the night’\nἐπάνειμι δέκα ἡμερῶν ‘I shall return within/in ten days’",
+      "lang": "mixed",
+      "para_no": 5,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        626,
+        233,
+        642,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Dative (‘on’)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        651,
+        218,
+        683,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The dat. case expresses the point of time at which something happens (English ‘at, on’), e.g.",
+      "lang": "en",
+      "para_no": 6,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        693,
+        248,
+        752,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ ὑστεραίᾳ ἀπῆλθεν ‘he left on the following day’\nἐπανῆλθε τῇ τρίτῃ ἡμέρᾳ ‘he returned on the third day’, i.e. two days later",
+      "lang": "mixed",
+      "para_no": 7,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        768,
+        218,
+        783,
+        523
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A visual representation may help:",
+      "lang": "en",
+      "para_no": 8,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        794,
+        250,
+        831,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The acc. case (length of time)\nmay be considered",
+      "lang": "en",
+      "para_no": 9,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        790,
+        572,
+        802,
+        691
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "as a line _________",
+      "lang": "en",
+      "para_no": 10,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        808,
+        250,
+        822,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The gen. case",
+      "lang": "en",
+      "para_no": 11,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        808,
+        572,
+        858,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "as a circle ◯ (the action is taking\nplace somewhere within the circle but\none doesn't know where.)",
+      "lang": "en",
+      "para_no": 12,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        865,
+        250,
+        878,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The dat. case (‘point at which’)",
+      "lang": "en",
+      "para_no": 13,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        865,
+        572,
+        877,
+        655
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "as a dot •.",
+      "lang": "en",
+      "para_no": 14,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 199
+}

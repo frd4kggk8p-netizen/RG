@@ -1,0 +1,348 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "190",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        257,
+        114,
+        469,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέγε τοῖς θεαταῖς    ‘speak to the spectators’\nπαρέχει μοι τοῦτο    ‘he offers this to me’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        193,
+        203,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "[N.B. In English if the indirect object is sandwiched between the verb and direct object the word ‘to’ is omitted: for example, the last sentence could also be translated ‘he offers this to me’.]",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        193,
+        193,
+        209,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) To express the idea of possession with the verb ‘to be’, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        223,
+        257,
+        240,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔστι μοι πατήρ    (lit.) ‘there is to me a father’, i.e. ‘I have a father’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        252,
+        193,
+        283,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) To show the means by which or instrument with which something is achieved, usually expressed in English with ‘by’, ‘by means of’ or ‘with’, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        297,
+        257,
+        329,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φυλάττομεν τὸν γέροντα τοῖς δικτύοις    ‘we guard the old man with the nets’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        343,
+        193,
+        379,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(d) To show the way in which something is done (rather like an adverb), again usually expressed by the English ‘with’, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        392,
+        257,
+        408,
+        803
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πολλῇ σπουδῇ    ‘with much enthusiasm, enthusiastically’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        422,
+        193,
+        435,
+        526
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(e) Certain verbs take the dat., e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        449,
+        257,
+        558,
+        742
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χράομαι    ‘I use, have to do with, treat’\nπείθομαι    ‘I obey, trust in’\nἐμπίπτω    ‘I fall on, attack’\nἐντυγχάνω    ‘I meet with’\nἕπομαι    ‘I follow’\nδοκεῖ (μοι)    ‘it seems a good idea (to me)’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        573,
+        193,
+        587,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(f) Certain adjectives take the dat., e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        600,
+        257,
+        617,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅμοιος    ‘resembling, like, the same as’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        631,
+        193,
+        646,
+        401
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(g) With prepositions, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        660,
+        257,
+        743,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐν    ‘in’\nἐπί    ‘on, for the purpose of’\nπαρά    ‘with, near’\nπρός    ‘near, in addition to’\nσύν    ‘with (the help of)’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        763,
+        226,
+        796,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that ἐπί, παρά and πρός have different meanings depending on the case they take. See 390.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        813,
+        193,
+        827,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(h) Note the two expressions:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        839,
+        257,
+        919,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) αὐτοῖς τοῖς κανθηλίοις    ‘baggage and all’\n(b) λόγῳ μέν ... ἔργῳ δέ ...    ‘in theory ... but in fact ...’, i.e. outwardly something appears to be the case, but the reality is very different.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 198
+}

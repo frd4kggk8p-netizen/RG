@@ -1,0 +1,681 @@
+{
+  "running_head": "Revision exercises for section 10",
+  "folio": "147",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        257,
+        79,
+        79,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἱ ἄνδρες, οἳ τὰς μάχας μάχονται, οὐκ ἐθέλουσιν οὐδαμῶς τὸν πόλεμον καταλῦσαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        116,
+        230,
+        155,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "d.",
+      "table": null,
+      "exercise": {
+        "id": "d",
+        "instruction": "What is this? What do you want to say?",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        158,
+        257,
+        172,
+        731
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί ἐστι τοῦτο ὃ ἐθέλεις λέγειν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        178,
+        230,
+        218,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "e.",
+      "table": null,
+      "exercise": {
+        "id": "e",
+        "instruction": "The women want to hear the words. Lysistrata speaks the words.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        221,
+        257,
+        239,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱ γυναῖκες ἐθέλουσιν ἀκούειν τοὺς λόγους οὓς λέγει Λυσιστράτη.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        242,
+        231,
+        281,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "f.",
+      "table": null,
+      "exercise": {
+        "id": "f",
+        "instruction": "The old women hold the Acropolis. I can see the old women.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        284,
+        257,
+        301,
+        765
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱ γρᾶες ἔχουσι τὴν ἀκρόπολιν ἃς ἐγὼ ἰδεῖν δύναμαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        305,
+        230,
+        344,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "g.",
+      "table": null,
+      "exercise": {
+        "id": "g",
+        "instruction": "Where is Kinesias? Myrrhine is his wife.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        348,
+        257,
+        364,
+        676
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποῦ ἐστι Κινησίας οὗ Μυρρίνη ἐστὶν ἡ γυνή;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        368,
+        230,
+        408,
+        811
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "h.",
+      "table": null,
+      "exercise": {
+        "id": "h",
+        "instruction": "Where are the old women? It is their task to guard the money.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        411,
+        257,
+        429,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποῦ αἱ γρᾶες ὧν τὸ ἔργον ἐστὶ φυλάττειν τὰ χρήματα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        432,
+        230,
+        471,
+        730
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "i.",
+      "table": null,
+      "exercise": {
+        "id": "i",
+        "instruction": "Do you recognise the man? The man is approaching.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        474,
+        257,
+        492,
+        655
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἆρα γιγνώσκεις τὸν ἄνδρα ὃς προσέρχεται;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 14,
+      "bbox": [
+        496,
+        230,
+        535,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "j.",
+      "table": null,
+      "exercise": {
+        "id": "j",
+        "instruction": "We must keep peace. Peace is the cause of many good things.",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        538,
+        257,
+        555,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεῖ ἡμᾶς εἰρήνην ἄγειν ἢ αἰτία ἐστὶ πολλῶν καλῶν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 16,
+      "bbox": [
+        403,
+        191,
+        417,
+        440
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 17,
+      "bbox": [
+        430,
+        192,
+        582,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": "1.",
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἆρα αἱ γυναῖκες ἀφέξονται τῶν δώρων ἃ οἱ ἄνδρες δώσουσιν αὐταῖς;"
+          },
+          {
+            "n": "2",
+            "prompt": "οὗτοι οἱ φύλακες, ἀμελεῖς ὄντες, οὐδεμία σπουδῇ φυλάττουσιν."
+          },
+          {
+            "n": "3",
+            "prompt": "αἱ γρᾶες μηχανὴν μηχανῶνται ἣπερ τὰ τείχη λήψονται."
+          },
+          {
+            "n": "4",
+            "prompt": "δοκεῖ ἡμῖν, αἱ γυναῖκες ἐσμεν (γυναιξὶν οὖσαι), καταλῦσαι τὸν πόλεμον."
+          },
+          {
+            "n": "5",
+            "prompt": "ἆρ' οὐδεὶς ἀναγκάσει τοὺς ἄνδρας παύεσθαι τοῦ πολέμου;"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        584,
+        192,
+        597,
+        203
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        603,
+        86,
+        638,
+        755
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣΙΣΤΡΑΤΗ",
+      "text": "δεῖ ἡμᾶς, τὸν πόλεμον καταλυσάσας, σπονδὰς ποιεῖσθαι, καὶ πείσομεν τοὺς ἄνδρας, ὧν τὸ ἔργον ἐστὶ μάχεσθαι, ποιεῖν ἃ ἐθέλομεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        640,
+        86,
+        672,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "ΓΥΝΗ",
+      "text": "κἀγὼ δὴ ἐθελήσαιμ’ ἄν. ἀλλὰ πῶς (τίνι τρόπῳ) ἔξεστιν ἡμῖν, γυναιξὶν οὖσαι, τοῦτο ποιεῖν; εἰπέ μοι ἃ ἐν νῷ ἔχεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        677,
+        86,
+        688,
+        485
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "ἆρα ποιησαιτ’ ἂν ἃ κελεύω;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        693,
+        86,
+        706,
+        366
+      ],
+      "margin_number": null,
+      "speaker": "ΓΥΝΑΙΚΕΣ",
+      "text": "ποιήσαιμεν ἄν, νὴ Δία.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        711,
+        86,
+        747,
+        887
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "χαλεπὴ οὖσα τυγχάνει ἡ μηχανή, ἣν ἐν νῷ ἔχω. ἀκούετε οὖν τοὺς λόγους οὓς λέγω, καὶ πίθεσθε. δεῖ τοίνυν ἡμᾶς ἀπέχεσθαι πάσας τῶν ἀφροδισίων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        753,
+        86,
+        766,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥΡΡΙΝΗ",
+      "text": "οὐ ποιήσω τοῦτο οὐδαμῶς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        770,
+        86,
+        783,
+        266
+      ],
+      "margin_number": null,
+      "speaker": "ΚΛΕΟΝΙΚΗ",
+      "text": "οὐδ’ ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        788,
+        86,
+        800,
+        489
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "ἆρ’ ἐστὶν ἥτις ποιήσει ἃ κελεύω;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        805,
+        86,
+        841,
+        825
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΜΠΙΤΩ",
+      "text": "ἀλλὰ δεῖ ἡμᾶς εἰρήνην ἄγειν, παυσάσας τοὺς ἄνδρας οἳ τὰς μάχας μάχονται. ἐγὼ οὖν συμψηφιοῦμαί σοι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        846,
+        86,
+        858,
+        570
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "ἀλλ’, ὦ φίλη Λαμπιτώ, δός μοι τὴν χεῖρα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        863,
+        86,
+        876,
+        237
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΜ.",
+      "text": "ἰδού.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        881,
+        86,
+        894,
+        835
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "ἄπιθι δῆτα πρὸς τὴν Λακεδαίμονα, καὶ πεῖσον τοὺς Λακεδαιμονίους.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        899,
+        86,
+        912,
+        303
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΜ.",
+      "text": "εὐθὺς δ’ ἄπειμι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 161
+}

@@ -1,0 +1,233 @@
+{
+  "running_head": "193–194 Grammar for Section 9A–E",
+  "folio": "183",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        80,
+        83,
+        150,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "From now on, when you meet a new irregular verb, you should get into the habit of learning its first three principal parts – 1st s. present, future and aorist indicative forms. In this way you will be able to recognize all forms of the verb that occur in your reading passages.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "right-arrow",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        183,
+        185,
+        207,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Three verbs",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        211,
+        185,
+        228,
+        907
+      ],
+      "margin_number": 194,
+      "speaker": null,
+      "text": "Note the principal parts of the verbs ἐρωτάω, ‘I ask’, λέγω, ‘I say’, and λανθάνω, ‘I escape the notice of’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 4,
+      "bbox": [
+        243,
+        186,
+        473,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Future",
+            "Aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "ἐρωτάω",
+            "ἐρωτήσω",
+            "ἠρόμην (stem ἐρ-)\n(or ἠρώτησα)"
+          ],
+          [
+            "‘I ask’",
+            "‘I shall ask’",
+            "‘I asked’"
+          ],
+          [
+            "λέγω",
+            "ἐρέω > ἐρῶ (or λέξω)",
+            "εἶπον (stem εἰπ-)\n(or ἔλεξα)"
+          ],
+          [
+            "‘I say’",
+            "‘I shall say’",
+            "‘I said’"
+          ],
+          [
+            "λανθάνω",
+            "λήσω",
+            "ἔλαβον (stem λαθ-)"
+          ],
+          [
+            "‘I escape the notice of’",
+            "‘I shall escape the notice of’",
+            "‘I escaped the notice of’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        501,
+        185,
+        517,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black-square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        522,
+        218,
+        555,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Like a number of verbs, ἐρωτάω and λέγω have both first and second aorist forms.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        584,
+        185,
+        847,
+        510
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 13",
+        "instruction": "Translate into Greek:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "He shall escape the notice of"
+          },
+          {
+            "n": "2",
+            "prompt": "They asked"
+          },
+          {
+            "n": "3",
+            "prompt": "He would be able (opt. + ἄν)"
+          },
+          {
+            "n": "4",
+            "prompt": "We shall say"
+          },
+          {
+            "n": "5",
+            "prompt": "He escaped the notice of"
+          },
+          {
+            "n": "6",
+            "prompt": "He would get up and go"
+          },
+          {
+            "n": "7",
+            "prompt": "He asked"
+          },
+          {
+            "n": "8",
+            "prompt": "They shall say"
+          },
+          {
+            "n": "9",
+            "prompt": "They would be able"
+          },
+          {
+            "n": "10",
+            "prompt": "We asked"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 201
+}

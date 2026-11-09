@@ -1,0 +1,201 @@
+{
+  "running_head": "200–201 Grammar for Section 9F–G",
+  "folio": "191",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        245,
+        269,
+        168,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "take’, tends to use the aorist forms of participle, infinitive and imperative, because ‘taking’ is the sort of thing that occurs once or at once and does not involve a long-drawn-out process. On the other hand, a verb like ζητέω, ‘I seek’, which naturally implies a process, tends to appear in the present forms of participle, infinitive and imperative.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        194,
+        185,
+        219,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "MORE PRESENT IMPERATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        230,
+        185,
+        245,
+        574
+      ],
+      "margin_number": 201,
+      "speaker": null,
+      "text": "Note the following imperative forms:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        263,
+        185,
+        649,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰμί, ‘I am’\n2s. ἴσθι ‘be!’\n2pl. ἔστε ‘be!’\n\nεἶμι, ‘I shall go’\n2s. ἴθι ‘go!’*\n2pl. ἴτε ‘go!’\n\nοἶδα, ‘I know’\n2s. ἴσθι ‘know!’\n2pl. ἴστε ‘know!’\n\nδύναμαι, ‘I am able’\n2s. δύνασο ‘be able!’\n2pl. δύνασθε ‘be able!’\n\nἀνίσταμαι, ‘I get up, emigrate’\n2s. ἀνίστασο ‘get up!’\n2pl. ἀνίστασθε ‘get up!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 5,
+      "bbox": [
+        664,
+        185,
+        679,
+        775
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* These function as present forms (like the participle ἰών ἰοῦσα ἰόν).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        704,
+        185,
+        719,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        729,
+        185,
+        850,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 3",
+        "instruction": "Translate these imperatives. Give in brackets the number and aspect (i.e. s./pl., pres./aor.):",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "μάθετε"
+          },
+          {
+            "n": "2",
+            "prompt": "λέγε"
+          },
+          {
+            "n": "3",
+            "prompt": "εἰπέ"
+          },
+          {
+            "n": "4",
+            "prompt": "παῦσον"
+          },
+          {
+            "n": "5",
+            "prompt": "ζήτει"
+          },
+          {
+            "n": "6",
+            "prompt": "μείνατε"
+          },
+          {
+            "n": "7",
+            "prompt": "γενοῦ"
+          },
+          {
+            "n": "8",
+            "prompt": "δέξαι"
+          },
+          {
+            "n": "9",
+            "prompt": "πιθοῦ"
+          },
+          {
+            "n": "10",
+            "prompt": "εύρετε"
+          },
+          {
+            "n": "11",
+            "prompt": "παύσατε"
+          },
+          {
+            "n": "12",
+            "prompt": "λῦσον"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 209
+}

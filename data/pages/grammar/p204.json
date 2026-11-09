@@ -1,0 +1,178 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "186",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        77,
+        51,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR 9A-E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        103,
+        193,
+        116,
+        518
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        121,
+        193,
+        396,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Translate the sentences, then change underlined dat. s. into pl. or vice versa, as appropriate:\n1. ἔστι πατὴρ μοι, πάνυ πονηρὸς ὤν.\n2. μέγα κακόν σοι ἐμπεσεῖται, κακοδαίμονι ὄντι.\n3. λόγῳ μὲν ἐν τῇ πόλει οὐδεὶς ἀμείνων ἐστὶ τοῦ πατρός, ἔργῳ δὲ οὐδεὶς χείρων.\n4. λέγε τῷ θεατῇ τὸν τοῦ δράματος λόγον πάσῃ προθυμίᾳ ('enthusiasm').\n5. βοαῖς χρώμεθα μεγάλαις.\n6. ἐν τοῖς πλοίοις ἔτυχον ὄντες οἱ ναῦται.\n7. τοῖς κελεύουσι δεῖ ἡμᾶς πείθεσθαι.\n8. τί τὸ ὄνομα τῷ βασιλεῖ;\n9. διὰ τί πειρᾶσθε ἀναπείθειν ἐμὲ τούτῳ τῷ λόγῳ;\n10. τῇ δ' ὑστεραίᾳ ὁ υἱὸς ἐδίωξε τὸν πατέρα πάλιν εἰς τὴν οἰκίαν τοῖς μεγάλοις δικτύοις.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate the sentences, then change underlined dat. s. into pl. or vice versa, as appropriate:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἔστι πατὴρ μοι, πάνυ πονηρὸς ὤν."
+          },
+          {
+            "n": "2",
+            "prompt": "μέγα κακόν σοι ἐμπεσεῖται, κακοδαίμονι ὄντι."
+          },
+          {
+            "n": "3",
+            "prompt": "λόγῳ μὲν ἐν τῇ πόλει οὐδεὶς ἀμείνων ἐστὶ τοῦ πατρός, ἔργῳ δὲ οὐδεὶς χείρων."
+          },
+          {
+            "n": "4",
+            "prompt": "λέγε τῷ θεατῇ τὸν τοῦ δράματος λόγον πάσῃ προθυμίᾳ ('enthusiasm')."
+          },
+          {
+            "n": "5",
+            "prompt": "βοαῖς χρώμεθα μεγάλαις."
+          },
+          {
+            "n": "6",
+            "prompt": "ἐν τοῖς πλοίοις ἔτυχον ὄντες οἱ ναῦται."
+          },
+          {
+            "n": "7",
+            "prompt": "τοῖς κελεύουσι δεῖ ἡμᾶς πείθεσθαι."
+          },
+          {
+            "n": "8",
+            "prompt": "τί τὸ ὄνομα τῷ βασιλεῖ;"
+          },
+          {
+            "n": "9",
+            "prompt": "διὰ τί πειρᾶσθε ἀναπείθειν ἐμὲ τούτῳ τῷ λόγῳ;"
+          },
+          {
+            "n": "10",
+            "prompt": "τῇ δ' ὑστεραίᾳ ὁ υἱὸς ἐδίωξε τὸν πατέρα πάλιν εἰς τὴν οἰκίαν τοῖς μεγάλοις δικτύοις."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        421,
+        193,
+        434,
+        453
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        438,
+        193,
+        693,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these pairs of sentences:\n1. ἡ διάνοια ταύτῃ τῇ γυναικὶ δεινή ἐστι.\nThis spectator's name is Philoxenos.\n2. λέγουσιν ἡμῖν καὶ τοῖς παισίν.\nHe is speaking to you and the spectators.\n3. εἰσέφερε τὸν ἄνδρα εἰς τὸ πλοῖον σὺν τοῖς ναύταις.\nThey will find sitting in the court hard to bear.\n4. ἔκλεψα τὰ χρήματα τῇ δεξιᾷ χρώμενος.\nI shut my father in by using many slaves.\n5. τὸν Σωκράτη διαφθείρει κακῇ διαβολῇ.\nThe politicians persuaded the people with fine words.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate these pairs of sentences:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἡ διάνοια ταύτῃ τῇ γυναικὶ δεινή ἐστι.\nThis spectator's name is Philoxenos."
+          },
+          {
+            "n": "2",
+            "prompt": "λέγουσιν ἡμῖν καὶ τοῖς παισίν.\nHe is speaking to you and the spectators."
+          },
+          {
+            "n": "3",
+            "prompt": "εἰσέφερε τὸν ἄνδρα εἰς τὸ πλοῖον σὺν τοῖς ναύταις.\nThey will find sitting in the court hard to bear."
+          },
+          {
+            "n": "4",
+            "prompt": "ἔκλεψα τὰ χρήματα τῇ δεξιᾷ χρώμενος.\nI shut my father in by using many slaves."
+          },
+          {
+            "n": "5",
+            "prompt": "τὸν Σωκράτη διαφθείρει κακῇ διαβολῇ.\nThe politicians persuaded the people with fine words."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 204
+}

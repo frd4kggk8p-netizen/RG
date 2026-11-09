@@ -60,9 +60,7 @@ export function initGrammar(grammarData) {
 
       if (block.caption) {
         const cap = document.createElement('h4');
-        cap.style.color = 'var(--terracotta)';
-        cap.style.marginBottom = '0.5rem';
-        cap.textContent = block.caption;
+        cap.textContent = `📋 ${block.caption}`;
         tableWrap.appendChild(cap);
       }
 
@@ -70,13 +68,15 @@ export function initGrammar(grammarData) {
       tableEl.className = 'paradigm-table';
 
       // Table Header
-      if (block.table.header && block.table.header.length) {
+      if (block.table.header && Array.isArray(block.table.header) && block.table.header.length) {
         const thead = document.createElement('thead');
         block.table.header.forEach(hRow => {
+          if (!Array.isArray(hRow)) return;
           const tr = document.createElement('tr');
           hRow.forEach(cell => {
             const th = document.createElement('th');
-            th.textContent = typeof cell === 'string' ? cell : (cell.text || '');
+            const txt = (cell && typeof cell === 'object') ? (cell.text || '') : (cell != null ? String(cell) : '');
+            th.innerHTML = formatMorphemesInTable(txt);
             tr.appendChild(th);
           });
           thead.appendChild(tr);
@@ -85,13 +85,14 @@ export function initGrammar(grammarData) {
       }
 
       // Table Rows
-      if (block.table.rows && block.table.rows.length) {
+      if (block.table.rows && Array.isArray(block.table.rows) && block.table.rows.length) {
         const tbody = document.createElement('tbody');
         block.table.rows.forEach(rRow => {
+          if (!Array.isArray(rRow)) return;
           const tr = document.createElement('tr');
           rRow.forEach(cell => {
             const td = document.createElement('td');
-            const txt = typeof cell === 'string' ? cell : (cell.text || '');
+            const txt = (cell && typeof cell === 'object') ? (cell.text || '') : (cell != null ? String(cell) : '');
             td.innerHTML = formatMorphemesInTable(txt);
             tr.appendChild(td);
           });
@@ -118,13 +119,22 @@ export function initGrammar(grammarData) {
 }
 
 function formatMorphemesInTable(text) {
-  if (!text || !text.includes('-')) return text;
-  // Split on hyphens e.g. ἔ-παυσ-α -> <span class="table-morpheme-aug">ἔ</span>-<span class="table-morpheme-stem">παυσ</span>-<span class="table-morpheme-end">α</span>
-  const parts = text.split('-');
-  if (parts.length === 3) {
-    return `<span class="table-morpheme-aug">${parts[0]}</span>-<span class="table-morpheme-stem">${parts[1]}</span>-<span class="table-morpheme-end">${parts[2]}</span>`;
-  } else if (parts.length === 2) {
-    return `<span class="table-morpheme-stem">${parts[0]}</span>-<span class="table-morpheme-end">${parts[1]}</span>`;
-  }
-  return text;
+  if (!text) return '';
+  return text.split('\n').map(line => {
+    line = line.trim();
+    if (!line) return '';
+    let escaped = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    if (escaped.includes('-') && !escaped.startsWith('‘') && !escaped.startsWith("'") && !escaped.startsWith('"') && /[α-ωΑ-Ω]/.test(escaped)) {
+      const parts = escaped.split('-');
+      if (parts.length === 3) {
+        return `<span class="table-morpheme-aug">${parts[0]}</span>-<span class="table-morpheme-stem">${parts[1]}</span>-<span class="table-morpheme-end">${parts[2]}</span>`;
+      } else if (parts.length === 2) {
+        return `<span class="table-morpheme-stem">${parts[0]}</span>-<span class="table-morpheme-end">${parts[1]}</span>`;
+      }
+    }
+    if (escaped.startsWith('‘') || escaped.startsWith("'") || escaped.startsWith('"')) {
+      return `<span class="table-cell-translation">${escaped}</span>`;
+    }
+    return escaped;
+  }).join('<br>');
 }

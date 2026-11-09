@@ -1,0 +1,88 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "196",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        194,
+        79,
+        137,
+        490
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "βλέψατε τὰς ναῦς, ὦ παῖδες.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        194,
+        139,
+        116,
+        488
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Bring out the torches, slaves!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        194,
+        149,
+        185,
+        856
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "‘εἴπετε μοι, τί βουλόμενοι τὴν θύραν ἐκόψατε;’ ‘ὅ τι· τὸν δεσπότην.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        194,
+        186,
+        162,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Out with it, what were you looking for when you ran out?’ ‘What? Everything.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 214
+}

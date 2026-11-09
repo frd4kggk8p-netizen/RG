@@ -1,0 +1,128 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "109",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        98,
+        44,
+        401,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔδ-ομαι I shall eat (fut. of ἐσθί-ω)\nἐθέλ-ω wish, want (to)\nἐκ-φέρ-ω (ἐξ-ενεγκ-) carry out\nἐνεγκ-εῖν to bring (φέρ-ω/ ἤνεγκ-ον)\nἐξ-ευρ-εῖν to discover (ἐξ-\nευρίσκ-ω/ἐξ-ηῦρ-ον)\nἐξ-ἤνεγκ-ας you (s.) brought out (aor. ἐκ-φέρ-ω)\nἐξ-οίσ-ω I shall bring out (fut. of ἐκ-φέρ-ω)\nἐσθί-ω (φαγ-) eat\nἥκ-ω come, have come\nἰού hurrah!\nκατά-σκοπ-os, ὁ scout, spy, inspector (2a)\nκατήγορος, ὁ prosecutor (2a)\nλαβ-εῖν to exact (λαμβάν-ω/ ἐ-λαβ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        98,
+        362,
+        396,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μακρ-ός -ά -όν long\nμισθ-ός, ὁ pay (2a)\nμόγις with difficulty\nοἷ-ός τ' εἰμί be able (to) (+ inf.)\nὀπόθεν from where\nὅ τι; what?\nοὔπω=οὐδέπω not yet\nπαρά (+ gen.) from\nπάντ-α everything (acc.)\nπᾶσ-ῃ προθυμί-ᾳ with all eagerness (i.e. most eagerly)\nπαύσ-ασθαι to stop; to cease from (+ gen.) (παύ-ομαι)\nποιήσ-αι to act on (ποιέ-ω)\nπῦρ (πυρ-), τό fire, brazier (3b)\nσκοπέομαι investigate, examine\nτίν-ι τρόπ-ῳ how? in what way? (τρόπ-ος, ὁ way [[2a]])\nφακ-ῆ, ἡ lentil-soup (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        98,
+        630,
+        363,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt\nἀναμένω (ἀναμεινα-) wait, hold on\nἀτάρ but\nδεινός ἤ όν clever at (+inf.); dire, terrible\nἐάω (ἐᾶσα-, aor. εἴᾶσα) allow\nἐκφέρω (ἐξενεγκ-) carry out; (often: carry for burial)\nἐνθάδε here\nἔξεστι it is possible (for X [dat.] to – [inf.])\nἐσθίω (φαγ -) eat (fut. ἔδομαι)\nὅμως nevertheless, however\nὅ τι; what? (in reply to τί;)\nχρή it is necessary/right (for X (acc.) to – [inf.])",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        424,
+        437,
+        437,
+        631
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Law-court procedure",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        459,
+        194,
+        772,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Because the court is one set up at home, Philokleon can enjoy all the home comforts he presumably would not have had in a real court – hot soup, for example, (ll. 45–7). But there are two specific items mentioned in 9G. The kados (of which there were two) was the urn in which one placed one's vote. Each juror had two ‘pebbles’ for voting. One was ‘live’. One placed one's ‘live’ one in either the innocent or guilty kados, and dropped the other pebble in the other.* The klep-sudra illustrated on p. 110 – the only one found in the Athenian agora – controlled the length of the speeches: it was filled with water, and the plug was removed when the speech began (one juror was appointed to be in charge of it). The speech had to end when the water had emptied. Both sides were thereby allotted the same time for their speeches. The illustrated klepsudra holds two χόες of water (note the two capital χs on the side), and runs out in six minutes. But we learn from Aristotle's Constitution of Athens that different sorts of cases were granted speeches of different lengths, measured in numbers of χόες – anything from three to forty-four. But we do not know whether the plugs were of the same size as the example we possess; further, that klepsudra belonged to the Antiokhis tribe (as the inscription indicates: ΑΝΤΙΟΧΙΔΟΣ, ‘of Antiokhis’), not the courts.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 6,
+      "bbox": [
+        791,
+        194,
+        803,
+        767
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "*In fact Wasps refers only to a single pebble dropped into whichever urn the juror chose.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 139
+}

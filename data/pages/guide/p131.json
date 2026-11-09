@@ -1,0 +1,628 @@
+{
+  "folio": "117",
+  "running_head": "Section 9E",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        150,
+        874,
+        185
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Smoke? But you are not like smoke coming out, as it seems to me, but more like Philokleon. What do you think, Xanthias?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        88,
+        196,
+        789,
+        217
+      ],
+      "margin_number": null,
+      "speaker": "XAN.",
+      "text": "He seems to me to be more like to no one than Philokleon, master.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        88,
+        229,
+        550,
+        251
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Here now, look for some other scheme.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        191,
+        328,
+        254,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        191,
+        400,
+        284,
+        426
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 105",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        157,
+        441,
+        691,
+        476
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "νουμηνία The first day of the month was market day.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        157,
+        485,
+        815,
+        521
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "τὸν ἡμίονον The ‘half-donkey’ is a mule, offspring of a horse and a donkey.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        157,
+        529,
+        851,
+        561
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "αὐτοῖς τοῖς κανθηλίοις ‘pack-saddle and all’. See GE p. 180, #190 (h).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        157,
+        562,
+        861,
+        629
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "ἄμεινον ἢ σύ Both this phrase and σοῦ ἄμεινον in the next line have the same meaning.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        157,
+        638,
+        691,
+        669
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "εἰσιών, ἔξαγε Note the prefixes, ‘going in, bring out ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        122,
+        677,
+        881,
+        811
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "20–21 εἰ μὴ φέρεις Ὀδυσσέα τινά ‘If you are not carrying an Odysseus’. The picture of Odysseus escaping from the Cyclops under a ram should make the reference clear.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        191,
+        813,
+        284,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 106",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        157,
+        862,
+        870,
+        927
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "Οὗτις Odysseus also tricked the Cyclops by telling him that his name was Οὗτις ‘Nobody’. (See Homer, Odyssey 9 for the story.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        157,
+        935,
+        887,
+        998
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "Ἰθακήσιος Odysseus came from Ithaka, but he was not ‘the son of runaway",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        203,
+        7,
+        725,
+        41
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Οὖτις ‘Nobody’. (See Homer, Odyssey 9 for the story.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        51,
+        46,
+        885,
+        114
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "Ἰθκήσιος Odysseus came from Ithaka, but he was not ‘the son of runaway horse’!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        51,
+        122,
+        903,
+        185
+      ],
+      "margin_number": 31,
+      "speaker": null,
+      "text": "γιγνώσκω γάρ σε πάντων πονηρότατον ὄντα ‘I know you are (participle) the most wicked of all men.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        158,
+        194,
+        804,
+        226
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "λίθων From λίθος we get ‘monolith’, ‘megalith’, ‘lithograph’, etc.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        158,
+        230,
+        611,
+        262
+      ],
+      "margin_number": 37,
+      "speaker": null,
+      "text": "ἐνέπεσε What tense? What verb? Try πίπτω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        157,
+        267,
+        898,
+        335
+      ],
+      "margin_number": 41,
+      "speaker": null,
+      "text": "φθήσεται The future of φθάνω. For the meaning of φθάνω and of λανθάνω + participle see GE p. 86, #95.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        191,
+        373,
+        357,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        89,
+        421,
+        422,
+        444
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "But open the door.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        88,
+        455,
+        539,
+        480
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "By Poseidon, Father, never at all.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        139,
+        492,
+        521,
+        517
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But it is the first of the month today.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        139,
+        529,
+        874,
+        592
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "This man is preparing a great mischief, as it seems to me at any rate. What do you think, Xanthias?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        88,
+        604,
+        401,
+        629
+      ],
+      "margin_number": null,
+      "speaker": "XANTHIAS",
+      "text": "It seems so to me too.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        139,
+        642,
+        879,
+        706
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "By Zeus, not at all, but I am coming out, since I want to sell the mule in the market-place, pack-saddle and all.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        139,
+        718,
+        796,
+        744
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "You want to sell the mule, pack-saddle and all? But I could do this.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        139,
+        756,
+        567,
+        780
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "I could do this better than you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        139,
+        794,
+        618,
+        818
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "No, by Zeus, but I [could do it] better than you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        139,
+        831,
+        501,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Well, go in and lead out the mule.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 131
+}

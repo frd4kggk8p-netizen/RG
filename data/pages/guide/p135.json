@@ -1,0 +1,320 @@
+{
+  "running_head": "Revision exercises for section 9A–E",
+  "folio": "121",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        191,
+        331,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "TIME PHRASES\n9A–E: 12",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        191,
+        341,
+        237,
+        658
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "12",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "We went away in the night."
+          },
+          {
+            "n": "2",
+            "prompt": "The suppliant stayed in the shrine for two days."
+          },
+          {
+            "n": "3",
+            "prompt": "I shall go within two days."
+          },
+          {
+            "n": "4",
+            "prompt": "He met the man on the first day."
+          },
+          {
+            "n": "5",
+            "prompt": "He was shouting all night."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        263,
+        191,
+        331,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PRINCIPAL PARTS OF VERBS\n9A–E: 13",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        340,
+        191,
+        431,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "13",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "λήσει"
+          },
+          {
+            "n": "2",
+            "prompt": "ἤροντο, ἠρώτησαν"
+          },
+          {
+            "n": "3",
+            "prompt": "δύναιτο ἄν"
+          },
+          {
+            "n": "4",
+            "prompt": "ἐροῦμεν"
+          },
+          {
+            "n": "5",
+            "prompt": "ἔλαβεν"
+          },
+          {
+            "n": "6",
+            "prompt": "ἀνισταῖτο ἄν"
+          },
+          {
+            "n": "7",
+            "prompt": "ἤρετο, ἠρώτησεν"
+          },
+          {
+            "n": "8",
+            "prompt": "ἐροῦσι(ν)"
+          },
+          {
+            "n": "9",
+            "prompt": "δύναιντο ἄν"
+          },
+          {
+            "n": "10",
+            "prompt": "ἠρόμεθα, ἠρωτήσαμεν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        441,
+        191,
+        493,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR 9A–E",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        500,
+        191,
+        515,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        524,
+        191,
+        773,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "B/C",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "He is my father, a very wicked man. ἡμῖν"
+          },
+          {
+            "n": "2",
+            "prompt": "A great evil will befall you, since you are accursed. ὑμῖν, κακοδαίμοσιν οὖσιν"
+          },
+          {
+            "n": "3",
+            "prompt": "In theory no one in the city is better than your father, but in fact no one is worse. ἐν ταῖς πόλεσιν."
+          },
+          {
+            "n": "4",
+            "prompt": "Tell the spectator the plot of the play with full (all) enthusiasm. τοῖς θεαταῖς"
+          },
+          {
+            "n": "5",
+            "prompt": "We shout loudly (use great shouts). μεγάλῃ βοῇ"
+          },
+          {
+            "n": "6",
+            "prompt": "The sailors happened to be on the ships. ἐν τῷ πλοίῳ"
+          },
+          {
+            "n": "7",
+            "prompt": "We must obey those who give orders. τῷ κελεύοντι"
+          },
+          {
+            "n": "8",
+            "prompt": "What is the name of the king? τοῖς βασιλεῦσιν"
+          },
+          {
+            "n": "9",
+            "prompt": "Why do you (pl.) try to persuade me with this argument? τούτοις τοῖς λόγοις"
+          },
+          {
+            "n": "10",
+            "prompt": "On the next day the son chased his father back into the house with the big nets. τῷ μεγάλῳ δικτύῳ"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        789,
+        191,
+        804,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        813,
+        191,
+        926,
+        835
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1",
+            "prompt": "This woman’s plan is dangerous/terrible.\nτὸ ὄνομα τούτῳ τῷ θεατῇ ἐστι Φιλόξενος."
+          },
+          {
+            "n": "2",
+            "prompt": "They are speaking to us and our children/slaves.\nλέγει ὑμῖν καὶ τοῖς θεαταῖς."
+          },
+          {
+            "n": "3",
+            "prompt": "He was bringing the man on to the ship with the help of the sailors.\nχαλεπῶς οἴσουσι καθίζοντες ἐν τῷ δικαστηρίῳ."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 135
+}

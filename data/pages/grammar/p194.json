@@ -1,0 +1,352 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "189",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        87,
+        218,
+        546
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 9A–E*",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        211,
+        195,
+        226,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(*Formerly 8 A–E)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        238,
+        195,
+        303,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• The dat. case and its uses\n• Time phrases\n• More optatives: δυναίμην, ἀνισταίμην\n• Principal parts: ἐρωτάω, λέγω, λανθάνω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        278,
+        209,
+        292,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE DATIVE CASE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        303,
+        195,
+        339,
+        915
+      ],
+      "margin_number": 189,
+      "speaker": null,
+      "text": "The forms of the dat. s. and pl. across the range of noun and adjective types you have met are as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        363,
+        91,
+        888,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            "s.",
+            null,
+            null,
+            null,
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "nom.",
+            "acc.",
+            "gen.",
+            "dat.",
+            "nom.",
+            "acc.",
+            "gen.",
+            "dat."
+          ]
+        ],
+        "rows": [
+          [
+            "1a",
+            "βο-ή, ἡ",
+            "βο-ήν",
+            "βο-ῆς",
+            "βο-ῇ",
+            "βο-αί",
+            "βο-άς",
+            "βο-ῶν",
+            "βο-αῖς"
+          ],
+          [
+            "1b",
+            "ἀπορί-α, ἡ",
+            "ἀπορί-αν",
+            "ἀπορί-ας",
+            "ἀπορί-ᾳ",
+            "ἀπορί-αι",
+            "ἀπορί-ας",
+            "ἀπορί-ων",
+            "ἀπορί-αις"
+          ],
+          [
+            "1c",
+            "θάλαττα, ἡ",
+            "θάλαττ-αν",
+            "θαλάττ-ης",
+            "θαλάττ-ῃ",
+            "θάλαττ-αι",
+            "θαλάττ-ας",
+            "θαλάττ-ων",
+            "θαλάττ-αις"
+          ],
+          [
+            "1d",
+            "ναύτ-ης, ὁ\nνεανί-ας, ὁ",
+            "ναύτ-ην\nνεανί-αν",
+            "ναύτ-ου\nνεανί-ου",
+            "ναύτ-ῃ\nνεανί-ᾳ",
+            "ναύτ-αι\nνεανί-ας",
+            "ναύτ-ας",
+            "ναυτ-ῶν",
+            "ναύτ-αις"
+          ],
+          [
+            "2a",
+            "ἄνθρωπ-ος, ὁ",
+            "ἄνθρωπ-ον",
+            "ἀνθρώπ-ου",
+            "ἀνθρώπ-ῳ",
+            "ἄνθρωπ-οι",
+            "ἀνθρώπ-ους",
+            "ἀνθρώπ-ων",
+            "ἀνθρώπ-οις"
+          ],
+          [
+            "2b",
+            "ἔργ-ον, τό",
+            "ἔργ-ον",
+            "ἔργ-ου",
+            "ἔργ-ῳ",
+            "ἔργ-α",
+            "ἔργ-α",
+            "ἔργ-ων",
+            "ἔργ-οις"
+          ],
+          [
+            "3a",
+            "λιμήν, ὁ",
+            "λιμέν-α",
+            "λιμέν-ος",
+            "λιμέν-ι",
+            "λιμέν-ες",
+            "λιμέν-ας",
+            "λιμέν-ων",
+            "λιμέ-σι(ν)"
+          ],
+          [
+            "3b",
+            "πρᾶγμα, τό",
+            "πρᾶγμα",
+            "πράγματος",
+            "πράγματ-ι",
+            "πράγματ-α",
+            "πράγματ-α",
+            "πραγμάτ-ων",
+            "πράγμα-σι(ν)"
+          ],
+          [
+            "3c",
+            "πλῆθ-ος, τό",
+            "πλῆθ-ος",
+            "πλήθ-ους",
+            "πλήθ-ει",
+            "πλήθ-η",
+            "πλήθ-η",
+            "πλήθ-ων",
+            "πλήθ-εσι(ν)"
+          ],
+          [
+            "3d",
+            "τριήρ-ης, ἡ",
+            "τριήρ-η",
+            "τριήρ-ους",
+            "τριήρ-ει",
+            "τριήρ-εις",
+            "τριήρ-εις",
+            "τριηρ-ῶν",
+            "τριήρ-εσι(ν)"
+          ],
+          [
+            "3e",
+            "πόλ-ις, ἡ\nπρέσβ-υς, ὁ",
+            "πόλ-ιν\nπρέσβ-υν",
+            "πόλ-εως",
+            "πόλ-ει",
+            "πόλ-εις",
+            "πόλ-εις",
+            "πόλ-εων",
+            "πόλ-εσι(ν)"
+          ],
+          [
+            "3f",
+            "ἄστ-υ, τό",
+            "ἄστ-υ",
+            "ἄστ-εως",
+            "ἄστ-ει",
+            "ἄστ-η",
+            "ἄστ-η",
+            "ἄστ-εων",
+            "ἄστ-εσι(ν)"
+          ],
+          [
+            "3g",
+            "βασιλ-εύς, ὁ",
+            "βασιλέα",
+            "βασιλέως",
+            "βασιλ-εῖ",
+            "βασιλ-ῆς\nβασιλ-εῖς",
+            "βασιλ-έας",
+            "βασιλ-έων",
+            "βασιλ-εῦσι(ν)"
+          ],
+          [
+            "3h",
+            "ὀφρύ-ς, ἡ",
+            "ὀφρύ-ν",
+            "ὀφρύ-ος",
+            "ὀφρύ-ι",
+            "ὀφρύ-ες",
+            "ὀφρῦ-ς",
+            "ὀφρύ-ων",
+            "ὀφρύ-σι(ν)"
+          ],
+          [
+            "Irregular nouns",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ναῦς, ἡ",
+            "ναῦν",
+            "νεώς",
+            "νηί",
+            "νῆες",
+            "ναῦς",
+            "νεῶν",
+            "ναυσί(ν)"
+          ],
+          [
+            null,
+            "γραῦς, ἡ",
+            "γραῦν",
+            "γραός",
+            "γραί",
+            "γραες",
+            "γραῦς",
+            "γραῶν",
+            "γραυσί(ν)"
+          ],
+          [
+            null,
+            "Ζεύς, ὁ",
+            "Δία",
+            "Διός",
+            "Διί",
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 194
+}

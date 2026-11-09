@@ -1,0 +1,193 @@
+{
+  "running_head": "Summary exercises for section 9",
+  "folio": "134",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        191,
+        57,
+        344,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἴσει will carry (3 s. fut.indic.) φέρω\nτυχούσῃ happen (aor. part. fem. s. dat.) τυγχάνω\nἐνέγκατε carry (aor. imperative pl.) φέρω\nεἶναι be (pres. inf.) εἰμί\nἰόντος go (fut. part. masc./neut. gen. s.) εἶμι\nᾔδεσαν know (past indic. 3 pl.) οἶδα\nᾔεισθα go (impf. 2 s.) εἶμι\nβαλεῖν throw (aor. inf.) βάλλω\nεἰδότες know (pres. part. masc. nom. pl.) οἶδα\nεὑρήσειν find (fut. inf.) εὑρίσκω\nπεσόντι fall (aor. part, masc./neut. dat. s.) πίπτω\nσχές have/hold (aor. imperative s.) ἔχω\nπεσοῦμεν fall (fut. part, masc./neut. dat. s.) πίπτω\nἕξειν have (fut. inf.) ἔχω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        191,
+        192,
+        377,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D — ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        191,
+        191,
+        604,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "ENGLISH INTO GREEK",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Let the children play.\nεἰσελθόντων οἱ κύνες."
+          },
+          {
+            "n": "2",
+            "prompt": "Let the herald enter the city.\nὁ κλέπτης ὑφελέσθω τὸ μέρος τὸ τούτου τοῦ κυνός."
+          },
+          {
+            "n": "3",
+            "prompt": "He expects/hopes to pursue/prosecute the wicked citizen.\nἐλπίζω τοὺς φεύγοντας καλῶς ἀπολογήσεσθαι."
+          },
+          {
+            "n": "4",
+            "prompt": "This woman intends to listen to the stranger.\nοὗτος ὁ δικαστής τὸν θάνατον μέλλει καταδικάσειν τοῦ κυνός."
+          },
+          {
+            "n": "5",
+            "prompt": "Let the suppliants pray to the gods.\nὁ διώκων ἀρχέσθω κατηγορεῖν."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        617,
+        192,
+        630,
+        586
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 9",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        654,
+        191,
+        665,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A — WORDS",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        674,
+        214,
+        804,
+        710
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I take I destroy\nI write down letter\nI hope hope\nI know how to knowledge, understanding\nwitness evidence, I bear witness\nname I name\nwretched wretchedness",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        830,
+        191,
+        843,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D — ENGLISH INTO GREEK",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        855,
+        191,
+        925,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1.\nνεανίᾳ τινὶ ἦν πατήρ, γέρων ὤν. τὸ δ᾽ ὄνομα τῷ μὲν νεανίᾳ ἦν Βδελυκλέων,\nτῷ δὲ γέροντι Φιλοκλέων. ὁ δὲ γέρων ἐτύγχανεν ἔχων νόσον τινὰ δεινήν.\nοὐδέποτε γὰρ ἐπαύσατο βουλόμενος δικάζειν ἐν τοῖς δικαστηρίοις. ὁ δὲ",
+      "lang": "grc",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 148
+}

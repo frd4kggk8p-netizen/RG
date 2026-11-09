@@ -1,0 +1,368 @@
+{
+  "running_head": "Section 9I",
+  "folio": "130",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        168,
+        77,
+        107,
+        874
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἑλεῖν ... ἑλόντα ... From αἱρέω meaning ‘convict’. See RGT 9H line 27.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        121,
+        169,
+        195,
+        904
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "‘Able to guard many sheep’. This is a character reference. It was normal, and indeed expected, in the Athenian courts to smear your opponent's character and to build up your own. As most cheese was made of sheep's milk, this is not a completely irrelevant characteristic. The better the sheep are guarded, the more milk, and the more cheese.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        193,
+        159,
+        227,
+        888
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "ὑφαιρεῖται The prefix ὑφ- suggests stealth. The middle of αἱρέω means ‘to take for oneself’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        232,
+        159,
+        276,
+        884
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "κιθαρίζειν γὰρ οὐκ ἐπίσταται Literally ‘he does not know how to play the lyre’. The meaning is ‘he is not educated’, or even, ‘he has not had a good education’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        288,
+        159,
+        344,
+        897
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "ποῦ τὰ παιδία; It was normal practice in an Athenian lawcourt to parade the children of the defendant, weeping to arouse the pity of the jurors. In this case, the children are, of course, puppies.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        372,
+        192,
+        386,
+        355
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9I",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 7,
+      "bbox": [
+        397,
+        191,
+        411,
+        569
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Bdelykleon speaks, beginning the defence.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        426,
+        89,
+        477,
+        896
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "It is difficult, gentlemen, to reply on behalf of a dog who has met with such a great slander, but none the less I shall speak. For I know that he is good and chases the wolves.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        484,
+        89,
+        521,
+        880
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "No, rather this one seems to me to be a thief and worthy of death. So I must convict him as a thief, and having convicted him, judge another case as well.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        528,
+        90,
+        552,
+        897
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "By Zeus, but he is the best of all the dogs now [alive], since he is able to guard many sheep.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        559,
+        90,
+        573,
+        853
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "So what is the use, if he steals the cheese and, having stolen it, eats it up?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        579,
+        90,
+        674,
+        894
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "What use? For he also guards the door. But if he stole the cheese, forgive him. For he does not know how to play the lyre. Listen, my good fellow, to the witnesses. Come up, cheese-grater, and speak loudly. For you happened to be guarding the cheese.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 13,
+      "bbox": [
+        678,
+        191,
+        692,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The cheese-grater comes up.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        696,
+        192,
+        729,
+        883
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Answer clearly; did you grate the cheese for both the dogs? She says that she grated it all for both.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        735,
+        90,
+        749,
+        489
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "By Zeus, but I know she is lying.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        755,
+        89,
+        827,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "But, good fellow, pity those who suffer evil things. For this Labes never stays in the house, but goes out of the house looking for food. But the other dog only guards the house. For by staying here he hopes to steal the food from the others. And when he steals nothing, he bites.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        833,
+        90,
+        867,
+        901
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Arghh! Whatever evil is this? An evil surrounds me, and the speaker persuades me with his words.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        874,
+        90,
+        927,
+        863
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Come, I beg you, pity him, Father, who has suffered evil things, and acquit him. Where are the children? Come up, wretched ones, ask and plead weeping.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 144
+}

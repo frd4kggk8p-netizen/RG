@@ -1,0 +1,228 @@
+{
+  "running_head": "Grammar for Section 9F–G",
+  "folio": "187",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        186,
+        60,
+        204,
+        221
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "195",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        81,
+        186,
+        102,
+        537
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 9F–G*",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        115,
+        186,
+        127,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(* Formerly 8 F–G)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        138,
+        186,
+        301,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• Aorist infinitives, first and second, active and middle\n• Aspect in the infinitive\n• Aorist imperatives, first and second, active and middle\n• Present imperatives: εἰμί, εἶμι, οἶδα, δύναμαι, ἀνίσταμαι\n• ἔξεστι, δεινός\n• Vocatives\n• Adjectives: πᾶς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        327,
+        196,
+        347,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST INFINITIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        361,
+        186,
+        434,
+        907
+      ],
+      "margin_number": 195,
+      "speaker": null,
+      "text": "You have already met present infinitives (‘to – ’) formed by adding -ειν\n-εσθαι to the present stem (150). Greek also has aorist infinitives, formed\nby adding the appropriate endings to the aorist stem (first and second).\nTheir forms are as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        450,
+        186,
+        467,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist infinitive active",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 8,
+      "bbox": [
+        483,
+        186,
+        568,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παῦσα-ι, ‘to stop’\nTo form the first aorist infinitive active, add -αι to the aorist stem, e.g\nἔ-παυσα, ‘I stopped’ > stem: παυσα- > παῦσα-ι, ‘to stop’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        596,
+        186,
+        613,
+        463
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist infinitive middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 10,
+      "bbox": [
+        624,
+        186,
+        755,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσα-σθαι, ‘to stop (oneself), cease’\nTo form the first aorist infinitive middle, add -[α]σθαι to the aorist stem, e.g.\nἐ-παυσá-μην, ‘I stopped (myself)’ > stem: παυσα- > παύσα-σθαι, ‘to stop\n(oneself), cease’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        769,
+        82,
+        915,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms\n• Observe once again the familiar first aorist stem in -σα- (cf. aorist indicatives\n  131).\n• The first aorist active infinitive ending in -[σ]αι may look odd, but you have\n  already met -αι as an infinitive ending in e.g. εἶν-αι, ‘to be’, ἰέν-αι, ‘to go’,\n  and εἰδέν-αι, ‘to know’.\n• In the middle infinitive, the ending -σθαι is the same as in the present infini-\n  tive (παύ-ε-σθαι).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 205
+}

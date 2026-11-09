@@ -1,0 +1,1088 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "111",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        99,
+        78,
+        93,
+        679
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "πλὴν τῆς κλεψύδρας. ποῦ ἐστιν ἡ κλεψύδρα; ἔνεγκέ μοι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        118,
+        97,
+        131,
+        241
+      ],
+      "margin_number": 25,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἰδού.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        140,
+        97,
+        153,
+        345
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(τὴν τοῦ πατρὸς ἀμίδα δηλοῖ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        156,
+        187,
+        172,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἰπέ, αὕτη δή τίς ἐστιν; οὐχὶ κλεψύδραν ἀρίστην ἠγῇ τὴν ἀμίδα ταύτην;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        174,
+        187,
+        187,
+        393
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάντα νῦν πάρεστιν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        190,
+        97,
+        226,
+        810
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "Sosias enters, leading two dogs. It seems that one, Labes (Λάβης ‘Grabber’), has\nwolfed a whole cheese. It is decided that the other dog should charge him with theft.\nBdelykleon orders the slaves to clear the ‘courtroom’ and asks for ritual prayers.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        227,
+        98,
+        259,
+        790
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "κάθιζε οὖν, πάτερ, καὶ παῦσαι φροντίζων. ἀκούσατε, παῖδες, καὶ ἐμοὶ\nπίθεσθε, καὶ ἐξενέγκατε τὸ πῦρ. ὑμεῖς δὲ εὔξασθε πᾶσι τοῖς θεοῖς,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        260,
+        196,
+        276,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐξάμενοι δὲ κατηγορεῖτε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 9,
+      "bbox": [
+        278,
+        97,
+        309,
+        876
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "(ἐξενεγκόντες τὸ πῦρ ἀπέρχονται πάντες οἱ δοῦλοι, εὔχονται δὲ τοῖς θεοῖς οἱ\nπαρόντες)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 10,
+      "bbox": [
+        331,
+        196,
+        493,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "κάδον φέρει",
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 11,
+      "bbox": [
+        332,
+        458,
+        492,
+        655
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "‘ΚΑΔΟΣ ΕΙΜΙ’",
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        552,
+        196,
+        567,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        584,
+        100,
+        617,
+        327
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκούσ-ατε listen! pay attention!\n(pl.) (ἀκού-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        617,
+        100,
+        649,
+        325
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄκουσ-ον listen! pay attention!\n(s.) (ἀκού-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        649,
+        100,
+        663,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμίς (ἀμίδ-), ἡ chamber-pot (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        664,
+        100,
+        679,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄνευ + gen.) without",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        680,
+        100,
+        712,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄπ-ιθι go away! (s.)\n(ἀπ-έρκ-ομαι/ἄπ-ειμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        715,
+        100,
+        747,
+        236
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀρέσκ-ει it pleases\n(+dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        748,
+        100,
+        763,
+        277
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρχ-ομαι begin (+ part.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        763,
+        100,
+        796,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕδ-ον (lit. ‘allow!’) leave off!\n(s.) (ἐά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        797,
+        100,
+        811,
+        233
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκ-τρέχ-ω run out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        812,
+        100,
+        844,
+        267
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνεγκ-έ fetch! (φέρ-ω/\nἤνεγκ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        846,
+        100,
+        878,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-ενέγκ-ατε fetch out! (pl.)\n(ἐκ-φέρ-ω/ἐξ-ἤνεγκ-α)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        880,
+        100,
+        894,
+        327
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὖξ-ασθε pray! (pl.) (εὔχ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        584,
+        365,
+        616,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θέ-σθαι to cast (τίθεμαι/\nἐ-θέ-μην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        617,
+        365,
+        631,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἴθι come! (s.) (ἔρχ-ομαι/εἶμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        632,
+        365,
+        646,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἴσθι know! (s.) (οἶδα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        648,
+        365,
+        663,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κάδ-ος, ὁ voting-urn (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        663,
+        365,
+        696,
+        591
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κάδ-ων ἔνεκα because of the urns\nκαὶ δὴ well, all right (you have",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        697,
+        388,
+        712,
+        500
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "my attention)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        713,
+        365,
+        728,
+        458
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καλῶς γε fine!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        730,
+        365,
+        744,
+        590
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατηγορέ-α, accuse, prosecute",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        746,
+        365,
+        760,
+        593
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλεψύδρ-α, ἡ water-clock (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        761,
+        365,
+        776,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κυμβί-ον, τό cup (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        778,
+        365,
+        810,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λέξ-ον (lit. ‘speak!’) out with it!\n(λέγ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        812,
+        365,
+        827,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηδαμ-ῶς in no way",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        829,
+        365,
+        843,
+        582
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάντ-α everything; all (nom.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        845,
+        365,
+        859,
+        548
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πάντ-ες all (nom. pl. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        861,
+        365,
+        876,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶσι to all (dat. pl. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        878,
+        365,
+        892,
+        575
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παῦσ-αι stop! (s.) (παύ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        583,
+        634,
+        616,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πίθ-εσθε obey! (pl.)\n(πείθ-ομαι/ἐ-πιθ-όμην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        617,
+        634,
+        649,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πίθ-οῦ obey! (s.) (πείθ-ομαι/\nἐ-πιθ-όμην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        650,
+        634,
+        664,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλὴν (+ gen.) except",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        665,
+        634,
+        680,
+        784
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πῦρ (πυρ-), τό fire (3b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        681,
+        634,
+        713,
+        803
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ψῆφ-ος, ἡ vote (2a) (lit.\npebble)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 46,
+      "bbox": [
+        733,
+        634,
+        747,
+        816
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        748,
+        634,
+        763,
+        852
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρχομαι begin (+inf. or part.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        765,
+        634,
+        779,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκτρέχω (ἐκδραμ-) run out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        781,
+        634,
+        827,
+        855
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἕνεκα (+gen.) because, for the\nsake of (usually placed after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        828,
+        634,
+        843,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the noun)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        845,
+        634,
+        859,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶς πᾶσα πᾶν (παντ-) all",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        861,
+        634,
+        875,
+        770
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ πᾶς the whole of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        877,
+        634,
+        891,
+        783
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλήν (+gen.) except",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        892,
+        634,
+        907,
+        799
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πῦρ (πυρ-), τό fire (3b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 141
+}

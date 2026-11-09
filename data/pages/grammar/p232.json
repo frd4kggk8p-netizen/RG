@@ -1,0 +1,298 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "214–215",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        195,
+        83,
+        256,
+        242
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        194,
+        193,
+        150,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) -ω/ομαι verbs are called ‘thematic’, because they have a stem, e.g. παυ-, to which they add a ‘thematic’ vowel -ο- or -ε-, and an ending, e.g. -μεν, to give e.g. παύομεν ‘we stop’ (see 16(b), 52(b), 102(c)).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        140,
+        91,
+        295,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But δίδωμι has no thematic vowel: it is therefore ‘athematic’.\nWhat this means is that the endings go straight onto the stem without any intervening vowel.\nIn other words, the stem is διδο- in the present and δο- in the past.\nThe same is true for -μι verbs in general. Simply add endings and enjoy.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        310,
+        194,
+        344,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Note how the 2s. middle endings (-μαι) -σαι (-ται) and (-μην) -σο (-το) appear in full for the first time (but cf. 177).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        353,
+        194,
+        441,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) Given that one keeps a firm grip on these stems (διδο-, δο-), there is very little here that is difficult to recognise. The most remarkable feature is the aorist inflection with its change from ἔ-δω-κα, -κας, -κε to ἔ-δο-μεν, -τε, -σαν in the plural. For the full conjugation, see 376, and cf. 426–7.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        444,
+        188,
+        458,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        467,
+        193,
+        591,
+        594
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10: 2. Translate into English:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10:2",
+        "instruction": "Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἐδίδους"
+          },
+          {
+            "n": "2",
+            "prompt": "δίδωσιν"
+          },
+          {
+            "n": "3",
+            "prompt": "ἔδωκε"
+          },
+          {
+            "n": "4",
+            "prompt": "δοῦναι"
+          },
+          {
+            "n": "5",
+            "prompt": "διδόμενος"
+          },
+          {
+            "n": "6",
+            "prompt": "δός"
+          },
+          {
+            "n": "7",
+            "prompt": "δοῦσα"
+          },
+          {
+            "n": "8",
+            "prompt": "δώσεις"
+          },
+          {
+            "n": "9",
+            "prompt": "διδόναι"
+          },
+          {
+            "n": "10",
+            "prompt": "ἐδίδωσαν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        602,
+        194,
+        766,
+        918
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10: 3. Change presents into equivalent forms of the aorist and likewise aorists into futures:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10:3",
+        "instruction": "Change presents into equivalent forms of the aorist and likewise aorists into futures:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "δίδεται"
+          },
+          {
+            "n": "2",
+            "prompt": "ἔδοτο"
+          },
+          {
+            "n": "3",
+            "prompt": "διδοίη"
+          },
+          {
+            "n": "4",
+            "prompt": "ἔδοσαν"
+          },
+          {
+            "n": "5",
+            "prompt": "δίδότε"
+          },
+          {
+            "n": "6",
+            "prompt": "ἐδόμην"
+          },
+          {
+            "n": "7",
+            "prompt": "διδούς"
+          },
+          {
+            "n": "8",
+            "prompt": "ἔδοτε"
+          },
+          {
+            "n": "9",
+            "prompt": "διδοῖτο"
+          },
+          {
+            "n": "10",
+            "prompt": "δόσθαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        771,
+        195,
+        792,
+        310
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ADJECTIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        803,
+        194,
+        838,
+        915
+      ],
+      "margin_number": 215,
+      "speaker": null,
+      "text": "Here are two more adjective-types illustrated by ἀμελής ‘uncaring’ and γλυκύς ‘sweet’:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 232
+}

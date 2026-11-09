@@ -1,0 +1,340 @@
+{
+  "running_head": "Revision Exercises for Section 9F-G",
+  "folio": "195",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        183,
+        40,
+        205,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR 9F-G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        211,
+        185,
+        239,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        245,
+        185,
+        237,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Write down the 1s. aorist of these verbs. Then construct the aorist infinitive:",
+      "lang": "en",
+      "para_no": null,
+      "marker": "1.",
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Write down the 1s. aorist of these verbs. Then construct the aorist infinitive:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "παύομαι"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἀκούω"
+          },
+          {
+            "n": "3.",
+            "prompt": "ποιέω"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἀδικέω"
+          },
+          {
+            "n": "5.",
+            "prompt": "λέγω"
+          },
+          {
+            "n": "6.",
+            "prompt": "φέρω"
+          },
+          {
+            "n": "7.",
+            "prompt": "γίγνομαι"
+          },
+          {
+            "n": "8.",
+            "prompt": "μανθάνω"
+          },
+          {
+            "n": "9.",
+            "prompt": "λαμβάνω"
+          },
+          {
+            "n": "10.",
+            "prompt": "ἀφικνέομαι"
+          },
+          {
+            "n": "11.",
+            "prompt": "ὁράω"
+          },
+          {
+            "n": "12.",
+            "prompt": "πείθομαι"
+          },
+          {
+            "n": "13.",
+            "prompt": "πίπτω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        253,
+        218,
+        289,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate these imperatives. Give in brackets the person and aspect (i.e. s./pl., pres./aor.):",
+      "lang": "en",
+      "para_no": null,
+      "marker": "2.",
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate these imperatives. Give in brackets the person and aspect (i.e. s./pl., pres./aor.):",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "φεύγετε"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἴσθι"
+          },
+          {
+            "n": "3.",
+            "prompt": "ὄρα"
+          },
+          {
+            "n": "4.",
+            "prompt": "δήλωσον"
+          },
+          {
+            "n": "5.",
+            "prompt": "ἀφίκεσθε"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἔνεγκε"
+          },
+          {
+            "n": "7.",
+            "prompt": "ἴτε"
+          },
+          {
+            "n": "8.",
+            "prompt": "φοβεῖσθε"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἰδού"
+          },
+          {
+            "n": "10.",
+            "prompt": "παῦσαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        386,
+        185,
+        653,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Put the verbs in brackets into the present or aorist infinitive as indicated, and translate the sentences:\n1. βούλομαι (δικάζω) (aorist) ἐν τῇ οἰκίᾳ, ἀλλ' ὁ υἱὸς οὐκ ἐᾷ με (δικάζω) (present) ἐνθάδε.\n2. δεῖ ἡμᾶς πάντας (ἔξειμι) (present) εἰς τὴν ἀγοράν.\n3. τί χρή σε (ποιέω) (aorist);\n4. ἔξεστι Φιλοκλέωνι (κατηγορέω) (present).\n5. ὁ υἱὸς οὐκ εἴασε τὸν πατέρα (εἶμι/ἔρχομαι) (aorist) εἰς τὸ δικαστήριον.\n6. πῶς πείσω σε, ὦ πάτερ, (ἀκούω) (aorist) πάντας τοὺς λόγους.\n7. διὰ τί οὐ βούλῃ (ἐκφέρω) (aorist) Φιλοκλέωνα, ὦ ἡμίονε;\n8. δεῖ σε δικαστὴν (γίγνομαι) (aorist) ἐν τῇ οἰκίᾳ.\n9. χρὴ αὐτοὺς (μανθάνω) (aorist) τοὺς τοῦ δράματος λόγους.\n10. βούλεται αὐτὸς (λαμβάνω) (present) πάντα τὸν μισθὸν παρὰ τοῦ υἱοῦ.\n11. οὐκ ἐάσω αὐτὸν (ἀφικνέομαι) (present) εἰς τὸ δικαστήριον.\n12. ἔξεστί μοι ἐνθάδε καὶ (λαμβάνω) (aorist) πάντα τὸν μισθὸν καὶ (ἐσθίω) (aorist).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "3.",
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Put the verbs in brackets into the present or aorist infinitive as indicated, and translate the sentences:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "βούλομαι (δικάζω) (aorist) ἐν τῇ οἰκίᾳ, ἀλλ' ὁ υἱὸς οὐκ ἐᾷ με (δικάζω) (present) ἐνθάδε."
+          },
+          {
+            "n": "2.",
+            "prompt": "δεῖ ἡμᾶς πάντας (ἔξειμι) (present) εἰς τὴν ἀγοράν."
+          },
+          {
+            "n": "3.",
+            "prompt": "τί χρή σε (ποιέω) (aorist);"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἔξεστι Φιλοκλέωνι (κατηγορέω) (present)."
+          },
+          {
+            "n": "5.",
+            "prompt": "ὁ υἱὸς οὐκ εἴασε τὸν πατέρα (εἶμι/ἔρχομαι) (aorist) εἰς τὸ δικαστήριον."
+          },
+          {
+            "n": "6.",
+            "prompt": "πῶς πείσω σε, ὦ πάτερ, (ἀκούω) (aorist) πάντας τοὺς λόγους."
+          },
+          {
+            "n": "7.",
+            "prompt": "διὰ τί οὐ βούλῃ (ἐκφέρω) (aorist) Φιλοκλέωνα, ὦ ἡμίονε;"
+          },
+          {
+            "n": "8.",
+            "prompt": "δεῖ σε δικαστὴν (γίγνομαι) (aorist) ἐν τῇ οἰκίᾳ."
+          },
+          {
+            "n": "9.",
+            "prompt": "χρὴ αὐτοὺς (μανθάνω) (aorist) τοὺς τοῦ δράματος λόγους."
+          },
+          {
+            "n": "10.",
+            "prompt": "βούλεται αὐτὸς (λαμβάνω) (present) πάντα τὸν μισθὸν παρὰ τοῦ υἱοῦ."
+          },
+          {
+            "n": "11.",
+            "prompt": "οὐκ ἐάσω αὐτὸν (ἀφικνέομαι) (present) εἰς τὸ δικαστήριον."
+          },
+          {
+            "n": "12.",
+            "prompt": "ἔξεστί μοι ἐνθάδε καὶ (λαμβάνω) (aorist) πάντα τὸν μισθὸν καὶ (ἐσθίω) (aorist)."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        722,
+        185,
+        735,
+        444
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        741,
+        185,
+        755,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        766,
+        185,
+        924,
+        670
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ὦ στρατηγέ, δεῖ ἡμᾶς ἐνθάδε μένειν καὶ μάχεσθαι.\nFather, you must stay here and give judgements.\n2. ἔξεστί μοι ἀκούειν τῶν ῥητόρων.\nIt will be possible for you all to sell your mules.\n3. μανθάνω πολλὰ ἀλλ' οὐκ ἐπίστανται πάντα.\nEverything is here except the fire.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "4",
+        "instruction": "Translate:",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "ὦ στρατηγέ, δεῖ ἡμᾶς ἐνθάδε μένειν καὶ μάχεσθαι.\nFather, you must stay here and give judgements."
+          },
+          {
+            "n": "2.",
+            "prompt": "ἔξεστί μοι ἀκούειν τῶν ῥητόρων.\nIt will be possible for you all to sell your mules."
+          },
+          {
+            "n": "3.",
+            "prompt": "μανθάνω πολλὰ ἀλλ' οὐκ ἐπίστανται πάντα.\nEverything is here except the fire."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 213
+}

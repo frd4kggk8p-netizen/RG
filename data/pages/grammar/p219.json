@@ -1,0 +1,128 @@
+{
+  "running_head": "209-210 Grammar for Section 9H-J",
+  "folio": "201",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        185,
+        185,
+        395,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Participle\nβὰς βᾶσα βὰν (βαντ-) ‘having gone, on going, going’\nἔγνων, ‘I knew’\nἔ-γνω-ν ‘I knew’\nἔ-γνω-ς ‘you (s.) knew’\nἔ-γνω ‘he/she/it knew’\nἔ-γνω-μεν ‘we went’\nἔ-γνω-τε ‘you (pl.) knew’\nἔ-γνω -σαν ‘they knew’\nInfinitive\nγνῶναι ‘to know’\nParticiple\nγνούς γνοῦσα γνόν (γνοντ-) ‘having known, on knowing, knowing’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        412,
+        185,
+        426,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        435,
+        218,
+        452,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note the infinitive in -ναι and the participles βὰς and γνούς.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        465,
+        194,
+        477,
+        615
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπίσταμαι, ‘I KNOW (HOW TO), UNDERSTAND’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        491,
+        185,
+        526,
+        907
+      ],
+      "margin_number": 210,
+      "speaker": null,
+      "text": "The verb ἐπίσταμαι conjugates in the same way as δύναμαι, ‘I am able’, and ἀνίσταμαι, ‘I get up and go, emigrate’ (177, 187) -ἐπιστα- + endings:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        538,
+        185,
+        907,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπίσταμαι, ‘I know’ Imperative\nἐπίσταμαι ‘I know’ ἐπίστασο ‘know! (s.)’\nἐπίστασαι ‘you (s.) know’ ἐπιστάσθω ‘let him know!’\nἐπίσταται ‘he/she/it knows’\nἐπιστάμεθα ‘we know’\nἐπίστασθε ‘you (pl.) know’ ἐπίστασθε ‘know! (pl.)’\nἐπίστανται ‘they know’ ἐπιστάσθων ‘let them know!’\nInfinitive\nἐπίστασθαι ‘to know’\nParticiple\nἐπιστάμενος η ον ‘knowing’\nOptative\nἐπισταίμην etc. (192)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 219
+}

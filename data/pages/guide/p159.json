@@ -1,0 +1,297 @@
+{
+  "running_head": "Exercises for section 10",
+  "folio": "145",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        198,
+        63,
+        915,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10.1-10.5",
+        "instruction": null,
+        "items": [
+          {
+            "n": "4.",
+            "prompt": "he finishes / καταλύοι, καταλύσειεν"
+          },
+          {
+            "n": "5.",
+            "prompt": "we lived together / συνοικοῖμεν, συνοικήσαιμεν"
+          },
+          {
+            "n": "6.",
+            "prompt": "I voted / ψηφιζοίμην, ψηφισαίμην"
+          },
+          {
+            "n": "7.",
+            "prompt": "we cease / παυοίμεθα, παυσαίμεθα"
+          },
+          {
+            "n": "8.",
+            "prompt": "you compelled / ἀναγκάζοις, ἀναγκάσειας"
+          },
+          {
+            "n": "9.",
+            "prompt": "he blamed / μέμφοιτο, μέμψαιτο"
+          },
+          {
+            "n": "10.",
+            "prompt": "I flee / φεύγοιμι, φύγοιμι"
+          },
+          {
+            "n": "1.",
+            "prompt": "you were giving / give!"
+          },
+          {
+            "n": "2.",
+            "prompt": "he/she gives / giving (f.s. pres. participle)"
+          },
+          {
+            "n": "3.",
+            "prompt": "he/she gave / you (s.) will give"
+          },
+          {
+            "n": "4.",
+            "prompt": "to give (aor.) / to give (pres.)"
+          },
+          {
+            "n": "5.",
+            "prompt": "giving (m. s. pres. part.) / they were giving"
+          },
+          {
+            "n": "1.",
+            "prompt": "ἔδοτο / δώσομαι"
+          },
+          {
+            "n": "2.",
+            "prompt": "δώσεται / δούς"
+          },
+          {
+            "n": "3.",
+            "prompt": "δοίη / δώσετε"
+          },
+          {
+            "n": "4.",
+            "prompt": "δώσουσι / δοῖτο"
+          },
+          {
+            "n": "5.",
+            "prompt": "δότε, ἔδοτε / δώσεισθαι"
+          },
+          {
+            "n": "1.",
+            "prompt": "τοὺς ἀμελεῖς, γλυκεῖς φύλακας / ἀληθεῖς, βραχεῖς"
+          },
+          {
+            "n": "2.",
+            "prompt": "τῆς ἀμελοῦς, γλυκείας μητρός / ἀληθοῦς, βραχείας"
+          },
+          {
+            "n": "3.",
+            "prompt": "τὰ ἀμελῆ, γλυκέα παιδία / ἀληθῆ, βραχέα"
+          },
+          {
+            "n": "4.",
+            "prompt": "τοῖς ἀμελέσι, γλυκέσιν ἀμφοτέροις / ἀληθέσι, βραχέσι"
+          },
+          {
+            "n": "5.",
+            "prompt": "οἱ ἀμελεῖς, γλυκεῖς μάρτυρες / ἀληθεῖς, βραχεῖς"
+          },
+          {
+            "n": "6.",
+            "prompt": "τῶν ἀμελῶν, γλυκέων υἱέων / ἀληθῶν, βραχέων"
+          },
+          {
+            "n": "1.",
+            "prompt": "who / ὅς, ὅστις"
+          },
+          {
+            "n": "2.",
+            "prompt": "whom / οὗς, οὕστινας"
+          },
+          {
+            "n": "3.",
+            "prompt": "whose / ἧς, ἧστινος"
+          },
+          {
+            "n": "4.",
+            "prompt": "to whom / οἷς, οἷς τισι(ν)"
+          },
+          {
+            "n": "5.",
+            "prompt": "whom / ἅς, ἅστινας"
+          },
+          {
+            "n": "6.",
+            "prompt": "who / οἱ, οἵτινες"
+          },
+          {
+            "n": "7.",
+            "prompt": "(those) whom / οὓς, οὓστινας, ἅς, ἅστινας, ἅ, ἅττα"
+          },
+          {
+            "n": "8.",
+            "prompt": "whose / ὧν, ὧντινων, ὅτων"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        232,
+        191,
+        245,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δίδωμι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        261,
+        191,
+        274,
+        231
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10 : 2",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        394,
+        191,
+        407,
+        231
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10 : 3",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        527,
+        191,
+        368,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμελής and γλυκύς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        561,
+        191,
+        574,
+        233
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10 : 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        725,
+        191,
+        737,
+        431
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE RELATIVE PRONOUN",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        753,
+        191,
+        766,
+        232
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10 : 5",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 159
+}

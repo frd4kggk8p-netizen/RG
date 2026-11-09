@@ -1,0 +1,2074 @@
+{
+  "id": "s10",
+  "label_new": "Section 10: Aristophanes’ Lysistrata",
+  "para_range": [
+    209,
+    226
+  ],
+  "blocks": [
+    {
+      "t": "para",
+      "no": null,
+      "text": "210",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Grammar for Section 10",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "box",
+      "title": "In this section you cover:\n• Aorist optative, acti",
+      "items": [
+        "In this section you cover:\n• Aorist optative, active and middle\n• Verbs: δίδωμι, γιγνώσκω\n• Adjectives: ἀμελής, γλυκύς\n• Relatives: ‘who/which/what/that’"
+      ],
+      "kind": "cover"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "THE AORIST OPTATIVE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "212. You have already met the present optative active (-οιμι-οις -οι, etc., 184).\nHere is the aorist optative active:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "box",
+      "title": "• It features, as you will see, σ and α, just like",
+      "items": [
+        "• It features, as you will see, σ and α, just like the aorist indicative active\n(129–31). This would lead you to expect the active aorist optative end-\nings to be -σαιμι-σαις -σαι, and these do occur.\n• However, Greek prefers the alternatives using -ει- given in the conjuga-\ntion below:"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First aorist optative active",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "box",
+      "title": "παύσαιμι\nπαύσα-ι-μι\nπαύσ-ειας (α-ις)\nπαύσ-ειε(ν) (",
+      "items": [
+        "παύσαιμι\nπαύσα-ι-μι\nπαύσ-ειας (α-ις)\nπαύσ-ειε(ν) (-αι)\nπαύσα-ι-μεν\nπαύσα-ι-τε\nπαύσ-ειαν (α-ι-εν)"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "■ Forms",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) You know that the ‘sign’ of the optative is ι, and first aorist stem is σα. So\nthere is nothing very difficult here. Look for σ-αι σ-ει.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) Note the absence of augment.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) Take care with the alternative forms of the 2s. and 3s. and 3pl.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "210",
+        "pdf_page": 228
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "First aorist optative middle",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "box",
+      "title": "παυσαίμην\nπαυσα-ί-μην\nπαυσα-ι-o\nπαυσα-ι-το\nπαυσα-ί",
+      "items": [
+        "παυσαίμην\nπαυσα-ί-μην\nπαυσα-ι-o\nπαυσα-ι-το\nπαυσα-ί-μεθα\nπαυσα-ί-σθε\nπαυσα-ι-ντο"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Forms",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(d) The aorist stem with optative ‘signature’ (ι) here takes regular past middle endings (-μην -[σ]o -το, 102).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Second aorist optative active",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Active | Middle\nλάβοιμι | λαβοίμην\nλάβ-οι-μι | λαβ-οί-μην\nλάβ-οι-ς | λαβ-οι-o\nλάβ-οι | λαβ-οι-το\nλάβ-οι-μεν | λαβ-οί-μεθα\nλάβ-οι-τε | λαβ-οι-σθε\nλάβ-οι-εν | λαβ-οι-ντο",
+      "table": {
+        "header": [
+          [
+            "Active"
+          ],
+          [
+            "Middle"
+          ]
+        ],
+        "rows": [
+          [
+            "λάβοιμι",
+            "λαβοίμην"
+          ],
+          [
+            "λάβ-οι-μι",
+            "λαβ-οί-μην"
+          ],
+          [
+            "λάβ-οι-ς",
+            "λαβ-οι-o"
+          ],
+          [
+            "λάβ-οι",
+            "λαβ-οι-το"
+          ],
+          [
+            "λάβ-οι-μεν",
+            "λαβ-οί-μεθα"
+          ],
+          [
+            "λάβ-οι-τε",
+            "λαβ-οι-σθε"
+          ],
+          [
+            "λάβ-οι-εν",
+            "λαβ-οι-ντο"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form and meaning",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(e) Observe yet again that the second aorist takes endings identical to those for the present, i.e. aorist stem + οι (cf. 144–5). The formal difference between e.g. λάβ-οι and λαμβάν-οι is purely one of stem.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(f) Again, there is no difference of time between present and aorist optative. The difference is one of aspect (165), if there is a difference at all which is really noticeable in translation.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXPRESSING A WISH",
+      "src": {
+        "book": "grammar",
+        "printed_page": "212",
+        "pdf_page": 230
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀπολοίμην (sometimes just ὀλοίμην) means ‘May I die! Damn me!’ (cf. the stem ἀπολ- learned at vocabulary 8C). This use of the optative on its own to express a wish for the future is very common. It will be fully introduced later on.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "212",
+        "pdf_page": 230
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "MORE VERBS IN -μι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "212",
+        "pdf_page": 230
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "You have already met some verbs ending in -μι, e.g. εἰ-μί, ‘I am’, εἶ-μι ‘I shall go’ and φημί ‘I say’ (see 386–8). You have noticed that they are quite different from verbs in -ω.\nThere are a number of such verbs in Greek, of which the most common are:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "212",
+        "pdf_page": 230
+      }
+    },
+    {
+      "t": "box",
+      "title": "δίδωμι ‘I give’\nτίθημι ‘I place’\nἵημι ‘I let go, s",
+      "items": [
+        "δίδωμι ‘I give’\nτίθημι ‘I place’\nἵημι ‘I let go, shoot’\nἵστημι ‘I set up’\nδείκνυμι ‘I show’"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Here now, in full, is the conjugation of δίδωμι. It will give you the key to all -μι verbs. Know δίδωμι, and the rest will be relatively straightforward:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "212",
+        "pdf_page": 230
+      }
+    },
+    {
+      "t": "box",
+      "title": "δίδωμι ‘I give’: stem διδο-\nPresent active ‘I give",
+      "items": [
+        "δίδωμι ‘I give’: stem διδο-\nPresent active ‘I give’\nIndicative Participle Infinitive Imperative Optative\nδίδω-μι διδοούς διδο-νναι διδο-ίην\nδίδω-ς διδοῦσα δίδου διδο-ίης\nδίδω-σι(ν) διδό-ν δίδω-τω διδο-ίην\nδίδω-μεν (διδo-ντ-) διδο-ῖμεν\nδίδω-τε δίδω-τε διδo-ῖτε\nδίδω-ασι(ν) διδο-ντων διδο-ῖεν\n\nPresent middle ‘I give’\nIndicative Participle Infinitive Imperative Optative\nδιδo-μαι διδο-μεν-ος διδο-σθαι διδο-ίηνν\nδιδo-σαι-η δίδω-σο διδo-ῖο\nδιδo-ται-ον διδo-σθω διδο-ῖτο\nδιδο-μεθα διδο-ίμεθα\nδιδo-σθε διδo-σθε διδo-ῖσθε\nδιδo-νται διδo-σθων διδο-ῖντο"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "ἐδίδουν ‘I was giving’: stem διδο-\nImperfect indic",
+      "items": [
+        "ἐδίδουν ‘I was giving’: stem διδο-\nImperfect indicative active ‘I was giving’\nἐ-δίδουν\nἐ-δίδους\nἐ-δίδου\nἐ-δίδο-μεν\nἐ-δίδο-τε\nἐ-δίδo-σαν\n\nImperfect indicative middle ‘I was giving’\nἐ-διδό-μην\nἐ-δίδo-σο\nἐ-δίδo-το\nἐ-διδό-μεθα\nἐ-δίδo-σθε\nἐ-δίδo-ντο"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "ἔδωκα ‘I gave’: stem δο-\nAorist active ‘I gave’\nIn",
+      "items": [
+        "ἔδωκα ‘I gave’: stem δο-\nAorist active ‘I gave’\nIndicative Participle Infinitive Imperative Optative\nἔ-δω-κα δοúc δοῦναι δο-ίην\nἔ-δω-κας δοῦσα δό-ς δο-ίης\nἔ-δω-κε δό-ν δό-τω δο-ίην\nἐ-δό-μεν (δο-ντ-)\nδο-ῖμεν\nἐ-δό-τε δό-τε δο-ῖτε\nἐ-δό-σαν δό-ντων δο-ῖεν\n(ἔ-δω-καν)\n\nAorist middle ‘I gave’\nIndicative Participle Infinitive Imperative Optative\nἐ-δό-μην δό-μεν-oς δό-σθαι δο-ίμην\nἔ-δοu -η δοῦ δο-ῖο\nἐ-δό-το -oν δό-σθω δο-ῖτο\nἐ-δό-μεθα δο-ίμεθα\nἐ-δό-σθε δό-σθε δο-ῖσθε\nἐ-δό-ντο δό-σθων δο-ῖντο"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "box",
+      "title": "Future active and middle: stem δωσ- ‘I will give’\n",
+      "items": [
+        "Future active and middle: stem δωσ- ‘I will give’\nδώ-σω, δώ-σομαι (etc., like παύσ-ω, παύσ-ομαι)"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) -ω/ομαι verbs are called ‘thematic’, because they have a stem, e.g. παυ-, to which they add a ‘thematic’ vowel -ο- or -ε-, and an ending, e.g. -μεν, to give e.g. παύομεν ‘we stop’ (see 16(b), 52(b), 102(c)).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "box",
+      "title": "But δίδωμι has no thematic vowel: it is therefore ",
+      "items": [
+        "But δίδωμι has no thematic vowel: it is therefore ‘athematic’.\nWhat this means is that the endings go straight onto the stem without any intervening vowel.\nIn other words, the stem is διδο- in the present and δο- in the past.\nThe same is true for -μι verbs in general. Simply add endings and enjoy."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) Note how the 2s. middle endings (-μαι) -σαι (-ται) and (-μην) -σο (-το) appear in full for the first time (but cf. 177).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) Given that one keeps a firm grip on these stems (διδο-, δο-), there is very little here that is difficult to recognise. The most remarkable feature is the aorist inflection with its change from ἔ-δω-κα, -κας, -κε to ἔ-δο-μεν, -τε, -σαν in the plural. For the full conjugation, see 376, and cf. 426–7.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ADJECTIVES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Here are two more adjective-types illustrated by ἀμελής ‘uncaring’ and γλυκύς ‘sweet’:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀμελ-ής -ές ‘uncaring’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "s.",
+            "m. and f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ἀμελ-ής",
+            "ἀμελ-ές"
+          ],
+          [
+            "Acc.",
+            "ἀμελ-ῆ",
+            "ἀμελ-ές"
+          ],
+          [
+            "Gen.",
+            "ἀμελ-οῦς",
+            "ἀμελ-οῦς"
+          ],
+          [
+            "Dat.",
+            "ἀμελ-εῖ",
+            "ἀμελ-εῖ"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "pl.",
+            null,
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ἀμελ-εῖς",
+            "ἀμελ-ῆ"
+          ],
+          [
+            "Acc.",
+            "ἀμελ-εῖς",
+            "ἀμελ-ῆ"
+          ],
+          [
+            "Gen.",
+            "ἀμελ-ῶν",
+            "ἀμελ-ῶν"
+          ],
+          [
+            "Dat.",
+            "ἀμελ-έσι(ν)",
+            "ἀμελ-έσι(ν)"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "γλυκ-ύς -εῖα-ύ ‘sweet’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "s.",
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "γλυκ-ύς",
+            "γλυκ-εῖ-α",
+            "γλυκ-ύ"
+          ],
+          [
+            "Acc.",
+            "γλυκ-ύν",
+            "γλυκ-εῖ-αν",
+            "γλυκ-ύ"
+          ],
+          [
+            "Gen.",
+            "γλυκ-έος",
+            "γλυκ-εί-ᾱς",
+            "γλυκ-έος"
+          ],
+          [
+            "Dat.",
+            "γλυκ-εῖ",
+            "γλυκ-εί-ᾳ",
+            "γλυκ-εῖ"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "γλυκ-εῖς",
+            "γλυκ-εῖ-αι",
+            "γλυκ-έα"
+          ],
+          [
+            "Acc.",
+            "γλυκ-εῖς",
+            "γλυκ-εί-ᾱς",
+            "γλυκ-έα"
+          ],
+          [
+            "Gen.",
+            "γλυκ-έων",
+            "γλυκ-ει-ῶν",
+            "γλυκ-έων"
+          ],
+          [
+            "Dat.",
+            "γλυκ-έσι(ν)",
+            "γλυκ-εί-αις",
+            "γλυκ-έσι(ν)"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Forms",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) ἀμελής has the same forms for the m. and f. (cf. εὔφρων, 82).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) γλυκύς types are of mixed declension 3-1-3 – the m. and n. declining like type 3 nouns, the f. declining like a 1st declension noun ἀπορία, but with short -α. (Cf. 90)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) The dominant vowel in the stem of both of these types of adjective is -ε-. Compare their declension with noun-types 3c, d, e and f (see 78, 79, 80, 127a).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(d) υἱός ‘son’ can decline like 2a nouns, but it also decline like the m. form of γλυκύς (except for the acc. s.):",
+      "src": {
+        "book": "grammar",
+        "printed_page": "215",
+        "pdf_page": 233
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "υἱός, ὁ ‘son’ (2a, and mixed)\ns.\nNom. υἱός\nAcc. υἱόν\nGen. υἱέος\nDat. υἱεῖ\npl.\nNom. υἱεῖς\nAcc. υἱεῖς\nGen. υἱέων\nDat. υἱέσι(ν)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISE",
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "THE RELATIVE PRONOUN",
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "216a. The relative pronoun, ‘who, which, what’ in English, declines as follows:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "t": "table",
+      "caption": "ὅς ἥ ὅ ‘who, which, what’\nm. f. n.\ns.\nNom. ὅς ἥ* ὅ\nAcc. ὅν ἥν ὅ\nGen. οὗ ἧς οὗ\nDat. ᾧ ᾗ ᾧ\npl.\nNom. οἱ* αἱ* ἅ\nAcc. οὕς ἅς ἅ\nGen. ὧν ὧν ὧν\nDat. οἷς αἷς οἷς",
+      "table": {
+        "header": [
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "s.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "ὅς",
+            "ἥ*",
+            "ὅ"
+          ],
+          [
+            "Acc.",
+            "ὅν",
+            "ἥν",
+            "ὅ"
+          ],
+          [
+            "Gen.",
+            "οὗ",
+            "ἧς",
+            "οὗ"
+          ],
+          [
+            "Dat.",
+            "ᾧ",
+            "ᾗ",
+            "ᾧ"
+          ],
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "οἱ*",
+            "αἱ*",
+            "ἅ"
+          ],
+          [
+            "Acc.",
+            "οὕς",
+            "ἅς",
+            "ἅ"
+          ],
+          [
+            "Gen.",
+            "ὧν",
+            "ὧν",
+            "ὧν"
+          ],
+          [
+            "Dat.",
+            "οἷς",
+            "αἷς",
+            "οἷς"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "box",
+      "title": "Except for ὅς , the relative declines exactly like",
+      "items": [
+        "Except for ὅς , the relative declines exactly like the definite article without the τ-."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "* In the three places where the forms of the relative are exactly the same as the definite article, the relative is distinguished by its accent, i.e. ἥ οἵ αἵ.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Meaning and usage of the relative",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "216b. The relative pronoun means:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "nom.: ‘who, which, what, that’\nacc.: ‘who, whom, which, what, that’\ngen.: ‘of whom, of which, whose’\ndat.: ‘to, for, by, with which/whom’",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Consider the following utterances:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡ γυνὴ ἣ οὐ φιλεῖ τὸν ἄνδρα ‘the woman who does not love her husband’\nComment: ἣ refers to ἡ γυνὴ, and is therefore f. and s. Another way of putting it is to say that ἡ γυνὴ is the antecedent of ἣ (Latin, ‘that which comes before’). The case of ἣ is nom., because ἣ is the person who does not love her husband, i.e. is subject of the ‘who’ clause.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὁ παῖς ὃν φιλῶ ‘the boy whom I like’\nComment: ὃν refers to ὁ παῖς, and is therefore m. and s. (ὁ παῖς is the antecedent of ὃν). Its case, however, is acc., because ὃν is the object of φιλεῖ ‘I like’ (I like the boy, represented by ‘whom’).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡ γυνὴ οὗ τὸν ἄνδρα μισῶ ‘the woman whose husband I hate’\nComment: οὗ refers to ἡ γυνὴ, so is f. and s. So ἡ γυνὴ is the antecedent . . . . But its case is gen. because ‘whose’ = ‘of whom’. Put another way, the relative clause means ‘I hate the husband of the woman’, gen.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "οἱ παῖδες οἷς δίδωμι τὰ μῆλα ‘the boys to whom I give the apples’\nComment: οἷς is pl. and m. because its antecedent is οἱ παῖδες. It is dat. because ‘I am giving the apples to the boys’.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡ οἰκία εἰς ἣν ἔρχομαι ‘the house into which I go’\nComment: ἣν refers to its antecdent ἡ οἰκία, so is f. and s. But it is acc. because εἰς works with the acc.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "αἱ γυναῖκες μεθ’ ὧν πορεύομαι ‘the women with whom I travel’\nComment: ὧν is f. and pl. because its antecedent is αἱ γυναῖκες. It is gen. because μεθ’ (μετά) takes the gen. – ‘I am travelling with the women’.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἡ οἰκία ἐν ᾗ οἰκῶ ‘the house in which I live’\nComment: ᾗ, antecedent ἡ οἰκία, is f. s.; and dat. because ἐν works with the dat.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "217",
+        "pdf_page": 235
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Rule",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "box",
+      "title": "217. The relative takes the gender and number of i",
+      "items": [
+        "217. The relative takes the gender and number of its antecedent. It does not take the antecedent’s case. The relative’s case is entirely determined by the function it fulfils within the relative clause – as you can see from the examples given, in all of which the antecedent is in the nom., but only one of the relatives is in the nom. (the first one). Here come the exceptions:"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Some wrinkles (1): suppressing your antecedents",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "para",
+      "no": 1,
+      "text": "218. (a) Consider the English ‘whom the gods love, dies young’. Who, exactly, is the subject of ‘dies’?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "box",
+      "title": "The answer is an understood ‘he’ or ‘she’: ‘(s)he ",
+      "items": [
+        "The answer is an understood ‘he’ or ‘she’: ‘(s)he whom the gods love dies young’.\nIn other words, the antecedent of ‘whom’ has been suppressed."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": 2,
+      "text": "This is common in Greek: ὃν οἱ θεοὶ φιλοῦσιν ἀποθνῄσκει νέος.*",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "box",
+      "title": "When you find a suppressed antecedent, check the g",
+      "items": [
+        "When you find a suppressed antecedent, check the gender of the relative:"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": 3,
+      "text": "If m., it will mean ‘the man/he who’, e.g. ὃν φιλεῖς ἄπεστιν ‘[He] whom you love is absent’.\nIf f., ‘the woman/she who’, e.g. ἣν φιλεῖς ἄπεστιν ‘[She] whom you love is absent’.\nIf n., ‘the thing which/what’, e.g. ἃ ἐθέλεις, ἔχεις ‘what [things, n.pl.] you want, you have’ (i.e. ‘the things which want …’).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "* The Roman comic poet Plautus translates this: quem di diligunt adolescens moritur. Byron mistranslated this line as ‘Whom the gods love die young’: why is that wrong? What would it be in Greek?",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Some wrinkles (2): attracting your relatives",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "para",
+      "no": 4,
+      "text": "(b) If the antecedent is in the genitive or dative case, the Greek relative is sometimes changed (‘attracted’) into that case, irrespective of the function it should have in the relative clause, e.g.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "218",
+        "pdf_page": 236
+      }
+    },
+    {
+      "t": "box",
+      "title": "περὶ τῶν ἀνδρῶν ὧν γιγνώσκω ‘concerning the men wh",
+      "items": [
+        "περὶ τῶν ἀνδρῶν ὧν γιγνώσκω ‘concerning the men whom I recognise’.\n(We would expect: περὶ τῶν ἀνδρῶν οὓς γιγνώσκω, since ‘whom’ is the object of ‘recognise’; but the relative is attracted into the case of its antecedent ἀνδρῶν and becomes ὧν instead of οὓς.)\nτοῖς ἀνδράσιν οἷς γιγνώσκω ‘to the men whom I recognise’.\n(We would, again, expect οὓς γιγνώσκω; but the relative is attracted into the case of its antecedent ἀνδράσιν and becomes οἷς instead.)"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "218–219",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "box",
+      "title": "This feature is known as ‘relative attraction’.",
+      "items": [
+        "This feature is known as ‘relative attraction’."
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὅσπερ (ὅσ-περ) and ὅστις (ὅσ-τις)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": 219,
+      "text": "The relative pronoun does have a number of other forms, though its meaning is only slightly altered thereby:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ὅσπερ (ὅσ-περ) ‘the very one who’\nὅστις (ὅσ-τις) ‘anyone who’. Observe that this declines like the separate parts of ὅς and τις combined.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "table",
+      "caption": "Grammar Paradigm Table",
+      "table": {
+        "header": [
+          [
+            "ὅστις ἥτις ὅτι ‘[anyone] who, which, what’"
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "s.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "ὅστις",
+            "ἥτις",
+            "ὅτι (or ὅ τι)"
+          ],
+          [
+            "Acc.",
+            "ὅντινα",
+            "ἥντινα",
+            "ὅτι (or ὅ τι)"
+          ],
+          [
+            "Gen.",
+            "οὗτινος\n(ὅτου)",
+            "ἥστινος",
+            "οὗτινος\n(ὅτου)"
+          ],
+          [
+            "Dat.",
+            "ᾧτινι\n(ὅτῳ)",
+            "ᾗτινι",
+            "ᾧτινι\n(ὅτῳ)"
+          ],
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "οἵτινες",
+            "αἵτινες",
+            "ἅτινα\n(ἅττα)"
+          ],
+          [
+            "Acc.",
+            "οὕστινας",
+            "ἅστινας",
+            "ἅτινα\n(ἅττα)"
+          ],
+          [
+            "Gen.",
+            "ὧντινων\n(ὅτων)",
+            "ὧντινων\n(ὅτων)",
+            "ὧντινων\n(ὅτων)"
+          ],
+          [
+            "Dat.",
+            "οἷστισι(ν)\n(ὅτοις)",
+            "αἷστισι(ν)",
+            "οἷστισι(ν)\n(ὅτοις)"
+          ]
+        ]
+      },
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Form and use",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) Sometimes the two words appear as one (e.g. as declined above), at other times they are kept separate, e.g. ὅς τις, ὅ τι etc.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(b) Note the variant forms:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "gen.:\tὅτου for οὗτινος; ὅτων for ὧντινων\ndat.:\tὅτῳ for ᾧτινι; ὅτοις for οἷστισι\nnom./acc. pl. ἅττα for ἅτινα",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(c) ὅστις can be used to introduce indirect questions (cf. 125 and check the list of relative usages there).",
+      "src": {
+        "book": "grammar",
+        "printed_page": "219",
+        "pdf_page": 237
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "EXERCISES",
+      "src": {
+        "book": "grammar",
+        "printed_page": "220",
+        "pdf_page": 238
+      }
+    },
+    {
+      "t": "box",
+      "title": "SUMMARY LEARNING VOCABULARY FOR SECTION 10\nἀναγκάζ",
+      "items": [
+        "SUMMARY LEARNING VOCABULARY FOR SECTION 10\nἀναγκάζω force, compel\nἀμελής ές uncaring\nἅπᾶς ἅπασα ἅπαν (ἅπαντ-) all, the whole\nἀπέχομαι refrain, keep away (from) (+gen.)\nἄρτι just now, recently\nβαδίζ-ω walk, go (fut. βαδιέομαι)\nγλυκύς εῖα ύ sweet\nγοῦν at any rate\nγραῦς (γρα-), ἡ old woman (3 irr.) (acc. s. γραῦν; acc. pl. γραῦς). See 357.\nδέομαι need, ask, beg (+gen.)\nδίδωμι (δο-) give, grant\nδοκεῖ it seems a good idea to X (dat.) to do Y (inf.); X (dat.) decides to do Y (inf.)\nδῶρον, τό gift, bribe (2b)\nἐκδύομαι undress\nἐξαίφνης suddenly"
+      ],
+      "kind": "note"
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 10 (continued)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "221",
+        "pdf_page": 239
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "καίτοι\nκατακλίνομαι\nκαταλύω\nμέμφομαι\nμηδαμῶς\nμηδείς μηδεμία μηδέν\n(μηδεν-)\nμήτηρ (μητ(ε)ρ-), ἡ\nμηχανή, ἡ\nοἷος ᾱ ον\nὅς ἥ ὅ\nὅσπερ ἥπερ ὅπερ\nὅστις ἥτις ὅτι\nοὐδαμῶς\nπαρά\nπαύομαι\nποῖος ᾱ ον\nπροσαγορεύω\nσπουδή, ἡ\nσυνοικέω\nτεῖχος, τό\nτοι\nφίλτατος η ον\nφύλαξ (φυλακ-), ὁ, ἡ\nψηφίζομαι",
+      "src": {
+        "book": "grammar",
+        "printed_page": "221",
+        "pdf_page": 239
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "and yet\nlie down\nbring to an end; finish\nblame, criticise, find fault with (+acc. or dat.)\nnot at all, in no way\nno, no one\nmother (3a)\ndevice, plan (1a)\nwhat a! what sort of!\nwho, what, which\nwho/which indeed\nwho(ever), what(ever)\nin no way, not at all\n(+dat.) with, beside, in the presence of\ncease from (+gen.)\nwhat sort of?\naddress, speak to\nhaste, zeal, seriousness (1a)\nlive with, live together\nwall (of a city) (3c)\nthen (inference)\nmost dear (φίλος)\nguard (3a)\nvote (fut. ψηφιέομαι)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "221",
+        "pdf_page": 239
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "REVISION EXERCISES FOR SECTION 10",
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(A) WORDS",
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀμελής\nδίδωμι\nδῶρον\nμηχανή\nσπουδή\nσυνοικεῖν\nτεῖχος\nμέλει\nἀποδίδωμι\nἡ δωρεά\nμηχανάομαι\nσπουδάζω\nἡ συνοίκησις\nτειχίζω\nἡ δόσις\nδωρέω\nσπουδαῖος α ον\nἡ ἀντίδοσις",
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(B/C) MORPHOLOGY AND SYNTAX",
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(a) Λυσιστράτη γυνὴ Ἀθηναία ἐστίν· Λυσιστράτη λέγει.\n= Λυσιστράτη, ἣ γυνὴ Ἀθηναία ἐστίν, λέγει.\n(b) τίνες εἰσὶν οὗτοι; τίνες διώκουσι τὸν ἄνδρα;\n= τίνες εἰσὶν οὗτοι, οἳ διώκουσι τὸν ἄνδρα;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "g. ποῦ ἐστι Κινησίας; Μυρρίνη ἐστὶν ἡ γυνὴ αὐτοῦ.\nh. ποῦ αἱ γρᾶες; τὸ ἔργον ἐστὶν αὐτῶν φυλάττειν τὰ χρήματα.\ni. ἆρα γιγνώσκεις τὸν ἄνδρα; ὁ ἀνὴρ προσέρχεται.\nj. δεῖ ἡμᾶς εἰρήνην ἄγειν. ἡ εἰρήνη αἰτία ἐστὶ πολλῶν καλῶν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(D) ENGLISH INTO GREEK",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vocabulary",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "sex ἀφροδίσια, τά (2b)\nvote with συμψηφίζομαι (+ dat.)\nSparta Λακεδαίμων (Λακεδαιμον-), ἡ (3a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "TEST EXERCISE TEN",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Translate into English:",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "A Spartan envoy arrives. After he has explained how things stand in Sparta, he\nand his Athenian counterpart agree to come to terms with Lysistrata. Lysistrata\nstates the conditions on which a return to peace might be agreed.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "(From Aristophanes, Lysistrata)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ποῦ ἡ τῶν Ἀθηναίων βουλὴ; ἐθελήσαιμι ἂν ἀγγεῖλαι\nνέον τι.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σὺ δὲ τίς εἶ ὃς δεῦρο βαίνεις πρὸς τὸ τεῖχος, πολλῇ\nσπουδῇ βαδίζων;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "κῆρυξ ἐγώ, ναὶ τὼ σιώ, καὶ ἔβην ἄρτι ἀπὸ Σπάρτης περὶ\nεἰρήνης.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τί δ᾿ ἐστί σοι τόδε, ὃ ἔχεις ἐν ταῖς χερσίν;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σκυτάλα Λακαινικά.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εὖ οἶδ᾿ ὃ λέγεις. ἀλλὰ τί γίγνεται ἐν Λακεδαιμόνι; εἴποις\nἄν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "εἴποιμι ἂν ἡδέως. κακὸν γάρ τι μέγα ἐνέπεσεν ἡμῖν·\nαἰτία δὲ Λαμπιτώ, ἣ ἐξ Ἀθηνῶν ἀναβᾶσα ἔπεισε τὰς\nγυναῖκας ἀπέχεσθαι τῶν ἀφροδισίων.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "καὶ πῶς ἔχετε; κακῶς πάσχετε, ἐξ ὧν λέγεις.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "κακῶς παθὼν τυγχάνω, ναὶ τὼ σιώ. δεῖ οὖν ἡμᾶς,\nπειθομένους ταῖς γυναιξί, σπονδὰς ποιήσασθαι, ἃς\nκελεύσουσιν αὐταί, καὶ καταλῦσαι τὸν πόλεμον.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "τί οὐ καλοῦμεν δῆτα τὴν Λυσιστράτην, ἣ ποιήσαιτ᾿ ἂν\nἡμῖν σπονδὰς μόνη; ἐπάθομεν γὰρ καὶ ἡμεῖς τοῦτο τὸ\nκακόν.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ναὶ τὼ σιώ. τίς ἂν εἴποι ποῦ ἐστιν ἡ Λυσιστράτη;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀλλ᾿ ἡμᾶς οὐ δεῖ καλεῖν αὐτήν· αὐτὴ γάρ, ἀκούσασα ἃ\nἐλέγομεν, ἥδε βᾶσα τυγχάνει.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἴτε, ἄνδρες. τῶν λόγων ἀκούετε ὧν λέγω. ἐγὼ γυνὴ μέν\nεἰμι, νοῦς δ᾿ ἔνεστί μοι. τί νῦν οὕτως μάχεσθε καὶ οὐ\nπαύεσθε τῆς μοχθηρίας ὑμεῖς, οἷς οἱ αὐτοὶ εἰσι βωμοὶ\nκαὶ αἱ αὐταὶ θυσίαι; τί νῦν Ἕλληνας ἄνδρας καὶ πόλεις\nἀπόλλυτε, οἷς ἀντὶ τούτων ἔξεστιν εἰρήνην ἰδεῖν, φίλοις\nτ᾿ οὖσι καὶ συμμάχοις;",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "καίτοι οὐδὲν ἄλλο δῶρον δεόμεθα ἢ βινεῖν δύνασθαι.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἅπαντες οὖν σπονδὰς ποιησάμενοι καταλύσατε τὸν\nπόλεμον. κἄπειτα τὴν αὐτοῦ γυναῖκα λαβὼν ἀπίτω\nἕκαστος.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "Vocabulary",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "βουλή, ἡ Council of Five Hundred (1a)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀγγέλλω announce (aor. ἤγγειλα)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ναὶ τὼ σιώ by the Two Gods*",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "σκυτάλα Λακαινικά a Spartan code-staff**",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀφροδίσια, τά sex (2b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "μοχθηρία, ἡ nastiness (1b)",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀπόλλυμι destroy",
+      "src": {
+        "book": "grammar",
+        "printed_page": "224",
+        "pdf_page": 242
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "ἀντί (+gen.) instead of\nσύμμαχος, ὁ ally (2a)\nβινέω make love (colloquial)\nἕκαστος η ον each",
+      "src": {
+        "book": "grammar",
+        "printed_page": "225",
+        "pdf_page": 243
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "* The two gods – Castor and Pollux.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "225",
+        "pdf_page": 243
+      }
+    },
+    {
+      "t": "para",
+      "no": null,
+      "text": "** The message was written on a leather strip wrapped round the pole and when removed was unintelligible; the recipient would have a similar staff for use in decoding. There is a double entendre at work here.",
+      "src": {
+        "book": "grammar",
+        "printed_page": "225",
+        "pdf_page": 243
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "10:1",
+      "instruction": "Translate the following forms and turn them into the equivalent form in the present and aorist optative:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "ἔσωσε"
+        },
+        {
+          "n": "2",
+          "prompt": "ποιοῦσιν"
+        },
+        {
+          "n": "3",
+          "prompt": "ἀπέσχοντο"
+        },
+        {
+          "n": "4",
+          "prompt": "καταλύει"
+        },
+        {
+          "n": "5",
+          "prompt": "συνῳκήσαμεν"
+        },
+        {
+          "n": "6",
+          "prompt": "ἐψηφισάμην"
+        },
+        {
+          "n": "7",
+          "prompt": "παυόμεθα"
+        },
+        {
+          "n": "8",
+          "prompt": "ἠνάγκασας"
+        },
+        {
+          "n": "9",
+          "prompt": "ἐμέμψατο"
+        },
+        {
+          "n": "10",
+          "prompt": "φεύγω"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "211",
+        "pdf_page": 229
+      }
+    },
+    {
+      "id": "10:2",
+      "instruction": "Translate into English:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "ἐδίδους"
+        },
+        {
+          "n": "2",
+          "prompt": "δίδωσιν"
+        },
+        {
+          "n": "3",
+          "prompt": "ἔδωκε"
+        },
+        {
+          "n": "4",
+          "prompt": "δοῦναι"
+        },
+        {
+          "n": "5",
+          "prompt": "διδόμενος"
+        },
+        {
+          "n": "6",
+          "prompt": "δός"
+        },
+        {
+          "n": "7",
+          "prompt": "δοῦσα"
+        },
+        {
+          "n": "8",
+          "prompt": "δώσεις"
+        },
+        {
+          "n": "9",
+          "prompt": "διδόναι"
+        },
+        {
+          "n": "10",
+          "prompt": "ἐδίδωσαν"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "id": "10:3",
+      "instruction": "Change presents into equivalent forms of the aorist and likewise aorists into futures:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "δίδεται"
+        },
+        {
+          "n": "2",
+          "prompt": "ἔδοτο"
+        },
+        {
+          "n": "3",
+          "prompt": "διδοίη"
+        },
+        {
+          "n": "4",
+          "prompt": "ἔδοσαν"
+        },
+        {
+          "n": "5",
+          "prompt": "δίδότε"
+        },
+        {
+          "n": "6",
+          "prompt": "ἐδόμην"
+        },
+        {
+          "n": "7",
+          "prompt": "διδούς"
+        },
+        {
+          "n": "8",
+          "prompt": "ἔδοτε"
+        },
+        {
+          "n": "9",
+          "prompt": "διδοῖτο"
+        },
+        {
+          "n": "10",
+          "prompt": "δόσθαι"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "214",
+        "pdf_page": 232
+      }
+    },
+    {
+      "id": "10:4",
+      "instruction": "Add the correct forms of the def. art. with both ἀμελής and γλυκύς to the following nouns, e.g. γυναικί = τῇ ἀμελεῖ/γλυκείᾳ γυναικί:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "φύλακας"
+        },
+        {
+          "n": "2",
+          "prompt": "μητρός"
+        },
+        {
+          "n": "3",
+          "prompt": "παιδία"
+        },
+        {
+          "n": "4",
+          "prompt": "ἀμφοτέροις"
+        },
+        {
+          "n": "5",
+          "prompt": "μάρτυρες"
+        },
+        {
+          "n": "6",
+          "prompt": "υἱέων"
+        },
+        {
+          "n": "7",
+          "prompt": "Now add the correct forms of ἀλήθης (‘true’) and βραχύς (‘short’)."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "216",
+        "pdf_page": 234
+      }
+    },
+    {
+      "id": "10: 5",
+      "instruction": "Supply a form of the relative in English and Greek (ὅς and ὅστις) that makes sense of the following utterances:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "Where is the soldier — is forcing me to hide?"
+        },
+        {
+          "n": "2",
+          "prompt": "They could not see the men — they were commanding."
+        },
+        {
+          "n": "3",
+          "prompt": "The woman — sons he will teach comes from Miletos."
+        },
+        {
+          "n": "4",
+          "prompt": "I cannot find the women — I was going to give the apples."
+        },
+        {
+          "n": "5",
+          "prompt": "The girls — he was intending to pursue gave him the slip."
+        },
+        {
+          "n": "6",
+          "prompt": "They gave the arms to the men — had survived."
+        },
+        {
+          "n": "7",
+          "prompt": "— you hold dear, I hold dear too. [Many possibilities here]"
+        },
+        {
+          "n": "8",
+          "prompt": "Three cheers for the boys — fathers come from Athens!"
+        },
+        {
+          "n": "9",
+          "prompt": "— [neuter] I know, he does not know."
+        },
+        {
+          "n": "10",
+          "prompt": "Do you see — [neuter] I see?"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "220",
+        "pdf_page": 238
+      }
+    },
+    {
+      "id": "10: 6",
+      "instruction": "Following the pattern noted at 218 (b) above, supply the appropriate relative in Greek (ὅς and ὅστις) for the following:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "I shall give an apple to the women — I prefer."
+        },
+        {
+          "n": "2",
+          "prompt": "Which of the men — you saw were foreigners?"
+        },
+        {
+          "n": "3",
+          "prompt": "He arrived with [what case does μετά take?] the slaves — he had captured."
+        },
+        {
+          "n": "4",
+          "prompt": "I shall give nothing to the slave — once I loved."
+        },
+        {
+          "n": "5",
+          "prompt": "We are not worthy — you have given us."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "220",
+        "pdf_page": 238
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+      "items": [],
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Translate each sentence, then convert present optatives to aorist:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "προσαγορεύois ἂν ἐμέ."
+        },
+        {
+          "n": "b",
+          "prompt": "ἡδέως ἂν παυοίμην τοῦ πολέμου."
+        },
+        {
+          "n": "c",
+          "prompt": "ἐθέλοιμεν ἂν σπονδὰς ποιεῖσθαι πολλῇ σπουδῇ."
+        },
+        {
+          "n": "d",
+          "prompt": "οὐκ ἂν ποιοίην ταῦτα, ὦ μῆτερ."
+        },
+        {
+          "n": "e",
+          "prompt": "ὁρώην ἂν ἐγὼ τὴν πόλιν."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "id": "2",
+      "instruction": "Translate each sentence, then substitute the correct part of δίδωμι for παρέχω:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "ἆρα παρέξεις μοι ὃ ἔχεις;"
+        },
+        {
+          "n": "b",
+          "prompt": "παρεῖχε τὰ χρήματα τῇ γυναικί."
+        },
+        {
+          "n": "c",
+          "prompt": "τί οὐκ ἐθέλεις παρέχειν μοι ὧν δέομαι;"
+        },
+        {
+          "n": "d",
+          "prompt": "τί παρέχεις μοι τοῦτο τὸ μῆλον, ὦ Μυρρίνη;"
+        },
+        {
+          "n": "e",
+          "prompt": "ἐξαίφνης παρασχὼν τὰ χρήματα ὧν ἐδεῖτο ἡ γυνή, ἀπῆλθεν ὁ ἄνθρωπος."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "id": "3",
+      "instruction": "Translate each of the following pairs of sentences. Then join them together into one sentence, following these patterns:",
+      "items": [
+        {
+          "n": "a",
+          "prompt": "Κινησίας ἐστὶν ἀνὴρ Μυρρίνης. Κινησίας βαδίζει πρὸς τὴν ἀκρόπολιν."
+        },
+        {
+          "n": "b",
+          "prompt": "αἱ γυναῖκές εἰσιν ἐν τῇ ἀκρόπολει. αἱ γυναῖκες βοῶσιν."
+        },
+        {
+          "n": "c",
+          "prompt": "οἱ ἄνδρες τὰς μάχας μάχονται. οἱ ἄνδρες οὐκ ἐθέλουσιν οὐδαμῶς τὸν πόλεμον καταλῦσαι."
+        },
+        {
+          "n": "d",
+          "prompt": "τί ἐστι τοῦτο; τί ἐθέλεις λέγειν;"
+        },
+        {
+          "n": "e",
+          "prompt": "αἱ γυναῖκες ἐθέλουσιν ἀκούειν τοὺς λόγους. τοὺς λόγους λέγει Λυσιστράτη."
+        },
+        {
+          "n": "f",
+          "prompt": "αἱ γρᾶες ἔχουσι τὴν ἀκρόπολιν. ἐγὼ τὰς γραῦς ἰδεῖν δύναμαι."
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "222",
+        "pdf_page": 240
+      }
+    },
+    {
+      "id": "1",
+      "instruction": "Translate into Greek:",
+      "items": [
+        {
+          "n": "1",
+          "prompt": "Will the women refrain from the bribes which the men will give them?"
+        },
+        {
+          "n": "2",
+          "prompt": "These guards are uncaring and guard with no zeal."
+        },
+        {
+          "n": "3",
+          "prompt": "The old women are making a plan by which they will capture the walls."
+        },
+        {
+          "n": "4",
+          "prompt": "It seems a good idea to us women to bring the war to an end."
+        },
+        {
+          "n": "5",
+          "prompt": "Won't anyone force the men to stop fighting?"
+        }
+      ],
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    },
+    {
+      "id": "2",
+      "instruction": "Translate into Greek (words in italics are given in the vocabulary):",
+      "items": [],
+      "src": {
+        "book": "grammar",
+        "printed_page": "223",
+        "pdf_page": 241
+      }
+    }
+  ]
+}

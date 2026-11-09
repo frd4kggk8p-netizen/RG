@@ -1,0 +1,408 @@
+{
+  "running_head": "Section 9I",
+  "folio": "129",
+  "blocks": [
+    {
+      "type": "stage_direction",
+      "order": 1,
+      "bbox": [
+        188,
+        78,
+        576,
+        96
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The defendant, who is a dog, comes forward.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        97,
+        88,
+        861,
+        196
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Listen now to the charge. Dog of the deme Kydathenaion has indicted dog Labes of the deme Aixone for theft. For the defendant has done wrong by eating up the cheese on his own. And indeed the defendant Labes here is present.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        198,
+        88,
+        875,
+        251
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Let him come forward. O foul one here, I know that you are a thief. But you hope to deceive me, I know it. But where is the prosecutor, the dog from the deme of Kydathenaion? Come, dog.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        254,
+        88,
+        286,
+        273
+      ],
+      "margin_number": null,
+      "speaker": "DOG",
+      "text": "Woof woof!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        276,
+        88,
+        293,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "He is here.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        271,
+        88,
+        323,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "XAN.",
+      "text": "This one seems to me to be another Labes, who is in word innocent, but in deed himself also a thief, and good at eating all the cheese.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        326,
+        88,
+        345,
+        705
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Be quiet, sit down. But you, dog, come up and prosecute.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 8,
+      "bbox": [
+        348,
+        188,
+        367,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But the dog, not wanting to come up, runs away.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        369,
+        88,
+        426,
+        904
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Hurrah. For at last the dog has come up. But I, at the same time as judging, will eat all the lentil soup, and I shall listen to the prosecution while eating.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        414,
+        88,
+        499,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "DOG",
+      "text": "You have heard the charge, men of the jury. For this dog, the one who has done wrong, escaped my notice by going off alone and eating all the cheese. And when I asked for a share, he did not give [it] to me asking. I shall stop prosecuting. Judge.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        502,
+        88,
+        529,
+        879
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But, good fellow, the matter is clear. For it cries out. So I must cast my vote, and convict him.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        533,
+        88,
+        561,
+        862
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Come, father, by the gods, obey me and don't prejudice. For you must hear both, and having heard on that basis place your vote.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        563,
+        88,
+        591,
+        884
+      ],
+      "margin_number": null,
+      "speaker": "DOG",
+      "text": "Punish him, since he is moreover much the most selfish eater of all dogs, and convict him.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        594,
+        88,
+        697,
+        898
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Now I for my part shall call in the witnesses. Let all the witnesses of Labes come in, the cup, the cheese-grater, the cooking-pot, and all the other equipment. Come, dog, come up, make the speech for the defence. Suffering what are you silent? You should speak. For it is possible; and indeed you must make the speech for the defence.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        700,
+        88,
+        729,
+        894
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But this one at least is not able, as it seems to me. For he doesn't know how to speak.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        731,
+        88,
+        759,
+        901
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Get down, dog. For I intend to make the speech for the defence, as I know well about legal matters.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 17,
+      "bbox": [
+        771,
+        188,
+        797,
+        248
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9I",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        808,
+        188,
+        827,
+        286
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 116",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        830,
+        167,
+        908,
+        856
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "This is a typical beginning for a speech in a lawcourt. ὦνδρες = ὦ ἄνδρες ‘gentlemen’. τοσαύτης διαβολῆς ‘such a great slander’. Do not confuse τοσοῦτος ‘so great’ with τοιοῦτος ‘of such a kind’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        910,
+        167,
+        928,
+        849
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "γιγνώσκω αὐτὸν … γιγνώσκω is followed by accusative and participle.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 143
+}

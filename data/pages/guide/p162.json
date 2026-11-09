@@ -1,0 +1,328 @@
+{
+  "running_head": "Revision exercises for section 10",
+  "folio": "148",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        192,
+        192,
+        400,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "F – TEST EXERCISE 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        116,
+        279,
+        149,
+        860
+      ],
+      "margin_number": null,
+      "speaker": "LACEDAEMONIAN",
+      "text": "Where is the Athenian Council? I would like to report something new.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        154,
+        211,
+        170,
+        898
+      ],
+      "margin_number": null,
+      "speaker": "ATHENIAN",
+      "text": "Who are you who come here to the wall, walking with such great eagerness?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        174,
+        192,
+        189,
+        895
+      ],
+      "margin_number": null,
+      "speaker": "LAC.",
+      "text": "I am a herald, by the twin gods, and I have just come from Sparta about peace.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        194,
+        192,
+        207,
+        750
+      ],
+      "margin_number": null,
+      "speaker": "ATH.",
+      "text": "What is this thing of yours which you have got in your hands?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        212,
+        192,
+        226,
+        370
+      ],
+      "margin_number": null,
+      "speaker": "LAC.",
+      "text": "It is a Spartan code-staff.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        230,
+        192,
+        263,
+        879
+      ],
+      "margin_number": null,
+      "speaker": "ATH.",
+      "text": "I know what you mean. But what is happening in Lacedaemonia? Could you say?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        267,
+        192,
+        323,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "LAC.",
+      "text": "I would gladly tell you. For a great evil has befallen us; and Lampito is responsible, who came back from Athens and persuaded the women to refrain from sex.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        328,
+        192,
+        343,
+        888
+      ],
+      "margin_number": null,
+      "speaker": "ATH.",
+      "text": "And how are you getting on? You are suffering severely, from what you say.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        347,
+        192,
+        401,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "LAC.",
+      "text": "I am really suffering severely, by the twin gods. Therefore, we must obey the women and make the truce, which they themselves will tell us to make, and end the war.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        405,
+        192,
+        440,
+        883
+      ],
+      "margin_number": null,
+      "speaker": "ATH.",
+      "text": "Why then don't we call Lysistrata, who alone could make a treaty for us? For we too have suffered this evil.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        445,
+        192,
+        459,
+        745
+      ],
+      "margin_number": null,
+      "speaker": "LAC.",
+      "text": "Yes, by the twin gods! Who could tell us where Lysistrata is?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        463,
+        192,
+        498,
+        879
+      ],
+      "margin_number": null,
+      "speaker": "ATH.",
+      "text": "Oh, there is no need for us to call her; for here she is herself, coming, having heard what we were saying.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        503,
+        229,
+        622,
+        895
+      ],
+      "margin_number": null,
+      "speaker": "LYSISTRATA",
+      "text": "Come, men. Listen to the words which I speak. I am a woman, but I have sense. Why are you fighting now in this way, and why do you not cease from your nastiness, you who have the same altars and the same sacrifices? Why do you destroy Greek men and cities, when instead of this it is possible for you (lit. ‘to whom it is possible ...’) to see peace and to be friends and allies?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        626,
+        239,
+        640,
+        792
+      ],
+      "margin_number": null,
+      "speaker": "LAC. & ATH.",
+      "text": "And yet we ask for no other gift than to be able to make love.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        645,
+        192,
+        679,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "All of you, therefore, make a treaty and end the war. And then let each one take his own wife and go off home.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 162
+}

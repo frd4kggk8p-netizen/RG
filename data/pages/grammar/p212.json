@@ -1,0 +1,133 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "205",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        194,
+        82,
+        917,
+        918
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) πᾶς is often used on its own in the m. pl. to mean ‘everyone’ and in the n. pl. to mean ‘everything’:\nὁμολογοῦσι πάντες\t\t‘Everyone agrees’\nὁ ῥήτωρ πάντας ἐξηπάτησεν\t‘The speaker deceived everyone’\nἡ γυνὴ πάντα εἶδεν\t\t‘The woman saw everything’\nCf. 49–50 on adjectives used as nouns.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        226,
+        188,
+        238,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        253,
+        194,
+        464,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F–G",
+        "instruction": "5. Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἴσθι (two ways)"
+          },
+          {
+            "n": "2",
+            "prompt": "ἴτε πᾶσαι (two ways)"
+          },
+          {
+            "n": "3",
+            "prompt": "ἐξῆν ὑμῖν πᾶσιν πάντα φέρειν."
+          },
+          {
+            "n": "4",
+            "prompt": "πάντες δεινοὶ ἔστε πωλεῖν."
+          },
+          {
+            "n": "5",
+            "prompt": "ἀνίστασθε πάντες καὶ μὴ μένετε ἀλλ’ ἴτε."
+          },
+          {
+            "n": "6",
+            "prompt": "πᾶσιν ἐξέσται ἀνίστασθαι."
+          },
+          {
+            "n": "7",
+            "prompt": "ἴθι πᾶς τις καὶ ἔνεγκε πάντα."
+          },
+          {
+            "n": "8",
+            "prompt": "οὐκ ἔξεστί μοι ταῦτα πάντα ἐνέγκαι."
+          },
+          {
+            "n": "9",
+            "prompt": "ἀνίστασο καὶ ἴθι."
+          },
+          {
+            "n": "10",
+            "prompt": "ἴτε καὶ ἐνέγκατε πάντα τὰ σκεύη."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        480,
+        197,
+        898,
+        918
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 9F–G\nἀγορά, ἡ\tmarket-place, agora (1b)\nἀναμένω (ἀναμεινα-)\twait, hold on\nἄρχομαι\tbegin (+inf. or part.)\nἀτάρ\tbut\nδεινός ή όν\tclever at (+inf.); dire, terrible\nἐάω (ἐᾶσα-)\tallow\nἐκτρέχω (ἐκδραμ-)\trun out\nἐκφέρω (ἐξενεγk-)\tcarry out; (often: carry out for burial)\nἕνεκα\t(+gen.) because, for the sake of (usually\n\tplaced after the noun)\nἐνθάδε\tHere\nἔξεστι\tit is possible (for X [dat.] to – [inf.])\nἐσθίω (φαγ -)\teat (fut. ἔδομαι)\nὅμως\tnevertheless, however\nὅ τι;\twhat? (in reply to τί;)\nπᾶς πᾶσα πᾶν (παντ-)\tall\nὁ πᾶς\tthe whole of\nπλὴν\t(+gen.) except\nπῦρ (πυρ-), τό\tfire (3b)\nχρή\tit is necessary (for X [acc.] to – [inf.])",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 212
+}

@@ -1,0 +1,488 @@
+{
+  "running_head": "Section 10A",
+  "folio": "138",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        191,
+        107,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the second aorist optative – see GE pp. 210–211, #212 and cf. ἴδοιμι in line 5\non this page). Don't overlook the ἄν.\nἑρπέτω What part of the verb is this? See GE pp. 197–198, #206–207.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        134,
+        156,
+        172,
+        747
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "κέλευσον If you cannot recognise this, see GE p. 189, #198 .",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        156,
+        156,
+        194,
+        747
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "ἐθελήσαιμι 1st person singular aorist optative. Note the ἄν.\nμᾶλλον ... ἤ ‘rather than ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        194,
+        156,
+        232,
+        841
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "ποιήσειας Which part of the aorist optative is this? (GE p. 210, #212).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        232,
+        191,
+        252,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 121",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        257,
+        156,
+        274,
+        657
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "ποιήσειε Which part of the aorist optative is this?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        277,
+        122,
+        345,
+        874
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "συμψηφίσαιο, σῴσαιμεν Look at the aorist optatives active and middle of\nπαύω (GE pp. 210–212, #212) and learn them. Note that the endings of the\nsecond aorist optative are identical with those of the present optative.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        348,
+        156,
+        412,
+        893
+      ],
+      "margin_number": 31,
+      "speaker": null,
+      "text": "ναὶ τὼ σιώ This is a particularly Spartan oath. ‘The Two’ are Castor and\nPollux, the divine brothers of Helen of Troy, who were born in Sparta to Leda\nin an egg, as the result of her liaison with Zeus in the guise of a swan.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        413,
+        191,
+        427,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 10A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        435,
+        191,
+        452,
+        790
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Lysistrata, who is an Athenian woman, comes forward and speaks.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        463,
+        89,
+        501,
+        866
+      ],
+      "margin_number": null,
+      "speaker": "LYSISTRATA",
+      "text": "Do you hope, women, to bring the war to an end with me? For you know\nwell that once we have brought the war to an end we shall see peace again.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        504,
+        191,
+        521,
+        622
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Myrrhine, who is a friend of Lysistrata, agrees.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        524,
+        91,
+        538,
+        827
+      ],
+      "margin_number": null,
+      "speaker": "MYRRHINE",
+      "text": "By the gods, I would gladly see peace after bringing the war to an end.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        540,
+        89,
+        608,
+        911
+      ],
+      "margin_number": null,
+      "speaker": "KLEONIKE",
+      "text": "(Kleonike, who is another friend, also agrees.)\nTo me also it seems a good idea to bring the war to an end. But how is this\npossible for us, women that we are? Do you have some plan? For it is necessary\nthat the men, who fight the battles, should bring the war to an end and make a\ntreaty.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        614,
+        91,
+        646,
+        910
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Let me speak. For one mustn't keep silent. But, women, if we are going to force\nthe men to make peace, we must refrain from ...",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        653,
+        91,
+        668,
+        719
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "From what? What is the plan? Say what you have in mind.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        671,
+        91,
+        683,
+        347
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "So will you do what I order?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        687,
+        91,
+        700,
+        529
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "We shall do everything you tell us to.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        703,
+        91,
+        716,
+        471
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Then we must refrain from sex.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 20,
+      "bbox": [
+        720,
+        191,
+        788,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "All the women, after hearing the words which Lysistrata says, begin to go\naway.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        793,
+        91,
+        826,
+        902
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Where are you going? Why are you weeping? Will you or won't you do what I\norder? Or what do you intend?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        830,
+        91,
+        846,
+        848
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "I couldn't do what you say, Lysistrata; instead let the war take its course.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        848,
+        91,
+        909,
+        883
+      ],
+      "margin_number": null,
+      "speaker": "KLE.",
+      "text": "By Zeus, I won't either; instead let the war take its course. Order me to go\nthrough fire. I would be willing to do that rather than to refrain from sex. For\nnothing is like sex, my dear Lysistrata. I won't do it – no way.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        911,
+        91,
+        927,
+        668
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "What about you then? Would you do what I tell you?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 152
+}

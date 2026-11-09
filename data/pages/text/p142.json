@@ -1,0 +1,328 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "112",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        218,
+        222,
+        252,
+        275
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 2,
+      "bbox": [
+        207,
+        221,
+        260,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "After the prayers, Bdelykleon acts as herald and opens the proceedings. Philokleon eats happily as he listens to the case, which is a γραφή for theft brought by Dog against Labes.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 3,
+      "bbox": [
+        181,
+        125,
+        196,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: coming to trial 6.49–50.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        220,
+        126,
+        233,
+        693
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "εἴ τις ἡλιαστὴς ἔξω ὢν τυγχάνει, εἰσίτω καὶ σπευδέτω.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        235,
+        125,
+        250,
+        439
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "(looks about expectantly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        253,
+        222,
+        269,
+        458
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίς ἐσθ' ὁ φεύγων; προσίτω.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 7,
+      "bbox": [
+        271,
+        125,
+        287,
+        429
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(προσέρχεται ὁ φεύγων, κύων ὤν)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        292,
+        126,
+        305,
+        513
+      ],
+      "margin_number": 5,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἀκούσατ' ἤδη τῆς γραφῆς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 9,
+      "bbox": [
+        309,
+        221,
+        325,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(he reads out the charge)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        327,
+        222,
+        379,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐγράψατο Κύων Κυδαθηναιεὺς κύνα Λάβητ' Αἰξωνέα κλοπῆς. ἠδίκησε γὰρ ὁ φεύγων, μόνος τὸν τυρὸν καταφαγών. καὶ μὴν ὁ φεύγων οὗτοσὶ Λάβης πάρεστιν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        384,
+        125,
+        399,
+        459
+      ],
+      "margin_number": 10,
+      "speaker": "ΦΙΛ.",
+      "text": "(regarding the dog balefully)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        402,
+        222,
+        453,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσίτω. ὦ μιαρὸς οὗτος, γιγνώσκω σε κλέπτην ὄντα. ἀλλ' ἐξαπατήσειν μ' ἐλπίζεις, εὖ οἶδα. ποῦ δ' ἐσθ' ὁ διώκων, ὁ Κυδαθηναιεὺς κύων; ἴθι, κύον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        457,
+        126,
+        470,
+        311
+      ],
+      "margin_number": null,
+      "speaker": "ΚΥΩΝ",
+      "text": "αὖ ⁀ αὖ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        476,
+        126,
+        490,
+        355
+      ],
+      "margin_number": 15,
+      "speaker": "ΒΔΕΛ.",
+      "text": "πάρεστιν οὗτος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        492,
+        126,
+        526,
+        767
+      ],
+      "margin_number": null,
+      "speaker": "ΞΑΝΘΙΑΣ",
+      "text": "ἕτερος οὗτος αὖ Λάβης εἶναί μοι δοκεῖ, λόγῳ μὲν ἀναίτιος ὤν, ἔργῳ δὲ κλέπτης καὶ αὐτός, καὶ ἀγαθὸς γε καταφαγεῖν πάντα τὸν τυρόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 16,
+      "bbox": [
+        541,
+        125,
+        861,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "The trial of Labes from Aristophanes' Wasps",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 142
+}

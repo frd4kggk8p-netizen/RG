@@ -1,0 +1,1548 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "117",
+  "blocks": [
+    {
+      "type": "figure",
+      "order": 1,
+      "bbox": [
+        188,
+        55,
+        532,
+        536
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "γυνή τις τυροκνησίδι χρωμένη",
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        313,
+        191,
+        457,
+        459
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine I",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        347,
+        98,
+        358,
+        229
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἰβοῖ yuk! arghh!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        363,
+        98,
+        377,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱρέ-ω (ἑλ-) convict",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        380,
+        98,
+        392,
+        179
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἰτέ-ω ask",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        396,
+        98,
+        408,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμφότερ-οι -αι -α both",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        411,
+        98,
+        425,
+        228
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνά-βηθι go up! (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        429,
+        116,
+        440,
+        286
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἀνα-βαίν-ω/ἀν-έ-βην)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        443,
+        98,
+        457,
+        310
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀντι-βολέ-ω beg, plead (with)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        460,
+        98,
+        474,
+        333
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-λογί-α, ἡ defence speech (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        477,
+        98,
+        489,
+        210
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-λύ-ω acquit",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        493,
+        98,
+        521,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-λύσ-ατε pl., as if to a whole\njury",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        525,
+        98,
+        537,
+        268
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρχ-ομαι begin (+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        541,
+        98,
+        553,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὖ again, further",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        556,
+        98,
+        568,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δαιμόνι-ε my good fellow",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        572,
+        98,
+        584,
+        202
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δακρύ-ω weep",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        588,
+        98,
+        617,
+        299
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἑλ-εῖν\nἑλ-όντ-α } see αἱρέ-ω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        621,
+        98,
+        633,
+        253
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλπίζ-ω hope, expect",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        637,
+        98,
+        648,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-απατά-ω deceive",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        652,
+        98,
+        664,
+        294
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπ-ίστα-μαι know (how to)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        668,
+        116,
+        680,
+        179
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(+ inf.)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        683,
+        98,
+        695,
+        262
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θάνατ-ος, ὁ death (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        699,
+        98,
+        711,
+        217
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι and yet",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        714,
+        98,
+        727,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-βάντ-ος getting down (gen.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        730,
+        116,
+        755,
+        312
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "s. m.) (κατα-βαίν-ω/\nκατ-έ-βην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        759,
+        98,
+        771,
+        279
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατά-βηθι get down! (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        775,
+        116,
+        786,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(κατα-βαίν-ω/κατ-έ-βην)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        789,
+        98,
+        801,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-βῆναι to get down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        804,
+        116,
+        817,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(κατα-βαίν-ω/κατ-έ-βην)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        820,
+        98,
+        833,
+        328
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-βήσο-μαι I shall get down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        836,
+        116,
+        849,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(κατα-βαίν-ω/κατ-έ-βην)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        347,
+        363,
+        376,
+        607
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-δικάζ-ω convict, find guilty\n(+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        379,
+        363,
+        392,
+        494
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-κνά-ω grate",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        396,
+        363,
+        408,
+        495
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατ-εσθί-ω eat up",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        411,
+        363,
+        440,
+        587
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κιθαρίζ-ω play the kithara (i.e.\nbe educated)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        443,
+        363,
+        457,
+        518
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλέπτ-ης, ὁ thief (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        460,
+        363,
+        474,
+        504
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λύκ-ος, ὁ wolf (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        477,
+        363,
+        489,
+        470
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέγα loudly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        493,
+        363,
+        505,
+        531
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μὲν οὖν no, rather",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        508,
+        363,
+        536,
+        601
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηδείς μηδἐμ-ία μηδέν (μηδεν-)\nno",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        541,
+        363,
+        552,
+        463
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νυνὶ=νῦν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        556,
+        363,
+        568,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅδε ἥδε τόδε this (here)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        572,
+        363,
+        601,
+        583
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκτίρ-ατε pl., as if to a whole\njury",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        604,
+        363,
+        617,
+        539
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἷ-ός τ᾽ εἰμί be able (to)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        621,
+        363,
+        633,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὄφελ-ος, τό use (3c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        637,
+        363,
+        648,
+        561
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παιδί-ον, τό i.e. puppy (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        652,
+        363,
+        664,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρά (+gen.) from",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        668,
+        363,
+        680,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περι-βαίν-ω surround",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        683,
+        363,
+        711,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πονηρ-ός -ά -όν poor,\nwretched",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        714,
+        363,
+        727,
+        542
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πρόβατ-α, τά sheep (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        730,
+        363,
+        742,
+        591
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σιτί-α, τά provisions, food (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        746,
+        363,
+        758,
+        554
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συγγνώμ-ην ἔχ-ω forgive",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        761,
+        363,
+        773,
+        485
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τόδε see ὅδε",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        776,
+        363,
+        789,
+        544
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοσ-οῦτ-ος, τοσ-αύτ-η",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        793,
+        383,
+        804,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοσ-οῦτ-ο(ν) so great",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        808,
+        363,
+        852,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τυγχάν-ω (τυχ-) chance on,\nhappen upon, hit upon\n(+ gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        347,
+        631,
+        375,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τυρό-κνηστις (τυροκνηστιδ-), ἡ\ncheese-grater (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        379,
+        631,
+        408,
+        873
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑφ-αιρέ-ομαι (ὑφ-ελ-) steal, take\nby stealth for oneself",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        411,
+        631,
+        440,
+        798
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑφ-αιρήσ-εσθαι to steal\n(ὑφ-αιρέ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        443,
+        631,
+        457,
+        737
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ψεύδ-ομαι lie",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 61,
+      "bbox": [
+        473,
+        631,
+        485,
+        820
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 62,
+      "bbox": [
+        489,
+        631,
+        518,
+        815
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱρέω (ἑλ-) take, capture,\nconvict",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 63,
+      "bbox": [
+        521,
+        631,
+        534,
+        761
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἰτέω ask (for)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 64,
+      "bbox": [
+        538,
+        631,
+        549,
+        779
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμφότεροι αι α both",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 65,
+      "bbox": [
+        553,
+        631,
+        581,
+        870
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπολογία, ἡ speech in one's own\ndefence (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 66,
+      "bbox": [
+        584,
+        631,
+        613,
+        864
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρχομαι begin (+gen.); begin to\n(+part. or inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 67,
+      "bbox": [
+        616,
+        631,
+        629,
+        775
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὖ again, moreover",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 68,
+      "bbox": [
+        633,
+        631,
+        645,
+        860
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλπίζω hope, expect (+fut. inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 69,
+      "bbox": [
+        648,
+        631,
+        661,
+        790
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θάνατος, ὁ death (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 70,
+      "bbox": [
+        665,
+        631,
+        677,
+        851
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καταδικάζω condemn, convict",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 71,
+      "bbox": [
+        680,
+        648,
+        705,
+        812
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(X [gen.] on charge of\nY [acc.])",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 72,
+      "bbox": [
+        709,
+        631,
+        721,
+        778
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλέπτης, ὁ thief (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 73,
+      "bbox": [
+        724,
+        631,
+        753,
+        842
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παιδίον, τό child; young slave\n(2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 74,
+      "bbox": [
+        757,
+        631,
+        769,
+        767
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρά (+ gen.) from",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 75,
+      "bbox": [
+        772,
+        631,
+        801,
+        838
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τυγχάνω (τυχ-) hit, chance\non, happen on, be subject",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 76,
+      "bbox": [
+        805,
+        648,
+        830,
+        844
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "to (+gen.); happen (to), be\nactually (+part.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 77,
+      "bbox": [
+        833,
+        631,
+        861,
+        854
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑφαιρέομαι (ὑφελ-) steal, take\nfor oneself by stealth",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 147
+}

@@ -1,0 +1,327 @@
+{
+  "running_head": "207–208 Grammar for Section 9H–J",
+  "folio": "199",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        78,
+        203,
+        230
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        217,
+        218,
+        258,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that you will also find ὄντων used as well as ἔστων as the 3pl. imperative of εἰμί.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        163,
+        180,
+        175,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        187,
+        185,
+        305,
+        473
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 1. Translate into English:\n1. ἀκουέτω\n2. ἀναχωρησάντων\n3. διαλεγέσθω\n4. μαθέτω\n5. σιωπώντων\n6. νικήσασθε\n7. ἐνεγκάτω\n8. λυόντων\n9. ἀρχέσθω\n10. τρεψάσθων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J: 1",
+        "instruction": "Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἀκουέτω"
+          },
+          {
+            "n": "2",
+            "prompt": "ἀναχωρησάντων"
+          },
+          {
+            "n": "3",
+            "prompt": "διαλεγέσθω"
+          },
+          {
+            "n": "4",
+            "prompt": "μαθέτω"
+          },
+          {
+            "n": "5",
+            "prompt": "σιωπώντων"
+          },
+          {
+            "n": "6",
+            "prompt": "νικήσασθε"
+          },
+          {
+            "n": "7",
+            "prompt": "ἐνεγκάτω"
+          },
+          {
+            "n": "8",
+            "prompt": "λυόντων"
+          },
+          {
+            "n": "9",
+            "prompt": "ἀρχέσθω"
+          },
+          {
+            "n": "10",
+            "prompt": "τρεψάσθων"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        320,
+        185,
+        480,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 2. Translate into English:\n1. ἔστω.\n2. πάντα ἔξεστιν ἰδεῖν ἐν τῇ\nοἰκίᾳ.\n3. πάντα μαθέτω.\n4. πᾶς τις ἀφικέσθω.\n5. ἀνιστάσθων καὶ μὴ\nμενόντων.\n6. ἴτω.\n7. ἐξεπενγκάντων πάντες τὸν ἄνδρα.\n8. μὴ ἐξέστω ταῦτα εὑρεῖν ἐν τῷ\nλιμένι.\n9. ἴστω.\n10. θὲς ταῦτα πάντα ἐνθάδε.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J: 2",
+        "instruction": "Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἔστω."
+          },
+          {
+            "n": "2",
+            "prompt": "πάντα ἔξεστιν ἰδεῖν ἐν τῇ οἰκίᾳ."
+          },
+          {
+            "n": "3",
+            "prompt": "πάντα μαθέτω."
+          },
+          {
+            "n": "4",
+            "prompt": "πᾶς τις ἀφικέσθω."
+          },
+          {
+            "n": "5",
+            "prompt": "ἀνιστάσθων καὶ μὴ μενόντων."
+          },
+          {
+            "n": "6",
+            "prompt": "ἴτω."
+          },
+          {
+            "n": "7",
+            "prompt": "ἐξεπενγκάντων πάντες τὸν ἄνδρα."
+          },
+          {
+            "n": "8",
+            "prompt": "μὴ ἐξέστω ταῦτα εὑρεῖν ἐν τῷ λιμένι."
+          },
+          {
+            "n": "9",
+            "prompt": "ἴστω."
+          },
+          {
+            "n": "10",
+            "prompt": "θὲς ταῦτα πάντα ἐνθάδε."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "ἐξεπενγκάντων",
+          "reason": "Printed with a ligature or strange νπ sequence",
+          "candidates": [
+            "ἐξεπενγκάντων",
+            "ἐξεπενγκάντων"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        496,
+        190,
+        519,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "FUTURE INFINITIVES: ‘TO BE ABOUT TO’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        532,
+        186,
+        574,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "208. Future infinitives are formed as follows, based inevitably on the future stem (114):",
+      "lang": "mixed",
+      "para_no": 208,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        582,
+        186,
+        595,
+        421
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Future active infinitives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        609,
+        186,
+        736,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσ-ειν, ‘to be about to stop (someone else)’\nTo form the future active infinitive, add -ειν to the future stem, e.g.\nπαύσω, ‘I shall stop’ > παύσ-ειν, ‘to be about to stop’\nποιήσω, ‘I shall do’ > ποιήσ-ειν, ‘to be about to do’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        763,
+        186,
+        777,
+        432
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Future middle infinitives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        790,
+        186,
+        918,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσ-εσθαι, ‘to be about to stop (oneself), cease’\nTo form the future middle infinitive, add -εσθαι to the future stem, e.g.\nπαύσομαι, ‘I shall stop (myself)’ > παύσ-εσθαι, ‘to be about to stop\n(oneself), cease’\nδέξομαι, ‘I shall receive’ > δέξ-εσθαι, ‘to be about to receive’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 217
+}

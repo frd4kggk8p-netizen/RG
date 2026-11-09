@@ -1,0 +1,488 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "224",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        91,
+        281,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(From Aristophanes, Lysistrata)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        108,
+        194,
+        143,
+        804
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΚΕΔΑΙΜΟΝΙΟΣ",
+      "text": "ποῦ ἡ τῶν Ἀθηναίων βουλὴ; ἐθελήσαιμι ἂν ἀγγεῖλαι\nνέον τι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        146,
+        227,
+        175,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘΗΝΑΙΟΣ",
+      "text": "σὺ δὲ τίς εἶ ὃς δεῦρο βαίνεις πρὸς τὸ τεῖχος, πολλῇ\nσπουδῇ βαδίζων;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        178,
+        179,
+        219,
+        814
+      ],
+      "margin_number": 5,
+      "speaker": "ΛΑΚ.",
+      "text": "κῆρυξ ἐγώ, ναὶ τὼ σιώ, καὶ ἔβην ἄρτι ἀπὸ Σπάρτης περὶ\nεἰρήνης.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        223,
+        227,
+        237,
+        720
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘ.",
+      "text": "τί δ᾿ ἐστί σοι τόδε, ὃ ἔχεις ἐν ταῖς χερσίν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        241,
+        227,
+        255,
+        611
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΚ.",
+      "text": "σκυτάλα Λακαινικά.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        259,
+        227,
+        294,
+        804
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘ.",
+      "text": "εὖ οἶδ᾿ ὃ λέγεις. ἀλλὰ τί γίγνεται ἐν Λακεδαιμόνι; εἴποις\nἄν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        298,
+        170,
+        353,
+        814
+      ],
+      "margin_number": 10,
+      "speaker": "ΛΑΚ.",
+      "text": "εἴποιμι ἂν ἡδέως. κακὸν γάρ τι μέγα ἐνέπεσεν ἡμῖν·\nαἰτία δὲ Λαμπιτώ, ἣ ἐξ Ἀθηνῶν ἀναβᾶσα ἔπεισε τὰς\nγυναῖκας ἀπέχεσθαι τῶν ἀφροδισίων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        356,
+        227,
+        370,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘ.",
+      "text": "καὶ πῶς ἔχετε; κακῶς πάσχετε, ἐξ ὧν λέγεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        374,
+        169,
+        428,
+        814
+      ],
+      "margin_number": 15,
+      "speaker": "ΛΑΚ.",
+      "text": "κακῶς παθὼν τυγχάνω, ναὶ τὼ σιώ. δεῖ οὖν ἡμᾶς,\nπειθομένους ταῖς γυναιξί, σπονδὰς ποιήσασθαι, ἃς\nκελεύσουσιν αὐταί, καὶ καταλῦσαι τὸν πόλεμον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        431,
+        227,
+        485,
+        814
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘ.",
+      "text": "τί οὐ καλοῦμεν δῆτα τὴν Λυσιστράτην, ἣ ποιήσαιτ᾿ ἂν\nἡμῖν σπονδὰς μόνη; ἐπάθομεν γὰρ καὶ ἡμεῖς τοῦτο τὸ\nκακόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        488,
+        169,
+        503,
+        706
+      ],
+      "margin_number": 20,
+      "speaker": "ΛΑΚ.",
+      "text": "ναὶ τὼ σιώ. τίς ἂν εἴποι ποῦ ἐστιν ἡ Λυσιστράτη;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        506,
+        227,
+        541,
+        779
+      ],
+      "margin_number": null,
+      "speaker": "ΑΘ.",
+      "text": "ἀλλ᾿ ἡμᾶς οὐ δεῖ καλεῖν αὐτήν· αὐτὴ γάρ, ἀκούσασα ἃ\nἐλέγομεν, ἥδε βᾶσα τυγχάνει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        544,
+        169,
+        650,
+        814
+      ],
+      "margin_number": 25,
+      "speaker": "ΛΥΣΙΣΤΡΑΤΗ",
+      "text": "ἴτε, ἄνδρες. τῶν λόγων ἀκούετε ὧν λέγω. ἐγὼ γυνὴ μέν\nεἰμι, νοῦς δ᾿ ἔνεστί μοι. τί νῦν οὕτως μάχεσθε καὶ οὐ\nπαύεσθε τῆς μοχθηρίας ὑμεῖς, οἷς οἱ αὐτοὶ εἰσι βωμοὶ\nκαὶ αἱ αὐταὶ θυσίαι; τί νῦν Ἕλληνας ἄνδρας καὶ πόλεις\nἀπόλλυτε, οἷς ἀντὶ τούτων ἔξεστιν εἰρήνην ἰδεῖν, φίλοις\nτ᾿ οὖσι καὶ συμμάχοις;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        653,
+        169,
+        674,
+        804
+      ],
+      "margin_number": 30,
+      "speaker": "ΛΑΚ. ΚΑΙ ΑΘ.",
+      "text": "καίτοι οὐδὲν ἄλλο δῶρον δεόμεθα ἢ βινεῖν δύνασθαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        677,
+        227,
+        731,
+        814
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥΣ.",
+      "text": "ἅπαντες οὖν σπονδὰς ποιησάμενοι καταλύσατε τὸν\nπόλεμον. κἄπειτα τὴν αὐτοῦ γυναῖκα λαβὼν ἀπίτω\nἕκαστος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        743,
+        194,
+        760,
+        297
+      ],
+      "margin_number": null,
+      "speaker": "Vocabulary",
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        773,
+        194,
+        788,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βουλή, ἡ Council of Five Hundred (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        792,
+        194,
+        807,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγγέλλω announce (aor. ἤγγειλα)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        811,
+        194,
+        826,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ναὶ τὼ σιώ by the Two Gods*",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        829,
+        194,
+        844,
+        579
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σκυτάλα Λακαινικά a Spartan code-staff**",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        848,
+        194,
+        863,
+        401
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀφροδίσια, τά sex (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        866,
+        194,
+        882,
+        431
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μοχθηρία, ἡ nastiness (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        885,
+        194,
+        902,
+        351
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπόλλυμι destroy",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 242
+}

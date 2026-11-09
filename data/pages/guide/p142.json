@@ -1,0 +1,68 @@
+{
+  "running_head": "Section 9H",
+  "folio": "128",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        190,
+        192,
+        908,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But it is easy to confuse the active endings -όντων and -άντων with the genitive plural of the present and aorist active participles which are the same in spelling. Once again only the context will help you.\n\nPage 112\n1, 3 εἰσίτω and προσίτω Note the 3rd s. imperative of εἶμι ‘I go’.\n3 ὁ φεύγων ‘the defendant’. Cf. ὁ διώκων ‘the prosecutor’ in line 11.\n5 ἀκούσατε ‘Listen to ...’ This must be imperative because there is no augment. Compare ἠκούσατε ‘you heard’.\n7 Λάβης From λαμβάνω. The dog is called ‘Grabber’. There is probably a topical reference here to a case which Kleon, the politician, may have been intending to bring against a man called Lakhes.\n11–12 ἐξαπατήσειν μ’ ἐλπίζεις ἐλπίζω is normally followed by a future indicative: ‘You hope to deceive me.’\n14 Dogs say αὖ αὖ, and sheep say βῆ βῆ. This is part of the evidence for the pronunciation of vowel sounds in the fifth century BC.\n16 ‘This seems to me to be another Labes (i.e. Grabber, i.e. thief).’ λόγῳ μέν.... ἔργῳ δέ ... Note the contrast. Cf. 8D line 11.\n\nPage 114\n18 ἀναβάς This is the aorist participle. Note the principal parts βαίνω βήσομαι ἔβην.\n19 ἀναβῆναι Aorist infinitive of ἀναβαίνω.\n23 οὗτος ὁ ἀδικήσας ‘the one having done wrong’, ‘the criminal’, ἀδικήσας is the aorist participle of ἀδικέω.\n24 ὅτε ‘When’. Cf. τότε ‘then’, and do not confuse it with ὅτι ‘that’, ‘because’.\nἤτησα From αἰτέω αἰτήσω ἤτησα ‘I ask’.\n25 οὐ παρεῖχέ μοι αἰτοῦντι ‘did not give it to me asking’. Note that αἰτοῦντι agrees with μοι.\n27 ἑλεῖν αἱρέω αἱρήσω εἷλον. This usually means ‘to take’ (middle ‘to choose’), but in the context of a lawcourt it will usually mean ‘to convict’.\n29–30 δεῖ σε ... ‘You must hear them both, and, having heard them, on that basis (οὕτω) cast your vote.’ σε is accusative after δεῖ, and ἀκούσαντα is accusative agreeing with σε. The two infinitives are governed by δεῖ.\n31 ὡς ὄντα ... ‘as being ...’ ‘on the grounds that he is ...’ κυνῶν ... ἄνδρα An intentional absurdity, like μονο-φαγίστατον. Note μονο- and φαγ- and the superlative ending.\n35 προσιόντων πάντες What is προσιόντων? What makes sense in the context? See introduction to 9H.\n40 κατάβηθι ‘get down’. Note that the 2nd s. aorist imperative of βαίνω is βῆθι.\n\nTranslation for 9H",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        918,
+        89,
+        932,
+        214
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "If any juror happens to be outside, let him come in and make haste.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        938,
+        88,
+        951,
+        210
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Who is the defendant? Let him come forward.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 142
+}

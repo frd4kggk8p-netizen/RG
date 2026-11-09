@@ -1,0 +1,1048 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "103",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        198,
+        71,
+        134,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτὸν ἐφυλάττομεν τούτοις τοῖς δικτύοις. ἔστι δ᾽ ὄνομα τῷ μὲν γέροντι Φιλοκλέων, τῷ δ᾽ υἱῷ γε τούτῳ Βδελυκλέων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        127,
+        196,
+        137,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        164,
+        101,
+        175,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-πείθ-ω persuade, convince",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        179,
+        101,
+        190,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπορί-α perplexity",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        194,
+        101,
+        205,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐλ-ή, ἡ courtyard (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        209,
+        101,
+        243,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-ῷ ... ἀνα-πείθ-οντ-ι him ... trying to persuade (him) (after ἐπείθετο)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        247,
+        101,
+        258,
+        329
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτῷ τῷ τυμπάν-ῳ drum and all",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        262,
+        101,
+        279,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βαρέ-ως φέρ-ω take hard, find hard to bear",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        283,
+        101,
+        329,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Βδελυ-κλέων (Βδελυκλεων-), ὁ Bdelykleon (3a) (‘Loather of Kleon’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        333,
+        101,
+        344,
+        189
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γράφ-ω write",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        348,
+        101,
+        373,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῆμ-ος, ὁ Demos (2a) (a notably handsome young man)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        377,
+        101,
+        388,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικάζ-ω be a juror, decide a case",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        392,
+        101,
+        403,
+        226
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐγ-κλεί-ω shut in",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        407,
+        101,
+        418,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-έρχ-ομαι go out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        422,
+        101,
+        432,
+        182
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπεί when",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        436,
+        101,
+        447,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐραστ-ής, ὁ lover (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        451,
+        101,
+        475,
+        324
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἠλιάστ-ης, ὁ juror in the Eliaia court (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        479,
+        101,
+        490,
+        214
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θύρ-α τιν-ὶ a door",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        494,
+        101,
+        505,
+        245
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θύράζε out of doors",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        509,
+        101,
+        520,
+        253
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθ-ίζ-ομαι sit down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        524,
+        101,
+        534,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι furthermore",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        164,
+        366,
+        199,
+        604
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κημ-ός, ὁ funnel (2a) (through which the voting pebble goes into the voting urn)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        203,
+        366,
+        250,
+        602
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κορυβαντίζ-ω introduce into the Korybantic rites (a mystery religion involving wildness of all kinds, and the beating of drums)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        254,
+        366,
+        265,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὀνειρο-πολέ-ω dream",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        269,
+        366,
+        293,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρα-γράφ-ω write alongside",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        297,
+        366,
+        308,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλησίον nearby",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        312,
+        366,
+        369,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πολλ-οῖς τε οὖσι καὶ μεγάλ-οις being many and large (goes with τούτ-οις τοῖς μόχλ-οις)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        373,
+        366,
+        384,
+        575
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς ἡμέρ-ας during the day",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        388,
+        366,
+        399,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς νυκτ-ὸς during the night",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        403,
+        366,
+        427,
+        600
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοιόσδε τοιάδε τοιόνδε like this, as follows",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        431,
+        366,
+        455,
+        570
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τούτ-οις τοῖς δικτύ-οις with these nets",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        459,
+        366,
+        483,
+        571
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τούτ-οις τοῖς μόχλ-οις with these bars",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        487,
+        366,
+        498,
+        568
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ γέροντ-ι to the old man",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        502,
+        366,
+        513,
+        583
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ δικαστηρί-ῳ the law-court",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        164,
+        633,
+        175,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ πατρ-ὶ his father (after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        179,
+        633,
+        190,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμ-πεσ-οῦσ-α)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        194,
+        633,
+        218,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ σῷ υἱ-ῷ your son (after πείσ-ῃ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        222,
+        633,
+        233,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ υἱ-ῷ τούτ-ῳ to this son here",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        237,
+        633,
+        248,
+        867
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑμ-ῖν . . . οὖσι to you (pl.) being",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        252,
+        633,
+        277,
+        864
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φιλ-ηλιαστ-ής, ὁ lover of being a juror in the court of the",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        281,
+        633,
+        292,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Eliaia (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        297,
+        633,
+        343,
+        846
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Φιλο-κλέων (Φιλοκλεων-), ὁ Philokleon (3a) (‘Lover of Kleon’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 43,
+      "bbox": [
+        376,
+        633,
+        386,
+        824
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        390,
+        633,
+        414,
+        871
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναπείθω persuade over to one's side",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        418,
+        633,
+        443,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βαρέως φέρω take badly, find hard to bear",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        447,
+        633,
+        471,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δικάζω be a juror; make a judgment",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        475,
+        633,
+        499,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξέρχομαι (ἐξελθ-) go out; come out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        503,
+        633,
+        514,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπεί when; since",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        518,
+        633,
+        529,
+        770
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθίζομαι sit down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        533,
+        633,
+        544,
+        750
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθίζω sit down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        548,
+        633,
+        559,
+        846
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλησίον nearby, (+ gen.) near",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 52,
+      "bbox": [
+        602,
+        196,
+        853,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ΗΟ ΠΑΙΣ ΚΑΛΟΣ",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 133
+}

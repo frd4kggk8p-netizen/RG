@@ -1,0 +1,148 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "212–214",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        194,
+        39,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXPRESSING A WISH",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        108,
+        194,
+        178,
+        915
+      ],
+      "margin_number": 213,
+      "speaker": null,
+      "text": "ἀπολοίμην (sometimes just ὀλοίμην) means ‘May I die! Damn me!’ (cf. the stem ἀπολ- learned at vocabulary 8C). This use of the optative on its own to express a wish for the future is very common. It will be fully introduced later on.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        206,
+        194,
+        251,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "MORE VERBS IN -μι",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        214,
+        194,
+        309,
+        915
+      ],
+      "margin_number": 214,
+      "speaker": null,
+      "text": "You have already met some verbs ending in -μι, e.g. εἰ-μί, ‘I am’, εἶ-μι ‘I shall go’ and φημί ‘I say’ (see 386–8). You have noticed that they are quite different from verbs in -ω.\nThere are a number of such verbs in Greek, of which the most common are:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        326,
+        95,
+        431,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δίδωμι ‘I give’\nτίθημι ‘I place’\nἵημι ‘I let go, shoot’\nἵστημι ‘I set up’\nδείκνυμι ‘I show’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        449,
+        246,
+        483,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Here now, in full, is the conjugation of δίδωμι. It will give you the key to all -μι verbs. Know δίδωμι, and the rest will be relatively straightforward:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        501,
+        194,
+        881,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δίδωμι ‘I give’: stem διδο-\nPresent active ‘I give’\nIndicative Participle Infinitive Imperative Optative\nδίδω-μι διδοούς διδο-νναι διδο-ίην\nδίδω-ς διδοῦσα δίδου διδο-ίης\nδίδω-σι(ν) διδό-ν δίδω-τω διδο-ίην\nδίδω-μεν (διδo-ντ-) διδο-ῖμεν\nδίδω-τε δίδω-τε διδo-ῖτε\nδίδω-ασι(ν) διδο-ντων διδο-ῖεν\n\nPresent middle ‘I give’\nIndicative Participle Infinitive Imperative Optative\nδιδo-μαι διδο-μεν-ος διδο-σθαι διδο-ίηνν\nδιδo-σαι -η δίδω-σο διδo-ῖο\nδιδo-ται -ον διδo-σθω διδο-ῖτο\nδιδο-μεθα διδο-ίμεθα\nδιδo-σθε διδo-σθε διδo-ῖσθε\nδιδo-νται διδo-σθων διδο-ῖντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 230
+}

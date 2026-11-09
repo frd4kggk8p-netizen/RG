@@ -1,0 +1,232 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "216–216a",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        193,
+        85,
+        312,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "υἱός, ὁ ‘son’ (2a, and mixed)\ns.\nNom. υἱός\nAcc. υἱόν\nGen. υἱέος\nDat. υἱεῖ\npl.\nNom. υἱεῖς\nAcc. υἱεῖς\nGen. υἱέων\nDat. υἱέσι(ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        364,
+        188,
+        381,
+        322
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        390,
+        194,
+        508,
+        915
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "4. Add the correct forms of the def. art. with both ἀμελής and γλυκύς to the following nouns, e.g. γυναικί = τῇ ἀμελεῖ/γλυκείᾳ γυναικί:\n1. φύλακας\n2. μητρός\n3. παιδία\n4. ἀμφοτέροις\n5. μάρτυρες\n6. υἱέων\n7. Now add the correct forms of ἀλήθης (‘true’) and βραχύς (‘short’).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10:4",
+        "instruction": "Add the correct forms of the def. art. with both ἀμελής and γλυκύς to the following nouns, e.g. γυναικί = τῇ ἀμελεῖ/γλυκείᾳ γυναικί:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "φύλακας"
+          },
+          {
+            "n": "2",
+            "prompt": "μητρός"
+          },
+          {
+            "n": "3",
+            "prompt": "παιδία"
+          },
+          {
+            "n": "4",
+            "prompt": "ἀμφοτέροις"
+          },
+          {
+            "n": "5",
+            "prompt": "μάρτυρες"
+          },
+          {
+            "n": "6",
+            "prompt": "υἱέων"
+          },
+          {
+            "n": "7",
+            "prompt": "Now add the correct forms of ἀλήθης (‘true’) and βραχύς (‘short’)."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        537,
+        195,
+        555,
+        432
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE RELATIVE PRONOUN",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        568,
+        195,
+        584,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "216a. The relative pronoun, ‘who, which, what’ in English, declines as follows:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        600,
+        195,
+        878,
+        914
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅς ἥ ὅ ‘who, which, what’\nm. f. n.\ns.\nNom. ὅς ἥ* ὅ\nAcc. ὅν ἥν ὅ\nGen. οὗ ἧς οὗ\nDat. ᾧ ᾗ ᾧ\npl.\nNom. οἱ* αἱ* ἅ\nAcc. οὕς ἅς ἅ\nGen. ὧν ὧν ὧν\nDat. οἷς αἷς οἷς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "s.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "ὅς",
+            "ἥ*",
+            "ὅ"
+          ],
+          [
+            "Acc.",
+            "ὅν",
+            "ἥν",
+            "ὅ"
+          ],
+          [
+            "Gen.",
+            "οὗ",
+            "ἧς",
+            "οὗ"
+          ],
+          [
+            "Dat.",
+            "ᾧ",
+            "ᾗ",
+            "ᾧ"
+          ],
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "οἱ*",
+            "αἱ*",
+            "ἅ"
+          ],
+          [
+            "Acc.",
+            "οὕς",
+            "ἅς",
+            "ἅ"
+          ],
+          [
+            "Gen.",
+            "ὧν",
+            "ὧν",
+            "ὧν"
+          ],
+          [
+            "Dat.",
+            "οἷς",
+            "αἷς",
+            "οἷς"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 234
+}

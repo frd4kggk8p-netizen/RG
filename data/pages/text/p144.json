@@ -1,0 +1,248 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "114",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        123,
+        79,
+        618,
+        622
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "σῖγα, κάθιζε. σὺ δέ, ὦ κύον, ἀναβὰς κατηγόρει.\n(ὁ δὲ κύων, ἀναβῆναι οὐκ ἐθέλων, ἀποτρέχει)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        117,
+        122,
+        130,
+        903
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "The dog runs off round the courtroom. At last he is caught and put on the rostrum.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        133,
+        125,
+        166,
+        791
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "εὖ γε. τέλος γὰρ ἀνέβη ὁ κύων. ἐγὼ δέ, ἅμα δικάζων, πᾶσαν τὴν φακῆν\nἔδομαι, τῆς δὲ κατηγορίας ἀκούσομαι ἐσθίων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        169,
+        126,
+        222,
+        903
+      ],
+      "margin_number": 25,
+      "speaker": "ΚΥΩΝ",
+      "text": "τῆς μὲν γραφῆς ἠκούσατ᾽, ὦ ἄνδρες δικασταί. οὗτος γὰρ ὁ ἀδικήσας με\nἔλαθε ἀπιὼν μόνος, καὶ πάντα τὸν τυρὸν καταφαγών. καὶ ὅτε μέρος\nἤτησα ἐγώ, οὐ παρεῖχέ μοι αἰτοῦντι. παύσομαι κατηγορῶν· δίκασον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        226,
+        126,
+        258,
+        497
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλ᾽ ὦ ᾽γαθέ, τὸ πρᾶγμα φανερόν ἐστιν. αὐτὸ γὰρ βοᾷ. τὴν ψῆφον οὖν\nθέσθαι με δεῖ, καὶ ἐλεεῖν αὐτόν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        262,
+        126,
+        311,
+        903
+      ],
+      "margin_number": 30,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(appeals to Philokleon)\nἴθι, πάτερ, πρὸς τῶν θεῶν, ἐμοὶ πιθοῦ καὶ μὴ προκαταγίγνωσκε. δεῖ γάρ\nσε ἀμφοτέρων ἀκοῦσαι, ἀκούσαντα δὲ οὕτω τὴν ψῆφον θέσθαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        314,
+        126,
+        347,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "ΚΥΩΝ",
+      "text": "κολάσατε αὐτόν, ὡς ὄντα αὖ πολὺ κυνῶν ἁπάντων ἄνδρα\nμονοφαγίστατον, καὶ ἔλετε τοῦτον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        351,
+        126,
+        444,
+        903
+      ],
+      "margin_number": 35,
+      "speaker": "ΒΔΕΛ.",
+      "text": "νῦν δὲ τοὺς μάρτυρας εἰσκαλῶ ἔγωγε.\n(calls out a summons)\nπροσιόντων πάντες οἱ Λάβητος μάρτυρες, κυμβίον, τυρόκνηςτις, χύτρα,\nκαὶ τὰ ἄλλα σκεύη πάντα. ἴθι, ὦ κύον, ἀνάβαινε, ἀπολογοῦ.\n(there is a long silence from Labes)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        447,
+        222,
+        479,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί παθὼν σιωπᾷς; λέγοις ἄν. ἔξεστι γάρ· καὶ δὴ δεῖ σε ἀπολογεῖσθαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        483,
+        126,
+        497,
+        737
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλὰ οὐ δύναται οὗτός γ᾽, ὡς ἔμοιγε δοκεῖ. οὐ γὰρ ἐπίσταται λέγειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        501,
+        126,
+        519,
+        903
+      ],
+      "margin_number": 40,
+      "speaker": "ΒΔΕΛ.",
+      "text": "κατάβηθι, ὦ κύον. ἐγὼ γὰρ μέλλω ἀπολογήσεσθαι, εὖ εἰδὼς περὶ τὰ\nδικανικά.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 12,
+      "bbox": [
+        546,
+        230,
+        773,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "χύτρα καὶ τὰ ἄλλα σκεύη",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 144
+}

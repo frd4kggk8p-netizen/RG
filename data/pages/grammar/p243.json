@@ -1,0 +1,68 @@
+{
+  "running_head": "Revision Exercises for Section 10",
+  "folio": "225",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        186,
+        76,
+        310,
+        448
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀντί (+gen.) instead of\nσύμμαχος, ὁ ally (2a)\nβινέω make love (colloquial)\nἕκαστος η ον each",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 2,
+      "bbox": [
+        186,
+        186,
+        196,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* The two gods – Castor and Pollux.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 3,
+      "bbox": [
+        198,
+        186,
+        238,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "** The message was written on a leather strip wrapped round the pole and when removed was unintelligible; the recipient would have a similar staff for use in decoding. There is a double entendre at work here.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "**",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 243
+}

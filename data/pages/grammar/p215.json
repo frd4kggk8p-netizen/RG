@@ -1,0 +1,308 @@
+{
+  "running_head": "Grammar for Section 9H-J",
+  "folio": "197",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        85,
+        99,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 9H–J*",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        112,
+        186,
+        127,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(*Formerly 8 H–J)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        134,
+        185,
+        274,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• Third person imperatives, present and aorist, active and middle, incl. εἰμί, εἶμι, οἶδα\n• Future infinitive and its uses\n• Root aorists: ἔβην, ἔγνων\n• ἐπίσταμαι ‘I know’\n• Principal parts: αἱρέω, αἱρέομαι, πάσχω, φέρω, πείθω, πείθομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        294,
+        186,
+        318,
+        668
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THIRD PERSON IMPERATIVES: ‘LET HIM/HER/THEM’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        331,
+        186,
+        428,
+        907
+      ],
+      "margin_number": 206,
+      "speaker": null,
+      "text": "As well as having second person imperatives, which you have already met, Greek has third person imperative forms. Third person imperatives do not exist in English, but their nearest equivalent is ‘let him/her –’, ‘let them –’, etc. Here are the imperative forms of παύω in full, with the third person imperatives taking their place beside the second persons:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        435,
+        186,
+        451,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Present 3rd person imperatives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "bbox": [
+        461,
+        186,
+        569,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Active παυ-έτω, -όντων",
+            "Middle παυ-έσθω, -έσθων"
+          ]
+        ],
+        "rows": [
+          [
+            "2s.",
+            "παῦ-ε",
+            "2s.",
+            "παύ-ου"
+          ],
+          [
+            "3s.",
+            "παυ-έτω",
+            "‘let him stop’",
+            "3s.",
+            "παυ-έσθω"
+          ],
+          [
+            "2pl.",
+            "παύ-ετε",
+            "2pl.",
+            "παύ-εσθε"
+          ],
+          [
+            "3pl.",
+            "παυ-όντων",
+            "‘let them stop’",
+            "3pl.",
+            "παυ-έσθων"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        588,
+        186,
+        627,
+        693
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ Contract verbs\nThese will contract in accordance with the normal rules:",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 9,
+      "bbox": [
+        638,
+        186,
+        903,
+        904
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Active",
+            "Middle"
+          ],
+          [
+            null,
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "2s.",
+            "τίμα",
+            "2s.",
+            "τιμῶ"
+          ],
+          [
+            "3s.",
+            "τιμάτω",
+            "3s.",
+            "τιμάσθω"
+          ],
+          [
+            "2pl.",
+            "τιμᾶτε",
+            "2pl.",
+            "τιμᾶσθε"
+          ],
+          [
+            "3pl.",
+            "τιμῴντων",
+            "3pl.",
+            "τιμάσθων"
+          ],
+          [
+            "2s.",
+            "ποίει",
+            "2s.",
+            "ποιοῦ"
+          ],
+          [
+            "3s.",
+            "ποιείτω",
+            "3s.",
+            "ποιείσθω"
+          ],
+          [
+            "2pl.",
+            "ποιεῖτε",
+            "2pl.",
+            "ποιεῖσθε"
+          ],
+          [
+            "3pl.",
+            "ποιούντων",
+            "3pl.",
+            "ποιείσθων"
+          ],
+          [
+            "2s.",
+            "δήλου",
+            "2s.",
+            "δουλοῦ"
+          ],
+          [
+            "3s.",
+            "δηλούτω",
+            "3s.",
+            "δουλούσθω"
+          ],
+          [
+            "2pl.",
+            "δηλοῦτε",
+            "2pl.",
+            "δουλοῦσθε"
+          ],
+          [
+            "3pl.",
+            "δηλούντων",
+            "3pl.",
+            "δουλούσθων"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 215
+}

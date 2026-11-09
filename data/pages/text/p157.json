@@ -1,0 +1,1428 @@
+{
+  "running_head": "Section Ten A-E: Aristophanes' Lysistrata",
+  "folio": "127",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        100,
+        56,
+        815,
+        878
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ἀλλὰ ποῦ γὰρ ἄν τις δράσειε τοῦτο; πρῶτον γὰρ δεῖ μ᾽ ἐνεγκεῖν κλινίδιον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        100,
+        99,
+        638,
+        642
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "μηδαμῶς, ἐπειδὴ ἔξεστιν ἡμῖν χαμαὶ κατακλίνεσθαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        100,
+        143,
+        222,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(firmly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        100,
+        161,
+        876,
+        829
+      ],
+      "margin_number": 30,
+      "speaker": "ΜΥ.",
+      "text": "μὰ τὸν Ἀπόλλω, οὐκ ἐάσω σ᾽ ἐγώ, καίπερ τοιοῦτον ὄντα, κατακλίνεσθαι χαμαί.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 5,
+      "bbox": [
+        100,
+        203,
+        292,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐξέρχεται)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        100,
+        221,
+        222,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(joyfully)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        100,
+        238,
+        624,
+        623
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "ὦ τῆς εὐτυχίας· ἥ τοι γυνὴ φιλοῦσά με δήλη ἐστίν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        195,
+        195,
+        461,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Ten D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        100,
+        252,
+        313,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-μελ-εῖ uncaring (dat. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        100,
+        270,
+        313,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-μελέστερ-ος -α -ον more uncaring (ἀ-μελ-ής)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        100,
+        303,
+        313,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀ-μελ-ῆ uncaring (acc. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        100,
+        321,
+        311,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄν δράσ-ειε (he) might do (δρά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        100,
+        339,
+        301,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βαδι-οῦμαι I shall walk (fut. of βαδιζ-ω; ἐ-ω contr.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        100,
+        372,
+        301,
+        514
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βαδι-ῇ you (s.) will walk (fut. of βαδιζ-ω; ἐ-ω contr.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        100,
+        404,
+        303,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γλυκ-εῖ-α sweet (nom. s. f.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        100,
+        422,
+        281,
+        488
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γλυκ-ὺ sweet (nom. s. n.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        100,
+        439,
+        298,
+        498
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γλυκ-ὺν sweet (acc. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        100,
+        453,
+        298,
+        513
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γλυκ-ὺς sweet (nom. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        100,
+        471,
+        315,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δυσ-τυχέστερ-ος -α -ον more unlucky (δυσ-τυχ-ής)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        100,
+        503,
+        273,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκποδών out of the way",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        100,
+        521,
+        281,
+        494
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὐ-τυχί-α, ἡ good luck (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        363,
+        252,
+        606,
+        318
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θεράπων (θεραποντ-), ὁ servant, slave (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        363,
+        285,
+        497,
+        490
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ δὴ there!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        363,
+        303,
+        513,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι and yet",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        363,
+        321,
+        592,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-γέλαστ-ος -ον laughable, silly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        363,
+        355,
+        558,
+        553
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατα-κλίν-ομαι lie down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        363,
+        372,
+        589,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλινίδι-ον, τὸ little couch (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        363,
+        404,
+        596,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Μαν-ῆς, ὁ Manes (voc. Μαν-ῆ) (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        363,
+        439,
+        571,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέμφ-ομαι criticise (+dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        363,
+        457,
+        513,
+        512
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηδαμ-ῶς not at all",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        363,
+        473,
+        598,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μήτηρ (μητ(ε)ρ-), ἡ mother (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        363,
+        490,
+        513,
+        512
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅς who (nom. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        363,
+        508,
+        576,
+        576
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύ-ομαι cease from (+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        363,
+        524,
+        574,
+        587
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-άγ-ω bring (to) (+dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        363,
+        542,
+        532,
+        534
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πρότερον before, first",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        634,
+        252,
+        765,
+        318
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πύλ-η, ἡ gate (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        634,
+        270,
+        786,
+        334
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τέκν-ον, τὸ child (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        634,
+        287,
+        706,
+        353
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοι then",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        634,
+        305,
+        829,
+        354
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε . . . φιλήσω come . . . let me kiss",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        634,
+        339,
+        867,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φίλημα (φιληματ-), τὸ kiss (3b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        634,
+        355,
+        780,
+        421
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χαμαὶ on the ground",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 42,
+      "bbox": [
+        634,
+        388,
+        814,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        634,
+        403,
+        755,
+        459
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι and yet",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        634,
+        422,
+        796,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κατακλίνομαι lie down",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        634,
+        439,
+        860,
+        478
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέμφομαι blame, criticise, find",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        634,
+        457,
+        786,
+        480
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "fault with (+acc. or dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        634,
+        473,
+        856,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηδαμῶς not at all, in no way",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        634,
+        490,
+        869,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μήτηρ (μητ(ε)ρ-), ἡ mother (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        634,
+        508,
+        831,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύομαι cease from (+gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        634,
+        524,
+        777,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοι then (inference)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 51,
+      "bbox": [
+        197,
+        546,
+        246,
+        569
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 52,
+      "bbox": [
+        100,
+        577,
+        482,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐπανέρχεται ἡ Μυρρίνη κλινίδιον φέρουσα)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 53,
+      "bbox": [
+        100,
+        594,
+        381,
+        627
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ἰδοὺ ἐγὼ ἐκδύομαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 54,
+      "bbox": [
+        100,
+        611,
+        237,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(has a sudden thought)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 55,
+      "bbox": [
+        100,
+        628,
+        481,
+        659
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι ψίαθον χρή μ᾽ ἐνεγκεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 56,
+      "bbox": [
+        100,
+        646,
+        239,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(surprised)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 57,
+      "bbox": [
+        100,
+        663,
+        876,
+        693
+      ],
+      "margin_number": 5,
+      "speaker": "KIN.",
+      "text": "ποία ψίαθος; μὴ μοί γε. ἀλλὰ δός μοι νυν κύσαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 58,
+      "bbox": [
+        100,
+        680,
+        245,
+        699
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ἰδού.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 59,
+      "bbox": [
+        100,
+        697,
+        831,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(κύσασα τὸν ἄνδρα, αὖθις ἐξέρχεται. φέρουσα δὲ ψίαθον, πάνυ ταχέως ἐπανέρχεται.)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 60,
+      "bbox": [
+        100,
+        715,
+        663,
+        746
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰδού, ψίαθος. ἀλλὰ τί οὐ κατακλίνῃ; καὶ δὴ ἐκδύομαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 61,
+      "bbox": [
+        100,
+        743,
+        261,
+        412
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(another sudden thought)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 62,
+      "bbox": [
+        100,
+        761,
+        876,
+        785
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "καίτοι προσκεφάλαιον οὐκ ἔχεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 63,
+      "bbox": [
+        197,
+        796,
+        492,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Ten E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 64,
+      "bbox": [
+        100,
+        822,
+        303,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δόσ grant! (s.) (δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 65,
+      "bbox": [
+        100,
+        839,
+        292,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκ-δύ-ομαι undress",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 66,
+      "bbox": [
+        100,
+        856,
+        194,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ δὴ there!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 67,
+      "bbox": [
+        366,
+        822,
+        596,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλινίδι-ον, τὸ small couch (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 68,
+      "bbox": [
+        366,
+        839,
+        503,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κυνέ-ω (κυσ-) kiss",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 69,
+      "bbox": [
+        366,
+        856,
+        574,
+        571
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ποῖ-ος -α -ον; what sort of?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 70,
+      "bbox": [
+        633,
+        822,
+        874,
+        858
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-κεφάλαι-ον, τὸ pillow (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 71,
+      "bbox": [
+        633,
+        839,
+        810,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ψίαθ-ος, ἡ mattress (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 157
+}

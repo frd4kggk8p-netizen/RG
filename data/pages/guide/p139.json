@@ -1,0 +1,379 @@
+{
+  "running_head": "Exercises for section 9F–G",
+  "folio": "125",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        190,
+        78,
+        237,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Speak, what is this? Do you not think that this chamber-pot is an excellent water clock? Everything is now here.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        240,
+        190,
+        269,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Sit down, then, Father, and stop worrying. Listen, slaves, and obey me, and bring out the fire. You pray to all the gods, and after praying, prosecute.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        272,
+        190,
+        313,
+        880
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "After bringing out the fire all the slaves go away, while those present pray to the gods.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        326,
+        190,
+        340,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        349,
+        190,
+        396,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Make sure that you know these forms of the imperative before you go on to the next section.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        419,
+        190,
+        432,
+        506
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 9F–G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        453,
+        190,
+        467,
+        377
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST INFINITIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        488,
+        190,
+        579,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "to learn\nμαθεῖν"
+          },
+          {
+            "n": "2.",
+            "prompt": "to run out\nἐκδραμεῖν"
+          },
+          {
+            "n": "3.",
+            "prompt": "to begin\nἄρξασθαι"
+          },
+          {
+            "n": "4.",
+            "prompt": "to lead out\nἐξαγαγεῖν"
+          },
+          {
+            "n": "5.",
+            "prompt": "to make, do\nποιήσασθαι"
+          },
+          {
+            "n": "6.",
+            "prompt": "to wrong (someone)\nἀδικῆσαι"
+          },
+          {
+            "n": "7.",
+            "prompt": "to consider\nνομίσαι"
+          },
+          {
+            "n": "8.",
+            "prompt": "to guard\nφυλάξαι"
+          },
+          {
+            "n": "9.",
+            "prompt": "to turn towards\nπροτρέψαι"
+          },
+          {
+            "n": "10.",
+            "prompt": "to sacrifice\nθῦσαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        602,
+        190,
+        735,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 2",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "to make, do   aorist"
+          },
+          {
+            "n": "2.",
+            "prompt": "to conquer   present"
+          },
+          {
+            "n": "3.",
+            "prompt": "to speak   present"
+          },
+          {
+            "n": "4.",
+            "prompt": "to set free   aorist"
+          },
+          {
+            "n": "5.",
+            "prompt": "to learn   present"
+          },
+          {
+            "n": "6.",
+            "prompt": "to run   aorist"
+          },
+          {
+            "n": "7.",
+            "prompt": "to judge   aorist"
+          },
+          {
+            "n": "8.",
+            "prompt": "to see   aorist"
+          },
+          {
+            "n": "9.",
+            "prompt": "to begin   present"
+          },
+          {
+            "n": "10.",
+            "prompt": "to become   aorist"
+          },
+          {
+            "n": "11.",
+            "prompt": "to go   aorist"
+          },
+          {
+            "n": "12.",
+            "prompt": "to lead, drive   present"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        763,
+        190,
+        776,
+        730
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST IMPERATIVES AND MORE PRESENT IMPERATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 11,
+      "bbox": [
+        798,
+        190,
+        927,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 3",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "learn (pl. aor.)"
+          },
+          {
+            "n": "2.",
+            "prompt": "speak (s. pres.)"
+          },
+          {
+            "n": "3.",
+            "prompt": "speak (s. aor.)"
+          },
+          {
+            "n": "4.",
+            "prompt": "stop (s. aor)"
+          },
+          {
+            "n": "5.",
+            "prompt": "seek (s. pres.)"
+          },
+          {
+            "n": "6.",
+            "prompt": "stay (pl. aor.)"
+          },
+          {
+            "n": "7.",
+            "prompt": "become (s. aor.)"
+          },
+          {
+            "n": "8.",
+            "prompt": "receive (s. aor.)"
+          },
+          {
+            "n": "9.",
+            "prompt": "obey (s. aor.)"
+          },
+          {
+            "n": "10.",
+            "prompt": "find (pl. aor.)"
+          },
+          {
+            "n": "11.",
+            "prompt": "stop (pl. aor.)"
+          },
+          {
+            "n": "12.",
+            "prompt": "let go, loose (s. aor.)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 139
+}

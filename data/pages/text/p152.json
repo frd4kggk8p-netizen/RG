@@ -1,0 +1,768 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "122",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        223,
+        73,
+        273,
+        272
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        127,
+        127,
+        123,
+        655
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: treasury 8.95; economics of empire 6.75ff.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        146,
+        127,
+        155,
+        843
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΜ.",
+      "text": "ἡμεῖς οὖν, τοὺς ἡμετέρους ἄνδρας πείσασαι, ἀναγκάσομεν εἰρήνην ἄγειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        164,
+        218,
+        178,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίνι τρόπῳ τοὺς ὑμετέρους δυνήσεσθε πεῖσαι, οἳ τὰς τριήρεις γ᾽ ἔχουσι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        181,
+        219,
+        192,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ τἀργύριον; ἢ χρήμασιν ἢ δώροις ἢ ποιοῦσαι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        198,
+        123,
+        210,
+        169
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "ἀλλὰ καὶ τοῦτ᾽ εὖ παρεσκευασάμεθα, ὅτι καταληψόμεθα τήμερον τὴν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        214,
+        219,
+        239,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἀκρόπολιν, θύειν δοκοῦσαι. καταλαβοῦσαι δέ, φυλάξομεν αὐτὴν αὐτῷ\nτῷ ἀργυρίῳ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 8,
+      "bbox": [
+        242,
+        122,
+        253,
+        834
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(boῄ tina eżaifnჳs akoჳei h lampitw, akoჳsasa de thn lysistrATHN PROSAGOREῠEI)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        257,
+        124,
+        269,
+        526
+      ],
+      "margin_number": null,
+      "speaker": "ΛΑΜ.",
+      "text": "τίς ἐβόησε; τίς αἴτιος τῆς βοῆς;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        273,
+        124,
+        283,
+        168
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "τοῦτ᾽ ἐκεῖνο ὃ ἔλεγον. αἱ γὰρ γρᾶες, ἃς ἔδει τὴν ἀκρόπολιν τῆς θεοῦ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        287,
+        219,
+        313,
+        903
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "καταλαβεῖν, νῦν ἔχουσιν. ἀλλ᾽ ὦ Λαμπιτοῖ, σὺ μὲν, οἴκαδε ἐλθοῦσα, τὰ\nπαρ᾽ ὑμῖν εὖ θέσις, ἡμεῖς δ᾽ εἰσελθοῦσαι τὴν ἀκρόπολιν, ἣν ἄρτι κατέλαβον\nαἱ γρᾶες, φυλάξομεν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        326,
+        124,
+        351,
+        885
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἡ μὲν Λαμπιτὼ ἀπιοῦσα βαδίζει τὴν ὁδόν, ἣ εἰς Λακεδαίμονα φέρει, αἱ δ᾽ ἄλλαι\nεἰσελθοῦσαι τὴν ἀκρόπολιν φυλάττουσιν. ἐξαίφνης δὲ βοᾷ ἡ Λυσιστράτη, ἰδοῦσα\nἄνδρα τινά, ὃς τυγχάνει προσιών.)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        355,
+        124,
+        366,
+        477
+      ],
+      "margin_number": 15,
+      "speaker": "ΛΥ.",
+      "text": "ἰοὺ ἰοὺ γυναῖκες, ἴτε δεῦρο ὡς ἐμὲ ταχέως.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        369,
+        123,
+        381,
+        417
+      ],
+      "margin_number": null,
+      "speaker": "ΚΛ.",
+      "text": "τί δ᾽ ἐστίν; εἰπέ μοι, τίς ἡ βοή;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        384,
+        123,
+        408,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "ἄνδρα ἄνδρα ὁρῶ προσιόντα. ὁρᾶτε. γιγνώσκει τις ὑμῶν τὸν ἄνδρα ὃς\nπροσέρχεται;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        412,
+        125,
+        423,
+        220
+      ],
+      "margin_number": 20,
+      "speaker": "ΜΥ.",
+      "text": "οἴμοι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        426,
+        123,
+        449,
+        829
+      ],
+      "margin_number": null,
+      "speaker": "ΚΛ.",
+      "text": "ἀλλὰ δῆλον, Λυσιστράτη, ὅτι ἡ Μυρρίνη αὐτὸν ἔγνω. ἰδοῦσα γὰρ καὶ\nγνοῦσα ᾤμυξε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        453,
+        124,
+        477,
+        860
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "λέγε, ὦ Μυρρίνη. ἆρ᾽ ἡ Κλεονίκη ἀληθῆ λέγει; τὸν ἄνδρα ἔγνως σύ; κἀμοὶ\nγὰρ δοκεῖς τὸν ἄνδρα γνῶναι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        481,
+        124,
+        492,
+        706
+      ],
+      "margin_number": 25,
+      "speaker": "ΜΥ.",
+      "text": "νὴ Δία ἔγνων ἔγωγε. ἔστι γὰρ Κινησίας, οὗ γυνή εἰμι ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 20,
+      "bbox": [
+        496,
+        124,
+        507,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(reveals her plan)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        510,
+        222,
+        521,
+        808
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σὸν ἔργον ἤδη τοῦτον, ὦ συνοικεῖς, ἐξαπατᾶν καὶ φιλεῖν καὶ μὴ φιλεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        525,
+        124,
+        535,
+        410
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ποιήσω ταῦτ᾽ ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        538,
+        124,
+        563,
+        796
+      ],
+      "margin_number": 30,
+      "speaker": "ΛΥ.",
+      "text": "καὶ μὴν ἐγὼ συνεξαπατήσαιμ᾽ ἄν σοι παραμένουσα ἐνθάδε,\nἀποπέμψασα τὰς γρᾶες, ὧν ἔργον ἐστὶ τὴν ἀκρόπολιν φυλάττειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 24,
+      "bbox": [
+        587,
+        224,
+        601,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Ten B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        747,
+        128,
+        761,
+        336
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκρόπολ-ις, ἡ acropolis (3e)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        764,
+        128,
+        777,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναγκάζ-ω compel",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        780,
+        127,
+        794,
+        345
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπο-πέμπ-ω send away, dismiss",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        797,
+        128,
+        874,
+        353
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀργύρι-ον, τό silver (2b)\n(deposited in the Parthenon;\nthese were reserves built\nup from the silver mines at\nLaurion)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        747,
+        395,
+        760,
+        554
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρτι just now, recently",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        764,
+        394,
+        791,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἃς [for] whom (acc. pl. f.) (after\nἔδει)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        794,
+        395,
+        836,
+        634
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γv-οῦσ-α recognising (nom. s. f.)\n(γιγνώσκ-ω/ἔ-γνω-v)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        838,
+        394,
+        882,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γνῶ-ναι to recognise (γιγνώσκ-\nω/ἔ-γνω-ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        886,
+        394,
+        898,
+        589
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γρᾶυς (γρα-), ἡ old woman (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        747,
+        661,
+        760,
+        852
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῶρ-ον, τό gift, bribe (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        763,
+        676,
+        793,
+        837
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-γνω-ν (I) recognised\n(γιγνώσκ-ω/ἔ-γνω-ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        797,
+        661,
+        826,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-γνω-ς you (s.) recognised\n(γιγνώσκ-ω/ἔ-γνω-ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        831,
+        661,
+        859,
+        837
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-γνω (she) recognised\n(γιγνώσκ-ω/ἔ-γνω-ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        863,
+        661,
+        876,
+        796
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξαίφνης suddenly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 152
+}

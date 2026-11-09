@@ -1,0 +1,386 @@
+{
+  "running_head": "Exercises for section 9A-E",
+  "folio": "120",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        192,
+        61,
+        230,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "3.",
+            "prompt": "name   τῷ ὀνόματι, τοῖς ὀνόμασιν"
+          },
+          {
+            "n": "4.",
+            "prompt": "thing, (pl.) money   τῷ χρήματι, τοῖς χρήμασιν"
+          },
+          {
+            "n": "5.",
+            "prompt": "neighbour   τῷ γείτονι, τοῖς γείτοσιν"
+          },
+          {
+            "n": "6.",
+            "prompt": "lamp, torch   τῇ λαμπάδι, τοῖς λαμπάσιν"
+          },
+          {
+            "n": "7.",
+            "prompt": "night   τῇ νυκτί, ταῖς νυξίν"
+          },
+          {
+            "n": "8.",
+            "prompt": "fatherland   τῇ πατρίδι, ταῖς πατρίσιν"
+          },
+          {
+            "n": "9.",
+            "prompt": "leader, guide   τῷ ἡγεμόνι, τοῖς ἡγεμόσιν"
+          },
+          {
+            "n": "10.",
+            "prompt": "woman   τῇ γυναικί, ταῖς γυναιξίν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        223,
+        191,
+        237,
+        285
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 8",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        247,
+        191,
+        381,
+        898
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "better   ἀμείνονι, ἀμείνοσιν"
+          },
+          {
+            "n": "2.",
+            "prompt": "going   ἰόντι, ἰούσῃ, ἰόντι, ἰοῦσιν᾽ ἰούσαις, ἰοῦσιν"
+          },
+          {
+            "n": "3.",
+            "prompt": "being   ὄντι, οὔσῃ, ὄντι, οὖσιν, οὖσαις, οὖσιν"
+          },
+          {
+            "n": "4.",
+            "prompt": "having sacrificed   θύσαντι, θυσάσῃ, θύσαντι, θυσᾶσι, θυσάσαις,\nθυσᾶσιν"
+          },
+          {
+            "n": "5.",
+            "prompt": "fortunate   εὐδαίμονι, εὐδαίμοσιν"
+          },
+          {
+            "n": "6.",
+            "prompt": "someone   τινί, τισίν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        421,
+        191,
+        435,
+        285
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 9",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        445,
+        191,
+        579,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "Zeus   τῷ Δíí"
+          },
+          {
+            "n": "2.",
+            "prompt": "I   ἐμοί, μοι, ἡμῖν"
+          },
+          {
+            "n": "3.",
+            "prompt": "ship   τῃ νηί, ταῖς ναυσίν"
+          },
+          {
+            "n": "4.",
+            "prompt": "king   τῷ βασιλεῖ, τοῖς βασιλεῦσιν"
+          },
+          {
+            "n": "5.",
+            "prompt": "you (s.)   σοί, σοι, ὑμῖν"
+          },
+          {
+            "n": "6.",
+            "prompt": "eyebrow   τῇ ὀφρύι, ταῖς ὀφρύσιν"
+          },
+          {
+            "n": "7.",
+            "prompt": "old woman   τῇ γραί, ταῖς γραυσίν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "τῃ νηί",
+          "reason": "iota subscript is missing on τῃ in the printed text",
+          "candidates": [
+            "τῇ νηί",
+            "τῃ νηί"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        596,
+        191,
+        609,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 10",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        620,
+        191,
+        796,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "juror   τῷ δικαστῇ, τοῖς δικασταῖς"
+          },
+          {
+            "n": "2.",
+            "prompt": "boy, slave   τῷ παιδί, τοῖς παισίν"
+          },
+          {
+            "n": "3.",
+            "prompt": "river   τῷ ποταμῷ, τοῖς ποταμοῖς"
+          },
+          {
+            "n": "4.",
+            "prompt": "dwelling   τῇ οἰκήσει, ταῖς οἰκήσεσιν"
+          },
+          {
+            "n": "5.",
+            "prompt": "possession   τῷ κτήματι, τοῖς κτήμασιν"
+          },
+          {
+            "n": "6.",
+            "prompt": "battle   τῇ μάχῃ, ταῖς μάχαις"
+          },
+          {
+            "n": "7.",
+            "prompt": "temple, shrine   τῷ ἱερῷ, τοῖς ἱεροῖς"
+          },
+          {
+            "n": "8.",
+            "prompt": "city   τῷ ἄστει, τοῖς ἄστεσιν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        814,
+        191,
+        828,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 11",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        838,
+        191,
+        925,
+        794
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "11",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "δοκεῖ τῷ Σωκράτει"
+          },
+          {
+            "n": "2.",
+            "prompt": "ἕπομαι ὑμῖν"
+          },
+          {
+            "n": "3.",
+            "prompt": "ἐντυγχάνω τῷ βασιλεῖ"
+          },
+          {
+            "n": "4.",
+            "prompt": "ἐν ταῖς ναυσί(ν)"
+          },
+          {
+            "n": "5.",
+            "prompt": "δοκεῖ ἡμῖν"
+          },
+          {
+            "n": "6.",
+            "prompt": "πρὸς τοῖς θεαταῖς"
+          },
+          {
+            "n": "7.",
+            "prompt": "σὺν ἡμῖν"
+          },
+          {
+            "n": "8.",
+            "prompt": "χρῶμαι σοί"
+          },
+          {
+            "n": "9.",
+            "prompt": "ἕπομαι αὐτοῖς"
+          },
+          {
+            "n": "10.",
+            "prompt": "ἐν τῷ πλήθει"
+          },
+          {
+            "n": "11.",
+            "prompt": "ἐπὶ τῇ νίκῃ"
+          },
+          {
+            "n": "12.",
+            "prompt": "λόγῳ μὲν ... ἔργῳ δέ"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 134
+}

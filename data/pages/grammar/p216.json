@@ -1,0 +1,468 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "198",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        79,
+        542,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist 3rd person imperatives",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 2,
+      "bbox": [
+        193,
+        193,
+        252,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Active παυσά-τω, (ά)-ντων",
+            "Middle παυσά-σθω, (ά)-σθων"
+          ]
+        ],
+        "rows": [
+          [
+            "2s. παῦσον",
+            "2s. παῦσα-ι"
+          ],
+          [
+            "3s. παυσά-τω ‘let him stop’",
+            "3s. παυσά-σθω"
+          ],
+          [
+            "2pl. παύσα-τε",
+            "2pl. παύσα-σθε"
+          ],
+          [
+            "3pl. παυσά-ντων ‘let them stop’",
+            "3l. παυσά-σθων"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        257,
+        193,
+        273,
+        569
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist 3rd person imperatives",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 4,
+      "bbox": [
+        287,
+        193,
+        427,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Active λαβ-έτω, -όντων",
+            "Middle λαβ-έσθω, -έσθων"
+          ]
+        ],
+        "rows": [
+          [
+            "2s. λάβ-έ",
+            "2s. λαβ-οῦ"
+          ],
+          [
+            "3s. λαβ-έτω ‘let him take’",
+            "3s. λαβ-έσθω"
+          ],
+          [
+            "2pl. λάβ-ετε",
+            "2pl. λάβ-εσθε"
+          ],
+          [
+            "3pl. λαβ-όντων ‘let them take’",
+            "3pl. λαβ-έσθων"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        427,
+        193,
+        439,
+        356
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and usage",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        447,
+        193,
+        482,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Note once again the similarity between the endings of the second aorist and present forms of the imperative.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        484,
+        193,
+        502,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Third person imperatives are fairly rare, but note that:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 8,
+      "bbox": [
+        507,
+        193,
+        578,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The present/second aorist pl. form (in -όντων) and the first aorist pl. form (in -[σ]άντων) could be mistaken for present and aorist participles in the gen. pl.!",
+      "lang": "en",
+      "para_no": null,
+      "marker": "•",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        581,
+        193,
+        613,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The presence of a stated subject in the nom. and/or lack of any other possible finite verb-form will tell you that the third person imperative is being used, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        626,
+        228,
+        642,
+        618
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπελθόντων οἱ ᾿Αθηναῖοι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        626,
+        558,
+        642,
+        793
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘let the Athenians depart!’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        643,
+        228,
+        658,
+        486
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διωκόντων τὸν ἄνδρα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        643,
+        558,
+        658,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘let them pursue the man!’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        663,
+        193,
+        679,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Contrast:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        693,
+        228,
+        708,
+        458
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀκούω τῶν λεγόντων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        693,
+        558,
+        708,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘I hear the men talking’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        735,
+        193,
+        751,
+        403
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Irregular imperatives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        760,
+        193,
+        775,
+        676
+      ],
+      "margin_number": 207,
+      "speaker": null,
+      "text": "Note the full imperatives of εἰμί, εἶμι, and οἶδα:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 19,
+      "bbox": [
+        792,
+        193,
+        896,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "εἰμί, ‘I am’",
+            "εἶμι, ‘I shall go’",
+            "οἶδα, ‘I know’"
+          ]
+        ],
+        "rows": [
+          [
+            "2s. ἴσθι ‘be!’",
+            "2s. ἴθι ‘go!’",
+            "2s. ἴσθι ‘know!’"
+          ],
+          [
+            "3s. ἔστω ‘let him be!’",
+            "3s. ἴτω ‘let him go!’",
+            "3s. ἴστω ‘let him know!’"
+          ],
+          [
+            "2pl. ἔστε ‘be!’",
+            "2pl. ἴτε ‘go!’",
+            "2pl. ἴστε ‘know!’"
+          ],
+          [
+            "3pl. ἔστων ‘let them be!’",
+            "3pl. ἰόντων ‘let them go!’",
+            "3pl. ἴστων ‘let them know!’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 216
+}

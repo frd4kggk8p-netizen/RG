@@ -1,0 +1,292 @@
+{
+  "running_head": "Grammar for Section 10",
+  "folio": "212",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        78,
+        458,
+        456
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist optative middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        185,
+        185,
+        261,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παυσαίμην\nπαυσα-ί-μην\nπαυσα-ι-o\nπαυσα-ι-το\nπαυσα-ί-μεθα\nπαυσα-ί-σθε\nπαυσα-ι-ντο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        283,
+        185,
+        296,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        306,
+        185,
+        338,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(d) The aorist stem with optative ‘signature’ (ι) here takes regular past middle endings (-μην -[σ]o -το, 102).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        366,
+        185,
+        381,
+        474
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist optative active",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        395,
+        185,
+        564,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Active | Middle\nλάβοιμι | λαβοίμην\nλάβ-οι-μι | λαβ-οί-μην\nλάβ-οι-ς | λαβ-οι-o\nλάβ-οι | λαβ-οι-το\nλάβ-οι-μεν | λαβ-οί-μεθα\nλάβ-οι-τε | λαβ-οι-σθε\nλάβ-οι-εν | λαβ-οι-ντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Active"
+          ],
+          [
+            "Middle"
+          ]
+        ],
+        "rows": [
+          [
+            "λάβοιμι",
+            "λαβοίμην"
+          ],
+          [
+            "λάβ-οι-μι",
+            "λαβ-οί-μην"
+          ],
+          [
+            "λάβ-οι-ς",
+            "λαβ-οι-o"
+          ],
+          [
+            "λάβ-οι",
+            "λαβ-οι-το"
+          ],
+          [
+            "λάβ-οι-μεν",
+            "λαβ-οί-μεθα"
+          ],
+          [
+            "λάβ-οι-τε",
+            "λαβ-οι-σθε"
+          ],
+          [
+            "λάβ-οι-εν",
+            "λαβ-οι-ντο"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        591,
+        185,
+        604,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        613,
+        185,
+        663,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(e) Observe yet again that the second aorist takes endings identical to those for the present, i.e. aorist stem + οι (cf. 144–5). The formal difference between e.g. λάβ-οι and λαμβάν-οι is purely one of stem.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        665,
+        185,
+        723,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(f) Again, there is no difference of time between present and aorist optative. The difference is one of aspect (165), if there is a difference at all which is really noticeable in translation.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        746,
+        178,
+        932,
+        906
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE\n10: 1. Translate the following forms and turn them into the equivalent form in the present and aorist optative:\n1. ἔσωσε\n6. ἐψηφισάμην\n2. ποιοῦσιν\n7. παυόμεθα\n3. ἀπέσχοντο\n8. ἠνάγκασας\n4. καταλύει\n9. ἐμέμψατο\n5. συνῳκήσαμεν\n10. φεύγω",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10:1",
+        "instruction": "Translate the following forms and turn them into the equivalent form in the present and aorist optative:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἔσωσε"
+          },
+          {
+            "n": "2",
+            "prompt": "ποιοῦσιν"
+          },
+          {
+            "n": "3",
+            "prompt": "ἀπέσχοντο"
+          },
+          {
+            "n": "4",
+            "prompt": "καταλύει"
+          },
+          {
+            "n": "5",
+            "prompt": "συνῳκήσαμεν"
+          },
+          {
+            "n": "6",
+            "prompt": "ἐψηφισάμην"
+          },
+          {
+            "n": "7",
+            "prompt": "παυόμεθα"
+          },
+          {
+            "n": "8",
+            "prompt": "ἠνάγκασας"
+          },
+          {
+            "n": "9",
+            "prompt": "ἐμέμψατο"
+          },
+          {
+            "n": "10",
+            "prompt": "φεύγω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 229
+}

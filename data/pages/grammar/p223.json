@@ -1,0 +1,213 @@
+{
+  "running_head": "Revision Exercises for Section 9H-J",
+  "folio": "205",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        187,
+        185,
+        198,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR 9H-J",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        186,
+        116,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        121,
+        187,
+        237,
+        783
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Sort this list into present, aorist and future infinitives:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Sort this list into present, aorist and future infinitives:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        151,
+        248,
+        236,
+        783
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πλεῖν\nἀποχωρεῖν\nἀφικέσθαι\nποιήσειν\nβιάσθαι\nφροντιεῖν\nἔσεσθαι\nσπεύδειν\nὀφείλειν\nλήψεσθαι\nβοηθῆσαι\nμαχέσθαι\nὀλοφυρεῖσθαι\nπαύσεσθαι\nδιώξειν\nμαθήσεσθαι\nκρατῆσαι\nδέξεσθαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        253,
+        187,
+        349,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Give the aorist imperative, infinitive and participle (m./f./n.) of these verbs:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Give the aorist imperative, infinitive and participle (m./f./n.) of these verbs:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "δέχομαι"
+          },
+          {
+            "n": "2",
+            "prompt": "δράω"
+          },
+          {
+            "n": "3",
+            "prompt": "ἔρχομαι"
+          },
+          {
+            "n": "4",
+            "prompt": "γίγνομαι"
+          },
+          {
+            "n": "5",
+            "prompt": "κωλύω"
+          },
+          {
+            "n": "6",
+            "prompt": "ἐπαινέω"
+          },
+          {
+            "n": "7",
+            "prompt": "βάλλω"
+          },
+          {
+            "n": "8",
+            "prompt": "παύω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        363,
+        185,
+        396,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Give meaning of verb and analyse part shown in right-hand box. Then connect the forms in the right-hand box with the dictionary forms in the left-hand box:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Give meaning of verb and analyse part shown in right-hand box. Then connect the forms in the right-hand box with the dictionary forms in the left-hand box:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        411,
+        219,
+        764,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱρέω\nἀποθνῄσκω\nβάλλω\nγίγνομαι\nεἰμί\nεἶμι\nἔρχομαι\nἐρωτάω\nεὑρίσκω\nἔχω\nλαμβάνω\nλανθάνω\nμανθάνω\nοἶδα\nὁράω\nπίπτω\nτρέχω\nτυγχάνω\nφέρω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 8,
+      "bbox": [
+        411,
+        412,
+        928,
+        566
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λᾲσειν\nλάβετε\nἑλεῖν\nἰδών\nλαθών\nἐλθέ\nλήψεσθαι\nἀπέθανε\nγενήσεσθαι\nἐρόμενος\nμαθόντες\nγένεσθε\nδραμεῖν\nοἴσει\nτυχούσῃ\nἐνέγκατε\nεἶναι\nἰόντος\nᾔδεσαν\nᾔεισθα\nβαλεῖν\nεἰδότες\nεὑρήσειν\nπεσόντι\nσχές\nπεσοῦμεν\nἕξειν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 223
+}

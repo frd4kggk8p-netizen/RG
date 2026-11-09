@@ -1,0 +1,488 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "113",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        197,
+        75,
+        471,
+        469
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        197,
+        197,
+        878,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 9H–J\n• Third person imperatives, present and aorist, active and middle, incl. εἰμί, εἶμι, οἶδα\n• Future infinitive and its uses\n• Root aorists: ἔβην, ἔγνων\n• ἐπίσταμαι 'I know'\n• Principal parts: αἱρέω, αἱρέομαι, πάσχω, φέρω, πείθω, πείθομαι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        280,
+        101,
+        334,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγαθ-ός -ή -όν good (at)\n(+ inf.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        313,
+        101,
+        355,
+        343
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Αἰξων-εύς, ὁ man from the deme\nAixone (3g)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        346,
+        101,
+        359,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀν-αἰτι-ος -ον innocent",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        361,
+        101,
+        373,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὖ αὖ woof! woof!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        376,
+        101,
+        406,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γράφ-ομαι indict x (acc.) for\nγ (gen.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        409,
+        101,
+        423,
+        231
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διώκ-ω prosecute",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        280,
+        364,
+        324,
+        553
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλπίζ-ω hope, expect (to)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        295,
+        364,
+        324,
+        553
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-απατήσ-ειν to deceive",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        313,
+        385,
+        324,
+        485
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐξ-ἀπατά-ω)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        326,
+        364,
+        339,
+        458
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔξω outside",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        342,
+        364,
+        373,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἠλιαστ-ής, ὁ juror in the Eliaia\ncourt (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        375,
+        364,
+        388,
+        521
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ μήν and look . . .",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        392,
+        364,
+        404,
+        525
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλέπτ-ης, ὁ thief (1d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        409,
+        364,
+        423,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλοπ-ή, ἡ theft (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        280,
+        633,
+        309,
+        865
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Κυδαθηναι-εύς, ὁ man from the\ndeme Kydathene (3g)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        313,
+        633,
+        343,
+        850
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Lάβης (Lαβητ-), ὁ Labes (3a)\n(‘Grabber’)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        346,
+        633,
+        374,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-ίτω let him come forward\n(προσ-έρχ-ομαι/πρόσ-ειμι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        376,
+        633,
+        390,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπευδ-έτω let him hurry!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        392,
+        652,
+        406,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(σπεύδ-ω)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        409,
+        633,
+        423,
+        800
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φεύγ-ω be a defendant",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 23,
+      "bbox": [
+        452,
+        455,
+        467,
+        619
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Kleon and Lakhes",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        490,
+        197,
+        836,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The trial between the two dogs is an extended satire on two contemporary politi-\ncians, Kleon and Lakhes. The dog from Kudathenaion represents Kleon, Labes\nfrom Aixone represents Lakhes. Kleon is already at the heart of Wasps because it\nwas he who had raised jury pay: hence Philokleon ‘Love-Kleon’, and Bdelukleon\n‘Loathe-Kleon’. Here Aristophanes sees a further chance to mock Kleon by turn-\ning him into a dog and having him prosecute Labes/Lakhes for ‘eating up all the\nSicilian cheese’. Lakhes had been involved with an expedition round Sicily in\n427–4, and it seems he had been accused of helping himself to the money that\nAthens’ allies in Sicily had been providing for the upkeep of the fleet. Whether\nKleon had actually prosecuted Lakhes on these grounds is not known; but since\nKleon was renowned for putting himself forward as a ‘champion of the people’\nby prosecuting officials whose financial conduct was dodgy, and had recently\nbeen making comments about Lakhes’ behaviour, Aristophanes saw a chance to\nhave a bit of fun at his expense. It is notable that, throughout the trial, the dog\nKleon is presented as every bit as bad as Labes/Lakhes (see e.g. Text 9H 1.16, 9I\n11.23–4). Aristophanes always had it in for Kleon. The point is that the majority\nof leaders of the people before Pericles had been from traditional families whose\nwealth was in land; but after the death of Pericles, the new breed of politicians\ncame from un-landed, nouveau-riche families, whom Aristophanes despised.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 143
+}

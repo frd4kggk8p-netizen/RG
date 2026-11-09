@@ -1,0 +1,394 @@
+{
+  "running_head": "Summary Exercises for Section 9",
+  "folio": "209",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        250,
+        78,
+        888,
+        747
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ ὑμεῖς, ὦ παῖδες, τρέχετε καὶ βοᾶτε καὶ Κλέωνι ταῦτ᾽ ἀγγέλλετε καὶ κελεύετε αὐτὸν ἥκειν. ὁ γὰρ Βδελυκλέων λέγει ὅτι χρὴ μὴ δικάζειν δίκας. ἴτω οὖν Κλέων καὶ σωτὴρ γενέσθω τῷ γέροντι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        143,
+        203,
+        156,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        174,
+        203,
+        187,
+        399
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καπνός, ὁ smoke (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        191,
+        203,
+        205,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λίθος, ὁ stone (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        209,
+        203,
+        224,
+        350
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐφ᾽ οὗ on which",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        228,
+        203,
+        241,
+        338
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀριθμέω count",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        247,
+        203,
+        262,
+        354
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πρόσθεν in front",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        174,
+        430,
+        187,
+        626
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηχανή, ἡ device (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        191,
+        430,
+        206,
+        706
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκεῖος, ὁ family member (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        209,
+        430,
+        224,
+        887
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥρως, ὁ hero (his shrine was next to the lawcourts)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        228,
+        430,
+        241,
+        547
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀγγέλλω tell",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        247,
+        430,
+        262,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥκω come",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 13,
+      "bbox": [
+        289,
+        179,
+        304,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        318,
+        186,
+        333,
+        729
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Answer the following questions based on the passage above.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        342,
+        186,
+        413,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Give the number, person and aspect of the following imperatives (e.g. 2 s. pres.):",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "παῦσαι (line 4)"
+          },
+          {
+            "n": "b",
+            "prompt": "γενοῦ (line 5)"
+          },
+          {
+            "n": "c",
+            "prompt": "λέξον (line 8)"
+          },
+          {
+            "n": "d",
+            "prompt": "βοᾶτε (line 9)"
+          },
+          {
+            "n": "e",
+            "prompt": "ζητεῖτε (line 14)"
+          },
+          {
+            "n": "f",
+            "prompt": "βοηθούντων (line 20)"
+          },
+          {
+            "n": "g",
+            "prompt": "οἴκτιρον (line 22)"
+          },
+          {
+            "n": "h",
+            "prompt": "γενέσθω (line 26)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 16,
+      "bbox": [
+        420,
+        186,
+        471,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Give the case of the following words and phrases:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "φίλοι (line 1)"
+          },
+          {
+            "n": "b",
+            "prompt": "κακόν τι (line 4)"
+          },
+          {
+            "n": "c",
+            "prompt": "Ζεῦ (line 4)"
+          },
+          {
+            "n": "d",
+            "prompt": "πάντες (line 18)"
+          },
+          {
+            "n": "e",
+            "prompt": "δέσποτα (line 21)"
+          },
+          {
+            "n": "f",
+            "prompt": "τῷ γέροντι (line 26)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 227
+}

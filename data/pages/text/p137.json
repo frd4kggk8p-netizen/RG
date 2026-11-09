@@ -1,0 +1,128 @@
+{
+  "folio": null,
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        193,
+        0,
+        715,
+        61
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλά πως εἰκάζειν μοι ἐξεσται, ἐνθάδε μένοντι,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        43,
+        193,
+        497,
+        233
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        193,
+        107,
+        893,
+        413
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for 9F–G\n• Aorist infinitives, first and second, active and middle\n• Aspect in the infinitive\n• Aorist imperatives, first and second, active and middle\n• Present imperatives: εἰμί, εἶμι, οἶδα, δύναμαι, ἀνίσταμαι\n• ἔξεστι, δεινός\n• Vocatives\n• Adjectives: πᾶς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        447,
+        98,
+        253,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀν-ίστασο get up! (s.)\n(ἀν-ίστα-μαι)\nδυνήσ-ῃ you (s.) will be able\n(fut. of δύγ-ομαι)\nἐά-ω (ἐάσ-) allow",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        447,
+        368,
+        569,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνθάδε here\nἔξ-εστι it is possible (for x (dat.)\nto -)\nὅμως nevertheless, however",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        447,
+        638,
+        569,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πιθ-έσθαι to obey (πείθ-ομαι/ἐ-\nπιθ-όμην)\nχρή it is necessary/right (for x\n[acc.] to-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 137
+}

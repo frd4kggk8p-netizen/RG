@@ -1,0 +1,217 @@
+{
+  "running_head": "Revision Exercises for Section 10",
+  "folio": "223",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        215,
+        76,
+        792,
+        797
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "g. ποῦ ἐστι Κινησίας; Μυρρίνη ἐστὶν ἡ γυνὴ αὐτοῦ.\nh. ποῦ αἱ γρᾶες; τὸ ἔργον ἐστὶν αὐτῶν φυλάττειν τὰ χρήματα.\ni. ἆρα γιγνώσκεις τὸν ἄνδρα; ὁ ἀνὴρ προσέρχεται.\nj. δεῖ ἡμᾶς εἰρήνην ἄγειν. ἡ εἰρήνη αἰτία ἐστὶ πολλῶν καλῶν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        186,
+        186,
+        186,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(D) ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        187,
+        186,
+        312,
+        883
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Translate into Greek:\n1. Will the women refrain from the bribes which the men will give them?\n2. These guards are uncaring and guard with no zeal.\n3. The old women are making a plan by which they will capture the walls.\n4. It seems a good idea to us women to bring the war to an end.\n5. Won't anyone force the men to stop fighting?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate into Greek:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Will the women refrain from the bribes which the men will give them?"
+          },
+          {
+            "n": "2",
+            "prompt": "These guards are uncaring and guard with no zeal."
+          },
+          {
+            "n": "3",
+            "prompt": "The old women are making a plan by which they will capture the walls."
+          },
+          {
+            "n": "4",
+            "prompt": "It seems a good idea to us women to bring the war to an end."
+          },
+          {
+            "n": "5",
+            "prompt": "Won't anyone force the men to stop fighting?"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        323,
+        186,
+        672,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. Translate into Greek (words in italics are given in the vocabulary):\nLYSISTRATA We must stop the war and make a truce. We will persuade the\nmen, whose duty it is to fight, to do what we want.\nWOMAN I should like to. But how is it possible for us, who are women,\nto do this? Say what you have in mind.\nLYS. Would you do what I order?\nWOMEN We would, by Zeus.\nLYS. The plan I have in mind happens to be difficult. Listen then to\nthe words I speak, and obey. We must all refrain from sex!\nMYRRHINE I will not do it!\nKLEONIKE Neither will I!\nLYS. Is there anyone who will do what I order?\nLAMPITO We must bring peace and stop the men who fight the wars. I will\nvote with you.\nLYS. Dear Lampito! Give me your hand.\nLAMP. Here, I give it.\nLYS. Go then to Sparta and persuade the Spartans.\nLAMP. I will go at once.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate into Greek (words in italics are given in the vocabulary):",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        698,
+        186,
+        710,
+        289
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        724,
+        186,
+        777,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "sex ἀφροδίσια, τά (2b)\nvote with συμψηφίζομαι (+ dat.)\nSparta Λακεδαίμων (Λακεδαιμον-), ἡ (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        803,
+        186,
+        815,
+        404
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "TEST EXERCISE TEN",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        821,
+        186,
+        833,
+        391
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into English:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        848,
+        186,
+        902,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A Spartan envoy arrives. After he has explained how things stand in Sparta, he\nand his Athenian counterpart agree to come to terms with Lysistrata. Lysistrata\nstates the conditions on which a return to peace might be agreed.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 241
+}

@@ -1,0 +1,302 @@
+{
+  "running_head": "Grammar for Section 10",
+  "folio": "219",
+  "blocks": [
+    {
+      "type": "other",
+      "order": 1,
+      "bbox": [
+        82,
+        35,
+        93,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "218–219",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        82,
+        81,
+        104,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This feature is known as ‘relative attraction’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        128,
+        185,
+        145,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅσπερ (ὅσ-περ) and ὅστις (ὅσ-τις)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        156,
+        185,
+        187,
+        908
+      ],
+      "margin_number": 219,
+      "speaker": null,
+      "text": "The relative pronoun does have a number of other forms, though its meaning is only slightly altered thereby:",
+      "lang": "en",
+      "para_no": 219,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        203,
+        233,
+        233,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅσπερ (ὅσ-περ) ‘the very one who’\nὅστις (ὅσ-τις) ‘anyone who’. Observe that this declines like the separate parts of ὅς and τις combined.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        263,
+        185,
+        668,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "ὅστις ἥτις ὅτι ‘[anyone] who, which, what’"
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "s.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "ὅστις",
+            "ἥτις",
+            "ὅτι (or ὅ τι)"
+          ],
+          [
+            "Acc.",
+            "ὅντινα",
+            "ἥντινα",
+            "ὅτι (or ὅ τι)"
+          ],
+          [
+            "Gen.",
+            "οὗτινος\n(ὅτου)",
+            "ἥστινος",
+            "οὗτινος\n(ὅτου)"
+          ],
+          [
+            "Dat.",
+            "ᾧτινι\n(ὅτῳ)",
+            "ᾗτινι",
+            "ᾧτινι\n(ὅτῳ)"
+          ],
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            "Nom.",
+            "οἵτινες",
+            "αἵτινες",
+            "ἅτινα\n(ἅττα)"
+          ],
+          [
+            "Acc.",
+            "οὕστινας",
+            "ἅστινας",
+            "ἅτινα\n(ἅττα)"
+          ],
+          [
+            "Gen.",
+            "ὧντινων\n(ὅτων)",
+            "ὧντινων\n(ὅτων)",
+            "ὧντινων\n(ὅτων)"
+          ],
+          [
+            "Dat.",
+            "οἷστισι(ν)\n(ὅτοις)",
+            "αἷστισι(ν)",
+            "οἷστισι(ν)\n(ὅτοις)"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        701,
+        185,
+        715,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and use",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        725,
+        185,
+        759,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Sometimes the two words appear as one (e.g. as declined above), at other times they are kept separate, e.g. ὅς τις, ὅ τι etc.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        770,
+        185,
+        785,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Note the variant forms:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        800,
+        218,
+        853,
+        672
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "gen.:\tὅτου for οὗτινος; ὅτων for ὧντινων\ndat.:\tὅτῳ for ᾧτινι; ὅτοις for οἷστισι\nnom./acc. pl. ἅττα for ἅτινα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        865,
+        185,
+        899,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) ὅστις can be used to introduce indirect questions (cf. 125 and check the list of relative usages there).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 237
+}

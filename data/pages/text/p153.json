@@ -1,0 +1,708 @@
+{
+  "running_head": "Section Ten A-E: Aristophanes' Lysistrata",
+  "folio": "123",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        100,
+        78,
+        107,
+        246
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥ which (nom. s. f.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        100,
+        100,
+        122,
+        247
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥν which (acc. s. f.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        100,
+        100,
+        137,
+        169
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰού oh!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        100,
+        100,
+        153,
+        203
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ μὴν look!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        100,
+        100,
+        169,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Κινησί-ας, ὁ Kinesias (1d)\n(comic name implying sexual\nprowess)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        100,
+        100,
+        222,
+        325
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Λακεδαίμων (Λακεδαιμον-), ἡ\nSparta (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        100,
+        100,
+        252,
+        292
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Λαμπιτώ, ἡ Lampito (voc.\nΛαμπιτοῖ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        100,
+        100,
+        271,
+        239
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅ which (acc. s. n.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        100,
+        100,
+        287,
+        224
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁδ-ός, ἡ road (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        100,
+        100,
+        303,
+        251
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἳ who (nom. pl. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        100,
+        100,
+        319,
+        218
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰμώζ-ω cry οἴμοι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        366,
+        366,
+        78,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅς who (nom. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        366,
+        366,
+        100,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὗ whose (gen. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        366,
+        366,
+        116,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρά (+dat.) with, at, beside",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        366,
+        366,
+        131,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρα-μέν-ω remain beside",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        366,
+        366,
+        147,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρα-σκευάζ-ομαι prepare",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        366,
+        366,
+        162,
+        535
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-αγορεύ-ω address",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        366,
+        366,
+        178,
+        585
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συν-εξ-ἀπατά-ω-αι' ἂν I will join\nwith x (dat.) in deceiving (συν-\nεξ-ἀπατά-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        366,
+        366,
+        227,
+        587
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συν-οἰκέ-ω live (with) (+dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        366,
+        366,
+        244,
+        550
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τριήρ-ης, ἡ trireme (3d)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        366,
+        366,
+        259,
+        604
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίν-ι τρόπ-ῳ how? in what way?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        366,
+        366,
+        275,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρ-ω lead",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        366,
+        366,
+        294,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾧ with whom (dat. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        366,
+        366,
+        309,
+        528
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὧν whose (gen. pl. f.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        634,
+        634,
+        78,
+        737
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡς (+acc.) to",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        634,
+        634,
+        116,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt\nἀναγκάζω force, compel",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        634,
+        634,
+        147,
+        814
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄρτι just now, recently",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        634,
+        634,
+        162,
+        830
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γραῦς (γρα-), ἡ old woman\n(3 irr.) (acc. s. γραῦν; acc. pl.\nγραῦς)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        634,
+        634,
+        212,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῶρον, τό gift, bribe (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        634,
+        634,
+        228,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξαίφνης suddenly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        634,
+        634,
+        244,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρά (+dat.) with, beside, in the\npresence of",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        634,
+        634,
+        275,
+        807
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "συνοικέω live with, live\ntogether",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 33,
+      "bbox": [
+        456,
+        456,
+        342,
+        618
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Athenian finances",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 34,
+      "bbox": [
+        195,
+        195,
+        378,
+        879
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Lysistrata is known as the play about a sex-strike. But that was only one side\nof Lysistrata's plan. She knew that while the men controlled the finances, they\ncould keep the war going, sex-strike or not. So her second plan was to capture\nthe Parthenon, where the money was kept. Only then could she be certain of forc-\ning the men to give in to her. The passage from World of Athens below describes\nthe state of Athenian finances in the years preceding Wasps. The tribute referred\nto came from Athens' allies in the Delian league, an alliance of states of which\nAthens was the predominant member, formed after the Persian Wars to guarantee\nGreek security against further Persian invasion. Members paid Athens in money\nor ships:",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 35,
+      "bbox": [
+        195,
+        195,
+        566,
+        879
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Thucydides made Pericles declare in 431 that Athens' reserve fund stood\nat the gigantic figure of 6,000 talents – and this despite the expenditure on the\nAcropolis building programme and the heavy cost of putting down the revolt of\nSamos in 440/39; further, that the annual external income from tribute, fines and\nother sources, amounted to 600 talents. With reason did Pericles stress Athens'\nfinancial preparedness for the coming war. Five years later, however, the demands\nof the war were proving unmanageable, and in these circumstances the Athenian\nattitude to their allies seems to have changed markedly. First of all they tightened\nup on tribute collection. From 430 onwards we hear of the Athenians sending out\nships to collect the tribute, and in 426 the Athenians passed a decree making it a\ntreasonable offence to impede the collection of tribute. Second, they put up the\namounts of tribute they demanded. Tribute levels seem to have been steady over\nthe previous three decades, adjusted only in the light of local circumstances, but\nin 425 the amount of tribute demanded from cities was increased by anything\nup to a factor of five, bringing the total demanded to perhaps as much as 1,460\ntalents per annum.’ (World of Athens, 6.80)",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 153
+}

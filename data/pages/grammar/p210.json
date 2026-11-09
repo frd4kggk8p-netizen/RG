@@ -1,0 +1,368 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "192",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        194,
+        915,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "TWO INFINITIVE USAGES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        194,
+        219,
+        666
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔξεστι (+ infinitive) ‘it is permitted to/for X to Y’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        223,
+        194,
+        262,
+        915
+      ],
+      "margin_number": 202,
+      "speaker": null,
+      "text": "You have already met δεῖ (and χρή), which mean ‘must, ought’ and take an accusative and infinitive (153):",
+      "lang": "en",
+      "para_no": 202,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        272,
+        246,
+        292,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεῖ με πρὸς τὰς Ἀθήνας πλεῖν ‘I must/ought to sail to Athens’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        303,
+        226,
+        339,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔξεστι ‘it is permitted, it is possible’ works in the same way, except that it takes a dat. (not acc.) of the person, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        351,
+        246,
+        388,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔξεστι τῷ ἀνθρώπῳ ἐξελθεῖν ‘it is permitted/possible for the man to go out’, i.e. ‘the man is permitted/allowed to go out’, ‘the man may go out’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        399,
+        246,
+        419,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Cf. ἀνάγκη ἐστί which can take either acc. or dat. and infinitive: 153[b].)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        431,
+        194,
+        447,
+        482
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δεινός (+ infinitive) ‘clever at’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        456,
+        194,
+        495,
+        915
+      ],
+      "margin_number": 203,
+      "speaker": null,
+      "text": "δεινός means ‘clever at –ing’ when followed by the infinitive, e.g. δεινή ἐστι λέγειν ‘she is clever at speaking’",
+      "lang": "mixed",
+      "para_no": 203,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        507,
+        194,
+        526,
+        404
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCATIVES: REVISION",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        535,
+        194,
+        555,
+        915
+      ],
+      "margin_number": 204,
+      "speaker": null,
+      "text": "As you learnt at 22, the vocative is the case used when a person or thing",
+      "lang": "en",
+      "para_no": 204,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        559,
+        246,
+        575,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "is directly addressed (such as ‘rhapsode’ in ‘O rhapsode, come here and",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        578,
+        246,
+        594,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "look!’). The vocative form of nouns is often the same as the nom. in the s.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        597,
+        246,
+        613,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "and always the same as the nom. in the pl. Those noun types which have",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        617,
+        246,
+        630,
+        770
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "vocative s. forms different from the nom. s. are as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 16,
+      "bbox": [
+        638,
+        194,
+        626,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1d\nὦ ναῦτα\n3d\nὦ τριῆρες\n3g\nὦ βασιλεῦ\nὦ νεανία\nὦ Περίκλεις\n3h\nὦ ὀφρύ\n2a\nὦ ἄνθρωπε\n3e\nὦ πόλι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        662,
+        226,
+        693,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The vocatives of type 3a nouns are less easy to predict, although they are easily recognisable. Here are some examples:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 18,
+      "bbox": [
+        712,
+        194,
+        930,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Short vowel\nὁ ἀνήρ (ἀνδρ-) ὦ ἄνερ ‘O man’\nὁ δαίμων (δαιμον-) ὦ δαῖμον ‘O god’; cf. ὦ γέρον\nὁ σωτήρ (σωτηρ-) ὦ σῶτερ ‘O saviour’\nὁ πατήρ (πατ(ε)ρ-) ὦ πάτερ ‘O father’\n\nOnes to watch\nἡ γυνή (γυναικ-) ὦ γύναι ‘O woman’\nὁ παῖς (παιδ-) ὦ παῖ ‘O son’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 210
+}

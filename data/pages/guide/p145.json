@@ -1,0 +1,528 @@
+{
+  "running_head": "Section 9J",
+  "folio": "131",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        79,
+        99,
+        142
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Get down, get down, get down, get down.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        102,
+        79,
+        150,
+        881
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "I shall get down. And yet, this ‘get down’ deceives many very much. For the jurors order the defendant to get down, then when he has got down, they find him guilty. But none the less I shall get down.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        168,
+        190,
+        194,
+        250
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9J",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        207,
+        190,
+        222,
+        285
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 118",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        232,
+        168,
+        283,
+        863
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ἀπεδάκρυσα Philokleon cannot bear to admit that he could pity a defendant, so he has to blame the lentil soup. It must have disagreed with him.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        290,
+        168,
+        325,
+        901
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "βελτίω = βελτίονα. Did you recognise this form of the comparative? τά should have provided a useful clue.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        331,
+        168,
+        381,
+        871
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "ὑστέρῳ Juries filed past two urns: the one they came to first (the earlier or nearer) was for condemnation and the next (the later or further) for acquittal.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        386,
+        157,
+        400,
+        483
+      ],
+      "margin_number": 14,
+      "speaker": null,
+      "text": "περίπατον Cf. ‘peripatetic’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        406,
+        157,
+        439,
+        888
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "οὐχ ἑκών ‘not willingly’. This has the same meaning as ἄκων ‘unwillingly’ (line 34).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        445,
+        157,
+        477,
+        883
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "ἠγωνισάμεθα, See ἀγωνίζομαι. Here it is almost in the sense of ‘to settle a contest’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        483,
+        157,
+        517,
+        755
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "ἔπαιρε σεαυτόν ‘Lift yourself up’ from αἴρω ἀρῶ ἦρα ‘I raise’. ἀνίστασο 2nd persons. imperative of ἀνίσταμαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        522,
+        157,
+        558,
+        863
+      ],
+      "margin_number": 33,
+      "speaker": null,
+      "text": "πείσομαι Can be the future of either πάσχω or πείθομαι. See GE p. 202, #211. The context will give you the right meaning here.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        578,
+        189,
+        362,
+        357
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9J",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        603,
+        88,
+        634,
+        888
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Go to hell. How bad (not good) I consider the lentil soup. For I burst into tears as I ate this lentil soup.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        640,
+        88,
+        655,
+        483
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "The dog is acquitted, then?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        661,
+        88,
+        674,
+        451
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "It is difficult for me to know.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        680,
+        88,
+        712,
+        861
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Come, Daddy dear, turn to better things. Taking this voting-pebble in your hand, put it into the further voting-urn, and acquit (him), Father.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        718,
+        88,
+        731,
+        649
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "No indeed. For I do not know how to play the lyre.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        738,
+        88,
+        751,
+        584
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Come now, let me take you round this way.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 20,
+      "bbox": [
+        757,
+        189,
+        790,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(So taking him round a big walkabout, he walks to the further voting-urn first.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        796,
+        88,
+        809,
+        353
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Is this the nearer?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        814,
+        88,
+        828,
+        497
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "This is it. Place the voting-pebble.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        834,
+        88,
+        847,
+        456
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "This voting-pebble is in here.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 24,
+      "bbox": [
+        852,
+        189,
+        867,
+        368
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Speaks to himself.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        871,
+        189,
+        907,
+        904
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Hurrah! I have deceived him. For Philokleon has acquitted the dog unwillingly, by putting the voting-pebble in the further voting-urn.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        912,
+        88,
+        926,
+        458
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "How then have we contested?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 145
+}

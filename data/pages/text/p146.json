@@ -1,0 +1,357 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "116",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        218,
+        70,
+        246,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 2,
+      "bbox": [
+        108,
+        122,
+        120,
+        649
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: witnesses and evidence 6.46; cheese 2.16.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        140,
+        122,
+        155,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ὁ Βδελυκλέων, τῆς ἀπολογίας ἀρχόμενος, λέγει)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        159,
+        122,
+        203,
+        853
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "χαλεπὸν μέν, ὦνδρες, ἐστὶν ὑπὲρ κυνὸς τοσαύτης διαβολῆς\nτυγχόντος ἀποκρίνασθαι, λέξω δ’ ὅμως. γιγνώσκω γὰρ αὐτὸν ἀγαθὸν ὄντα\nκαὶ διώκοντα τοὺς λύκους.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        215,
+        122,
+        228,
+        513
+      ],
+      "margin_number": 5,
+      "speaker": "ΦΙΛ.",
+      "text": "(dissenting)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        232,
+        219,
+        259,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κλέπτης μὲν οὖν οὗτός γ’ εἶναί μοι δοκεῖ καὶ ἄξιος θανάτου. δεῖ οὖν με\nἑλεῖν αὐτὸν κλέψαντα, ἑλόντα δ’ ἑτέραν αὖ δίκην δικάζειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        270,
+        122,
+        303,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "μὰ Δί’, ἀλλ’ ἄριστός ἐστι πάντων τῶν νυνὶ κυνῶν, ἐπειδὴ οἷός τ’ ἐστὶ\nπολλὰ πρόβατα φυλάττειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        308,
+        122,
+        321,
+        901
+      ],
+      "margin_number": 10,
+      "speaker": "ΦΙΛ.",
+      "text": "τί οὖν ὄφελος, εἰ τὸν τυρὸν ὑφαιρεῖται, ὑφελόμενος δὲ κατεσθίει;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        326,
+        122,
+        373,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ὅ τι; φυλάττει γὰρ καὶ τὴν θύραν. εἰ δ’ ὑφείλετο τὸν τυρόν,\nσυγγνώμην ἔχετε. κιθαρίζειν γὰρ οὐκ ἐπίσταται. ἄκουσον, ὦ δαιμόνιε,\nτῶν μαρτύρων. ἀνάβηθι, τυρόκνηστι, καὶ λέξον μέγα. σὺ γὰρ τὸν τυρὸν\nφυλάττουσα ἔτυκες.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        376,
+        122,
+        388,
+        301
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "(ἀνίσταται ἡ τυρόκνηστις)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        392,
+        219,
+        437,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀπόκριναι σαφῶς· ἆρα κατέκυνησας τὸν τυρὸν ἀμφοτέροις τοῖς κυσίν;\n(bends his head towards the grater and pretends to listen)\nλέγει ὅτι πάντα κατέκυνησεν ἀμφοτέροις.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        448,
+        122,
+        461,
+        627
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "νὴ Δία, ἀλλὰ γιγνώσκω αὐτὴν ψευδομένην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        465,
+        122,
+        597,
+        831
+      ],
+      "margin_number": 20,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(pleading)\nἀλλ’ ὦ δαιμόνιε, οἰκτίρεure τοὺς κακὰ πάσχοντας. οὗτος γὰρ ὁ Λάβης\nοὐδέποτε ἐν τῇ οἰκίᾳ μένει, ἀλλὰ τὰ σιτία ζητῶν ἐκ τῆς οἰκίας ἐξέρχεται.\nὁ δ’ ἕτερος κύων τὴν οἰκίαν φυλάττει μόνον. ἐνθάδε γὰρ μένων ἐλπίζει\nτὰ σιτία ὑφαιρήσεσθαι παρὰ τῶν ἄλλων. καὶ ὑφελόμενος μηδέν, δάκνει.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": [
+        {
+          "span": "οἰκτίρεure",
+          "reason": "Typos in printed text (reure instead of εte)",
+          "candidates": [
+            "οἰκτίρεute",
+            "οἰκτίρετε"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        602,
+        122,
+        634,
+        617
+      ],
+      "margin_number": 25,
+      "speaker": "ΦΙΛ.",
+      "text": "(feels his resolve breaking)\nαἰβοῖ. τί κακόν πót’ ἐστὶ τόδε; κακόν τι περιβαίνει με, καὶ ὁ λέγων με\nπείθει τοῖς λόγοις.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        645,
+        122,
+        715,
+        831
+      ],
+      "margin_number": 30,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(still pleading)\nἴθ’ ἀντιβολῶ σε, οἰκτίρατε αὐτόν, ὦ πάτερ, κακὰ παθόντα, καὶ\nἀπολύσατε. ποῦ τὰ παιδία; ἀναβαίνετε, ὦ πονηρά, αἰτεῖτε καὶ ἀντιβολείτε\nδακρύοντα.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        719,
+        122,
+        747,
+        576
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "(exasperated)\nκατάβηθι, κατάβηθι, κατάβηθι, κατάβηθι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        756,
+        122,
+        802,
+        857
+      ],
+      "margin_number": 35,
+      "speaker": "ΒΔΕΛ.",
+      "text": "καταβήσομαι. καίτοι τὸ ‘κατάβηθι’ τοῦτο πολλοὺς δὴ πάνυ ἐξαπατᾷ. οἱ\nγὰρ δικασταὶ τὸν φεύγοντα καταβῆναι κελεύουσιν, εἶτα καταβάντος\nαὐτοῦ καταδικάζουσιν. ἀτὰρ ὅμως καταβήσομαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 146
+}

@@ -1,0 +1,508 @@
+{
+  "running_head": "Section 10B",
+  "folio": "139",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        190,
+        87,
+        307,
+        842
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "I too would be willing to go through fire. No, by Zeus, I would not do it.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        308,
+        87,
+        98,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Oh how totally lascivious is all of our sex! Will no one do what I propose? But, my dear Spartan, would you vote with me? For if so, we might still save the whole business.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        156,
+        87,
+        218,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "LAMPITO",
+      "text": "By the two gods, it's difficult for us to sleep without sex. But we must bring the war to an end and have peace. I would vote with you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        221,
+        87,
+        237,
+        759
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "O you my dearest friend and the only true woman among them.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        241,
+        87,
+        255,
+        839
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Then if these things seem good to you, they seem a good idea to us too.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        250,
+        190,
+        271,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        287,
+        190,
+        303,
+        281
+      ],
+      "margin_number": null,
+      "speaker": "Page 122",
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        310,
+        168,
+        344,
+        894
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "πεῖσαι What part of the verb? GE pp. 187–188, #195–196. Triremes and the silver to finance them were the basis of Athenian naval power.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        347,
+        146,
+        383,
+        893
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "αὐτῷ τῷ ἀργυρίῳ ‘with silver and all’. The Athenian reserves of silver were kept in the treasury on the Acropolis.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        386,
+        167,
+        421,
+        882
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "τῆς θεοῦ Don't worry about the apparently masculine ending of θεοῦ. The word θεός can refer either to a god or to a goddess.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        424,
+        156,
+        442,
+        777
+      ],
+      "margin_number": 16,
+      "speaker": null,
+      "text": "ὡς ‘to’, ‘towards’, normally only with persons.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        445,
+        156,
+        461,
+        910
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "ἔγνω The paradigm for this aorist (of γιγνώσκω) is in GE p. 201, #209. Learn it.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        464,
+        155,
+        501,
+        907
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "ᾠμῶξε Take the augment out of this (so that ω becomes o) and put the iota subscript back above the line (oi-). You should then be able to identify the word.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        504,
+        156,
+        521,
+        744
+      ],
+      "margin_number": 24,
+      "speaker": null,
+      "text": "γνῶναι The aorist infinitive of γιγνώσκω, GE p. 201, #209.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        524,
+        156,
+        558,
+        882
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "συνοικεῖς This is the normal word for a man and woman living together in marriage.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 16,
+      "bbox": [
+        579,
+        190,
+        594,
+        372
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 10B",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        603,
+        87,
+        638,
+        900
+      ],
+      "margin_number": null,
+      "speaker": "LAMPITO",
+      "text": "So we shall persuade our husbands and force them to make peace. In what way will you be able to persuade your men, who have the triremes and the silver?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        641,
+        190,
+        655,
+        520
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "By money or gifts or by doing what?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        659,
+        87,
+        712,
+        871
+      ],
+      "margin_number": null,
+      "speaker": "LYSISTRATA",
+      "text": "Oh, but we have prepared this well too, because today we shall take the Acropolis, by seeming to be sacrificing. Having taken it we shall guard it, money and all.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 20,
+      "bbox": [
+        715,
+        190,
+        730,
+        898
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Suddenly Lampito hears a shout and, having heard it, she speaks to Lysistrata.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        734,
+        87,
+        750,
+        649
+      ],
+      "margin_number": null,
+      "speaker": "LAM.",
+      "text": "Who shouted? Who was responsible for the shout?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        753,
+        87,
+        829,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "This is what I was talking about. For the old women, who had to take the Acropolis of the goddess, now hold it. But, Lampito, you go off home and put affairs among you [Spartans] in good order, while we go into the Acropolis, which the old women have just taken, and guard it.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 23,
+      "bbox": [
+        833,
+        190,
+        888,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Lampito, going away, walks along the road which leads to Sparta, while the other women go into the Acropolis and guard it. Suddenly Lysistrata shouts having spotted a man who is approaching.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        892,
+        87,
+        908,
+        569
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Oh, oh, women! Come here to me quickly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        912,
+        87,
+        927,
+        555
+      ],
+      "margin_number": null,
+      "speaker": "KLEONIKE",
+      "text": "What is it? Tell me, what is the shout?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 153
+}

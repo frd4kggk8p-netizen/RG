@@ -6206,5 +6206,3380 @@
       "printed_page": "98",
       "pdf_page": 128
     }
+  },
+  {
+    "id": "vocab.s09.αλληλοισ",
+    "display": "ἀλλήλ-οις",
+    "plain": "ἀλλήλοις",
+    "gloss_en": "to each other",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "100",
+      "pdf_page": 130
+    }
+  },
+  {
+    "id": "vocab.s09.βοη",
+    "display": "βο-ῇ",
+    "plain": "βοῇ",
+    "gloss_en": "a shout (after χρῶμαι)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "100",
+      "pdf_page": 130
+    }
+  },
+  {
+    "id": "vocab.s09.ανω",
+    "display": "ἄνω",
+    "plain": "ἄνω",
+    "gloss_en": "up, above",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "102",
+      "pdf_page": 132
+    }
+  },
+  {
+    "id": "vocab.s09.αναπειθω",
+    "display": "ἀνα-πείθ-ω",
+    "plain": "ἀναπείθω",
+    "gloss_en": "persuade, convince",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.απορια",
+    "display": "ἀπορί-α",
+    "plain": "ἀπορία",
+    "gloss_en": "perplexity",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.αυλη, η",
+    "display": "αὐλ-ή, ἡ",
+    "plain": "αὐλή, ἡ",
+    "gloss_en": "courtyard (1a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.γραφω",
+    "display": "γράφ-ω",
+    "plain": "γράφω",
+    "gloss_en": "write",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.δημοσ, ο",
+    "display": "δῆμ-ος, ὁ",
+    "plain": "δῆμος, ὁ",
+    "gloss_en": "Demos (2a) (a notably handsome young man)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.δικαζω",
+    "display": "δικάζ-ω",
+    "plain": "δικάζω",
+    "gloss_en": "be a juror, decide a case",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.εγκλειω",
+    "display": "ἐγ-κλεί-ω",
+    "plain": "ἐγκλείω",
+    "gloss_en": "shut in",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.εξερχομαι",
+    "display": "ἐξ-έρχ-ομαι",
+    "plain": "ἐξέρχομαι",
+    "gloss_en": "go out",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.επει",
+    "display": "ἐπεί",
+    "plain": "ἐπεί",
+    "gloss_en": "when",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.εραστησ, ο",
+    "display": "ἐραστ-ής, ὁ",
+    "plain": "ἐραστής, ὁ",
+    "gloss_en": "lover (1d)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.ηλιαστησ, ο",
+    "display": "ἠλιάστ-ης, ὁ",
+    "plain": "ἠλιάστης, ὁ",
+    "gloss_en": "juror in the Eliaia court (1d)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.θυραζε",
+    "display": "θύράζε",
+    "plain": "θύράζε",
+    "gloss_en": "out of doors",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.καθιζομαι",
+    "display": "καθ-ίζ-ομαι",
+    "plain": "καθίζομαι",
+    "gloss_en": "sit down",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.καιτοι",
+    "display": "καίτοι",
+    "plain": "καίτοι",
+    "gloss_en": "furthermore",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.κημοσ, ο",
+    "display": "κημ-ός, ὁ",
+    "plain": "κημός, ὁ",
+    "gloss_en": "funnel (2a) (through which the voting pebble goes into the voting urn)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.κορυβαντιζω",
+    "display": "κορυβαντίζ-ω",
+    "plain": "κορυβαντίζω",
+    "gloss_en": "introduce into the Korybantic rites (a mystery religion involving wildness of all kinds, and the beating of drums)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.ονειροπολεω",
+    "display": "ὀνειρο-πολέ-ω",
+    "plain": "ὀνειροπολέω",
+    "gloss_en": "dream",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.παραγραφω",
+    "display": "παρα-γράφ-ω",
+    "plain": "παραγράφω",
+    "gloss_en": "write alongside",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.πλησιον",
+    "display": "πλησίον",
+    "plain": "πλησίον",
+    "gloss_en": "nearby",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.φιληλιαστησ, ο",
+    "display": "φιλ-ηλιαστ-ής, ὁ",
+    "plain": "φιληλιαστής, ὁ",
+    "gloss_en": "lover of being a juror in the court of the",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.καθιζω",
+    "display": "καθίζω",
+    "plain": "καθίζω",
+    "gloss_en": "sit down",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "103",
+      "pdf_page": 133
+    }
+  },
+  {
+    "id": "vocab.s09.εμοι",
+    "display": "ἐμ-οὶ",
+    "plain": "ἐμοὶ",
+    "gloss_en": "to me",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.εμοιγε",
+    "display": "ἔμ-οιγε",
+    "plain": "ἔμοιγε",
+    "gloss_en": "to me at least",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.εργω",
+    "display": "ἔργ-ῳ",
+    "plain": "ἔργῳ",
+    "gloss_en": "in fact, indeed (i.e. actually)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.ημιν",
+    "display": "ἡμ-ῖν",
+    "plain": "ἡμῖν",
+    "gloss_en": "to us",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.ιπνοσ, ο",
+    "display": "ἰπν-ός, ὁ",
+    "plain": "ἰπνός, ὁ",
+    "gloss_en": "oven (2a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.καπνη, η",
+    "display": "κάπν-η, ἡ",
+    "plain": "κάπνη, ἡ",
+    "gloss_en": "chimney (1a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.καπνοσ, ο",
+    "display": "καπν-ός, ὁ",
+    "plain": "καπνός, ὁ",
+    "gloss_en": "smoke (2a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.μηχανη, η",
+    "display": "μηχαν-ή, ἡ",
+    "plain": "μηχανή, ἡ",
+    "gloss_en": "device, scheme (1a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.μοι",
+    "display": "μοι",
+    "plain": "μοι",
+    "gloss_en": "to me",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.οπη, η",
+    "display": "ὀπ-ή, ἡ",
+    "plain": "ὀπή, ἡ",
+    "gloss_en": "hole (1a)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.ουδενι",
+    "display": "οὐδεν-ὶ",
+    "plain": "οὐδενὶ",
+    "gloss_en": "no one (after",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.σοι",
+    "display": "σοί",
+    "plain": "σοί",
+    "gloss_en": "to you (s.)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.ταλασ",
+    "display": "τάλας",
+    "plain": "τάλας",
+    "gloss_en": "wretched (me)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.τεγοσ, το",
+    "display": "τέγ-ος, τό",
+    "plain": "τέγος, τό",
+    "gloss_en": "roof (3c)",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.ψοφεω",
+    "display": "ψοφέ-ω",
+    "plain": "ψοφέω",
+    "gloss_en": "make a noise",
+    "where": {
+      "passage": "9A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "104",
+      "pdf_page": 134
+    }
+  },
+  {
+    "id": "vocab.s09.αμεινον",
+    "display": "ἄμεινον",
+    "plain": "ἄμεινον",
+    "gloss_en": "better",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.ανοιγε",
+    "display": "ἄνοιγε",
+    "plain": "ἄνοιγε",
+    "gloss_en": "open!",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.εξαγω",
+    "display": "ἐξ-άγ-ω",
+    "plain": "ἐξάγω",
+    "gloss_en": "bring out, lead out",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.μηκετι",
+    "display": "μηκέτι",
+    "plain": "μηκέτι",
+    "gloss_en": "no longer",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.νουμηνια, η",
+    "display": "νου-μηνί-α, ἡ",
+    "plain": "νουμηνία, ἡ",
+    "gloss_en": "first of the month (1b) (market-day)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.οδυσσευσ, ο",
+    "display": "Ὀδυσσ-εύς, ὁ",
+    "plain": "Ὀδυσσεύς, ὁ",
+    "gloss_en": "Odysseus (3g)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.παρασκευαζομαι",
+    "display": "παρα-σκευάζ-ομαι",
+    "plain": "παρασκευάζομαι",
+    "gloss_en": "devise, prepare",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.πωλεω",
+    "display": "πωλέ-ω",
+    "plain": "πωλέω",
+    "gloss_en": "sell",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.στενω",
+    "display": "στέν-ω",
+    "plain": "στένω",
+    "gloss_en": "groan",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "105",
+      "pdf_page": 135
+    }
+  },
+  {
+    "id": "vocab.s09.αποδραμων",
+    "display": "ἀπο-δραμ-ὼν",
+    "plain": "ἀποδραμὼν",
+    "gloss_en": "see ἀπο-τρέχ-ω",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.λιθοσ, ο",
+    "display": "λίθ-ος, ὁ",
+    "plain": "λίθος, ὁ",
+    "gloss_en": "stone (2a)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.υφελκω",
+    "display": "ὑφ-έλκ-ω",
+    "plain": "ὑφέλκω",
+    "gloss_en": "drag from beneath",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.βωλιον, το",
+    "display": "βώλι-ον, τό",
+    "plain": "βώλιον, τό",
+    "gloss_en": "clod of earth (2b)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.οτι",
+    "display": "ὅτι",
+    "plain": "ὅτι",
+    "gloss_en": "because",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.δικτυον, το",
+    "display": "δίκτυ-ον, τό",
+    "plain": "δίκτυον, τό",
+    "gloss_en": "net (2b)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.ουτισ",
+    "display": "Οὖ-τις",
+    "plain": "Οὖτις",
+    "gloss_en": "No-man",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.παντων",
+    "display": "πάντ-ων",
+    "plain": "πάντων",
+    "gloss_en": "of all",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.ποδαποσ",
+    "display": "ποδαπός",
+    "plain": "ποδαπός",
+    "gloss_en": "from which country?",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.ωθεω",
+    "display": "ὠθέ-ω",
+    "plain": "ὠθέω",
+    "gloss_en": "push",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.ημιονοσ, ο",
+    "display": "ἡμίονος, ὁ",
+    "plain": "ἡμίονος, ὁ",
+    "gloss_en": "mule (2a)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.κατω",
+    "display": "κάτω",
+    "plain": "κάτω",
+    "gloss_en": "below, underneath",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.στρουθοσ, ο",
+    "display": "στρουθ-ός, ὁ",
+    "plain": "στρουθός, ὁ",
+    "gloss_en": "sparrow (2a)",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "106",
+      "pdf_page": 136
+    }
+  },
+  {
+    "id": "vocab.s09.αναγκαζω",
+    "display": "ἀναγκάζ-ω",
+    "plain": "ἀναγκάζω",
+    "gloss_en": "force, compel",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "108",
+      "pdf_page": 138
+    }
+  },
+  {
+    "id": "vocab.s09.αταρ",
+    "display": "ἀτὰρ",
+    "plain": "ἀτὰρ",
+    "gloss_en": "but",
+    "where": {
+      "passage": "9E"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "108",
+      "pdf_page": 138
+    }
+  },
+  {
+    "id": "vocab.s09.αρχομαι",
+    "display": "ἄρχ-ομαι",
+    "plain": "ἄρχομαι",
+    "gloss_en": "begin (+ part.)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.εκτρεχω",
+    "display": "ἐκ-τρέχ-ω",
+    "plain": "ἐκτρέχω",
+    "gloss_en": "run out",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.ευξασθε",
+    "display": "εὖξ-ασθε",
+    "plain": "εὖξασθε",
+    "gloss_en": "pray! (pl.) (εὔχ-ομαι)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.ιθι",
+    "display": "ἴθι",
+    "plain": "ἴθι",
+    "gloss_en": "come! (s.) (ἔρχ-ομαι/εἶμι)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.ισθι",
+    "display": "ἴσθι",
+    "plain": "ἴσθι",
+    "gloss_en": "know! (s.) (οἶδα)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.καδοσ, ο",
+    "display": "κάδ-ος, ὁ",
+    "plain": "κάδος, ὁ",
+    "gloss_en": "voting-urn (2a)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.κλεψυδρα, η",
+    "display": "κλεψύδρ-α, ἡ",
+    "plain": "κλεψύδρα, ἡ",
+    "gloss_en": "water-clock (1b)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.κυμβιον, το",
+    "display": "κυμβί-ον, τό",
+    "plain": "κυμβίον, τό",
+    "gloss_en": "cup (2b)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.μηδαμωσ",
+    "display": "μηδαμ-ῶς",
+    "plain": "μηδαμῶς",
+    "gloss_en": "in no way",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.παντα",
+    "display": "πάντ-α",
+    "plain": "πάντα",
+    "gloss_en": "everything; all (nom.)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.παντεσ",
+    "display": "πάντ-ες",
+    "plain": "πάντες",
+    "gloss_en": "all (nom. pl. m.)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.πασι",
+    "display": "πᾶσι",
+    "plain": "πᾶσι",
+    "gloss_en": "to all (dat. pl. m.)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.παυσαι",
+    "display": "παῦσ-αι",
+    "plain": "παῦσαι",
+    "gloss_en": "stop! (s.) (παύ-ομαι)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "111",
+      "pdf_page": 141
+    }
+  },
+  {
+    "id": "vocab.s09.αναιτιοσον",
+    "display": "ἀν-αἰτι-ος-ον",
+    "plain": "ἀναἰτιοςον",
+    "gloss_en": "innocent",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.διωκω",
+    "display": "διώκ-ω",
+    "plain": "διώκω",
+    "gloss_en": "prosecute",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.ελπιζω",
+    "display": "ἐλπίζ-ω",
+    "plain": "ἐλπίζω",
+    "gloss_en": "hope, expect (to)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.εξαπατησειν",
+    "display": "ἐξ-απατήσ-ειν",
+    "plain": "ἐξαπατήσειν",
+    "gloss_en": "to deceive",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.εξω",
+    "display": "ἔξω",
+    "plain": "ἔξω",
+    "gloss_en": "outside",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.κλεπτησ, ο",
+    "display": "κλέπτ-ης, ὁ",
+    "plain": "κλέπτης, ὁ",
+    "gloss_en": "thief (1d)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.κλοπη, η",
+    "display": "κλοπ-ή, ἡ",
+    "plain": "κλοπή, ἡ",
+    "gloss_en": "theft (1a)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.σπευδετω",
+    "display": "σπευδ-έτω",
+    "plain": "σπευδέτω",
+    "gloss_en": "let him hurry!",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.φευγω",
+    "display": "φεύγ-ω",
+    "plain": "φεύγω",
+    "gloss_en": "be a defendant",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "113",
+      "pdf_page": 143
+    }
+  },
+  {
+    "id": "vocab.s09.αιτεω",
+    "display": "αἰτέ-ω",
+    "plain": "αἰτέω",
+    "gloss_en": "ask (for)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.ακουω",
+    "display": "ἀκού-ω",
+    "plain": "ἀκούω",
+    "gloss_en": "listen (to) (+gen.)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.αυ",
+    "display": "αὖ",
+    "plain": "αὖ",
+    "gloss_en": "again, moreover",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.εθελω",
+    "display": "ἐθέλ-ω",
+    "plain": "ἐθέλω",
+    "gloss_en": "wish, want (to)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.ελειν",
+    "display": "ἐλ-εῖν",
+    "plain": "ἐλεῖν",
+    "gloss_en": "see αἱρέ-ω",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.ελετε",
+    "display": "ἕλ-ετε",
+    "plain": "ἕλετε",
+    "gloss_en": "see αἱρέ-ω",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.ευγε",
+    "display": "εὖγε",
+    "plain": "εὖγε",
+    "gloss_en": "well done! hurrah!",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.κατηγορια, η",
+    "display": "κατηγορί-α, ἡ",
+    "plain": "κατηγορία, ἡ",
+    "gloss_en": "prosecution (1b)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.κηρυττω",
+    "display": "κηρύττ-ω",
+    "plain": "κηρύττω",
+    "gloss_en": "announce",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.μελλω",
+    "display": "μέλλ-ω",
+    "plain": "μέλλω",
+    "gloss_en": "be about (to)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.μεροσ, το",
+    "display": "μέρ-ος, τό",
+    "plain": "μέρος, τό",
+    "gloss_en": "share (3c)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.πολυ",
+    "display": "πολὺ",
+    "plain": "πολὺ",
+    "gloss_en": "much",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.προκαταγιγνωσκω",
+    "display": "προ-κατα-γιγνώσκ-ω",
+    "plain": "προκαταγιγνώσκω",
+    "gloss_en": "prejudge",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.σιγαω",
+    "display": "σιγά-ω",
+    "plain": "σιγάω",
+    "gloss_en": "be quiet",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.τυροσ, ο",
+    "display": "τυρ-ός, ὁ",
+    "plain": "τυρός, ὁ",
+    "gloss_en": "cheese (2a)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.φακη, η",
+    "display": "φακ-ῆ, ἡ",
+    "plain": "φακῆ, ἡ",
+    "gloss_en": "lentil-soup (1a)",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.χυτρα, η",
+    "display": "χυτρ-ά, ἡ",
+    "plain": "χυτρά, ἡ",
+    "gloss_en": "cooking-pot",
+    "where": {
+      "passage": "9G"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "115",
+      "pdf_page": 145
+    }
+  },
+  {
+    "id": "vocab.s09.αιβοι",
+    "display": "αἰβοῖ",
+    "plain": "αἰβοῖ",
+    "gloss_en": "yuk! arghh!",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.αναβηθι",
+    "display": "ἀνά-βηθι",
+    "plain": "ἀνάβηθι",
+    "gloss_en": "go up! (s.)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.αντιβολεω",
+    "display": "ἀντι-βολέ-ω",
+    "plain": "ἀντιβολέω",
+    "gloss_en": "beg, plead (with)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.απολογια, η",
+    "display": "ἀπο-λογί-α, ἡ",
+    "plain": "ἀπολογία, ἡ",
+    "gloss_en": "defence speech (1b)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.απολυω",
+    "display": "ἀπο-λύ-ω",
+    "plain": "ἀπολύω",
+    "gloss_en": "acquit",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.δαιμονιε",
+    "display": "δαιμόνι-ε",
+    "plain": "δαιμόνιε",
+    "gloss_en": "my good fellow",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.δακρυω",
+    "display": "δακρύ-ω",
+    "plain": "δακρύω",
+    "gloss_en": "weep",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.εξαπαταω",
+    "display": "ἐξ-απατά-ω",
+    "plain": "ἐξαπατάω",
+    "gloss_en": "deceive",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.επισταμαι",
+    "display": "ἐπ-ίστα-μαι",
+    "plain": "ἐπίσταμαι",
+    "gloss_en": "know (how to)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.θανατοσ, ο",
+    "display": "θάνατ-ος, ὁ",
+    "plain": "θάνατος, ὁ",
+    "gloss_en": "death (2a)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.καταβαντοσ",
+    "display": "κατα-βάντ-ος",
+    "plain": "καταβάντος",
+    "gloss_en": "getting down (gen.",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.καταβηθι",
+    "display": "κατά-βηθι",
+    "plain": "κατάβηθι",
+    "gloss_en": "get down! (s.)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.καταβηναι",
+    "display": "κατα-βῆναι",
+    "plain": "καταβῆναι",
+    "gloss_en": "to get down",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.καταβησομαι",
+    "display": "κατα-βήσο-μαι",
+    "plain": "καταβήσομαι",
+    "gloss_en": "I shall get down",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.κατακναω",
+    "display": "κατα-κνά-ω",
+    "plain": "κατακνάω",
+    "gloss_en": "grate",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.κατεσθιω",
+    "display": "κατ-εσθί-ω",
+    "plain": "κατεσθίω",
+    "gloss_en": "eat up",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.λυκοσ, ο",
+    "display": "λύκ-ος, ὁ",
+    "plain": "λύκος, ὁ",
+    "gloss_en": "wolf (2a)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.μεγα",
+    "display": "μέγα",
+    "plain": "μέγα",
+    "gloss_en": "loudly",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.οφελοσ, το",
+    "display": "ὄφελ-ος, τό",
+    "plain": "ὄφελος, τό",
+    "gloss_en": "use (3c)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.παιδιον, το",
+    "display": "παιδί-ον, τό",
+    "plain": "παιδίον, τό",
+    "gloss_en": "i.e. puppy (2b)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.περιβαινω",
+    "display": "περι-βαίν-ω",
+    "plain": "περιβαίνω",
+    "gloss_en": "surround",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.τοδε",
+    "display": "τόδε",
+    "plain": "τόδε",
+    "gloss_en": "see ὅδε",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.ψευδομαι",
+    "display": "ψεύδ-ομαι",
+    "plain": "ψεύδομαι",
+    "gloss_en": "lie",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.καταδικαζω",
+    "display": "καταδικάζω",
+    "plain": "καταδικάζω",
+    "gloss_en": "condemn, convict",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "117",
+      "pdf_page": 147
+    }
+  },
+  {
+    "id": "vocab.s09.αγωνιζομαι",
+    "display": "ἀγωνίζ-ομαι",
+    "plain": "ἀγωνίζομαι",
+    "gloss_en": "contest",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.αποδακρυω",
+    "display": "ἀπο-δακρύ-ω",
+    "plain": "ἀποδακρύω",
+    "gloss_en": "burst into tears",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.βαδιζω",
+    "display": "βαδίζ-ω",
+    "plain": "βαδίζω",
+    "gloss_en": "walk",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.δηλωσειν",
+    "display": "δηλώσ-ειν",
+    "plain": "δηλώσειν",
+    "gloss_en": "to reveal (δηλό-ω)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.επαιρω",
+    "display": "ἐπ-αίρ-ω",
+    "plain": "ἐπαίρω",
+    "gloss_en": "raise up, lift",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.θεσ",
+    "display": "θέ-ς",
+    "plain": "θές",
+    "gloss_en": "put! (s.) (τίθη-μι/-θε-)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.οντωσ",
+    "display": "ὄντ-ως",
+    "plain": "ὄντως",
+    "gloss_en": "really",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.πατριδιον",
+    "display": "πατρίδιον",
+    "plain": "πατρίδιον",
+    "gloss_en": "daddy dear (2b)",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.περιαγω",
+    "display": "περι-άγ-ω",
+    "plain": "περιάγω",
+    "gloss_en": "lead round",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.τηδε",
+    "display": "τῇδε",
+    "plain": "τῇδε",
+    "gloss_en": "this way",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.τηνδε",
+    "display": "τήνδε",
+    "plain": "τήνδε",
+    "gloss_en": "see ὅδε",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s09.υστερον",
+    "display": "ὕστερον",
+    "plain": "ὕστερον",
+    "gloss_en": "later, further",
+    "where": {
+      "passage": "9I"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "119",
+      "pdf_page": 149
+    }
+  },
+  {
+    "id": "vocab.s10.α",
+    "display": "ἃ",
+    "plain": "ἃ",
+    "gloss_en": "what, which (acc. pl. n.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.αναγκαζω",
+    "display": "ἀναγκάζ-ω",
+    "plain": "ἀναγκάζω",
+    "gloss_en": "compel",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.απεχομαι",
+    "display": "ἀπ-έχ-ομαι",
+    "plain": "ἀπέχομαι",
+    "gloss_en": "refrain from (+gen.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.βαδιζω",
+    "display": "βαδίζ-ω",
+    "plain": "βαδίζω",
+    "gloss_en": "walk",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.γενοσ, το",
+    "display": "γέν-ος, τό",
+    "plain": "γένος, τό",
+    "gloss_en": "race, kind (3c)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.δαι",
+    "display": "δαί",
+    "plain": "δαί",
+    "gloss_en": "then",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.δακρυω",
+    "display": "δακρύ-ω",
+    "plain": "δακρύω",
+    "gloss_en": "weep",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.ερπω",
+    "display": "ἕρπ-ω",
+    "plain": "ἕρπω",
+    "gloss_en": "go along, take its course",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.η",
+    "display": "ἣ",
+    "plain": "ἣ",
+    "gloss_en": "who (nom. s. f.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.καταλυω",
+    "display": "κατα-λύ-ω",
+    "plain": "καταλύω",
+    "gloss_en": "bring to an end",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.κλεονικη, η",
+    "display": "Κλεονίκ-η, ἡ",
+    "plain": "Κλεονίκη, ἡ",
+    "gloss_en": "Kleonike (1a)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.λακαινα, η",
+    "display": "Λάκαιν-α, ἡ",
+    "plain": "Λάκαινα, ἡ",
+    "gloss_en": "Spartan woman (1c)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.λυσιστρατη, η",
+    "display": "Λυσι-στράτ-η, ἡ",
+    "plain": "Λυσιστράτη, ἡ",
+    "gloss_en": "Lysistrata (1a)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.μελλω",
+    "display": "μέλλ-ω",
+    "plain": "μέλλω",
+    "gloss_en": "intend",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.μηχανη, η",
+    "display": "μηχαν-ή, ἡ",
+    "plain": "μηχανή, ἡ",
+    "gloss_en": "plan, scheme (1a)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.μυρρινη, η",
+    "display": "Μυρρίν-η, ἡ",
+    "plain": "Μυρρίνη, ἡ",
+    "gloss_en": "Myrrhine (1a)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.ο",
+    "display": "ὃ",
+    "plain": "ὃ",
+    "gloss_en": "what, which (acc. s. n.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.οι",
+    "display": "οἳ",
+    "plain": "οἳ",
+    "gloss_en": "who (nom. pl. m.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.ουσ",
+    "display": "οὓς",
+    "plain": "οὓς",
+    "gloss_en": "which, who (acc. pl. m.)",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.τοι",
+    "display": "τοι",
+    "plain": "τοι",
+    "gloss_en": "then",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.τοινυν",
+    "display": "τοίνυν",
+    "plain": "τοίνυν",
+    "gloss_en": "so, then",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.ουδαμωσ",
+    "display": "οὐδαμῶς",
+    "plain": "οὐδαμῶς",
+    "gloss_en": "in no way, not at all",
+    "where": {
+      "passage": "10A"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "121",
+      "pdf_page": 151
+    }
+  },
+  {
+    "id": "vocab.s10.ακροπολισ, η",
+    "display": "ἀκρόπολ-ις, ἡ",
+    "plain": "ἀκρόπολις, ἡ",
+    "gloss_en": "acropolis (3e)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.αποπεμπω",
+    "display": "ἀπο-πέμπ-ω",
+    "plain": "ἀποπέμπω",
+    "gloss_en": "send away, dismiss",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.αρτι",
+    "display": "ἄρτι",
+    "plain": "ἄρτι",
+    "gloss_en": "just now, recently",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.γνωναι",
+    "display": "γνῶ-ναι",
+    "plain": "γνῶναι",
+    "gloss_en": "to recognise (γιγνώσκ-ω/ἔ-γνω-ν)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.δωρον, το",
+    "display": "δῶρ-ον, τό",
+    "plain": "δῶρον, τό",
+    "gloss_en": "gift, bribe (2b)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.εξαιφνησ",
+    "display": "ἐξαίφνης",
+    "plain": "ἐξαίφνης",
+    "gloss_en": "suddenly",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "122",
+      "pdf_page": 152
+    }
+  },
+  {
+    "id": "vocab.s10.ην",
+    "display": "ἥν",
+    "plain": "ἥν",
+    "gloss_en": "which (acc. s. f.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.ιου",
+    "display": "ἰού",
+    "plain": "ἰού",
+    "gloss_en": "oh!",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.οδοσ, η",
+    "display": "ὁδ-ός, ἡ",
+    "plain": "ὁδός, ἡ",
+    "gloss_en": "road (2a)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.οιμωζω",
+    "display": "οἰμώζ-ω",
+    "plain": "οἰμώζω",
+    "gloss_en": "cry οἴμοι",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.οσ",
+    "display": "ὅς",
+    "plain": "ὅς",
+    "gloss_en": "who (nom. s. m.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.ου",
+    "display": "οὗ",
+    "plain": "οὗ",
+    "gloss_en": "whose (gen. s. m.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.παραμενω",
+    "display": "παρα-μέν-ω",
+    "plain": "παραμένω",
+    "gloss_en": "remain beside",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.παρασκευαζομαι",
+    "display": "παρα-σκευάζ-ομαι",
+    "plain": "παρασκευάζομαι",
+    "gloss_en": "prepare",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.προσαγορευω",
+    "display": "προσ-αγορεύ-ω",
+    "plain": "προσαγορεύω",
+    "gloss_en": "address",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.συνοικεω",
+    "display": "συν-οἰκέ-ω",
+    "plain": "συνοἰκέω",
+    "gloss_en": "live (with) (+dat.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.τριηρησ, η",
+    "display": "τριήρ-ης, ἡ",
+    "plain": "τριήρης, ἡ",
+    "gloss_en": "trireme (3d)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.φερω",
+    "display": "φέρ-ω",
+    "plain": "φέρω",
+    "gloss_en": "lead",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.ω",
+    "display": "ᾧ",
+    "plain": "ᾧ",
+    "gloss_en": "with whom (dat. s. m.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.ων",
+    "display": "ὧν",
+    "plain": "ὧν",
+    "gloss_en": "whose (gen. pl. f.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "123",
+      "pdf_page": 153
+    }
+  },
+  {
+    "id": "vocab.s10.αλουτοσον",
+    "display": "ἄ-λουτ-ος-ον",
+    "plain": "ἄλουτοςον",
+    "gloss_en": "unwashed",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.γουν",
+    "display": "γοῦν",
+    "plain": "γοῦν",
+    "gloss_en": "at any rate",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.δαιμονια",
+    "display": "δαιμονί-α",
+    "plain": "δαιμονία",
+    "gloss_en": "my dear lady",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.διδοναι",
+    "display": "διδό-ναι",
+    "plain": "διδόναι",
+    "gloss_en": "to give (δίδω-μι/δο-)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.διδωμι",
+    "display": "δίδω-μι",
+    "plain": "δίδωμι",
+    "gloss_en": "I give, offer",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.δωσω",
+    "display": "δώσ-ω",
+    "plain": "δώσω",
+    "gloss_en": "I shall give (δίδω-μι/δο-)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.δοτε",
+    "display": "δό-τε",
+    "plain": "δότε",
+    "gloss_en": "grant! (pl.) (δίδω-μι/δο-)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.δυστυχη",
+    "display": "δυσ-τυχ-ῆ",
+    "plain": "δυστυχῆ",
+    "gloss_en": "unlucky (acc. s. m.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.ειεν",
+    "display": "εἶεν",
+    "plain": "εἶεν",
+    "gloss_en": "very well",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.εκκαλεω",
+    "display": "ἐκ-καλέ-ω",
+    "plain": "ἐκκαλέω",
+    "gloss_en": "call out",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.εκποδων",
+    "display": "ἐκποδών",
+    "plain": "ἐκποδών",
+    "gloss_en": "out of the way",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.μαμμια, η",
+    "display": "μαμμί-α, ἡ",
+    "plain": "μαμμία, ἡ",
+    "gloss_en": "mummy (1b)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.μηλον, το",
+    "display": "μῆλ-ον, τό",
+    "plain": "μῆλον, τό",
+    "gloss_en": "apple (2b)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.μυρρινιδιον",
+    "display": "Μυρρινίδιον",
+    "plain": "Μυρρινίδιον",
+    "gloss_en": "Myrrhine baby",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.οιοσαον",
+    "display": "οἷ-ος-α-ον",
+    "plain": "οἷοςαον",
+    "gloss_en": "what sort of a!",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.οισ",
+    "display": "οἷς",
+    "plain": "οἷς",
+    "gloss_en": "to whom (dat. pl. m.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.παιονιδησ, ο",
+    "display": "Παιονίδ-ης, ὁ",
+    "plain": "Παιονίδης, ὁ",
+    "gloss_en": "of the deme",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.σπασμοσ, ο",
+    "display": "σπασμ-ός, ὁ",
+    "plain": "σπασμός, ὁ",
+    "gloss_en": "agony (2a)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.σπουδη, η",
+    "display": "σπουδ-ή, ἡ",
+    "plain": "σπουδή, ἡ",
+    "gloss_en": "haste (1a)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.τειχοσ, το",
+    "display": "τεῖχ-ος, τό",
+    "plain": "τεῖχος, τό",
+    "gloss_en": "wall (of a city) (3c)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.υπακουω",
+    "display": "ὑπ-ακού-ω",
+    "plain": "ὑπακούω",
+    "gloss_en": "obey, listen to (+dat.)",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.ωσ",
+    "display": "ὡς",
+    "plain": "ὡς",
+    "gloss_en": "since, because",
+    "where": {
+      "passage": "10B"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "125",
+      "pdf_page": 155
+    }
+  },
+  {
+    "id": "vocab.s10.αμελει",
+    "display": "ἀ-μελ-εῖ",
+    "plain": "ἀμελεῖ",
+    "gloss_en": "uncaring (dat. s. m.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.αμελη",
+    "display": "ἀ-μελ-ῆ",
+    "plain": "ἀμελῆ",
+    "gloss_en": "uncaring (acc. s. m.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.βαδιουμαι",
+    "display": "βαδι-οῦμαι",
+    "plain": "βαδιοῦμαι",
+    "gloss_en": "I shall walk (fut. of βαδιζ-ω; ἐ-ω contr.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.βαδιη",
+    "display": "βαδι-ῇ",
+    "plain": "βαδιῇ",
+    "gloss_en": "you (s.) will walk (fut. of βαδιζ-ω; ἐ-ω contr.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.γλυκεια",
+    "display": "γλυκ-εῖ-α",
+    "plain": "γλυκεῖα",
+    "gloss_en": "sweet (nom. s. f.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.γλυκυ",
+    "display": "γλυκ-ὺ",
+    "plain": "γλυκὺ",
+    "gloss_en": "sweet (nom. s. n.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.γλυκυν",
+    "display": "γλυκ-ὺν",
+    "plain": "γλυκὺν",
+    "gloss_en": "sweet (acc. s. m.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.γλυκυσ",
+    "display": "γλυκ-ὺς",
+    "plain": "γλυκὺς",
+    "gloss_en": "sweet (nom. s. m.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.ευτυχια, η",
+    "display": "εὐ-τυχί-α, ἡ",
+    "plain": "εὐτυχία, ἡ",
+    "gloss_en": "good luck (1b)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.καιτοι",
+    "display": "καίτοι",
+    "plain": "καίτοι",
+    "gloss_en": "and yet",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.καταγελαστοσον",
+    "display": "κατα-γέλαστ-ος-ον",
+    "plain": "καταγέλαστοςον",
+    "gloss_en": "laughable, silly",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.κατακλινομαι",
+    "display": "κατα-κλίν-ομαι",
+    "plain": "κατακλίνομαι",
+    "gloss_en": "lie down",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.μανησ, ο",
+    "display": "Μαν-ῆς, ὁ",
+    "plain": "Μανῆς, ὁ",
+    "gloss_en": "Manes (voc. Μαν-ῆ) (1d)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.μεμφομαι",
+    "display": "μέμφ-ομαι",
+    "plain": "μέμφομαι",
+    "gloss_en": "criticise (+dat.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.μηδαμωσ",
+    "display": "μηδαμ-ῶς",
+    "plain": "μηδαμῶς",
+    "gloss_en": "not at all",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.παυομαι",
+    "display": "παύ-ομαι",
+    "plain": "παύομαι",
+    "gloss_en": "cease from (+gen.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.προσαγω",
+    "display": "προσ-άγ-ω",
+    "plain": "προσάγω",
+    "gloss_en": "bring (to) (+dat.)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.προτερον",
+    "display": "πρότερον",
+    "plain": "πρότερον",
+    "gloss_en": "before, first",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.πυλη, η",
+    "display": "πύλ-η, ἡ",
+    "plain": "πύλη, ἡ",
+    "gloss_en": "gate (1a)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.χαμαι",
+    "display": "χαμαὶ",
+    "plain": "χαμαὶ",
+    "gloss_en": "on the ground",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.δοσ",
+    "display": "δόσ",
+    "plain": "δόσ",
+    "gloss_en": "grant! (s.) (δίδω-μι/δο-)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.εκδυομαι",
+    "display": "ἐκ-δύ-ομαι",
+    "plain": "ἐκδύομαι",
+    "gloss_en": "undress",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
+  },
+  {
+    "id": "vocab.s10.ψιαθοσ, η",
+    "display": "ψίαθ-ος, ἡ",
+    "plain": "ψίαθος, ἡ",
+    "gloss_en": "mattress (2a)",
+    "where": {
+      "passage": "10D"
+    },
+    "tier": "book-text",
+    "src": {
+      "book": "text",
+      "printed_page": "127",
+      "pdf_page": 157
+    }
   }
 ]

@@ -1,0 +1,721 @@
+{
+  "running_head": "Summary Exercises for Section 9",
+  "folio": "207",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        59,
+        260,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY EXERCISES FOR SECTION 9",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        103,
+        185,
+        116,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A WORDS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        121,
+        185,
+        134,
+        802
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Deduce the meaning of the words on the right from those on the left:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        151,
+        248,
+        163,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αἱρέω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        167,
+        248,
+        181,
+        339
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γράφωμαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        184,
+        248,
+        198,
+        304
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλπίζω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        201,
+        248,
+        215,
+        340
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐπίσταμαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        218,
+        248,
+        233,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μάρτυς",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        236,
+        248,
+        248,
+        298
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὄνομα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        253,
+        248,
+        267,
+        327
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πονηρός",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        151,
+        469,
+        163,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καθαιρέω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        167,
+        469,
+        182,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὸ γράμμα",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        184,
+        469,
+        198,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ ἐλπίς",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        201,
+        469,
+        215,
+        568
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ ἐπιστήμη",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        218,
+        469,
+        233,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ μαρτυρία, μαρτυρέω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        236,
+        469,
+        250,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὀνομάζω",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        253,
+        469,
+        267,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ πονηρία",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        304,
+        185,
+        318,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 19,
+      "bbox": [
+        321,
+        185,
+        492,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into Greek using the hints below to guide you:\nA young man had an old man for a father. The young man's name was Bdelykleon, the old man's Philokleon. The old man, it happened, had a terrible disease – he never stopped wanting to judge in the law-courts. The young man tried to persuade him not to judge, but the old man would not obey him, for all his persuasion. Finally, the young man locked him in the house. The old man was in despair and tried to escape, using all sorts of arguments. But he was not able to escape without being seen by the slaves, who guarded the house.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate into Greek using the hints below to guide you:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "A young man had an old man for a father. The young man's name was Bdelykleon, the old man's Philokleon. The old man, it happened, had a terrible disease – he never stopped wanting to judge in the law-courts. The young man tried to persuade him not to judge, but the old man would not obey him, for all his persuasion. Finally, the young man locked him in the house. The old man was in despair and tried to escape, using all sorts of arguments. But he was not able to escape without being seen by the slaves, who guarded the house."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        492,
+        219,
+        506,
+        270
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Hints",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 21,
+      "bbox": [
+        512,
+        219,
+        526,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "'A young man ...': lit. 'To a young man there was a father who was old.'",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 22,
+      "bbox": [
+        529,
+        219,
+        543,
+        611
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "'tried to persuade': use imperfect of 'persuade'.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 23,
+      "bbox": [
+        546,
+        219,
+        558,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "'would not obey': use imperfect.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 24,
+      "bbox": [
+        561,
+        219,
+        576,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "'for all his persuasion': use καίπερ + participle, 'although persuading'.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 25,
+      "bbox": [
+        579,
+        219,
+        593,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "'all sorts of': use the appropriate form of πολύς.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 26,
+      "bbox": [
+        617,
+        185,
+        630,
+        725
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into Greek using the hints below to guide you:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate into Greek using the hints below to guide you:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        647,
+        219,
+        678,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "Once and for all, father, listen and obey me. I shall not allow you to leave the house and judge in the courtroom.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        684,
+        219,
+        715,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Why aren't I allowed to? I expect you to tell me everything.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        722,
+        219,
+        734,
+        811
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Because you are the wickedest man in the city.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        740,
+        219,
+        772,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Well, what am I allowed to do? What do you intend to do?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        778,
+        219,
+        810,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "I shall allow you to pass judgement here in the house. Would you like that?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        816,
+        219,
+        829,
+        811
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Yes, I would. Tell me quickly, what must I do?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 33,
+      "bbox": [
+        835,
+        219,
+        847,
+        813
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Wait here. I shall fetch out the legal equipment.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 34,
+      "bbox": [
+        853,
+        392,
+        868,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Fetches gear; sets up the court.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 35,
+      "bbox": [
+        874,
+        392,
+        906,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Let the advocate come forward! Let the trial begin! Where is the prosecutor? Come here, dog, and prosecute. Get up",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 225
+}

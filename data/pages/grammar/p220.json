@@ -1,0 +1,281 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "202",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        79,
+        878,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Usage",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        227,
+        226,
+        321,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "When ἐπίσταμαι is followed by an infinitive it means ‘know how to’, e.g.\nἐπίσταμαι κιθαρίζειν\n‘I know how to play the kithara’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        193,
+        194,
+        219,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "IRREGULAR PRINCIPAL PARTS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        207,
+        194,
+        319,
+        757
+      ],
+      "margin_number": 211,
+      "speaker": null,
+      "text": "Note the first three principal parts of the following verbs:\nαἱρέω, ‘I take, capture, condemn’, and its middle, αἱρέομαι, ‘I take for myself,\nchoose’;\nπάσχω, ‘I suffer, experience, have something happen to me’;\nφέρω, ‘I carry, bear, put up with’;\nπείθω, ‘I persuade’, and its middle, πείθομαι, ‘I trust, obey’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "bbox": [
+        336,
+        193,
+        607,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present",
+            "Future",
+            "Aorist"
+          ]
+        ],
+        "rows": [
+          [
+            "αἱρέω\n‘I take’",
+            "αἱρήσω\n‘I shall take’",
+            "εἷλον (ἑλ-)\n‘I took’"
+          ],
+          [
+            "αἱρέομαι\n‘I choose’",
+            "αἱρήσομαι\n‘I shall choose’",
+            "εἱλόμην\n‘I chose’"
+          ],
+          [
+            "πάσχω\n‘I suffer’",
+            "πείσομαι\n‘I shall suffer’",
+            "ἔπαθον (παθ-)\n‘I suffered’"
+          ],
+          [
+            "φέρω\n‘I carry’",
+            "οἴσω\n‘I shall carry’",
+            "ἤνεγκον or ἤνεγκα (ἐνεγκ-)\n‘I carried’"
+          ],
+          [
+            "πείθω\n‘I persuade’",
+            "πείσω\n‘I shall persuade’",
+            "ἔπεισα\n‘I persuaded’"
+          ],
+          [
+            "πείθομαι\n‘I trust, obey’",
+            "πείσομαι\n‘I shall trust’",
+            "ἐπιθόμην (πιθ-)\n‘I trusted’"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        628,
+        193,
+        701,
+        483
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form and meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        650,
+        226,
+        701,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Note that the future of πάσχω, ‘I suffer’, is πείσομαι – exactly the same as\nthe future of πείθομαι, ‘I trust, obey’. Only the context will tell you whether\nπείσομαι means, ‘I shall suffer’ or ‘I shall trust, obey’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        730,
+        187,
+        747,
+        323
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        755,
+        193,
+        915,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J",
+        "instruction": "4. Translate into Greek:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "I shall take"
+          },
+          {
+            "n": "2",
+            "prompt": "They know how to persuade"
+          },
+          {
+            "n": "3",
+            "prompt": "He hopes to choose"
+          },
+          {
+            "n": "4",
+            "prompt": "They took"
+          },
+          {
+            "n": "5",
+            "prompt": "He went"
+          },
+          {
+            "n": "6",
+            "prompt": "They are about to suffer"
+          },
+          {
+            "n": "7",
+            "prompt": "She promises to go"
+          },
+          {
+            "n": "8",
+            "prompt": "They suffered"
+          },
+          {
+            "n": "9",
+            "prompt": "They persuaded"
+          },
+          {
+            "n": "10",
+            "prompt": "He chose"
+          },
+          {
+            "n": "11",
+            "prompt": "He took"
+          },
+          {
+            "n": "12",
+            "prompt": "You (s.) went"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 220
+}

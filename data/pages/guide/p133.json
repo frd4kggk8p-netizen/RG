@@ -1,0 +1,288 @@
+{
+  "running_head": "Exercises for section 9A-E",
+  "folio": "119",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        93,
+        277,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        267,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "mule\nτῷ ἡμιόνῳ, τοῖς ἡμιόνοις"
+          },
+          {
+            "n": "2.",
+            "prompt": "ship\nτῷ πλοίῳ, τοῖς πλοίοις"
+          },
+          {
+            "n": "3.",
+            "prompt": "man\nτῷ ἀνθρώπῳ, τοῖς ἀνθρώποις"
+          },
+          {
+            "n": "4.",
+            "prompt": "lawcourt\nτῷ δικαστηρίῳ, τοῖς δικαστηρίοις"
+          },
+          {
+            "n": "5.",
+            "prompt": "time\nτῷ χρόνῳ, τοῖς χρόνοις"
+          },
+          {
+            "n": "6.",
+            "prompt": "friend\nτῷ φίλῳ, τοῖς φίλοις"
+          },
+          {
+            "n": "7.",
+            "prompt": "word\nτῷ λόγῳ, τοῖς λόγοις"
+          },
+          {
+            "n": "8.",
+            "prompt": "god\nτῷ θεῷ, τοῖς θεοῖς"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        287,
+        191,
+        372,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 5",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 4,
+      "bbox": [
+        313,
+        191,
+        731,
+        861
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 5",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "wicked\nτῷ πονηρῷ, τῇ πονηρᾷ, τῷ πονηρῷ,\nτοῖς πονηροῖς, ταῖς πονηραῖς, τοῖς πονηροῖς"
+          },
+          {
+            "n": "2.",
+            "prompt": "that\nἐκείνῳ τῷ, ἐκείνῃ τῇ, ἐκείνῳ τῷ, ἐκείνοις τοῖς,\nἐκείναις ταῖς, ἐκείνοις τοῖς"
+          },
+          {
+            "n": "3.",
+            "prompt": "disgraceful\nτῷ μιαρῷ, τῇ μιαρᾷ, τῷ μιαρῷ,\nτοῖς μιαροῖς, ταῖς μιαραῖς, τοῖς μιαροῖς"
+          },
+          {
+            "n": "4.",
+            "prompt": "like\nτῷ ὁμοίῳ, τῇ ὁμοίᾳ, τῷ ὁμοίῳ\nτοῖς ὁμοίοις, ταῖς ὁμοίαις, τοῖς ὁμοίοις"
+          },
+          {
+            "n": "5.",
+            "prompt": "bad\nτῷ κακῷ, τῇ κακῇ, τῷ κακῷ\nτοῖς κακοῖς, ταῖς κακαῖς, τοῖς κακοῖς"
+          },
+          {
+            "n": "6.",
+            "prompt": "safe\nτῷ σῴῳ, τῇ σῴᾳ, τῷ σῴῳ\nτοῖς σῴοις, ταῖς σῴαις, τοῖς σῴοις"
+          },
+          {
+            "n": "7.",
+            "prompt": "greatest\nτῷ μεγίστῳ, τῇ μεγίστῃ, τῷ μεγίστῳ\nτοῖς μεγίστοις, ταῖς μεγίσταις, τοῖς μεγίστοις"
+          },
+          {
+            "n": "8.",
+            "prompt": "clear\nτῷ δῆλῳ, τῇ δήλῃ, τῷ δῆλῳ\nτοῖς δήλοις, ταῖς δήλαις, τοῖς δήλοις"
+          },
+          {
+            "n": "9.",
+            "prompt": "your (s.)\nτῷ σῷ, τῇ σῇ, τῷ σῷ, τοῖς σοῖς, ταῖς σαῖς, τοῖς σοῖς"
+          },
+          {
+            "n": "10.",
+            "prompt": "much\nτῷ πολλῷ, τῇ πολλῇ, τῷ πολλῷ\nτοῖς πολλοῖς, ταῖς πολλαῖς, τοῖς πολλοῖς"
+          },
+          {
+            "n": "11.",
+            "prompt": "this\nτούτῳ τῷ, ταύτῃ τῇ, τούτῳ τῷ\nτούτοις τοῖς, ταύταις ταῖς, τούτοις τοῖς"
+          },
+          {
+            "n": "12.",
+            "prompt": "such\nτοιούτῳ, τοιαύτῃ, τοιούτῳ\nτοιούτοις, τοιαύταις, τοιούτοις"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        770,
+        191,
+        856,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 6",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        795,
+        191,
+        853,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 6",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "suffering\nτῷ πάθει, τοῖς πάθεσιν"
+          },
+          {
+            "n": "2.",
+            "prompt": "crowd, mass\nτῷ πλήθει, τοῖς πλήθεσιν"
+          },
+          {
+            "n": "3.",
+            "prompt": "wall\nτῷ τείχει, τοῖς τείχεσιν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        868,
+        191,
+        953,
+        308
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A-E: 7",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        893,
+        191,
+        929,
+        795
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E: 7",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "drama, play\nτῷ δράματι, τοῖς δράμασιν"
+          },
+          {
+            "n": "2.",
+            "prompt": "lord, king\nτῷ ἄνακτι, τοῖς ἄναξιν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 133
+}

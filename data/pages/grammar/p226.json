@@ -1,0 +1,508 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "208",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        399,
+        79,
+        915,
+        111
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "and speak. Tell us who has made the charge and for what reason. Father, I hope you will pay attention.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        119,
+        214,
+        746,
+        130
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Don’t worry. Come on, dog, speak up!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        229,
+        153,
+        281,
+        170
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Hints",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        229,
+        175,
+        915,
+        198
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Once and for all’: no need to translate this phrase – though it does affect the aspect of the imperatives that follow.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        229,
+        202,
+        907,
+        216
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Why aren’t I allowed to?’: translate ‘Won’t you allow me?’ (ἔξεστι + dat.).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        229,
+        221,
+        606,
+        235
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Would you like that?’: lit. ‘Would you want to do these things?’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        229,
+        240,
+        566,
+        254
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Yes, I would.’: i.e. ‘I would want to’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        229,
+        259,
+        383,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Voc. of ‘dog’: κύον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        229,
+        277,
+        617,
+        291
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Get up’: use root aorist imperative of ἀναβαίνω: ἀναβῆθι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        229,
+        296,
+        915,
+        326
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘I hope you will pay attention’: use ἐλπίζω followed by acc. (‘you’) + fut. inf. (‘will pay attention’).",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        367,
+        367,
+        443,
+        380
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E TEST EXERCISE NINE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        195,
+        386,
+        365,
+        399
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate into English:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        195,
+        414,
+        915,
+        462
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Philokleon laments his luck to the passing jurors, and prays to Zeus and Lykos to change his appearance, so that he will be able to escape; the jurors send for help to rescue him. (From Aristophanes, Wasps)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        224,
+        479,
+        915,
+        550
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛΟΚΛΕΩΝ",
+      "text": "ἴτε, πάντες φίλοι, ἴτε. ἀκούω γὰρ ὑμῶν ἀδόντων, ἀλλ’ οὐχ οἷός τ’ εἰμὶ ᾄδειν ἐγώ. τί ποιήσω; οὗτοι γὰρ με φυλάττουσιν, καίπερ βουλόμενον μεθ’ ὑμῶν ἐλθεῖν πρὸς τὸ δικαστήριον καὶ κακόν τι ποιῆσαι. ἀλλ’ ὦ Ζεῦ, παῦσαι πράγματά μοι παρέχων καὶ φίλος γενοῦ καὶ οἴκτιρον τὸ πάθος. σῶσόν με, ὦ Ζεῦ. ἤ με ποίησον καπνὸν ἐξαίφνης, ἢ δῆτα λίθον με ποίησον, ἐφ’ οὗ τὰς ψήφους ἀριθμοῦσιν. τόλμησον, ἄναξ, σῶσαί με.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        175,
+        555,
+        189,
+        565
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        225,
+        584,
+        780,
+        595
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚΑΣΤΑΙ",
+      "text": "τίς γάρ ἐστιν ὁ ἐγκλείων σε; λέξον, αἰτοῦμέν σε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        228,
+        599,
+        817,
+        629
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ὁ ἐμὸς υἱός, εὖ ἴστε. ἀλλὰ μὴ βοᾶτε. καὶ γὰρ τυγχάνει οὗτοσὶ πρόσθεν καθεύδων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        169,
+        651,
+        191,
+        664
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        228,
+        632,
+        857,
+        660
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "τίνος ἕνεκα οὐκ ἔξεστί σοι μεθ’ ἡμῶν συνελθόντι ἀκοῦσαι τῶν τε κατηγορούντων καὶ τῶν ἀπολογουμένων;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        228,
+        664,
+        897,
+        723
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ὁ υἱὸς οὐκ ἐᾷ με, ὦνδρες, δικάζειν οὐδὲ δρᾶν οὐδὲν κακόν. ἀλλὰ ζητεῖτε μηχανήν τινα, αἰτῶ ὑμᾶς. μέλλω γὰρ ἐγὼ τήμερον ἀκούσεσθαι τῶν τε διωκόντων καὶ τῶν φευγόντων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        169,
+        744,
+        191,
+        758
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        228,
+        726,
+        882,
+        753
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "οὐκ ἂν δυναίμεθα, ὦ φίλε, σῶσαί σε. φυλάττουσι γάρ σε οἱ οἰκεῖοι πάντες, καὶ οὐκ ἔξεστί σοι φυγεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        228,
+        757,
+        915,
+        815
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "χρὴ οὖν με εὔξασθαι τοῖς θεοῖς, ἐλπίζοντα φεύξεσθαι. ἀκουόντων οὖν οἱ θεοί, καὶ βοηθούντων. ὦ Λύκε δέσποτα, γείτων ἥρως – σὺ γὰρ φιλεῖς τὸ δικαστήριον – οἴκτιρον καὶ σῶσόν με ἐν ἀπορίᾳ ὄντα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        169,
+        841,
+        191,
+        853
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        228,
+        818,
+        771,
+        833
+      ],
+      "margin_number": null,
+      "speaker": "ΔΙΚ.",
+      "text": "(addressing slaves who are leading them)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 226
+}

@@ -1,0 +1,358 @@
+{
+  "running_head": "Grammar for Section 10",
+  "folio": "215",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        204,
+        206,
+        403
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμελ-ής -ές ‘uncaring’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 2,
+      "bbox": [
+        215,
+        204,
+        321,
+        599
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "s.",
+            "m. and f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ἀμελ-ής",
+            "ἀμελ-ές"
+          ],
+          [
+            "Acc.",
+            "ἀμελ-ῆ",
+            "ἀμελ-ές"
+          ],
+          [
+            "Gen.",
+            "ἀμελ-οῦς",
+            "ἀμελ-οῦς"
+          ],
+          [
+            "Dat.",
+            "ἀμελ-εῖ",
+            "ἀμελ-εῖ"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "bbox": [
+        330,
+        204,
+        395,
+        621
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "pl.",
+            null,
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "ἀμελ-εῖς",
+            "ἀμελ-ῆ"
+          ],
+          [
+            "Acc.",
+            "ἀμελ-εῖς",
+            "ἀμελ-ῆ"
+          ],
+          [
+            "Gen.",
+            "ἀμελ-ῶν",
+            "ἀμελ-ῶν"
+          ],
+          [
+            "Dat.",
+            "ἀμελ-έσι(ν)",
+            "ἀμελ-έσι(ν)"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        431,
+        204,
+        444,
+        411
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γλυκ-ύς -εῖα -ύ ‘sweet’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "bbox": [
+        453,
+        204,
+        523,
+        815
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "s.",
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "γλυκ-ύς",
+            "γλυκ-εῖ-α",
+            "γλυκ-ύ"
+          ],
+          [
+            "Acc.",
+            "γλυκ-ύν",
+            "γλυκ-εῖ-αν",
+            "γλυκ-ύ"
+          ],
+          [
+            "Gen.",
+            "γλυκ-έος",
+            "γλυκ-εί-ᾱς",
+            "γλυκ-έος"
+          ],
+          [
+            "Dat.",
+            "γλυκ-εῖ",
+            "γλυκ-εί-ᾳ",
+            "γλυκ-εῖ"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        532,
+        204,
+        587,
+        838
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "γλυκ-εῖς",
+            "γλυκ-εῖ-αι",
+            "γλυκ-έα"
+          ],
+          [
+            "Acc.",
+            "γλυκ-εῖς",
+            "γλυκ-εί-ᾱς",
+            "γλυκ-έα"
+          ],
+          [
+            "Gen.",
+            "γλυκ-έων",
+            "γλυκ-ει-ῶν",
+            "γλυκ-έων"
+          ],
+          [
+            "Dat.",
+            "γλυκ-έσι(ν)",
+            "γλυκ-εί-αις",
+            "γλυκ-έσι(ν)"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        631,
+        186,
+        646,
+        260
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        653,
+        186,
+        668,
+        773
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) ἀμελής has the same forms for the m. and f. (cf. εὔφρων, 82).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        671,
+        186,
+        723,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) γλυκύς types are of mixed declension 3-1-3 – the m. and n. declining like type 3 nouns, the f. declining like a 1st declension noun ἀπορία, but with short -α. (Cf. 90)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        729,
+        186,
+        781,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) The dominant vowel in the stem of both of these types of adjective is -ε-. Compare their declension with noun-types 3c, d, e and f (see 78, 79, 80, 127a).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        786,
+        186,
+        821,
+        905
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(d) υἱός ‘son’ can decline like 2a nouns, but it also decline like the m. form of γλυκύς (except for the acc. s.):",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 233
+}

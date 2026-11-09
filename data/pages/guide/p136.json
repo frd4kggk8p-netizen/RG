@@ -1,0 +1,540 @@
+{
+  "running_head": "Section 9F",
+  "folio": "122",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        189,
+        79,
+        149,
+        703
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "exercises",
+        "instruction": "",
+        "items": [
+          {
+            "n": "4.",
+            "prompt": "I stole the money with (using) my right hand.\nἐνέκλεισα τὸν πατέρα πολλοῖς δούλοις χρώμενος."
+          },
+          {
+            "n": "5.",
+            "prompt": "He is destroying Socrates with a wicked slander.\nκαλοῖς λόγοις ἔπεισαν τὸν δῆμον οἱ ῥήτορες."
+          }
+        ]
+      },
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        174,
+        210,
+        191,
+        230
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        206,
+        191,
+        222,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 107",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        232,
+        167,
+        243,
+        521
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ἐάσω The future of ἐάω ‘I allow’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        252,
+        168,
+        265,
+        488
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "λήσεις The future of λανθάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        271,
+        167,
+        301,
+        891
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "οὐκ ἐάσας What is this? Compare it with εἴασας. Remember that the aorist\nindicative has an augment. The participle has not.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        311,
+        168,
+        401,
+        878
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "πιθέσθαι Aorist infinitive from ἐπιθόμην (second aorist of πείθομαι). For\naorist infinitives see GE pp. 187–189, #195–197. Here the aorist is used to\nemphasise the aspect. ‘You must (χρή) stay here (present infinitive =\nall the time, a process) and obey me [now] (aorist infinitive denotes a single\nevent).’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        409,
+        168,
+        442,
+        580
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "δικάσαι First aorist infinitive active from δικάζω.\nδυνήσῃ The future of δύναμαι: ‘you will be able’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        445,
+        159,
+        482,
+        895
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "μοι ... ἐνθάδε μένοντι Note the agreement: ‘How will it be possible for me\nremaining here to be a juror?’ ‘How will it be possible ... if I stay here?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        496,
+        192,
+        513,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 108",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        524,
+        159,
+        537,
+        579
+      ],
+      "margin_number": 16,
+      "speaker": null,
+      "text": "παύσασθαι First aorist infinitive middle.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        542,
+        157,
+        595,
+        856
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "κατάσκοπον κατά, σκοπέω. Cf. the various English ‘-scope’ words. Most\nrelevant here is ‘episcopal’, from ἐπίσκοπος an ‘overseer’ or a ‘bishop’ in\nChristian Greek.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        600,
+        192,
+        615,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γενέσθαι What is this? What are the principal parts of γίγνομαι?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        619,
+        158,
+        654,
+        891
+      ],
+      "margin_number": 19,
+      "speaker": null,
+      "text": "ἐξευρεῖν What is it? Try the principal parts of εὑρίσκω. Remember that the\ninfinitive does not have an augment.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        658,
+        193,
+        672,
+        694
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβεῖν What is it? Try the principal parts of λαμβάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        678,
+        157,
+        691,
+        863
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": "λήψῃ What tense? What person? What verb? Try the future of λαμβάνω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        698,
+        157,
+        712,
+        804
+      ],
+      "margin_number": 28,
+      "speaker": null,
+      "text": "ποιήσαι ποιέω ποιήσω ἐποίησα. Therefore aorist infinitive active.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        717,
+        157,
+        731,
+        786
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "ἐξήνεγκον For the principal parts of φέρω see GE p. 202, #211.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        736,
+        156,
+        750,
+        804
+      ],
+      "margin_number": 47,
+      "speaker": null,
+      "text": "ἐσθίειν Another very irregular verb: ἐσθίω ἔδομαι ἔφαγον ‘I eat’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        772,
+        194,
+        355,
+        804
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9F",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 21,
+      "bbox": [
+        794,
+        192,
+        807,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Bdelykleon speaks to the father.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        814,
+        88,
+        850,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "Listen, Father, I shall not allow you to go out to the courtroom any longer,\nnor will you escape my notice by trying to go out.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        855,
+        89,
+        869,
+        720
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "What’s this? But you will destroy me, not allowing me to go out.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        875,
+        88,
+        887,
+        568
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "You must stay here, Father, and obey me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        892,
+        89,
+        906,
+        526
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But nevertheless I want to be a juror.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        912,
+        88,
+        925,
+        706
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Get up, Father, since today you will be able to be a juror.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 136
+}

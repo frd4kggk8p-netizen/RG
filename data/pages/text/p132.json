@@ -1,0 +1,488 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "102",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        127,
+        83,
+        91,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        128,
+        127,
+        137,
+        218
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄνω up, above",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        140,
+        127,
+        153,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἥσυχος ον quiet, peaceful",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        78,
+        396,
+        91,
+        622
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὄνομα (ὀνοματ-), τό name (3b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        95,
+        396,
+        128,
+        555
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πονηρός ᾱ́ όν wicked, wretched",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        78,
+        660,
+        128,
+        891
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοιoῦτος τοιαύτη τοιοῦτο(ν) of this kind, of such a kind\nφέρe come!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        141,
+        222,
+        163,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        174,
+        127,
+        187,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: the Eliaia 6.39; part-source 6.41.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        211,
+        124,
+        228,
+        140
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ξ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        208,
+        222,
+        332,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐδέποτ' ἐξευρήσετε, ὦ θεαταί. εἰ δὴ βούλεσθε εἰδέναι τίς ἡ νόσος ἡ τῷ πατρὶ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        223,
+        222,
+        243,
+        803
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμπεσοῦσα, σιωπᾶτε νῦν. λέξω γὰρ ὑμῖν ἐν ἀπορίᾳ δὴ οὖσι τὴν τοῦ γέροντος",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        239,
+        222,
+        257,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νόσον. φιληλιαστής ἐστιν ὥσπερ οὐδεὶς ἀνήρ. δίκας γὰρ ἀεὶ δικάζει καὶ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        254,
+        222,
+        270,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὸ δικαστήριον φιλεῖ, τῆς μὲν ἡμέρας καθιζόμενος ἐν τῷ δικαστηρίῳ,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        269,
+        222,
+        303,
+        807
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῆς δὲ νυκτὸς ὀνειροπολῶν δίκας. καίτοι οἱ μὲν ἐρασταὶ γράφουσιν ἐν\nθύρᾳ τινί ‘Δῆμος καλός’, οὗτος δὲ ἰδὼν καὶ προσιὼν παραγράφει πλησίον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        287,
+        893,
+        298,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        304,
+        222,
+        332,
+        825
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘Κημὸς καλός’. τοῦτον οὖν φυλάττομεν τούτοις τοῖς μοχλοῖς ἐγκλείσαντες,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        319,
+        222,
+        355,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πολλοῖς τε οὖσι καὶ μεγάλοις. ὁ γὰρ υἱὸς αὐτοῦ, ἐπεὶ τὸν πατέρα ἔμαθεν\nφιληλιαστὴν ὄντα, τὴν νόσον βαρέως φέρων, πρῶτον μὲν ἐπειρᾶτο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        355,
+        222,
+        369,
+        637
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναπείθειν αὐτὸν μὴ ἐξιέναι θύραζε, τοιάδε λέγων·",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        376,
+        885,
+        388,
+        904
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        372,
+        237,
+        407,
+        755
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "‘διὰ τί’, ἦ δ’ ὅς, ‘ἀεὶ δίκας δικάζεις, ὦ πάτερ, ἐν τῷ δικαστηρίῳ; ἆρ’ οὐ\nπαύσῃ ἡλιαστὴς ὤν; ἆρα τῷ σῷ υἱῷ οὐ πείσῃ;’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        410,
+        222,
+        444,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ δὲ πατὴρ αὐτῷ· μὴ ἐξιέναι ἀναπείθοντι οὐκ ἐπείθετο. εἶτα\nὁ υἱὸς τὸν πατέρα ἐκορυβάντιζεν. ὁ δὲ πατὴρ, εἰς τὸ δικαστήριον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        445,
+        222,
+        461,
+        828
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμπεσών, αὐτῷ τῷ τυμπάνῳ ἐδίκασεν. ἐντεῦθεν ἔνδον ἐγκλείσαντες",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        471,
+        886,
+        482,
+        903
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 24,
+      "bbox": [
+        514,
+        222,
+        887,
+        427
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "αὐτῷ τῷ τυμπάνῳ",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 132
+}

@@ -8,6 +8,98 @@ let currentTextData = null;
 let currentVocabData = [];
 let currentGuideData = null;
 let activePassageId = null;
+let lsjCache = null;
+
+async function loadLSJCache() {
+  if (lsjCache) return lsjCache;
+  try {
+    const prefix = window.location.pathname.includes('/site') ? '../' : './';
+    let r = await fetch(prefix + 'data/vocab/lsj_cache.json');
+    if (!r.ok) r = await fetch('../data/vocab/lsj_cache.json');
+    if (!r.ok) r = await fetch('./data/vocab/lsj_cache.json');
+    if (!r.ok) r = await fetch('./site/data/lsj_cache.json');
+    if (r.ok) {
+      lsjCache = await r.json();
+    }
+  } catch (e) {
+    console.warn('Could not load local LSJ cache:', e);
+  }
+  return lsjCache || {};
+}
+
+async function queryLSJ(tokenText, lemmaText) {
+  const contentEl = document.getElementById('card-lsj-content');
+  const logeionLink = document.getElementById('card-logeion-link');
+  const perseusLink = document.getElementById('card-perseus-link');
+  const lemmaSpan = document.getElementById('card-lemma');
+  const glossSpan = document.getElementById('card-gloss');
+
+  if (!contentEl) return;
+
+  const cleanWord = tokenText.replace(/[.,;·'’"()[\]]/g, '').trim();
+  const searchKey = lemmaText ? lemmaText.replace(/[.,;·'’"()[\]]/g, '').trim() : cleanWord;
+
+  if (logeionLink) logeionLink.href = `https://logeion.uchicago.edu/${encodeURIComponent(searchKey)}`;
+  if (perseusLink) perseusLink.href = `https://www.perseus.tufts.edu/hopper/morph?l=${encodeURIComponent(cleanWord)}&la=greek`;
+
+  contentEl.innerHTML = '<p class="lsj-loading text-muted">🔍 Searching LSJ lexicon...</p>';
+
+  const cache = await loadLSJCache();
+  const entry = cache[cleanWord] || (lemmaText && cache[lemmaText]) || cache[cleanWord.replace(/-/g, '')];
+
+  if (entry && entry.html) {
+    contentEl.innerHTML = `
+      <div class="lsj-entry-body">
+        <div style="margin-bottom:0.4rem;"><strong>Headword:</strong> <span style="font-family:var(--font-greek); color:var(--terracotta); font-size:1.15rem; font-weight:700;">${entry.headword}</span></div>
+        <div class="lsj-full-text">${entry.html}</div>
+      </div>
+    `;
+    if (lemmaSpan && (lemmaSpan.textContent === '—' || lemmaSpan.textContent === 'Looking up...')) {
+      lemmaSpan.textContent = entry.headword;
+    }
+    if (glossSpan && glossSpan.textContent.includes('LSJ')) {
+      glossSpan.textContent = entry.short_def || entry.headword;
+    }
+    return;
+  }
+
+  // Fallback to online Wiktionary Ancient Greek API
+  try {
+    const onlineUrl = `https://en.wiktionary.org/api/rest_v1/page/definition/${encodeURIComponent(cleanWord)}`;
+    const resp = await fetch(onlineUrl);
+    if (resp.ok) {
+      const data = await resp.json();
+      const greekItems = (data.other || []).filter(item => item.language === 'Ancient Greek');
+      if (greekItems.length) {
+        let outHtml = `<div><strong>Ancient Greek Wiktionary:</strong></div>`;
+        greekItems.forEach(item => {
+          outHtml += `<div style="margin-top:0.4rem;"><span class="badge" style="background:rgba(47,93,124,0.12); color:var(--aegean); font-size:0.75rem; padding:0.15rem 0.4rem; border-radius:3px;">${item.partOfSpeech || 'Ancient Greek'}</span></div>`;
+          outHtml += `<ul style="padding-left:1.2rem; margin:0.3rem 0;">`;
+          (item.definitions || []).forEach(d => {
+            outHtml += `<li>${d.definition}</li>`;
+          });
+          outHtml += `</ul>`;
+        });
+        contentEl.innerHTML = outHtml;
+        if (glossSpan && glossSpan.textContent.includes('LSJ') && greekItems[0].definitions && greekItems[0].definitions[0]) {
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = greekItems[0].definitions[0].definition;
+          glossSpan.textContent = tempDiv.textContent.slice(0, 150);
+        }
+        return;
+      }
+    }
+  } catch (err) {
+    console.log('Online lookup error:', err);
+  }
+
+  contentEl.innerHTML = `
+    <p class="text-muted">No entry found in local cache. You can view the full entry online:</p>
+    <div style="display:flex; gap:0.5rem; margin-top:0.5rem;">
+      <a href="${logeionLink ? logeionLink.href : '#'}" target="_blank" class="card-action-btn" style="flex:1;">Open in Logeion ↗</a>
+    </div>
+  `;
+}
 
 export function initReader(textData, vocabData, guideData) {
   currentTextData = textData;
@@ -194,14 +286,18 @@ function showWordCard(token, line) {
     declSpan.textContent = matchedVocab.decl_code ? `Noun/Verb Type (${matchedVocab.decl_code})` : '—';
     sourceSpan.textContent = `Text page ${matchedVocab.src.printed_page} (PDF p. ${matchedVocab.src.pdf_page})`;
   } else {
-    badge.textContent = '⚪ Book Analysis';
-    badge.className = 'tier-badge';
+    badge.textContent = '🔵 LSJ Lexicon';
+    badge.className = 'tier-badge tier-lsj';
     morphDiv.textContent = token.surface;
-    lemmaSpan.textContent = token.surface;
-    glossSpan.textContent = '(Definition in Grammar Vocabulary)';
-    declSpan.textContent = '—';
+    lemmaSpan.textContent = 'Looking up...';
+    glossSpan.textContent = 'Searching LSJ Lexicon...';
+    declSpan.textContent = 'Ancient Greek';
     sourceSpan.textContent = `Text passage ${activePassageId}, line ${line.n}`;
   }
+
+  // Trigger LSJ Lookup (offline cache + online fallback)
+  const queryLemma = matchedVocab ? (matchedVocab.lemma_plain || matchedVocab.lemma_display) : null;
+  queryLSJ(token.surface, queryLemma);
 
   // Grammar link
   const gramLink = document.getElementById('card-grammar-link');
@@ -244,6 +340,9 @@ function showVocabCardDirect(vocab) {
   document.getElementById('card-gloss').textContent = vocab.gloss_en;
   document.getElementById('card-decl').textContent = vocab.decl_code ? `(${vocab.decl_code})` : '—';
   document.getElementById('card-source').textContent = `Text page ${vocab.src.printed_page} (PDF p. ${vocab.src.pdf_page})`;
+
+  // Trigger LSJ Lookup
+  queryLSJ(vocab.plain, vocab.lemma_plain || vocab.lemma_display);
 
   document.getElementById('card-view-page-btn').onclick = () => {
     openProofread('text', vocab.src.pdf_page);

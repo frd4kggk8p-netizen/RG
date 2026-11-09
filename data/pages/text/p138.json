@@ -1,0 +1,728 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "108",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        123,
+        77,
+        182,
+        792
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἐν τῇ σαυτοῦ οἰκίᾳ ἔσται σοι δικαστήριον καὶ τοῖς οἰκέταις δικάσαι ἐξέσται.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        183,
+        126,
+        203,
+        442
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "τί φής; ἀλλὰ τίνι τρόπῳ καὶ περὶ τίνος;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        207,
+        126,
+        237,
+        901
+      ],
+      "margin_number": 15,
+      "speaker": "ΒΔΕΛ.",
+      "text": "περὶ πολλῶν. φέρε γάρ. εἰσὶ γάρ σοι πολλοὶ οἰκέται, ἀλλὰ εὖ οἶσθ’ ὅτι οἱ οἰκέται οὐ βούλονται παύσασθαι ἀδικοῦντες, ἀλλ’ αἴτιοί εἰσι πολλῶν κακῶν. χρὴ οὖν σε κατάσκοπον γενέσθαι τῶν πραγμάτων τῶν ἐν τῇ οἰκίᾳ γιγνομένων. καὶ ταῦτα τὰ κακὰ ἐξέσται σοι σκοπουμένῳ τήμερον ἐξευρεῖν, ἐξευρόντι δὲ δίκην λαβεῖν. οὔκουν ἂν βούλοιο τοῦτο δρᾶν, καὶ ἀναγκάζειν τοὺς οἰκέτας τῶν κακῶν παύσασθαι καὶ βελτίους γενέσθαι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        239,
+        124,
+        257,
+        219
+      ],
+      "margin_number": 20,
+      "speaker": "ΦΙΛ.",
+      "text": "(eagerly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        260,
+        127,
+        313,
+        829
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ πάνυ βούλοimin ἄν. ἀναπείθεις γάρ με τοῖς λόγοις. ἀλλ’ ἐκεῖνο οὔπω λέγεις, τὸν μισθὸν ὁπόθεν λαβεῖν δυνήσομαι. οὔκουν βούλοιο ἂν τὸ πρᾶγμα δηλοῦν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        318,
+        126,
+        332,
+        335
+      ],
+      "margin_number": 25,
+      "speaker": "ΒΔΕΛ.",
+      "text": "λήψῃ παρ’ ἐμοῦ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        336,
+        124,
+        350,
+        241
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "(satisfied)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        353,
+        127,
+        365,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καλῶς λέγεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        372,
+        126,
+        386,
+        396
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "καὶ ποιῆσαι τοῦτο ἐθέλοις ἄν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        391,
+        127,
+        404,
+        370
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "τοῦτο ἂν ποιοίην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        409,
+        126,
+        442,
+        901
+      ],
+      "margin_number": 30,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἀνάμενέ νυν. ἐγὼ γὰρ ταχέως ἥξω φέρων τὰ τοῦ δικαστηρίου ταῖς χερσί. νὴ Δία, ἐξοίσω πάντα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        447,
+        114,
+        483,
+        764
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἀναμένει μὲν ὁ γέρων, ὁ δ’ υἱὸς εἰς τὴν οἰκίαν εἰσέρχεται. δι’ ὀλίγου Βδελυκλέων ἐξελθὼν τὰ τοῦ δικαστηρίου ταῖς χερσὶ μόγις ἐκφέρει.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        487,
+        126,
+        502,
+        222
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(panting,",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        486,
+        225,
+        502,
+        606
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "and finally depositing the equipment)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        505,
+        225,
+        519,
+        725
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "ἰδού. τέλος γὰρ ἐξήνεγκον τὸ τοῦ δικαστηρίου ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        524,
+        124,
+        538,
+        220
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "(looking at",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 17,
+      "bbox": [
+        525,
+        222,
+        537,
+        444
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "what Bdelykleon brought in)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        542,
+        225,
+        555,
+        412
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξήνεγκας δὴ σὺ πάντα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        561,
+        126,
+        575,
+        221
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "νὴ Δία,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 20,
+      "bbox": [
+        561,
+        225,
+        574,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δοκῶ γ’ ἐνεγκεῖν πάντα.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 21,
+      "bbox": [
+        579,
+        215,
+        594,
+        415
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(points to a brazier)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        597,
+        225,
+        611,
+        757
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "καὶ πῦρ γε τουτὶ ἐξήνεγκον. ἰδού, ἐγγὺς τοῦ πυρὸς φακῆ τίς σοί ἐστιν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        615,
+        124,
+        629,
+        220
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "(joyfully)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        633,
+        225,
+        668,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰοὺ ἰού. ἐξέσται γάρ μοι δικάζοντι τὴν φακῆν ἐσθίειν. καὶ νὴ τὸν Δία αὐτὴν ἔδομαι, ὡς ἔμοιγε δοκεῖ, πάσῃ προθυμίᾳ, δεινὸς δή ὤν φαγεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 25,
+      "bbox": [
+        672,
+        219,
+        687,
+        421
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(pointing at a cockerel)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        690,
+        225,
+        704,
+        597
+      ],
+      "margin_number": 45,
+      "speaker": null,
+      "text": "ἀτὰρ τί βουλόμενος τὸν ἀλεκτρυόνα ἐξήνεγκας;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        708,
+        126,
+        759,
+        818
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ὅ τι; ὁ ἀλεκτρυὼν σ’ ἐγείρειν οἷός τ’ ἔσται τῇ φωνῇ. μακροὶ μὲν γάρ εἰσιν οἱ τῶν κατηγόρων λόγοι, σὺ δὲ δεινὸς καθεύδειν, καίπερ ἐν τῷ δικαστηρίῳ καθιζόμενος.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        794,
+        126,
+        825,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλεκτρυών (ἀλεκτρυον-), ὁ\ncockerel (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        794,
+        396,
+        825,
+        584
+      ],
+      "margin_number": null,
+      "speaker": "gen-έσθαι",
+      "text": "gen-έσθαι to become\n(γίγν-ομαι/ἐ-γεν-όμην)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        794,
+        658,
+        839,
+        864
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δι’ ὀλίγου after a short while\nδικάσ-αι to give a judgment\n(δικάζ-ω)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        828,
+        126,
+        843,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναγκάζ-ω force, compel",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        827,
+        396,
+        868,
+        590
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δειν-ὸς καθεύδειν clever at\nsleeping\nδειν-ὸς φαγ-εῖν clever at",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        844,
+        658,
+        888,
+        897
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δυνήσ-ομαι I will be able (fut. of\nδύν-αμαι)\nἐγείρ-ω wake up",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        845,
+        126,
+        874,
+        273
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀνα-μέν-ω hold on, wait\naround",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        869,
+        396,
+        888,
+        461
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "eating",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        880,
+        126,
+        891,
+        187
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀτὰρ but",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 138
+}

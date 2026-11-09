@@ -1,0 +1,96 @@
+{
+  "running_head": "Grammar for Section 9A–E",
+  "folio": "185",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        [
+          187,
+          88,
+          201,
+          810
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 9A–E\nCONTINUED",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        [
+          203,
+          204,
+          219,
+          752
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοιοῦτος τοιαύτη τοιοῦτο(ν)     of this kind, of such a kind",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        [
+          223,
+          204,
+          237,
+          574
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φέρε     come!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        [
+          242,
+          204,
+          258,
+          694
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χράομαι     use, employ (+ dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 203
+}

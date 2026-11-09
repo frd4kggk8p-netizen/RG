@@ -1,0 +1,308 @@
+{
+  "running_head": "Section 9C",
+  "folio": "115",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        79,
+        102,
+        134
+      ],
+      "margin_number": null,
+      "speaker": "ΧΑΝ.",
+      "text": "Yes, the old man loves something. But what does this man say?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        100,
+        78,
+        114,
+        134
+      ],
+      "margin_number": null,
+      "speaker": "SOS.",
+      "text": "This man answers me, having asked, that he thinks the father is ‘a lover of sacrifices’ or ‘a lover of strangers’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        121,
+        79,
+        135,
+        134
+      ],
+      "margin_number": null,
+      "speaker": "ΧΑΝ.",
+      "text": "By the dog, old fellow, he is not a lover of strangers (philoxenos), since Philoxenos, at any rate, is a homosexual.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        190,
+        191,
+        214,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        229,
+        192,
+        244,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 102",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        252,
+        159,
+        323,
+        897
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ἐξευρήσετε What tense? What verb? If you do not know, look up εὑρίσκω in the list of irregular verbs (GE pp. 436–442, #389). You will find this very helpful when you need to hunt for an unfamiliar form or if you are not quite sure which verb it comes from.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        329,
+        160,
+        400,
+        847
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ἐμπεσοῦσα What verb does this come from? What is it? Try the aorist participle of πίπτω.\nὑμῖν ἐν ἀπορίᾳ οὖσῃ Note that οὖσῃ agrees with ὑμῖν ‘you being in perplexity’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        405,
+        160,
+        442,
+        894
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "τῆς μὲν ἡμέρας ... τῆς δὲ νυκτός Genitive of the time within which, ‘during the day and during the night’. See GE p. 181, #191 for time phrases.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        445,
+        158,
+        517,
+        893
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "ἐπεὶ τὸν πατέρα ἔμαθεν φιληλιαστὴν ὄντα ‘When he learned that his father was φιληλιαστής’. Verbs of knowing and perceiving are often followed by a participle, ‘learned his father being ...’ The rest of the story will explain why his father's mania was such a bad thing.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        521,
+        158,
+        576,
+        831
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "παύσῃ Can you recognise this? (2nd person singular future indicative middle.)\nπείσῃ Can you recognise this? It comes from πείθω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        581,
+        157,
+        618,
+        835
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "ὁ δὲ πατήρ ‘But his father did not obey him (αὐτῷ) persuading (ἀναπείθοντι) him not to go out.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        621,
+        159,
+        678,
+        876
+      ],
+      "margin_number": 14,
+      "speaker": null,
+      "text": "ἐκορυβάντιζεν We do not know why he enrolled his father as a Korybant. Was it just to take his mind off being a juror, or does Aristophanes say this simply for the ridiculous picture of him sitting in court banging his tambourine?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        683,
+        158,
+        732,
+        893
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "ἐμπεσών What is it? It should be familiar by now! If not see 9A line 17, and learn the principal parts of πίπτω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 14,
+      "bbox": [
+        753,
+        190,
+        766,
+        361
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        777,
+        88,
+        924,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "XANTHIAS",
+      "text": "You will never find [it] out, spectators. Indeed, if you want to know what the illness is that has befallen the father, be silent now. For I shall tell you, being in perplexity, the illness of the old man. He is a lover of being a juror in the court of the Eliaia, like no man. For he is always being a juror and loves the lawcourt, sitting in the lawcourt during the day and dreaming of cases during the night. Indeed, lovers write on a door ‘Demos is beautiful’, but this man, on seeing and approaching, writes alongside near by ‘Kemos (a voting funnel) is beautiful.’ So we are guarding this man, having shut him in with these bars which are",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 129
+}

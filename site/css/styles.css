@@ -522,6 +522,11 @@ select:focus, input:focus {
   color: var(--success);
   border: 1px solid var(--success);
 }
+.tier-badge.tier-lsj {
+  background-color: rgba(47, 93, 124, 0.15);
+  color: var(--aegean);
+  border: 1px solid var(--aegean);
+}
 
 .card-surface {
   font-family: var(--font-greek);
@@ -576,6 +581,71 @@ select:focus, input:focus {
   border-left: 3px solid var(--ochre);
   border-radius: 0 4px 4px 0;
   font-size: 0.85rem;
+}
+
+/* LSJ Lexicon Box */
+.card-lsj-box {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border-color);
+}
+
+.lsj-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.lsj-badge {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--aegean);
+  letter-spacing: 0.02em;
+}
+
+.lsj-external-links {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.lsj-ext-btn {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  color: var(--aegean);
+  text-decoration: none;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.lsj-ext-btn:hover {
+  background-color: var(--aegean);
+  color: #FFFFFF;
+  border-color: var(--aegean);
+}
+
+.lsj-content {
+  max-height: 240px;
+  overflow-y: auto;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  background: var(--bg-main);
+  padding: 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-color);
+}
+
+.lsj-content b {
+  color: var(--terracotta);
+  font-family: var(--font-greek);
+}
+
+.lsj-content i {
+  color: var(--aegean);
+  font-family: var(--font-greek);
 }
 
 /* Figures Stream */
@@ -696,28 +766,81 @@ select:focus, input:focus {
 
 .grammar-table-container {
   overflow-x: auto;
-  margin: 1.5rem 0;
+  margin: 1.75rem 0 2.25rem 0;
+  background: var(--bg-card);
+  border: 2px solid var(--aegean);
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+  padding: 1.25rem 1.5rem;
+}
+
+.grammar-table-container h4 {
+  color: var(--terracotta);
+  font-family: var(--font-sans);
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(181, 83, 47, 0.2);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 table.paradigm-table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   font-family: var(--font-greek);
   font-size: 1.15rem;
+  line-height: 1.5;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: var(--bg-main);
 }
 
 table.paradigm-table th, table.paradigm-table td {
-  border: 1px solid var(--border-color);
-  padding: 0.6rem 1rem;
+  border-right: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.75rem 1rem;
   text-align: left;
+  vertical-align: top;
 }
 
-table.paradigm-table th {
-  background-color: var(--bg-card);
+table.paradigm-table th:last-child, table.paradigm-table td:last-child {
+  border-right: none;
+}
+
+table.paradigm-table tr:last-child td {
+  border-bottom: none;
+}
+
+table.paradigm-table thead th {
+  background-color: rgba(47, 93, 124, 0.12);
   font-family: var(--font-sans);
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: 700;
+  color: var(--aegean);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+table.paradigm-table tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+table.paradigm-table tbody tr:hover {
+  background-color: rgba(181, 83, 47, 0.05);
+}
+
+.table-cell-translation {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
   color: var(--text-muted);
+  font-style: italic;
+  margin-top: 0.25rem;
 }
 
 /* Exercises Tab */

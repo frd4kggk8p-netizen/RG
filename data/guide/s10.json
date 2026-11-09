@@ -1,0 +1,594 @@
+{
+  "section": "10",
+  "notes": [
+    {
+      "line": "6–7",
+      "quoted": "καὶ Κλεονίκη ... κἀμοί",
+      "text": "= καὶ ἐμοί; what does καί mean in both these phrases?",
+      "src": {
+        "book": "guide",
+        "printed_page": "137",
+        "pdf_page": 151
+      }
+    },
+    {
+      "line": "57–58",
+      "quoted": "τί",
+      "text": "πάσχω; τί πείσομαι; Present followed by future.",
+      "src": {
+        "book": "guide",
+        "printed_page": "143",
+        "pdf_page": 157
+      }
+    }
+  ],
+  "translations": [
+    {
+      "passage": "10A",
+      "text": "Translation for 10A",
+      "src": {
+        "book": "guide",
+        "printed_page": "138",
+        "pdf_page": 152
+      }
+    },
+    {
+      "passage": "10A",
+      "text": "Translation for 10B",
+      "src": {
+        "book": "guide",
+        "printed_page": "139",
+        "pdf_page": 153
+      }
+    },
+    {
+      "passage": "10A",
+      "text": "Translation for 10C",
+      "src": {
+        "book": "guide",
+        "printed_page": "140",
+        "pdf_page": 154
+      }
+    },
+    {
+      "passage": "10A",
+      "text": "Translation for 10D",
+      "src": {
+        "book": "guide",
+        "printed_page": "142",
+        "pdf_page": 156
+      }
+    },
+    {
+      "passage": "10A",
+      "text": "Translation for 10E",
+      "src": {
+        "book": "guide",
+        "printed_page": "143",
+        "pdf_page": 157
+      }
+    }
+  ],
+  "answers": [
+    {
+      "exercise_id": "10:1",
+      "item": "1.",
+      "answer": "he saved",
+      "src": {
+        "book": "guide",
+        "printed_page": "144",
+        "pdf_page": 158
+      }
+    },
+    {
+      "exercise_id": "10:1",
+      "item": "2.",
+      "answer": "they make/do",
+      "src": {
+        "book": "guide",
+        "printed_page": "144",
+        "pdf_page": 158
+      }
+    },
+    {
+      "exercise_id": "10:1",
+      "item": "3.",
+      "answer": "they refrained from",
+      "src": {
+        "book": "guide",
+        "printed_page": "144",
+        "pdf_page": 158
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "4.",
+      "answer": "he finishes / καταλύοι, καταλύσειεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "5.",
+      "answer": "we lived together / συνοικοῖμεν, συνοικήσαιμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "6.",
+      "answer": "I voted / ψηφιζοίμην, ψηφισαίμην",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "7.",
+      "answer": "we cease / παυοίμεθα, παυσαίμεθα",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "8.",
+      "answer": "you compelled / ἀναγκάζοις, ἀναγκάσειας",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "9.",
+      "answer": "he blamed / μέμφοιτο, μέμψαιτο",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "10.",
+      "answer": "I flee / φεύγοιμι, φύγοιμι",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "1.",
+      "answer": "you were giving / give!",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "2.",
+      "answer": "he/she gives / giving (f.s. pres. participle)",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "3.",
+      "answer": "he/she gave / you (s.) will give",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "4.",
+      "answer": "to give (aor.) / to give (pres.)",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "5.",
+      "answer": "giving (m. s. pres. part.) / they were giving",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "1.",
+      "answer": "ἔδοτο / δώσομαι",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "2.",
+      "answer": "δώσεται / δούς",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "3.",
+      "answer": "δοίη / δώσετε",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "4.",
+      "answer": "δώσουσι / δοῖτο",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "5.",
+      "answer": "δότε, ἔδοτε / δώσεισθαι",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "1.",
+      "answer": "τοὺς ἀμελεῖς, γλυκεῖς φύλακας / ἀληθεῖς, βραχεῖς",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "2.",
+      "answer": "τῆς ἀμελοῦς, γλυκείας μητρός / ἀληθοῦς, βραχείας",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "3.",
+      "answer": "τὰ ἀμελῆ, γλυκέα παιδία / ἀληθῆ, βραχέα",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "4.",
+      "answer": "τοῖς ἀμελέσι, γλυκέσιν ἀμφοτέροις / ἀληθέσι, βραχέσι",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "5.",
+      "answer": "οἱ ἀμελεῖς, γλυκεῖς μάρτυρες / ἀληθεῖς, βραχεῖς",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "6.",
+      "answer": "τῶν ἀμελῶν, γλυκέων υἱέων / ἀληθῶν, βραχέων",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "1.",
+      "answer": "who / ὅς, ὅστις",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "2.",
+      "answer": "whom / οὗς, οὕστινας",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "3.",
+      "answer": "whose / ἧς, ἧστινος",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "4.",
+      "answer": "to whom / οἷς, οἷς τισι(ν)",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "5.",
+      "answer": "whom / ἅς, ἅστινας",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "6.",
+      "answer": "who / οἱ, οἵτινες",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "7.",
+      "answer": "(those) whom / οὓς, οὓστινας, ἅς, ἅστινας, ἅ, ἅττα",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "10.1-10.5",
+      "item": "8.",
+      "answer": "whose / ὧν, ὧντινων, ὅτων",
+      "src": {
+        "book": "guide",
+        "printed_page": "145",
+        "pdf_page": 159
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "a",
+      "answer": "You could speak to me. προσαγορεύσαις",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "b",
+      "answer": "I would gladly give up the war. παυσαίμην",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "c",
+      "answer": "We should like to make a truce with great eagerness. ἐθελήσαιμεν",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "d",
+      "answer": "I could not do this, Mother. ποιήσαιμι",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "e",
+      "answer": "I could see the city. ἴδοιμι",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "a",
+      "answer": "Will you give me what you have? δώσεις",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "b",
+      "answer": "He was giving the money to the woman. ἐδίδου",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "c",
+      "answer": "Why are you not willing to give me what I ask for? διδόναι",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "d",
+      "answer": "Why are you giving me this apple, Myrrhine? δίδως",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "2",
+      "item": "e",
+      "answer": "Suddenly giving (aorist participle) the woman the money which she demanded, the man went away. δούς",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "a",
+      "answer": "Kinesias is the husband of Myrrhine. Kinesias goes to the Acropolis. Κινησίας, ὃς ἀνήρ ἐστι Μυρρίνης, βαδίζει πρὸς τὴν ἀκρόπολιν.",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "b",
+      "answer": "The women are on the Acropolis. The women are shouting. αἱ γυναῖκες, αἵ εἰσιν ἐν τῇ ἀκροπόλει, βοῶσιν.",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "3",
+      "item": "c",
+      "answer": "The men are fighting the battles. The men do not in any way want to end the war.",
+      "src": {
+        "book": "guide",
+        "printed_page": "146",
+        "pdf_page": 160
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "1",
+      "answer": "ἆρα αἱ γυναῖκες ἀφέξονται τῶν δώρων ἃ οἱ ἄνδρες δώσουσιν αὐταῖς;",
+      "src": {
+        "book": "guide",
+        "printed_page": "147",
+        "pdf_page": 161
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "2",
+      "answer": "οὗτοι οἱ φύλακες, ἀμελεῖς ὄντες, οὐδεμία σπουδῇ φυλάττουσιν.",
+      "src": {
+        "book": "guide",
+        "printed_page": "147",
+        "pdf_page": 161
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "3",
+      "answer": "αἱ γρᾶες μηχανὴν μηχανῶνται ἣπερ τὰ τείχη λήψονται.",
+      "src": {
+        "book": "guide",
+        "printed_page": "147",
+        "pdf_page": 161
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "4",
+      "answer": "δοκεῖ ἡμῖν, αἱ γυναῖκες ἐσμεν (γυναιξὶν οὖσαι), καταλῦσαι τὸν πόλεμον.",
+      "src": {
+        "book": "guide",
+        "printed_page": "147",
+        "pdf_page": 161
+      }
+    },
+    {
+      "exercise_id": "1",
+      "item": "5",
+      "answer": "ἆρ' οὐδεὶς ἀναγκάσει τοὺς ἄνδρας παύεσθαι τοῦ πολέμου;",
+      "src": {
+        "book": "guide",
+        "printed_page": "147",
+        "pdf_page": 161
+      }
+    }
+  ]
+}

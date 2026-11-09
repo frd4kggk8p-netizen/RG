@@ -1,0 +1,1148 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "104",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        223,
+        222,
+        274,
+        275
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 2,
+      "bbox": [
+        108,
+        127,
+        121,
+        580
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In World of Athens: Kleon 1.58–9, 63, 67, 6.17, 6.41.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        144,
+        127,
+        157,
+        545
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛΥΚΛΕΩΝ",
+      "text": "(βοᾷ τοῖς ⌢ δούλοις ἀπὸ τοῦ τέγους)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        161,
+        222,
+        175,
+        493
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὦ Ξανθία καὶ Σωσία, καθεύδετε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        179,
+        127,
+        191,
+        332
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "οἴμοι, τάλας.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        196,
+        127,
+        209,
+        258
+      ],
+      "margin_number": null,
+      "speaker": "Σ.",
+      "text": "τί ἐστιν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        214,
+        127,
+        227,
+        903
+      ],
+      "margin_number": 5,
+      "speaker": "Ξ.",
+      "text": "ὁ δεσπότης οὐκέτι καθεύδει ἀλλ' ἀνίσταται ἤδη καὶ βοῇ χρῆται.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        232,
+        127,
+        245,
+        396
+      ],
+      "margin_number": null,
+      "speaker": "Σ.",
+      "text": "ἀλλὰ τίσι λέγει ὁ ἀνήρ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        249,
+        127,
+        281,
+        793
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "λέγει τι ἡμῖν ὁ Βδελυκλέων, ὡς ἐμοὶ δοκεῖ. καὶ ἡμῖν ⌢ καθεύδουσιν\nἐντυχὼν ἀπολεῖ ὁ δεσπότης.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        286,
+        127,
+        298,
+        927
+      ],
+      "margin_number": null,
+      "speaker": "Σ.",
+      "text": "κἀμοὶ δοκεῖ λέγειν τι, Ξανθία. ἀλλὰ τί βουλόμενος ἀνίστασαι, ὦ δέσποτα;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        303,
+        127,
+        316,
+        398
+      ],
+      "margin_number": 10,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(pointing inside the house)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        321,
+        222,
+        370,
+        896
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅ τι; λόγῳ μὲν ὁ πατὴρ ἡσυχάζει, Σωσία, ἔργῳ δὲ βούλεται ἐξιέναι. καὶ\nἀεὶ τόλμῃ χρῆται ὁ πατὴρ ἐξιέναι βουλόμενος. νῦν δέ, ὡς ἔμοιγε δοκεῖ,\nὁ πατὴρ εἰς τὸν ἰπνὸν εἰσελθὼν ὀπήν τινα ζητεῖ πολλῇ ⌢ σπουδῇ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        375,
+        222,
+        388,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(looking at the chimney)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        392,
+        222,
+        405,
+        532
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "ἄναξ Πόσειδον, τί ποτ' ἆρ' ἡ κάπνη ψοφεῖ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        410,
+        127,
+        422,
+        452
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐκ τῆς κάπνης ἐξέρχεται ὁ Φιλοκλέων)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        427,
+        222,
+        440,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὗτος τίς εἶ σύ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        444,
+        127,
+        457,
+        477
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛΟΚΛΕΩΝ",
+      "text": "(emerging from the chimney)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        462,
+        222,
+        474,
+        439
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καπνὸς ἔγωγ᾽ ἐξέρχομαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        478,
+        127,
+        510,
+        807
+      ],
+      "margin_number": 20,
+      "speaker": "ΒΔΕΛ.",
+      "text": "καπνός; ἀλλὰ καπνῷ ⌢ μὲν ᾽ἐξιόντι οὐχ ὅμοιος εἶ, ὡς ἔμοιγε δοκεῖ,\nΦιλοκλέωνι δ᾽ ὁμοιότερος. τί δέ σοι δοκεῖ, Ξανθία;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        515,
+        127,
+        528,
+        762
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "οὐδενὶ ὁμοιότερος εἶναί μοι δοκεῖ ἢ τῷ ͵Φιλοκλέωνι, ὦ δέσποτα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        533,
+        127,
+        545,
+        431
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "(puts the cover back on the chimney)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        550,
+        222,
+        563,
+        530
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθά νυν ζήτει τιν᾽ ἄλλην μηχανήν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 23,
+      "bbox": [
+        603,
+        222,
+        616,
+        471
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        643,
+        127,
+        656,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄναξ (ἀνακτ-), ὁ lord (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        661,
+        127,
+        674,
+        383
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βο-ῇ a shout (after χρῆται)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        678,
+        127,
+        691,
+        233
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐμ-οὶ to me",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        695,
+        127,
+        709,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔμ-οιγε to me at least",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        713,
+        127,
+        726,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα (from) here",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        730,
+        127,
+        743,
+        319
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐν-τυγχαν-ω (ἐν-τυχ-) meet,\nchance upon",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        753,
+        127,
+        766,
+        359
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔργ-ῳ in fact, indeed (i.e. actually)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        770,
+        127,
+        783,
+        219
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡμ-ῖν to us",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        787,
+        127,
+        814,
+        357
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡμ-ῖν καθεύδ-ουσιν us sleeping\n(after ἐντυχών)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        818,
+        127,
+        831,
+        267
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἰπν-ός, ὁ oven (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        835,
+        127,
+        848,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κάπν-η, ἡ chimney (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        852,
+        127,
+        878,
+        332
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καπν-ῷ . . . ἐξ-ιόντ-ι smoke\ncoming out (after ὅμοιος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        643,
+        396,
+        656,
+        540
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καπν-ός, ὁ smoke (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        661,
+        396,
+        686,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λόγ-ῳ in word (i.e.\nsupposedly)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        695,
+        396,
+        709,
+        627
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηχαν-ή, ἡ device, scheme (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        713,
+        396,
+        726,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μοι to me",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        730,
+        396,
+        743,
+        530
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅμοι-ος -α -ον like",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        747,
+        396,
+        760,
+        502
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὀπ-ή, ἡ hole (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        764,
+        396,
+        777,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅ τι what?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        781,
+        396,
+        794,
+        547
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὐδεν-ὶ no one (after",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        798,
+        396,
+        811,
+        507
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁμοιότερος)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        815,
+        396,
+        842,
+        611
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πολλ-ῇ σπουδ-ῇ with much\nurgency (i.e. very urgently)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        846,
+        396,
+        859,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σοί to you (s.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        863,
+        396,
+        876,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τάλας wretched (me)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        880,
+        396,
+        893,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τέγ-ος, τό roof (3c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        643,
+        663,
+        656,
+        792
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίσι; to whom? (pl.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        661,
+        663,
+        674,
+        851
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τοῖς δούλ-οις to the slaves",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        678,
+        663,
+        703,
+        851
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τόλμ-ῃ brazenness (after\nχρῆται)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        707,
+        663,
+        734,
+        870
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῷ Φιλο-κλέων-ι Philokleon\n(after ὁμοιότερος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        738,
+        663,
+        765,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Φιλο-κλέων-ι Philokleon (after\nὅμοιος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        769,
+        663,
+        796,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "χρά-ομαι use, employ (3rd s.\nχρῆται)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 55,
+      "bbox": [
+        800,
+        663,
+        813,
+        818
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ψοφέ-ω make a noise",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 56,
+      "bbox": [
+        834,
+        661,
+        846,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        852,
+        661,
+        880,
+        876
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄναξ (ἀνακτ-), ὁ prince, lord,\nking (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 134
+}

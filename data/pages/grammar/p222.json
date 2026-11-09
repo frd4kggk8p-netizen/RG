@@ -1,0 +1,188 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "204",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        210,
+        87,
+        818,
+        146
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 9H-J\nCONTINUED",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        210,
+        153,
+        400,
+        170
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὕστερον",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        522,
+        153,
+        715,
+        170
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "later, further (adverb)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        210,
+        173,
+        392,
+        187
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑφαιρέομαι (ὑφελ-)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        522,
+        173,
+        805,
+        187
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "steal, take for oneself by stealth",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        210,
+        192,
+        338,
+        207
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φεύγω (φυγ-)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        522,
+        192,
+        798,
+        207
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "be a defendant, be on trial; flee",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        210,
+        211,
+        297,
+        228
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ψῆφος, ἡ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        522,
+        211,
+        738,
+        228
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "vote, voting-pebble (2a)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 222
+}

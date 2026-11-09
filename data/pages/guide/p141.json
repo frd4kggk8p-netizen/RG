@@ -1,0 +1,260 @@
+{
+  "running_head": "Section 9H",
+  "folio": "127",
+  "blocks": [
+    {
+      "type": "exercise",
+      "order": 1,
+      "bbox": [
+        211,
+        74,
+        467,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": null,
+        "items": [
+          {
+            "n": "7.",
+            "prompt": "go (s., pres) \t 9. look (s., aor.)"
+          },
+          {
+            "n": "8.",
+            "prompt": "be afraid (pl., pres) \t 10. cease (s., aor)"
+          },
+          {
+            "n": "3.",
+            "prompt": "1. I want to be a juror in the house, but my son does not allow me to be a\njuror here.   δικάσαι δικάζειν"
+          },
+          {
+            "n": "2.",
+            "prompt": "We must all go out into the market-place.   ἐξιέναι"
+          },
+          {
+            "n": "3.",
+            "prompt": "What must you do?   ποιῆσαι"
+          },
+          {
+            "n": "4.",
+            "prompt": "It is permissible for Philokleon to prosecute.   κατηγορεῖν"
+          },
+          {
+            "n": "5.",
+            "prompt": "The son did not allow his father to go out to the lawcourt.   ἐλθεῖν"
+          },
+          {
+            "n": "6.",
+            "prompt": "How shall I persuade you, father, to listen to all the\nspeeches?   ἀκοῦσαι"
+          },
+          {
+            "n": "7.",
+            "prompt": "Why aren't you willing to bring out Philokleon, mule?\nἐξενεγκεῖν"
+          },
+          {
+            "n": "8.",
+            "prompt": "You (s.) must become a juror in the house.   γενέσθαι"
+          },
+          {
+            "n": "9.",
+            "prompt": "They must learn the words of the play.   μαθεῖν"
+          },
+          {
+            "n": "10.",
+            "prompt": "He himself wants to keep taking the whole fee from his\nson.   λαμβάνειν"
+          },
+          {
+            "n": "11.",
+            "prompt": "I shall not allow him to reach the lawcourt.   ἀφικνεῖσθαι"
+          },
+          {
+            "n": "12.",
+            "prompt": "It is possible for me both to take the whole reward here and eat\nit.   λαβεῖν, φαγεῖν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        486,
+        191,
+        510,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D – ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        521,
+        191,
+        668,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "General, we must stay here and fight.\nὦ πάτερ, δεῖ σε μένειν ἐνθάδε και δικάζειν."
+          },
+          {
+            "n": "2.",
+            "prompt": "It is possible for me to listen to the orators.\nἐξέσται πᾶσιν ὑμῖν πωλεῖν τοὺς ἡμιόνους."
+          },
+          {
+            "n": "3.",
+            "prompt": "I learn many things, but I do not understand everything.\nπάντα πάρεστιν ἐνθάδε πλὴν τοῦ πυρός."
+          },
+          {
+            "n": "4.",
+            "prompt": "Look at the ships, boys/slaves.\nἐξενέγκετε τὰ πυρά/τάς λαμπάδας, ὦ παῖδες."
+          },
+          {
+            "n": "5.",
+            "prompt": "‘Tell me, what did you want when you knocked on the door?’ ‘What did I\nwant? The master.’\n‘εἰπέ μοι, τί βουλόμενος ἐξέδραμες;’ ‘ὅ τι; τὰ πάντα.’"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        725,
+        191,
+        755,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        764,
+        191,
+        808,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This section introduces the 3rd person of the imperative, which we have to translate as ‘let him/her ...’ or as ‘let them ...’ See GE pp. 197–199, #206–207 for the full paradigm.",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        814,
+        218,
+        829,
+        783
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The 3rd person endings of the imperative are easy to recognise:",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "bbox": [
+        841,
+        185,
+        922,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            null,
+            "Active",
+            null,
+            "Middle",
+            null
+          ]
+        ],
+        "rows": [
+          [
+            "Singular",
+            "-έτω",
+            "-άτω",
+            "-έσθω",
+            "-άσθω"
+          ],
+          [
+            "Plural",
+            "-όντων",
+            "-άντων",
+            "-έσθων",
+            "-άσθων"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 141
+}

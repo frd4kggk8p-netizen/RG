@@ -1,0 +1,168 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "190",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        197,
+        96,
+        839,
+        242
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Active (-ε, -ετε)\n2s. λάβ-ε ‘take!’\n2pl. λάβ-ετε ‘take!’\nMiddle (-ου, -εσθε)\n2s. λάβ-οῦ ‘take!’\n2pl. λάβ-εσθε ‘take!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        194,
+        217,
+        268,
+        256
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        194,
+        269,
+        891,
+        286
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "As with second aorist participles (169–70) and second aorist infinitives (196):",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        92,
+        300,
+        915,
+        363
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• The endings of the second aorist imperatives are identical to those of present\n  imperatives, but based on the aorist stem.\n• Observe too that you have already been meeting second aorist imperatives",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        224,
+        392,
+        856,
+        455
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλθέ ‘come!’ (ἦλθον, ‘I came’, from ἔρχομαι)\nεἰπέ ‘say!’ (εἶπον, ‘I said’, from λέγω)\nἰδού ‘look!’ (εἶδον, ‘I saw’, from ὁράω: unusually, the aorist\nimperative is middle)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        193,
+        480,
+        915,
+        500
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ASPECT IN THE IMPERATIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        193,
+        510,
+        915,
+        645
+      ],
+      "margin_number": 200,
+      "speaker": null,
+      "text": "200. Again, the distinction between present and aorist imperatives is one not of\ntime but of aspect (197); and again, it is sometimes very difficult indeed\nto tell the precise difference in nuance between the two, or to decide\nexactly why a writer used this, rather than that, imperative at any one time.\nAristophanes, for example, seems to use φέρε and ἔνεγκε, ‘bring!’, quite\nindiscriminately.",
+      "lang": "mixed",
+      "para_no": 200,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        92,
+        642,
+        915,
+        929
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• The distinction, when it can be made, is between an instruction to do\n  something and keep on doing it (present imperative), and one to do\n  something, but just once (aorist imperative).\n• Key to this distinction, you will remember, is that the action of a present\n  (‘imperfective’) imperative is capable of being broken off, whereas an\n  aorist action is not.\n• So when I use the present imperative ἄκουε, ‘listen!’, I am telling you\n  to listen to me and to keep listening: I do not envisage the activity\n  having any specific end-point.\n• When I use the aorist, ἄκουσον, on the other hand, I am telling you to\n  listen until I have said what I have to say – I am envisaging the action as\n  an indivisible unit of activity with a specific end-point.\n• It is natural that certain verbs have, by their very nature, a tendency to\n  lean towards one aspect or the other. Thus, for example, λαμβάνω, ‘I",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 208
+}

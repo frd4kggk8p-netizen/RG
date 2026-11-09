@@ -1,0 +1,1228 @@
+{
+  "running_head": "Section Ten A–E: Aristophanes' Lysistrata",
+  "folio": "125",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        193,
+        79,
+        749,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σὺ δ’ ἐμὲ τούτῳ μὴ κάλει, Λυσιστράτη. οὐ γὰρ βούλομαι καταβῆναι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        115,
+        79,
+        131,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΚΙΝ.",
+      "text": "ὦ Μυρρινίδιον, τί ταῦτα δρᾷς; καταβᾶσα πάσῃ σπουδῇ δεῦρ’ ἐλθέ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        136,
+        79,
+        151,
+        874
+      ],
+      "margin_number": 45,
+      "speaker": "ΜΥ.",
+      "text": "μὰ Δί’ ἐγὼ μὲν οὔ. ἀλλ’ ἄπειμι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        157,
+        79,
+        172,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΚΙΝ.",
+      "text": "μὴ δῆτ’ ἄπιθι, ἀλλὰ τῷ γοῦν παιδίῳ ὑπάκουσον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 5,
+      "bbox": [
+        178,
+        79,
+        219,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(τῷ παιδίῳ λέγει, ὃ θεράπων τις φέρει)\nοὗτος, οὐ καλεῖς τὴν μαμμίαν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        224,
+        79,
+        239,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΠΑΙΔΙΟΝ",
+      "text": "μαμμία μαμμία μαμμία.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        245,
+        79,
+        260,
+        874
+      ],
+      "margin_number": 50,
+      "speaker": "ΚΙΝ.",
+      "text": "αὕτη, τί πάσχεις; ἆρ’ οὐκ οἰκτείρεις τὸ παιδίον, ὃ ἄλουτον ὂν τυγχάνει;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        266,
+        79,
+        281,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ἔγωγe οἰκτίρω δῆτα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        286,
+        79,
+        301,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΚΙΝ.",
+      "text": "κατάβηθι οὖν, ὦ δαιμονία, τοῦ παιδίου ἕνεκα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        307,
+        79,
+        321,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "(sighing)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        326,
+        79,
+        342,
+        874
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἷον τὸ τεκεῖν. χρὴ καταβῆναι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        363,
+        193,
+        377,
+        401
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Ten C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        402,
+        79,
+        417,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄ-λουτ-ος -ον unwashed",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        422,
+        79,
+        452,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἂν διδ-οίην I would like to give\n(δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        457,
+        79,
+        470,
+        206
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "γοῦν at any rate",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        476,
+        79,
+        489,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δαιμονί-α my dear lady",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        495,
+        79,
+        508,
+        240
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διὰ στόμα on her lips",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        514,
+        79,
+        527,
+        299
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "διδό-ναι to give (δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        533,
+        79,
+        546,
+        219
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δίδω-μι I give, offer",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        552,
+        79,
+        565,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δώσ-ω I shall give (δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        570,
+        79,
+        601,
+        219
+      ],
+      "margin_number": null,
+      "speaker": "vocab_entry",
+      "text": "δώσ-εις you (s.) will give\n(δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        606,
+        79,
+        637,
+        259
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δώσ-ουσι they will grant\n(δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        642,
+        79,
+        674,
+        259
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-δο-σαν they granted\n(δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        679,
+        79,
+        693,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δό-τε grant! (pl.) (δίδω-μι/δο-)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        699,
+        79,
+        712,
+        313
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δυσ-τυχ-ῆ unlucky (acc. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        718,
+        79,
+        731,
+        201
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εἶεν very well",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        737,
+        79,
+        750,
+        235
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκ-καλέ-ω call out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        756,
+        79,
+        769,
+        271
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐκποδών out of the way",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        774,
+        79,
+        789,
+        222
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὖ γε hurrah! good!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        402,
+        381,
+        417,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἣ who (nom. s. f.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        422,
+        381,
+        452,
+        602
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θεράπων (θεραποντ-), ὁ slave,\nservant (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        457,
+        381,
+        470,
+        526
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καὶ μὴν look!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        476,
+        381,
+        517,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καλ-ῶ I shall call (fut. of\nκαλέ-ω; ἐ-ω contr.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        522,
+        381,
+        536,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μαμμί-α, ἡ mummy (1b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 35,
+      "bbox": [
+        542,
+        381,
+        555,
+        538
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μῆλ-ον, τό apple (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 36,
+      "bbox": [
+        561,
+        381,
+        574,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Μυρρινίδιον Myrrhine baby",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 37,
+      "bbox": [
+        579,
+        381,
+        610,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὃ which (acc. s. n.); which (nom.\ns. n.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 38,
+      "bbox": [
+        615,
+        381,
+        628,
+        556
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἷ-ος-α-ον what sort of a!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 39,
+      "bbox": [
+        634,
+        381,
+        647,
+        545
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἷς to whom (dat. pl. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 40,
+      "bbox": [
+        653,
+        381,
+        683,
+        603
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὅπερ what indeed, the very thing\nwhich (acc. s. n.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 41,
+      "bbox": [
+        689,
+        381,
+        702,
+        511
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὃς who (nom. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 42,
+      "bbox": [
+        708,
+        381,
+        721,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Παιονίδ-ης, ὁ of the deme",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 43,
+      "bbox": [
+        727,
+        396,
+        756,
+        567
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Paionis (1d) (comic name\nimplying sexual prowess)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 44,
+      "bbox": [
+        762,
+        381,
+        775,
+        549
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσ-αγορεύ-ω address",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 45,
+      "bbox": [
+        780,
+        381,
+        794,
+        536
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπασμ-ός, ὁ agony (2a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 46,
+      "bbox": [
+        402,
+        632,
+        417,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπουδ-ή, ἡ haste (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 47,
+      "bbox": [
+        422,
+        632,
+        436,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τεῖχ-ος, τό wall (of a city) (3c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 48,
+      "bbox": [
+        442,
+        632,
+        473,
+        826
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τὸ τεκ-εῖν to be a mother,\nmotherhood (τίκτ-ω/",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 49,
+      "bbox": [
+        478,
+        648,
+        492,
+        720
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔ-τεκ-ον)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 50,
+      "bbox": [
+        497,
+        632,
+        511,
+        848
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὑπ-ακού-ω obey, listen to (+dat.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 51,
+      "bbox": [
+        517,
+        632,
+        547,
+        786
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φίλτατ-ος -η -ον dearest\n(φίλ-ος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 52,
+      "bbox": [
+        552,
+        632,
+        566,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φύλαξ (φυλακ-), ὁ, ἡ guard (3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 53,
+      "bbox": [
+        572,
+        632,
+        585,
+        835
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ᾧ with/to whom (dat. s. m.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 54,
+      "bbox": [
+        591,
+        632,
+        604,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὡς since, because",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 55,
+      "bbox": [
+        543,
+        632,
+        556,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary to be learnt",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 56,
+      "bbox": [
+        561,
+        632,
+        574,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἷος ᾱ ον what a! what sort of a!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 57,
+      "bbox": [
+        580,
+        632,
+        593,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσαγορεύω address, speak to",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 58,
+      "bbox": [
+        598,
+        632,
+        627,
+        768
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σπουδή, ἡ haste, zeal,\nseriousness (1a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 59,
+      "bbox": [
+        633,
+        632,
+        646,
+        846
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τεῖχος, τό wall (of a city) (3c)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 60,
+      "bbox": [
+        651,
+        632,
+        665,
+        868
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φίλτατος η ον most dear (φίλος)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 61,
+      "bbox": [
+        671,
+        632,
+        700,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "φύλαξ (φυλακ-), ὁ, ἡ guard\n(3a)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 155
+}

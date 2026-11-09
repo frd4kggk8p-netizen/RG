@@ -1,0 +1,588 @@
+{
+  "running_head": "Section 10E",
+  "folio": "143",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        190,
+        85,
+        237,
+        239
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        193,
+        192,
+        211,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 127",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        219,
+        158,
+        233,
+        755
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "προσκεφάλαιον How does this word come to mean ‘pillow’?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        263,
+        192,
+        278,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 128",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        287,
+        158,
+        303,
+        412
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "ἀνίστασο ‘stand up’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        310,
+        158,
+        339,
+        903
+      ],
+      "margin_number": 19,
+      "speaker": null,
+      "text": "Literally ‘Now I have all things, as many as I need’ (δέομαι takes the genitive), i.e. ‘Now I’ve got everything I want.’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        346,
+        158,
+        375,
+        898
+      ],
+      "margin_number": 32,
+      "speaker": null,
+      "text": "ἀμέλει This is, strictly speaking, an imperative of ἀμελέω, so ‘Never mind’, but it comes to be used as if it were an adverb: ‘of course’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        381,
+        190,
+        410,
+        895
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ταχύ The neuter (singular or plural) of the adjective is often used in place of the adverb, ‘quickly’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        417,
+        158,
+        432,
+        656
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": "ἡ ἄνθρωπος This is a derogatory expression here.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        476,
+        192,
+        492,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 129",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        500,
+        158,
+        514,
+        423
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": "μυριῶ Future of μυρίζω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        521,
+        158,
+        550,
+        901
+      ],
+      "margin_number": 46,
+      "speaker": null,
+      "text": "διατριβῆς ‘delay’. The verb διατρίβω means ‘I wear away something’, hence ‘I spend time’, ‘waste time’ and thus ‘delay’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        557,
+        158,
+        586,
+        789
+      ],
+      "margin_number": 50,
+      "speaker": null,
+      "text": "ἔα From ἐάω ‘I allow’ or ‘let pass’. Perhaps translate ‘Forget it!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        592,
+        190,
+        622,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κάκιστ’ ἀπόλοιτο There is no ἄν with this optative, so it must express a wish. ‘May he perish most wretchedly, who first ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        629,
+        158,
+        658,
+        882
+      ],
+      "margin_number": 52,
+      "speaker": null,
+      "text": "νὴ τὴν Ἄρτεμιν An ominous change of oath from the goddess of love to the virgin huntress, goddess of chastity.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        664,
+        158,
+        694,
+        915
+      ],
+      "margin_number": 53,
+      "speaker": null,
+      "text": "ψηφιεῖ From ψηφίζομαι. You should now be able to recognise the tense, and ὦ φίλτατε should help you to recognise the person.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        701,
+        158,
+        715,
+        513
+      ],
+      "margin_number": 55,
+      "speaker": null,
+      "text": "ψηφιοῦμαι See above.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        721,
+        122,
+        736,
+        680
+      ],
+      "margin_number": 57,
+      "speaker": null,
+      "text": "57–58 τί πάσχω; τί πείσομαι; Present followed by future.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 19,
+      "bbox": [
+        763,
+        191,
+        779,
+        369
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 10E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        784,
+        190,
+        799,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Myrrhine returns bringing a little couch.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        804,
+        88,
+        819,
+        703
+      ],
+      "margin_number": null,
+      "speaker": "MYRRHINE",
+      "text": "Look, I’m undressing. And yet I must bring a mattress.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        824,
+        88,
+        839,
+        860
+      ],
+      "margin_number": null,
+      "speaker": "KINESIAS",
+      "text": "What kind of mattress? Don’t bother just for me. Let me kiss you instead.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        844,
+        88,
+        858,
+        246
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "There.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 24,
+      "bbox": [
+        863,
+        190,
+        893,
+        870
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(After kissing her husband she goes out again. She comes back very quickly bringing a mattress.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        898,
+        190,
+        928,
+        881
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Look, a mattress. Why don’t you lie down? And indeed I’m undressing. And yet you don’t have a pillow.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        933,
+        88,
+        948,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "But I don’t need one.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        953,
+        88,
+        967,
+        410
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Zeus, but I need one.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 28,
+      "bbox": [
+        972,
+        190,
+        987,
+        658
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(She goes out again. She returns bringing a pillow.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        992,
+        190,
+        1007,
+        365
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Stand up, jump up.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 157
+}

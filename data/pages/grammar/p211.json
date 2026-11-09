@@ -1,0 +1,358 @@
+{
+  "running_head": "Grammar for Section 9F–G",
+  "folio": "193",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        187,
+        187,
+        137,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "No change\nἡ νύξ (νυκτ-) ὦ νύξ ‘O night’\nὁ Ἕλλην (Ἕλλην-) ὦ Ἕλλην ‘O Greek’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        185,
+        186,
+        198,
+        307
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        210,
+        186,
+        329,
+        781
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F–G: 4. Say whether the following forms are nom., voc., or both:\n1. δοῦλε\n5. Σώκρατες\n9. γέρον\n2. γυναῖκες\n6. βασιλῆς\n10. φίλε\n3. πρέσβυς\n7. ναύτης\n11. δέσποτα\n4. θεά\n8. βάρβαροι\n12. παῖ",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G-4",
+        "instruction": "Say whether the following forms are nom., voc., or both:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "δοῦλε"
+          },
+          {
+            "n": "2",
+            "prompt": "γυναῖκες"
+          },
+          {
+            "n": "3",
+            "prompt": "πρέσβυς"
+          },
+          {
+            "n": "4",
+            "prompt": "θεά"
+          },
+          {
+            "n": "5",
+            "prompt": "Σώκρατες"
+          },
+          {
+            "n": "6",
+            "prompt": "βασιλῆς"
+          },
+          {
+            "n": "7",
+            "prompt": "ναύτης"
+          },
+          {
+            "n": "8",
+            "prompt": "βάρβαροι"
+          },
+          {
+            "n": "9",
+            "prompt": "γέρον"
+          },
+          {
+            "n": "10",
+            "prompt": "φίλε"
+          },
+          {
+            "n": "11",
+            "prompt": "δέσποτα"
+          },
+          {
+            "n": "12",
+            "prompt": "παῖ"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        326,
+        187,
+        350,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶς παντ- ‘ALL, WHOLE, EVERY’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        361,
+        187,
+        393,
+        907
+      ],
+      "margin_number": 205,
+      "speaker": null,
+      "text": "The adjective πᾶς declines like an aorist active participle of the παύσας type (163):",
+      "lang": "mixed",
+      "para_no": 205,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        403,
+        187,
+        701,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶς, πᾶσα, πᾶν (παντ-) ‘all, whole, every’\ns.\nm. f. n.\nNom. πᾶς πᾶσ-α πᾶν\nAcc. πάντ-α πᾶσ-αν πᾶν\nGen. παντ-ός πάσ-ης παντ-ός\nDat. παντ-ί πάσ-ῃ παντ-ί\npl.\nm. f. n.\nNom. πάντ-ες πᾶσ-αι πάντ-α\nAcc. πάντ-ας πάσ-ᾱς πάντ-α\nGen. πάντ-ων πασ-ῶν πάντ-ων\nDat. πᾶσι(ν) πάσ-αις πᾶσι(ν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "s.",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ]
+        ],
+        "rows": [
+          [
+            "Nom.",
+            "πᾶς",
+            "πᾶσ-α",
+            "πᾶν"
+          ],
+          [
+            "Acc.",
+            "πάντ-α",
+            "πᾶσ-αν",
+            "πᾶν"
+          ],
+          [
+            "Gen.",
+            "παντ-ός",
+            "πάσ-ης",
+            "παντ-ός"
+          ],
+          [
+            "Dat.",
+            "παντ-ί",
+            "πάσ-ῃ",
+            "παντ-ί"
+          ],
+          [
+            "pl.",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "m.",
+            "f.",
+            "n."
+          ],
+          [
+            "Nom.",
+            "πάντ-ες",
+            "πᾶσ-αι",
+            "πάντ-α"
+          ],
+          [
+            "Acc.",
+            "πάντ-ας",
+            "πάσ-ᾱς",
+            "πάντ-α"
+          ],
+          [
+            "Gen.",
+            "πάντ-ων",
+            "πασ-ῶν",
+            "πάντ-ων"
+          ],
+          [
+            "Dat.",
+            "πᾶσι(ν)",
+            "πάσ-αις",
+            "πᾶσι(ν)"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        725,
+        187,
+        737,
+        237
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Usage",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        746,
+        187,
+        761,
+        788
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) When used with the definite article, πᾶς means ‘all’ or ‘whole’:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        774,
+        251,
+        826,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶσα ἡ πόλις ‘All the city’\nδιῆλθέ μοι τὸν πάντα λόγον ‘He related the whole story to me’\nπάντες οἱ πολῖται ‘All the citizens’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        841,
+        187,
+        856,
+        568
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) Without the article, πᾶς means ‘every’:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        869,
+        251,
+        903,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶς πολίτης ‘Every citizen’\nπᾶς τις ‘Everyone’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 211
+}

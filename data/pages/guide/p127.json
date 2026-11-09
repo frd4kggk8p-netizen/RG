@@ -1,0 +1,288 @@
+{
+  "running_head": "Section Nine: Aristophanes' Wasps",
+  "folio": "113",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        230,
+        363,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This is a long section with a lively story which introduces several important items of grammar, the dative case (GE pp. 176–180, #189–190), the aorist infinitive (GE pp. 187–189, #195–197), the aorist imperative (GE pp. 189–191, #198–200), γιγνώσκω (GE p. 201, #209), and the principal parts of common and very irregular verbs (GE p. 202, #211). None of this is difficult, but it pays to learn the new grammar carefully after each section in which it is introduced.",
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        215,
+        215,
+        461,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Before you start you may like to look at the table (GE pp. 176–177, #103) where the forms of the dative are set out. Notice the predominance of ι:\nin -α -η -ω -ι -ει in the singular\nin -αις -οις -σι in the plural\nThe various uses of the dative are well described in GE pp. 179–180, #190.",
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        486,
+        211,
+        502,
+        252
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        522,
+        191,
+        536,
+        290
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 100",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        546,
+        155,
+        600,
+        856
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "τί βουλόμενος As before, ‘wanting what, do you ... ?’\nἀπολεῖς με ... ‘you will destroy me’, ‘you will be the death of me’. The future of ἀπόλλυμι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        605,
+        155,
+        649,
+        862
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "βοῇ χρῶμαι χράομαι (‘I use’) takes the dative (GE p. 180, #190 (e)). The meaning is the same as if βοῶ had been written.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        645,
+        155,
+        659,
+        729
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "ἐμπεσεῖται Future of ἐμπίπτω – πίπτω πεσοῦμαι ἔπεσον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        664,
+        156,
+        678,
+        856
+      ],
+      "margin_number": 18,
+      "speaker": null,
+      "text": "τυγχάνεις εἰδώς εἰδώς -ότος is the participle of οἶδα; the infinitive is εἰδέναι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        683,
+        155,
+        715,
+        885
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "οὑτοίῚ οὗτος αὕτη τοῦτο + ι is even more demonstrative. ‘These spectators here’. (Note that the neuter is τουτί ταυτί.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        724,
+        122,
+        800,
+        893
+      ],
+      "margin_number": 21,
+      "speaker": null,
+      "text": "κἀπειπε.... τοῖς θεαταῖς, πολλοῖς δὴ οὖσιν ‘Tell the spectators, being many indeed’. What part of the verb is οὖσιν? Can you recognise it? It is the dative plural of the participle ὤν οὖσα ὄν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        805,
+        155,
+        819,
+        577
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "καταλέξω From καταλέγω. What tense?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        844,
+        191,
+        858,
+        360
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9A",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 13,
+      "bbox": [
+        868,
+        191,
+        900,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In front of the house are two slaves. They first converse with each other, then with the spectators.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        916,
+        191,
+        951,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "SOSIAS",
+      "text": "Hey you, what is the matter with you? (what are you suffering?) Hey you, what is the matter with you? I'm talking to you, Xanthias.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 127
+}

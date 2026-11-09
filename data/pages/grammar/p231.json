@@ -1,0 +1,74 @@
+{
+  "running_head": "Grammar for Section 10",
+  "folio": "213",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        [
+          184,
+          185,
+          417,
+          907
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐδίδουν ‘I was giving’: stem διδο-\nImperfect indicative active ‘I was giving’\nἐ-δίδουν\nἐ-δίδους\nἐ-δίδου\nἐ-δίδο-μεν\nἐ-δίδο-τε\nἐ-δίδo-σαν\n\nImperfect indicative middle ‘I was giving’\nἐ-διδό-μην\nἐ-δίδo-σο\nἐ-δίδo-το\nἐ-διδό-μεθα\nἐ-δίδo-σθε\nἐ-δίδo-ντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        [
+          434,
+          185,
+          829,
+          907
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔδωκα ‘I gave’: stem δο-\nAorist active ‘I gave’\nIndicative Participle Infinitive Imperative Optative\nἔ-δω-κα δοúc δοῦναι δο-ίην\nἔ-δω-κας δοῦσα δό-ς δο-ίης\nἔ-δω-κε δό-ν δό-τω δο-ίην\nἐ-δό-μεν (δο-ντ-)\nδο-ῖμεν\nἐ-δό-τε δό-τε δο-ῖτε\nἐ-δό-σαν δό-ντων δο-ῖεν\n(ἔ-δω-καν)\n\nAorist middle ‘I gave’\nIndicative Participle Infinitive Imperative Optative\nἐ-δό-μην δό-μεν-oς δό-σθαι δο-ίμην\nἔ-δοu -η δοῦ δο-ῖο\nἐ-δό-το -oν δό-σθω δο-ῖτο\nἐ-δό-μεθα δο-ίμεθα\nἐ-δό-σθε δό-σθε δο-ῖσθε\nἐ-δό-ντο δό-σθων δο-ῖντο",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        [
+          843,
+          185,
+          912,
+          907
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Future active and middle: stem δωσ- ‘I will give’\nδώ-σω, δώ-σομαι (etc., like παύσ-ω, παύσ-ομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 231
+}

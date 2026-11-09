@@ -1,0 +1,728 @@
+{
+  "running_head": "Section Nine A–J: Aristophanes' Wasps",
+  "folio": "105",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        99,
+        79,
+        131,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐνταῦθα (t)here, at this that point",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        99,
+        365,
+        131,
+        592
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μέλας μέλαινα μέλαν (μελαν-) black",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        99,
+        631,
+        131,
+        859
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τάλας τάλαινα τάλαν (ταλαν-) wretched, unhappy",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        128,
+        204,
+        150,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        159,
+        97,
+        187,
+        393
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλ' ἄνοιγε τὴν θύραν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        158,
+        192,
+        172,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(commandingly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        188,
+        97,
+        204,
+        332
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "μὰ τὸν Ποσειδῶ, πάτερ, οὐδέποτέ γε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 8,
+      "bbox": [
+        174,
+        192,
+        188,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(resolutely)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        206,
+        97,
+        236,
+        442
+      ],
+      "margin_number": 5,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλ' ἔστι νουμηνία τήμερον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        206,
+        192,
+        221,
+        333
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a pause, then craftily)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        237,
+        97,
+        279,
+        822
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ὁ ἄνθρωπος οὗτος μέγα τι κακὸν παρασκευάζεται, ὡς ἔμοιγε δοκεῖ. τί σοι δοκεῖ, Ξανθία;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        281,
+        97,
+        296,
+        329
+      ],
+      "margin_number": null,
+      "speaker": "Ξ.",
+      "text": "καὶ ἔμοιγε δοκεῖ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        297,
+        97,
+        359,
+        584
+      ],
+      "margin_number": 10,
+      "speaker": "ΦΙΛ.",
+      "text": "μὰ τὸν Δία οὐ δῆτα, ἀλλ' ἔξειμι, ἐπεὶ τὸν ἡμίονον ἐν τῇ ἀγορᾷ πωλεῖν βούλομαι αὐτοῖς τοῖς κανθηλίοις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        297,
+        192,
+        311,
+        276
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(overhears)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        361,
+        97,
+        388,
+        818
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "πωλεῖν βούλῃ τὸν ἡμίονον αὐτοῖς τοῖς κανθηλίοις; ἀλλ' ἐγὼ τοῦτο ἂν δρᾶν δυναίμην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        390,
+        97,
+        405,
+        503
+      ],
+      "margin_number": 15,
+      "speaker": "ΦΙΛ.",
+      "text": "ἐγὼ δὲ τοῦτο ἂν δυναίμην ἄμεινον ἢ σύ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        406,
+        97,
+        421,
+        513
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "οὐ μὰ τὸν Δία, ἀλλ' ἐγὼ σοῦ ἄμεινον.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        422,
+        97,
+        437,
+        427
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "ἀλλὰ εἰσιὼν τὸν ἡμίονον ἔξαγε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 19,
+      "bbox": [
+        439,
+        97,
+        453,
+        428
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The mule is led out of the courtyard.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        454,
+        97,
+        497,
+        846
+      ],
+      "margin_number": 20,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἀλλὰ τί παθὼν στένεις, ἡμίονος; ἆρα ὅτι τήμερον πωλήσομέν σε; ἀλλὰ μὴ στένε μηκέτι, ἡμίονος. τί δὲ τουτὶ τὸ πρᾶγμα; τί στένεις, εἰ μὴ φέρεις Ὀδυσσέα τινά;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 21,
+      "bbox": [
+        531,
+        195,
+        547,
+        467
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Vocabulary for Section Nine E",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        556,
+        97,
+        572,
+        206
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄμεινον better",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        573,
+        97,
+        587,
+        193
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἄνοιγε open!",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        588,
+        97,
+        621,
+        327
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "αὐτ-οῖς τοῖς κανθηλί-οις pack-saddle and all",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        623,
+        97,
+        637,
+        218
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔμοι-γε to me",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        638,
+        97,
+        654,
+        295
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐξ-άγ-ω bring out, lead out",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        556,
+        365,
+        570,
+        569
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κανθήλι-α, τά panniers (2b)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        572,
+        365,
+        585,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "μηκέτι no longer",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 29,
+      "bbox": [
+        587,
+        365,
+        620,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νου-μηνί-α, ἡ first of the month (1b) (market-day)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 30,
+      "bbox": [
+        622,
+        365,
+        638,
+        573
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Ὀδυσσ-εύς, ὁ Odysseus (3g)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 31,
+      "bbox": [
+        556,
+        631,
+        587,
+        827
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παρα-σκευάζ-ομαι devise, prepare",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 32,
+      "bbox": [
+        589,
+        631,
+        601,
+        735
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πωλέ-ω sell",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 33,
+      "bbox": [
+        603,
+        631,
+        617,
+        722
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "στέν-ω groan",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 34,
+      "bbox": [
+        619,
+        631,
+        634,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τῇ ἀγορ-ᾷ the market-place",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 35,
+      "bbox": [
+        697,
+        194,
+        860,
+        423
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": "ὁ ἡμίονος . . .",
+      "uncertain": []
+    },
+    {
+      "type": "figure",
+      "order": 36,
+      "bbox": [
+        697,
+        432,
+        860,
+        653
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": null,
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": ". . . φέρει Ὀδυσσέα τινά",
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 135
+}

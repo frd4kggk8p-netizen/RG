@@ -1,0 +1,228 @@
+{
+  "running_head": "Section Ten A–E: Aristophanes’ Lysistrata",
+  "folio": "129",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        194,
+        78,
+        856,
+        882
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναμενε. ἆρα μυριῶ σε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        78,
+        100,
+        110,
+        876
+      ],
+      "margin_number": 40,
+      "speaker": "ΚΙΝ.",
+      "text": "μὰ τὸν Ἀπόλλω, μὴ ἐμέ γε.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 3,
+      "bbox": [
+        115,
+        194,
+        163,
+        792
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "(firmly, picking up a flask of ointment)\nνὴ τὴν Ἀφροδίτην, ποιήσω τοῦτο. πρότεινε δὴ τὴν χεῖρα καὶ ἀλείφου λαβών, ὅ σοι δώσω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        170,
+        98,
+        207,
+        876
+      ],
+      "margin_number": 45,
+      "speaker": "ΚΙΝ.",
+      "text": "(suspiciously)\nοὐχ ἡδὺ τὸ μύρον ὅ μοι ἔδωκας. διατριβῆς γὰρ ὄζει, ἀλλ' οὐκ ὄζει γάμων.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 5,
+      "bbox": [
+        212,
+        194,
+        258,
+        608
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "(looking in mock anger at the flask)\nτάλαιν’ ἐγώ, τὸ Ῥόδιον ἤνεγκον μύρον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        263,
+        100,
+        310,
+        876
+      ],
+      "margin_number": 50,
+      "speaker": "ΚΙΝ.",
+      "text": "(impatiently)\nἀγαθόν. ἔα αὐτό, ὦ δαιμονία. κάκιστ’ ἀπόλοιτο, ὅστις πρῶτος ἐποίησε μύρον. ἀλλὰ κατακλίνθητι καὶ μή μοι φέρε μηδέν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        315,
+        99,
+        347,
+        831
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ποιήσω ταῦτα, νὴ τὴν Ἄρτεμιν. ὑπολύομαι γοῦν. ἀλλ’, ὦ φίλτατε, σπονδὰς ποιεῖσθαι ψηφιεῖ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        353,
+        100,
+        391,
+        876
+      ],
+      "margin_number": 55,
+      "speaker": "ΚΙΝ.",
+      "text": "(absently)\nψηφιοῦμαι.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 9,
+      "bbox": [
+        396,
+        116,
+        411,
+        356
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἡ Μυρρίνη ἀποτρέχει)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        415,
+        194,
+        452,
+        828
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί δὲ τουτὶ τὸ πρᾶγμα; ἡ γυνὴ ἀπελθοῦσά μ’ ἔλιπεν. οἴμοι, τί πάσχω; τί πείσομαι; οἴμοι, ἀπολεῖ με ἡ γυνή. τίνα νῦν βινήσω; οἴμοι, δυστυχέστατος ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        480,
+        116,
+        851,
+        853
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλείφ-ομαι anoint (oneself)\nἀμέλει of course\nἀνα-πηδά-ω jump up\nἀπ-ολ-οίμην may I die\n(ἀπ-όλλ-υμαι/ἀπ-ολ-)\nἀπ-όλ-οιτο may he die\n(ἀπ-όλλ-υμαι/ἀπ-ολ-)\nἌρτεμις, ἡ Artemis (3a) (acc.\nἌρτεμιν) (goddess of hunting\nand chastity)\nβινέ-ω screw (colloquial)\nγοῦν at any rate\nδαιμονί-α my dear lady\nδέ-ομαι need, ask for (+gen.)\nδια-τριβή, ἡ delay (1a)\nδυσ-τυχήστατ-ος -η -ον most\nunlucky (δυσ-τυχ-ής)\nδώσ-ω I shall give (δίδω-μι/\nδο-)\nἔ-δωκ-ας you (s.) gave\n(δίδω-μι/δο-)\nἔ-λιπ-ον see λείπ-ω\nἡδ-ύ sweet, pleasant (nom. s. n.)\nκάκιστα most badly (tr. ‘an\nawful death’)\nκατα-κλίν-ηθι lie down! (s.)\nλείπ-ω (λιπ-) leave\nλύ-ομαι undo (one’s own)\nμηδείς μηδεμία μηδέν (μηδεν-)\nno one, nothing\nμυρίζ-ω anoint with myrrh (fut.\nμυριέ-ω)\nμύρ-ον, τό myrrh (2b)\nΜυρρινίδιον Myrrhine, darling\nὃ what, which (acc. s. n.)\nὄζ-ω smell of (+gen.)\nὄσ-ων of all the things which\n(gen. pl. n.) (lit. ‘as many as’)\nὅσ-τις he who (nom. s. m.)\nπρο-τείν-ω stretch forth\n‘Ῥόδι-ος -α -ον from Rhodes\nσισύρ-α, ἡ blanket (1b)\nστρόφι-ον, τό sash (2b)\nταχὺ quickly\nὑπο-λύ-ομαι undo one’s shoes\nφιλέ-ω kiss\nφυλάττ-ομαι μὴ take care not\n(to)\nψηφίζ-ομαι vote (fut.\nψηφιέ-ομαι)\nὧν which (gen. pl. f.)\nVocabulary to be learnt\nἀμελής ἐς uncaring\nγλυκύς εῖα ύ sweet\nγοῦν at any rate\nδέομαι need, ask, beg (+gen.)\nδίδωμι (δο-) give, grant\nἐκδύομαι undress\nμηδείς μηδεμία μηδέν (μηδεν-)\nno, no one\nὅς ἥ ὅ who, what, which\nὅσπερ ἥπερ ὅπερ who/which\nindeed\nὅστις ἥτις ὅ τι who(ever),\nwhat(ever)\nποῖος ᾱ ον; what sort of?\nψηφίζομαι vote (fut.\nψηφιέομαι)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 159
+}

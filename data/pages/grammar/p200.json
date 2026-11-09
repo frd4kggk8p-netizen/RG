@@ -1,0 +1,268 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "182",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        89,
+        298,
+        319
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        308,
+        494,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 12. Translate into English:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        256,
+        258,
+        494,
+        642
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E",
+        "instruction": "12. Translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἀπήλθομεν τῆς νυκτός."
+          },
+          {
+            "n": "2",
+            "prompt": "ὁ ἱκέτης ἔμενεν ἐν τῷ ἱερῷ δύο ἡμέρας."
+          },
+          {
+            "n": "3",
+            "prompt": "χωρήσω δύο ἡμερῶν."
+          },
+          {
+            "n": "4",
+            "prompt": "ἐνέτυχεν τῷ ἀνδρὶ τῇ πρώτη ἡμέρᾳ."
+          },
+          {
+            "n": "5",
+            "prompt": "ἐβόα ὅλην τὴν νύκτα."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        204,
+        193,
+        274,
+        365
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "MORE OPTATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        193,
+        246,
+        339,
+        915
+      ],
+      "margin_number": 192,
+      "speaker": null,
+      "text": "You have already seen how -α- characterises the stem of certain verbs in the indicative, e.g. δύναμαι ‘I can’ and ἀνίσταμαι ‘I emigrate’ (177, 187). It continues to do so in the optative:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 6,
+      "bbox": [
+        369,
+        193,
+        513,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": [
+          [
+            "Present optative δυναίμην"
+          ],
+          [
+            "Present optative ἀνισταίμην"
+          ]
+        ],
+        "rows": [
+          [
+            "δυναίμην",
+            "ἀνισταίμην"
+          ],
+          [
+            "δύναιο",
+            "ἀνισται̂ο"
+          ],
+          [
+            "δύναιτο",
+            "ἀνισται̂το"
+          ],
+          [
+            "δυναίμεθα",
+            "ἀνισταίμεθα"
+          ],
+          [
+            "δύναισθε",
+            "ἀνισται̂σθε"
+          ],
+          [
+            "δύναιντο",
+            "ἀνισται̂ντο"
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        546,
+        193,
+        566,
+        365
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "PRINCIPAL PARTS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        576,
+        193,
+        612,
+        915
+      ],
+      "margin_number": 193,
+      "speaker": null,
+      "text": "In order to be able to form all parts of a verb you need to be familiar with its principal parts:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 9,
+      "bbox": [
+        617,
+        91,
+        816,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• Knowledge of the first person s. present form of a verb, e.g. παύω, λαμβάνω, allows you to conjugate the verb in the present and – with the addition of an augment – the imperfect as well.\n• But it does not necessarily allow you to predict the future or aorist forms.\n• If the verb is regular, like, παύω you can predict παύσω, ἔπαυσα, but in the case of λαμβάνω, for instance, there is no way of predicting the forms λήψομαι, ‘I shall take’, and ἔλαβον, ‘I took’.\n• Once you know all these forms, however, you are able to use the future and aorist stems to form other parts of the verbs, e.g. the whole of the future indicative, the aorist indicative, the aorist participle and so on.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        824,
+        246,
+        895,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Greek verbs have up to six principal parts in all, three of which you have yet to meet (perfect active, perfect middle/passive and aorist passive: these will be covered in future sections). Much the most important are the three you are currently meeting: present, future, and aorist.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 200
+}

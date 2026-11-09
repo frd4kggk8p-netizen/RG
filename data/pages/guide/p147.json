@@ -1,0 +1,215 @@
+{
+  "running_head": "Revision exercises for section 9H–J",
+  "folio": "133",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        190,
+        77,
+        810,
+        810
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "7. ἀπολογήσεσθαι to be about to defend oneself\n8. κατηγορήσειν to be about to accuse\n9. γράψεσθαι to be about to write/ indict\n10. βιάσεσθαι to be about to use force",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        168,
+        190,
+        184,
+        477
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "IRREGULAR PRINCIPAL PARTS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        201,
+        190,
+        214,
+        264
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        223,
+        190,
+        334,
+        790
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. αἱρήσω 7. ὑπισχνεῖται ἀπιέναι\n2. ἐπίστανται πείθειν 8. ἔπαθον\n3. ἐλπίζει αἱρήσεσθαι 9. ἔπεισαν\n4. εἷλον 10. εἵλετο\n5. ἔβη 11. εἵλεν\n6. πείσονται 12. ἔβης",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        368,
+        190,
+        383,
+        627
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 9H–J",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        403,
+        190,
+        417,
+        515
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        429,
+        190,
+        521,
+        777
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Present: πλεῖν, ἀποχωρεῖν, σπεύδειν, ὀφείλειν,\nAorist: βοηθῆσαι, μαχέσθαι, ἀφικέσθαι, κρατῆσαι, βιάσασθαι\nFuture: φροντιεῖν, διώξειν, ἔσεσθαι, μαθήσεσθαι, ὁλοφυρεῖσθαι, ποιήσειν, παύσεσθαι, δέξεσθαι, λήψεσθαι."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        522,
+        190,
+        672,
+        634
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "2",
+            "prompt": "δέξαι, δέξασθαι, δεξάμενος -η -ον\nδρᾶσον, δρᾶσαι, δράσας -ασα -αν\nἐλθέ, ἐλθεῖν, ἐλθών -οῦσα -όν\nγενοῦ, γενέσθαι, γενόμενος -η -ον\nκώλυσον, κωλῦσαι, κωλύσας -ασα -αν\nἐπαινeson, ἐπαινέσαι, ἐπαινέσας -ασα -αν\nβάλε, βαλεῖν, βαλών -οῦσα -όν\nπαῦσον, παῦσαι, παύσας -ασα -αν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        678,
+        190,
+        925,
+        831
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "3",
+            "prompt": "λήσειν escape notice (fut. inf.) λανθάνω\nλάβετε take (aor. imperative pl.) λαμβάνω\nἐλεῖν take (aor. inf.) αἱρέω\nἰδών see (aor. part. m. s. nom.) ὁράω\nλαβών escape notice (aor. part. m. s. nom.) λανθάνω\nἐλθέ go (aor. imperative s.) ἔρχομαι\nλήψεσθαι take (fut. inf.) λαμβάνω\nἀπέθανε die (aor. 3 s. indic.) ἀποθνῄσκω\nγενήσεσθαι become (fut. inf.) γίγνομαι\nἐρόμενος ask (aor. part. m. s. nom.) ἐρωτάω\nμαθόντες learn (aor. part. masc. pl. nom.) μανθάνω\nγένησθε become (aor. imperative pl.) γίγνομαι\nδραμεῖν run (aor. inf.) τρέχω"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 147
+}

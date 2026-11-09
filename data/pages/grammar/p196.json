@@ -1,0 +1,321 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "189",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        194,
+        230,
+        247
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        227,
+        142,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Dat. s. all end in -ι (whether subscript or not).\n(b) Dat. pls. all end in -ις or -σι(ν) (but note the exceptions: ἡμῖν, ὑμῖν.)\n(c) Type 3 nouns:\n(i) those with stems ending in -οντ- have dat. pl. in -ουσι(ν), e.g. participles like παύ-ων with stem παυοντ- produce the dat. pl. παύουσι(ν).*\n(ii) those in -σαντ- have dat. pl. in -σᾶσι(ν).\n(iii) those with a single consonant at the end of the stem either drop it in the dat. pl. (λιμήν, stem λιμεν-, dat. pl. λιμέσι) or let it coalesce with the σ of the ending (φύλαξ, stem φυλακ-, dat. pl. φύλαξι [= φύλακ-σι]).\nSee also 359.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 3,
+      "bbox": [
+        193,
+        307,
+        334,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* Ouch! For the form παύουσι(ν) can be either 3rd pl. pres. indic. 'they stop' or a m./n. dat. pl. of the pres. participle! Only context will tell you which.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        193,
+        353,
+        365,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 5,
+      "bbox": [
+        193,
+        376,
+        514,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Select from the list according to need.\n9A–E: 1. Give the meaning and dat. s. and pl. (with def. art.) of the following 1a–c type nouns:\n1. θάλαττα\n5. θεά\n2. ἀπορία\n6. νίκη\n3. ἐλευθερία\n7. ὁμόνοια\n4. σωτηρία\n8. τόλμα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E:1",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following 1a–c type nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "θάλαττα"
+          },
+          {
+            "n": "2",
+            "prompt": "ἀπορία"
+          },
+          {
+            "n": "3",
+            "prompt": "ἐλευθερία"
+          },
+          {
+            "n": "4",
+            "prompt": "σωτηρία"
+          },
+          {
+            "n": "5",
+            "prompt": "θεά"
+          },
+          {
+            "n": "6",
+            "prompt": "νίκη"
+          },
+          {
+            "n": "7",
+            "prompt": "ὁμόνοια"
+          },
+          {
+            "n": "8",
+            "prompt": "τόλμα"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        193,
+        526,
+        623,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 2. Give the meaning and dat. s. and pl. (with def. art.) of the following 1d type nouns:\n1. θεατής\n3. ποιητής\n2. κυβερνήτης\n4. σοφιστής",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E:2",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following 1d type nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "θεατής"
+          },
+          {
+            "n": "2",
+            "prompt": "κυβερνήτης"
+          },
+          {
+            "n": "3",
+            "prompt": "ποιητής"
+          },
+          {
+            "n": "4",
+            "prompt": "σοφιστής"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        193,
+        630,
+        690,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 3. Give the meaning and (where possible) dat. s. and pl. (with def. art.) of the following 3d type nouns:\n1. τριήρης\n3. συγγενής\n2. Σωκράτης",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E:3",
+        "instruction": "Give the meaning and (where possible) dat. s. and pl. (with def. art.) of the following 3d type nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "τριήρης"
+          },
+          {
+            "n": "2",
+            "prompt": "Σωκράτης"
+          },
+          {
+            "n": "3",
+            "prompt": "συγγενής"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        193,
+        698,
+        814,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 4. Give the meaning and dat. s. and pl. (with def. art.) of the following 2a–b type nouns:\n1. ἡμίονος\n5. χρόνος\n2. πλοῖον\n6. φίλος\n3. ἄνθρωπος\n7. λόγος\n4. δικαστήριον\n8. θεός",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E:4",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following 2a–b type nouns:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ἡμίονος"
+          },
+          {
+            "n": "2",
+            "prompt": "πλοῖον"
+          },
+          {
+            "n": "3",
+            "prompt": "ἄνθρωπος"
+          },
+          {
+            "n": "4",
+            "prompt": "δικαστήριον"
+          },
+          {
+            "n": "5",
+            "prompt": "χρόνος"
+          },
+          {
+            "n": "6",
+            "prompt": "φίλος"
+          },
+          {
+            "n": "7",
+            "prompt": "λόγος"
+          },
+          {
+            "n": "8",
+            "prompt": "θεός"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        193,
+        822,
+        915,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 5. Give the meaning and dat. s. and pl. in all genders of the following type ‘2-1-2’ adjectives:\n1. πονηρός\n3. μιαρός\n2. ἐκεῖνος\n4. ὅμοιος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9A-E:5",
+        "instruction": "Give the meaning and dat. s. and pl. in all genders of the following type ‘2-1-2’ adjectives:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "πoνηρός"
+          },
+          {
+            "n": "2",
+            "prompt": "ἐκεῖνος"
+          },
+          {
+            "n": "3",
+            "prompt": "μιαρός"
+          },
+          {
+            "n": "4",
+            "prompt": "ὅμοιος"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 196
+}

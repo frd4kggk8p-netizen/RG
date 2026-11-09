@@ -1,0 +1,368 @@
+{
+  "folio": null,
+  "running_head": null,
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        133,
+        0,
+        834,
+        30
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥΡΡΙΝΗ",
+      "text": "(Μυρρίνη, ἣ φίλη ἐστὶ Λυσιστράτη, ὁμολογεῖ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        217,
+        222,
+        903,
+        50
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "νὴ τοὺς θεοὺς ἡδέως ἂν ἳδοιμι ἔγωγε τὴν εἰρήνην, τὸν πόλεμον καταλύσασα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        77,
+        73,
+        834,
+        76
+      ],
+      "margin_number": null,
+      "speaker": "ΚΛΕΟΝΙΚΗ",
+      "text": "(καὶ Κλεονίκη, ἣ ἑτέρα φίλη τυγχάνει οὖσα, ὁμολογεῖ)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        217,
+        102,
+        792,
+        126
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "κἀμοὶ δοκεῖ τὸν πόλεμον καταλῦσαι. ἀλλὰ πῶς ἔξεστιν ἡμῖν, γυναιξὶν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        217,
+        128,
+        878,
+        178
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οὖσαι; ἆρα μηχανήν τιν' ἔχεις; δεῖ γὰρ τοὺς ἄνδρας, οἳ τὰς μάχας μάχονται,\nκαταλύσαντας τὸν πόλεμον σπονδὰς ποιεῖσθαι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        121,
+        187,
+        835,
+        214
+      ],
+      "margin_number": 10,
+      "speaker": "ΛΥ.",
+      "text": "λέγοιμ' ἄν. οὐ γὰρ δεῖ σιωπᾶν. ἀλλ', ὦ γυναῖκες, εἴπερ μέλλομεν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        217,
+        215,
+        804,
+        239
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀναγκάσειν τοὺς ἄνδρας εἰρήνην ἄγειν, ἡμᾶς χρὴ ἀπέχεσθαι –",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        133,
+        248,
+        775,
+        269
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "τίνος; τίς ἡ μηχανή; λέξον ἐκεῖνο ὃ ἐν νῷ ἔχεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        122,
+        275,
+        638,
+        296
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "ποιήσετ' οὖν ὃ κελεύω;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        133,
+        302,
+        635,
+        323
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "ποιήσομεν πάνθ' ἃ κελεύεις.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        122,
+        329,
+        715,
+        351
+      ],
+      "margin_number": 15,
+      "speaker": "ΛΥ.",
+      "text": "δεῖ τοίνυν ἡμᾶς ἀπέχεσθαι τῶν ἀφροδισίων.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        117,
+        357,
+        878,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(αἱ γυναῖκες πᾶσαι, ἀκούσασαι τοὺς λόγους, οὓς λέγει Λυσιστράτη, ἀπιέναι ἄρχονται)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        122,
+        387,
+        888,
+        410
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "ποῖ βαδίζετε; τί δακρύετε; ποιήσετ' ἢ οὐ ποιήσετε ἃ κελεύω; ἤ τί μέλλετε;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        193,
+        418,
+        290,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(resolutely)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        133,
+        447,
+        804,
+        469
+      ],
+      "margin_number": null,
+      "speaker": "ΜΥ.",
+      "text": "οὐκ ἂν ποιήσαιμι τοῦθ' ὃ λέγεις, ὦ Λυσιστράτη, ἀλλ' ὁ πόλεμος ἑρπέτω.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        123,
+        475,
+        903,
+        551
+      ],
+      "margin_number": 20,
+      "speaker": "ΚΛ.",
+      "text": "μὰ Δί' οὐδ' ἐγὼ γάρ, ἀλλ' ὁ πόλεμος ἑρπέτω. κέλευσόν με διὰ τοῦ πυρὸς\nβαδίζειν. τοῦτο μᾶλλον ἐθελήσαιμ' ἂν ποιεῖν ἢ τῶν ἀφροδισίων\nἀπέχεσθαι. οὐδὲν γὰρ τοῖς ἀφροδισίοις ὅμοιον, ὦ φίλη Λυσιστράτη. οὐκ\nἂν ποιήσαιμι οὐδαμῶς.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 17,
+      "bbox": [
+        122,
+        559,
+        314,
+        582
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(turns back to Myrrhine)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        122,
+        588,
+        545,
+        611
+      ],
+      "margin_number": 25,
+      "speaker": "ΛΥ.",
+      "text": "τί δαὶ σύ; ποιήσειας ἂν ἃ κελεύω;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 150
+}

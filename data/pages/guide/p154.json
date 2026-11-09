@@ -1,0 +1,548 @@
+{
+  "running_head": "Section 10C",
+  "folio": "140",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        90,
+        114,
+        137,
+        899
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "I see a man approaching, a man. Look. Does any one of you recognise the man who is approaching?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        140,
+        115,
+        158,
+        298
+      ],
+      "margin_number": null,
+      "speaker": "MYRRHINE",
+      "text": "My god!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        162,
+        114,
+        195,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "KLE.",
+      "text": "It’s clear, Lysistrata, that Myrrhine has recognised him. For after seeing him and recognising him she cried ‘My god!’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        199,
+        114,
+        231,
+        863
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Speak, Myrrhine. Does Kleonike speak the truth? Have you recognised the man? For to me as well you seem to recognise the man.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        235,
+        114,
+        252,
+        785
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Zeus, I do recognise him. For he is Kinesias, whose wife I am.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        257,
+        114,
+        274,
+        895
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "It’s your job now to trick and love and not to love this man who you live with.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        278,
+        114,
+        294,
+        393
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "I shall do these things.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        297,
+        114,
+        331,
+        886
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Look, I’ll join you in tricking him by waiting here after sending away the old women whose job it is to guard the Acropolis.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        323,
+        209,
+        346,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        363,
+        190,
+        378,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 124",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        386,
+        167,
+        444,
+        871
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "σπασμός GE gives ‘discomfort’. Presumably Kinesias’ problem was a massive erection. Comic actors wore a padded costume with a large phallus attached, so Kinesias’ condition would be clear for all to see.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        447,
+        168,
+        461,
+        781
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἀνὴρ δῆτα ‘Indeed I am a man.’ Kinesias confirms the obvious.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        465,
+        157,
+        501,
+        915
+      ],
+      "margin_number": 12,
+      "speaker": "12",
+      "text": "πρὸς ἑαυτὸν λέγων ‘speaking to himself’. Remember the reflexive ἑαυτόν or αὐτόν.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        504,
+        157,
+        554,
+        882
+      ],
+      "margin_number": 13,
+      "speaker": "13–14",
+      "text": "οἱ θεοί, οἷς εὔχομαι ... ‘the gods to whom I pray ...’\nδώσουσι ‘will grant’. δίδωμι now makes many appearances. Learn GE pp.\n134–136, #131.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 15,
+      "bbox": [
+        563,
+        158,
+        577,
+        597
+      ],
+      "margin_number": 18,
+      "speaker": null,
+      "text": "ἐκ-κάλεσον ‘call out’, aorist imperative from ἐκ-καλέω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 16,
+      "bbox": [
+        581,
+        156,
+        597,
+        608
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "εὐξαμένῳ Agrees with μοι: ‘to me having prayed’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 17,
+      "bbox": [
+        603,
+        156,
+        615,
+        493
+      ],
+      "margin_number": 26,
+      "speaker": null,
+      "text": "The gift of an apple could be an erotic token.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        619,
+        156,
+        654,
+        891
+      ],
+      "margin_number": 27,
+      "speaker": null,
+      "text": "τοῦτ’ ἂν διδοίην You should be able to work out that this is an optative and\nto guess what verb it comes from.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        659,
+        157,
+        673,
+        654
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": "νὴ τὴν Ἀφροδίτην Who else would she swear by?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        691,
+        191,
+        706,
+        281
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 125",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 21,
+      "bbox": [
+        722,
+        156,
+        755,
+        905
+      ],
+      "margin_number": 54,
+      "speaker": null,
+      "text": "οἷον τὸ τεκεῖν ‘What it is to be a mother!’, literally ‘What a thing it is to bear\na child!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 22,
+      "bbox": [
+        780,
+        191,
+        794,
+        373
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 10C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 23,
+      "bbox": [
+        804,
+        190,
+        818,
+        911
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The old women go away while Kinesias arrives, and as he approaches, he laments.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        836,
+        88,
+        847,
+        576
+      ],
+      "margin_number": null,
+      "speaker": "KINESIAS",
+      "text": "Oh, poor me, what discomfort tortures me!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 25,
+      "bbox": [
+        854,
+        88,
+        868,
+        309
+      ],
+      "margin_number": null,
+      "speaker": "LYSISTRATA",
+      "text": "(Speaking from the wall.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        873,
+        192,
+        907,
+        839
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Who is this man who has forced his way through the guards without our\nnoticing?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        912,
+        88,
+        925,
+        240
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "It’s me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 154
+}

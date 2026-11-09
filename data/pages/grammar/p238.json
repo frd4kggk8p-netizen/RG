@@ -1,0 +1,158 @@
+{
+  "running_head": "A  Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "220",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        190,
+        194,
+        321,
+        337
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        190,
+        194,
+        342,
+        822
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10: 5. Supply a form of the relative in English and Greek (ὅς and ὅστις) that makes sense of the following utterances:\n1. Where is the soldier — is forcing me to hide?\n2. They could not see the men — they were commanding.\n3. The woman — sons he will teach comes from Miletos.\n4. I cannot find the women — I was going to give the apples.\n5. The girls — he was intending to pursue gave him the slip.\n6. They gave the arms to the men — had survived.\n7. — you hold dear, I hold dear too. [Many possibilities here]\n8. Three cheers for the boys — fathers come from Athens!\n9. — [neuter] I know, he does not know.\n10. Do you see — [neuter] I see?",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10: 5",
+        "instruction": "Supply a form of the relative in English and Greek (ὅς and ὅστις) that makes sense of the following utterances:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "Where is the soldier — is forcing me to hide?"
+          },
+          {
+            "n": "2",
+            "prompt": "They could not see the men — they were commanding."
+          },
+          {
+            "n": "3",
+            "prompt": "The woman — sons he will teach comes from Miletos."
+          },
+          {
+            "n": "4",
+            "prompt": "I cannot find the women — I was going to give the apples."
+          },
+          {
+            "n": "5",
+            "prompt": "The girls — he was intending to pursue gave him the slip."
+          },
+          {
+            "n": "6",
+            "prompt": "They gave the arms to the men — had survived."
+          },
+          {
+            "n": "7",
+            "prompt": "— you hold dear, I hold dear too. [Many possibilities here]"
+          },
+          {
+            "n": "8",
+            "prompt": "Three cheers for the boys — fathers come from Athens!"
+          },
+          {
+            "n": "9",
+            "prompt": "— [neuter] I know, he does not know."
+          },
+          {
+            "n": "10",
+            "prompt": "Do you see — [neuter] I see?"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        355,
+        194,
+        537,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10: 6. Following the pattern noted at 218 (b) above, supply the appropriate relative in Greek (ὅς and ὅστις) for the following:\n1. I shall give an apple to the women — I prefer.\n2. Which of the men — you saw were foreigners?\n3. He arrived with [what case does μετά take?] the slaves — he had captured.\n4. I shall give nothing to the slave — once I loved.\n5. We are not worthy — you have given us.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10: 6",
+        "instruction": "Following the pattern noted at 218 (b) above, supply the appropriate relative in Greek (ὅς and ὅστις) for the following:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "I shall give an apple to the women — I prefer."
+          },
+          {
+            "n": "2",
+            "prompt": "Which of the men — you saw were foreigners?"
+          },
+          {
+            "n": "3",
+            "prompt": "He arrived with [what case does μετά take?] the slaves — he had captured."
+          },
+          {
+            "n": "4",
+            "prompt": "I shall give nothing to the slave — once I loved."
+          },
+          {
+            "n": "5",
+            "prompt": "We are not worthy — you have given us."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 4,
+      "bbox": [
+        550,
+        194,
+        898,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 10\nἀναγκάζω force, compel\nἀμελής ές uncaring\nἅπᾶς ἅπασα ἅπαν (ἅπαντ-) all, the whole\nἀπέχομαι refrain, keep away (from) (+gen.)\nἄρτι just now, recently\nβαδίζ-ω walk, go (fut. βαδιέομαι)\nγλυκύς εῖα ύ sweet\nγοῦν at any rate\nγραῦς (γρα-), ἡ old woman (3 irr.) (acc. s. γραῦν; acc. pl. γραῦς). See 357.\nδέομαι need, ask, beg (+gen.)\nδίδωμι (δο-) give, grant\nδοκεῖ it seems a good idea to X (dat.) to do Y (inf.); X (dat.) decides to do Y (inf.)\nδῶρον, τό gift, bribe (2b)\nἐκδύομαι undress\nἐξαίφνης suddenly",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 238
+}

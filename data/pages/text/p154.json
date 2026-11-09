@@ -1,0 +1,968 @@
+{
+  "running_head": "Part Three: Athens through the comic poet's eyes",
+  "folio": "124",
+  "blocks": [
+    {
+      "type": "box",
+      "order": 1,
+      "bbox": [
+        219,
+        219,
+        274,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "C",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 2,
+      "bbox": [
+        122,
+        281,
+        149,
+        824
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(αἱ μὲν οὖν γρᾶες ἀπέρχονται, ὁ δὲ Κινησίας ἀφικνεῖται, προσιὼν δ᾽ ὀλοφύρεται)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        150,
+        219,
+        161,
+        584
+      ],
+      "margin_number": null,
+      "speaker": "ΚΙΝΗΣΙΑΣ",
+      "text": "οἴμοι κακοδαίμων, οἷος ὁ σπασμός μ᾽ ἔχει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        164,
+        122,
+        178,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "(ἀπὸ τοῦ τείχους λέγουσα)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        180,
+        219,
+        195,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τίς οὗτος ὃς διὰ τῶν φυλάκων λαθὼν ἐβιάσατο;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        181,
+        891,
+        192,
+        901
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        198,
+        122,
+        212,
+        265
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "ἐγώ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        214,
+        122,
+        227,
+        289
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "ἀνὴρ εἶ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        230,
+        122,
+        243,
+        313
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "ἀνὴρ δῆτα.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        245,
+        122,
+        260,
+        427
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "οὐκ ἄπει δῆτ᾽ ἐκποδών;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        262,
+        122,
+        276,
+        477
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "σὺ δ᾽ εἶ τίς, ἢ ἐκβάλλεις με;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        278,
+        122,
+        292,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "φύλαξ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        273,
+        882,
+        284,
+        902
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        294,
+        122,
+        308,
+        259
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "οἴμοι.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 15,
+      "bbox": [
+        311,
+        122,
+        326,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(πρὸς ἑαυτὸν λέγων)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        327,
+        219,
+        345,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "δῆλον ὅτι δεῖ με - δυστυχῆ ὄντα - εὔξασθαι τοῖς θεοῖς ἅπασιν. ἴσως δὲ οἱ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        346,
+        219,
+        360,
+        642
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "θεοί, οἷς εὔχομαι, δώσουσί μοι τὴν γυναῖκα ἰδεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        363,
+        219,
+        377,
+        436
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(εύχεται ὁ ἀνήρ)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        365,
+        882,
+        376,
+        901
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        379,
+        219,
+        393,
+        621
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀλλ᾽ ὦ πάντες θεοί, δότε μοι τὴν γυναῖκα ἰδεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        395,
+        219,
+        410,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(αὖθις τὴν Λυσιστράτην προσαγορεύει)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        412,
+        219,
+        427,
+        577
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πρὸς τῶν θεῶν νῦν ἐκκάλεσόν μοι Μυρρίνην.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        430,
+        122,
+        444,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "(appearing to soften)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        447,
+        219,
+        461,
+        351
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σὺ δὲ τίς εἶ;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        458,
+        882,
+        469,
+        902
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        463,
+        122,
+        478,
+        735
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "ἀνὴρ ἐκείνης, Κινησίας Παιονίδης, ᾧ συνοικεῖ.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 27,
+      "bbox": [
+        480,
+        122,
+        495,
+        321
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(πρὸς ἑαυτὸν λέγων)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        496,
+        219,
+        511,
+        749
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "εὖ γε, ὡς εὐξαμένῳ ἔδοσάν μοι οἱ θεοὶ τὴν Μυρρίνην ἰδεῖν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        513,
+        122,
+        528,
+        296
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "(very friendly)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        530,
+        219,
+        545,
+        848
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὦ χαῖρε, φίλτατε Κινησία. εὖ ἴσμεν γὰρ τὸ σὸν ὄνομα καὶ ἡμεῖς. ἀεὶ γὰρ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        547,
+        882,
+        558,
+        902
+      ],
+      "margin_number": 25,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        547,
+        219,
+        580,
+        836
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἡ γυνή σ᾽ ἔχει διὰ στόμα. καὶ μὴν λαβοῦσα μῆλον ‘ὡς ἡδέως’, φησί,\n‘Κινησία τοῦτ᾽ ἂν διδοίην.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 33,
+      "bbox": [
+        583,
+        122,
+        597,
+        265
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "(his passion increasing)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 34,
+      "bbox": [
+        599,
+        219,
+        614,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὦ πρὸς τῶν θεῶν· ἐγὼ ὁ ἀνὴρ ᾧ Μυρρίνη βούλεται μῆλα διδόναι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 35,
+      "bbox": [
+        616,
+        122,
+        646,
+        884
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "νὴ τὴν Ἀφροδίτην. καὶ δὴ καὶ χθές, ὅτε περὶ ἀνδρῶν ἐνέπεσε λόγος τις, ἡ σὴ\nγυνὴ ‘πάντων’, ἔφη, ‘ἄριστον νομίζω τὸν Κινησίαν.’",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 36,
+      "bbox": [
+        643,
+        882,
+        655,
+        902
+      ],
+      "margin_number": 30,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 37,
+      "bbox": [
+        649,
+        122,
+        663,
+        273
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "(desperately)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 38,
+      "bbox": [
+        666,
+        219,
+        680,
+        444
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἴθι νυν κάλεσον αὐτήν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 39,
+      "bbox": [
+        683,
+        122,
+        697,
+        286
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "(stretching out her hand)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 40,
+      "bbox": [
+        699,
+        219,
+        714,
+        432
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "τί οὖν; δώσεις τί μοι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 41,
+      "bbox": [
+        736,
+        882,
+        747,
+        902
+      ],
+      "margin_number": 35,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 42,
+      "bbox": [
+        717,
+        122,
+        759,
+        847
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "νὴ τὸν Δία ἔγωγέ σοί τι δώσω. ἔχω δὲ τοῦτο· ὅπερ οὖν ἔχω δίδωμί σοι. σὺ\nοὖν, ἦ δίδωμι τόδε, κάλεσον αὐτήν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 43,
+      "bbox": [
+        764,
+        122,
+        779,
+        474
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ὃ ἔχει ἐν τῇ χειρὶ δίδωσι τῇ Λυσιστράτῃ)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 44,
+      "bbox": [
+        782,
+        122,
+        796,
+        501
+      ],
+      "margin_number": null,
+      "speaker": "ΛΥ.",
+      "text": "εἶεν· καταβᾶσα καλῶ σοι αὐτήν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 45,
+      "bbox": [
+        799,
+        122,
+        814,
+        344
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(καταβαίνει ἀπὸ τοῦ τείχους)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 46,
+      "bbox": [
+        816,
+        122,
+        830,
+        265
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "ταχέως.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 47,
+      "bbox": [
+        828,
+        882,
+        840,
+        902
+      ],
+      "margin_number": 40,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 48,
+      "bbox": [
+        833,
+        122,
+        847,
+        332
+      ],
+      "margin_number": null,
+      "speaker": "MY.",
+      "text": "(ἔνδον οὖσα)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "text",
+  "pdf_page": 154
+}

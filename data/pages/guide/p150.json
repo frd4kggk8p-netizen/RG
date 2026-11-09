@@ -1,0 +1,61 @@
+{
+  "running_head": "Summary exercises for section 9",
+  "folio": "136",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        78,
+        283,
+        91
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 2,
+      "bbox": [
+        191,
+        103,
+        875,
+        179
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "(a) 2nd s., aor.   (b) 2nd s., aor.   (c) 2nd s., aor.   (d) 2nd pl., pres.\n(e) 2nd pl., pres. (f) 3rd pl., pres. (g) 2nd s., aor   (h) 3rd s., aor"
+          },
+          {
+            "n": "2.",
+            "prompt": "(a) voc.               (b) acc.               (c) voc.               (d) nom.\n(e) voc.               (f) dat."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 150
+}

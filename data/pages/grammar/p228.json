@@ -1,0 +1,248 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "212",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        91,
+        206,
+        122
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "210",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        83,
+        194,
+        102,
+        500
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar for Section 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        130,
+        194,
+        235,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "In this section you cover:\n• Aorist optative, active and middle\n• Verbs: δίδωμι, γιγνώσκω\n• Adjectives: ἀμελής, γλυκύς\n• Relatives: ‘who/which/what/that’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        249,
+        205,
+        263,
+        407
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THE AORIST OPTATIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        280,
+        194,
+        334,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "212. You have already met the present optative active (-οιμι -οις -οι, etc., 184).\nHere is the aorist optative active:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        351,
+        91,
+        456,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• It features, as you will see, σ and α, just like the aorist indicative active\n(129–31). This would lead you to expect the active aorist optative end-\nings to be -σαιμι -σαις -σαι, and these do occur.\n• However, Greek prefers the alternatives using -ει- given in the conjuga-\ntion below:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        477,
+        194,
+        492,
+        453
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist optative active",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 8,
+      "bbox": [
+        510,
+        194,
+        672,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "παύσαιμι\nπαύσα-ι-μι\nπαύσ-ειας (α-ις)\nπαύσ-ειε(ν) (-αι)\nπαύσα-ι-μεν\nπαύσα-ι-τε\nπαύσ-ειαν (α-ι-εν)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        693,
+        194,
+        706,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        715,
+        194,
+        747,
+        915
+      ],
+      "margin_number": null,
+      "speaker": "a",
+      "text": "(a) You know that the ‘sign’ of the optative is ι, and first aorist stem is σα. So\nthere is nothing very difficult here. Look for σ-αι σ-ει.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        753,
+        194,
+        767,
+        493
+      ],
+      "margin_number": null,
+      "speaker": "b",
+      "text": "(b) Note the absence of augment.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        771,
+        194,
+        784,
+        784
+      ],
+      "margin_number": null,
+      "speaker": "c",
+      "text": "(c) Take care with the alternative forms of the 2s. and 3s. and 3pl.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 228
+}

@@ -1,0 +1,488 @@
+{
+  "folio": "116",
+  "running_head": "Section 9D",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        191,
+        191,
+        314,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "many and big. For when his son learned that his father was a lover of being a juror in the lawcourt of the Eliaia, finding the illness hard to bear, first he tried to persuade him not to go out of the house, saying such things: ‘Why’, he said, ‘do you always judge cases, Father, in the lawcourt? Won’t you stop being a juror in the Eliaia court? Won’t you obey your son?’",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        323,
+        191,
+        511,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But the father didn’t obey him persuading [him] not to go out. Then the son introduced the father into the Korybantic rites. But the father, having fallen [headlong] into the lawcourt, was a juror, drum and all. From that time, having shut him inside, we have been guarding him with these nets. The name of the old man is Philokleon, while the name of this son is Bdelykleon.",
+      "lang": "en",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        550,
+        191,
+        595,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9D",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "intro",
+      "order": 4,
+      "bbox": [
+        624,
+        191,
+        646,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 104",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        658,
+        166,
+        694,
+        720
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "τίσι Dative plural of τίς. ‘To whom is the man speaking?’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        698,
+        166,
+        735,
+        816
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ὡς ἐμοὶ δοκεῖ This is the impersonal use of δοκεῖ, ‘as it seems to me’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        739,
+        166,
+        810,
+        874
+      ],
+      "margin_number": 8,
+      "speaker": null,
+      "text": "ἐντυχών τυγχάνω takes the dative in the sense of ‘finding’, ‘happening\nupon’, ‘meeting with’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        814,
+        165,
+        885,
+        874
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "λόγῳ μέν ... ἔργῳ δέ ... ‘in word ... in deed ...’; ‘in theory ... in practice\n...’ a very frequent contrast.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 9,
+      "bbox": [
+        889,
+        165,
+        960,
+        902
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "καπνῷ ἐξιόντι οὐχ ὅμοιος εἶ ὅμοιος takes the dative (‘like to’): ‘You are not\nlike smoke coming out, but more like ...’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        964,
+        165,
+        994,
+        773
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "οὐδενὶ ... ἤ ... ‘He seems to me to be more like to no one than",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        187,
+        14,
+        561,
+        37
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "like smoke coming out, but more like ...'",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        47,
+        45,
+        774,
+        106
+      ],
+      "margin_number": 22,
+      "speaker": null,
+      "text": "οὐδενὶ ... ἤ ... 'He seems to me to be more like to no one than\nPhilokleon.'",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        191,
+        146,
+        367,
+        170
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        91,
+        189,
+        560,
+        229
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "(Shouts to the slaves from the roof.)\nXanthias and Sosias, are you asleep?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        89,
+        233,
+        373,
+        261
+      ],
+      "margin_number": null,
+      "speaker": "XANTHIAS",
+      "text": "Oh dear, poor me!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        89,
+        268,
+        289,
+        293
+      ],
+      "margin_number": null,
+      "speaker": "SOSIAS",
+      "text": "What is it?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        89,
+        300,
+        827,
+        338
+      ],
+      "margin_number": null,
+      "speaker": "XAN.",
+      "text": "The master is no longer sleeping, but is already standing and shouting.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        88,
+        338,
+        506,
+        373
+      ],
+      "margin_number": null,
+      "speaker": "SOS.",
+      "text": "But to whom is the man speaking?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        88,
+        374,
+        901,
+        487
+      ],
+      "margin_number": null,
+      "speaker": "XAN.",
+      "text": "Bdelykleon is saying something to us, as it seems to me. And our master, on\nhappening upon us sleeping, will destroy [us].",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        87,
+        489,
+        877,
+        553
+      ],
+      "margin_number": null,
+      "speaker": "SOS.",
+      "text": "He seems to me too to be saying something, Xanthias. But wanting what are\nyou standing up/what need makes you stand up, master?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        89,
+        557,
+        882,
+        780
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "What need? In theory my father is quiet, Sosias, but in practice he wants to\ngo out. And my father always uses audacity when he wants to go out. But\nnow, as it seems to me at any rate, my father, having gone into the oven, is\nseeking a hole with great zeal. Lord Poseidon, whatever noise is the chimney\nmaking?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        214,
+        782,
+        555,
+        820
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Out of the chimney comes Philokleon.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        191,
+        823,
+        377,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You, who are you?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        90,
+        831,
+        484,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Me, I'm smoke coming out.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 130
+}

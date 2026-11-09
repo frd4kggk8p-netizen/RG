@@ -1,0 +1,625 @@
+{
+  "running_head": "Exercises for section 10",
+  "folio": "144",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        77,
+        116,
+        477
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "I’ve now got everything I need.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        97,
+        88,
+        110,
+        275
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Everything?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        116,
+        88,
+        129,
+        483
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Come here then, Myrrhine baby.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        136,
+        88,
+        172,
+        893
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Now I’m untying my sash. But take care not to cheat me over the treaty which we recently discussed.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        178,
+        88,
+        191,
+        508
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "By Zeus, may I die [if I cheat you].",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 6,
+      "bbox": [
+        197,
+        189,
+        210,
+        484
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Suddenly she stops undressing.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        215,
+        191,
+        227,
+        431
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You don’t have a blanket.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        234,
+        88,
+        246,
+        656
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "By Zeus, I don’t need one, but I want to screw you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        253,
+        88,
+        266,
+        686
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Of course you’ll do this. For I’m coming back quickly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        272,
+        190,
+        286,
+        335
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(She goes out.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        292,
+        88,
+        305,
+        581
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "The creature will kill me with her blankets.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        311,
+        189,
+        324,
+        524
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Myrrhine returns bringing a blanket.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        330,
+        189,
+        417,
+        417
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Now I’ll love you. Look.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        353,
+        88,
+        366,
+        452
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Hang on. Shall I anoint you with myrrh?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        372,
+        88,
+        385,
+        364
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "By Apollo, not me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        390,
+        88,
+        417,
+        887
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Aphrodite, I shall do this. Stretch out your hand and take what I shall give you and anoint yourself.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        430,
+        88,
+        457,
+        898
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "The myrrh which you have given me is not pleasant. For it smells of delay, but it doesn’t smell of marriage.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        465,
+        88,
+        477,
+        608
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Poor me, I’ve brought the myrrh from Rhodes.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        486,
+        88,
+        513,
+        863
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Good. Let it be, my dear lady. May the man who first made myrrh die very horribly. But lie down and don’t bring me anything.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        525,
+        88,
+        558,
+        861
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "I’ll do this, by Artemis. I’m undoing my shoes at any rate. But, my dearest husband, will you vote to make a treaty?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        564,
+        88,
+        577,
+        237
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "I’ll vote.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 22,
+      "bbox": [
+        583,
+        190,
+        596,
+        377
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Myrrhine runs away.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        602,
+        190,
+        655,
+        889
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "What’s going on here? The wife’s gone off and left me. Oh dear, what am I suffering? What shall I suffer? Oh dear, the wife will destroy me. Who shall I screw now? Alas! I’m the unluckiest man alive.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 24,
+      "bbox": [
+        676,
+        190,
+        689,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 25,
+      "bbox": [
+        700,
+        190,
+        752,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Now learn GE p. 219, #219 to master two further forms of the relative pronoun, ὅσπερ and ὅστις. You have met them a few times. Notice that both parts of ὅστις decline.",
+      "lang": "mixed",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 26,
+      "bbox": [
+        785,
+        190,
+        799,
+        481
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 27,
+      "bbox": [
+        819,
+        190,
+        831,
+        355
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST OPTATIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 28,
+      "bbox": [
+        850,
+        190,
+        861,
+        241
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 29,
+      "bbox": [
+        874,
+        190,
+        924,
+        765
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10:1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "he saved"
+          },
+          {
+            "n": "2.",
+            "prompt": "they make/do"
+          },
+          {
+            "n": "3.",
+            "prompt": "they refrained from"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 30,
+      "bbox": [
+        874,
+        550,
+        924,
+        765
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "σῴζοι, σώσειεν\nποιοῖεν, ποιήσειαν\nἀπέχοιντο, ἀπόσχοιντο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 158
+}

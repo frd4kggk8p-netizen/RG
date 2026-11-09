@@ -1,0 +1,428 @@
+{
+  "running_head": "Grammar for Section 9A–E",
+  "folio": "179",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        250,
+        56,
+        335,
+        347
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. κακός\n6. σῶος\n7. μέγιστος\n8. δῆλος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        250,
+        469,
+        362,
+        770
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9. σός\n10. πολύς (N.B. irregular stem)\n11. οὗτος (N.B. irregular stem)\n12. τοιοῦτος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        186,
+        186,
+        219,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 6. Give the meaning and dat. s. and pl. (with def. art.) of the following type 3c nouns:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "6",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following type 3c nouns:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        223,
+        247,
+        260,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. πάθος\n2. πλῆθος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        223,
+        477,
+        243,
+        560
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. τεῖχος",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        283,
+        186,
+        319,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 7. Give the meaning and dat. s. and pl. (with def. art.) of the following 3a–b type nouns:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "7",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following 3a–b type nouns:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        330,
+        248,
+        417,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. δρᾶμα\n2. ἄναξ\n3. ὄνομα\n4. χρῆμα\n5. γείτων",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        330,
+        469,
+        417,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "6. λαμπάς\n7. νύξ\n8. πατρίς\n9. ἡγεμών\n10. γυνή",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 9,
+      "bbox": [
+        429,
+        186,
+        465,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 8. Give the meaning and dat. s. and pl. in all genders of the following 3rd declension and ‘3-1-3’ adjectives/participles:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "8",
+        "instruction": "Give the meaning and dat. s. and pl. in all genders of the following 3rd declension and ‘3-1-3’ adjectives/participles:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 10,
+      "bbox": [
+        477,
+        248,
+        529,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. ἀμείνων\n2. ἰών\n3. ὤν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        477,
+        469,
+        529,
+        589
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "4. θύσας\n5. εὐδαίμων\n6. τις",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        527,
+        186,
+        563,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 9. Give the meaning and (where possible) dat. s. and pl. (with def. art.) of the following:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9",
+        "instruction": "Give the meaning and (where possible) dat. s. and pl. (with def. art.) of the following:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        575,
+        248,
+        638,
+        350
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. Ζεύς\n2. ἐγώ\n3. ναῦς\n4. βασιλεύς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        575,
+        469,
+        626,
+        558
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. σύ\n6. ὀφρύς\n7. γραῦς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        651,
+        186,
+        672,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9A–E: 10. Give the meaning and dat. s. and pl. (with def. art.) of the following:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "10",
+        "instruction": "Give the meaning and dat. s. and pl. (with def. art.) of the following:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        689,
+        248,
+        755,
+        342
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. δικαστής\n2. παῖς\n3. ποταμός\n4. οἴκησις",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        689,
+        469,
+        755,
+        550
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "5. κτῆμα\n6. μάχη\n7. ἱερόν\n8. ἄστυ",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 18,
+      "bbox": [
+        773,
+        186,
+        785,
+        247
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Usage",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 19,
+      "bbox": [
+        794,
+        186,
+        808,
+        680
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "190. The most common uses of the dat. are as follows:",
+      "lang": "mixed",
+      "para_no": 190,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 20,
+      "bbox": [
+        824,
+        186,
+        893,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) To express an ‘indirect object’. Indirect objects are most often found after verbs of giving or saying: they are the person or thing to whom something is given or said (or for whom something is done). In English, indirect objects are regularly introduced by ‘to’, e.g.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "a",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 197
+}

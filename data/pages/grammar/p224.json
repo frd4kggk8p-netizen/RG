@@ -1,0 +1,93 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "206",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        194,
+        82,
+        453,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "D ENGLISH INTO GREEK",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        194,
+        194,
+        114,
+        287
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translate:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        128,
+        194,
+        355,
+        742
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "D",
+        "instruction": "Translate:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "οἱ παῖδες παιζόντων.\nLet the dogs come in!"
+          },
+          {
+            "n": "2",
+            "prompt": "ὁ κῆρυξ εἰσελθέτω εἰς τὴν πόλιν.\nLet the thief steal this dog's share!"
+          },
+          {
+            "n": "3",
+            "prompt": "ἐλπίζει τὸν κακὸν πολίτην διώξειν.\nI expect the defendants will make a good defence speech."
+          },
+          {
+            "n": "4",
+            "prompt": "αὕτη ἡ γυνὴ μέλλει τοῦ ξένου ἀκούσεσθαι.\nThis juror is going to condemn the dog to death."
+          },
+          {
+            "n": "5",
+            "prompt": "οἱ ἱκέται εὐχέσθων πρὸς τοὺς θεούς.\nLet the prosecutor begin the prosecution!"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 224
+}

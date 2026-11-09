@@ -1,0 +1,273 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "200",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        836,
+        52,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "208–209",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        78,
+        194,
+        93,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "■ Form and meaning",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        105,
+        194,
+        133,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) The endings of the future infinitives are the same as those of the present (and second aorist) infinitives: the difference lies solely in the stem.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        138,
+        194,
+        153,
+        903
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) The meaning of the future infinitive is ‘to be about to –’, ‘to be going to –’.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        159,
+        194,
+        193,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(c) One common use of the future infinitive is with verbs that offer some future hope, intention or promise, for example:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 6,
+      "bbox": [
+        209,
+        93,
+        334,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "• ἐλπίζω, ‘I hope/expect (to ...)’, e.g. ἐλπίζω νικήσειν ‘I hope/expect to win’\n• μέλλω, ‘I am about to, intend (to ...)’, e.g. ἔμελλε παύσεσθαι ‘she was about to stop’\n• ὑπισσχνέομαι, ‘I promise (to ...)’, e.g. ὑπισχνεῖται λήψεσθαι ‘he promises to take’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "•",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        354,
+        195,
+        368,
+        305
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        381,
+        194,
+        517,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 3. Form the future infinitive of the following verbs and then translate into English:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J:3",
+        "instruction": "Form the future infinitive of the following verbs and then translate into English:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "κελεύω"
+          },
+          {
+            "n": "2",
+            "prompt": "κωλύω"
+          },
+          {
+            "n": "3",
+            "prompt": "ζητέω"
+          },
+          {
+            "n": "4",
+            "prompt": "πείθομαι"
+          },
+          {
+            "n": "5",
+            "prompt": "δέχομαι"
+          },
+          {
+            "n": "6",
+            "prompt": "ἐξαπατάω"
+          },
+          {
+            "n": "7",
+            "prompt": "ἀπολογέομαι"
+          },
+          {
+            "n": "8",
+            "prompt": "κατηγορέω"
+          },
+          {
+            "n": "9",
+            "prompt": "γράφoμαι"
+          },
+          {
+            "n": "10",
+            "prompt": "βιάζομαι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        549,
+        194,
+        564,
+        338
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ROOT AORISTS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        579,
+        194,
+        650,
+        915
+      ],
+      "margin_number": 209,
+      "speaker": null,
+      "text": "A small number of verbs such as βαίνω, ‘I go’ and γιγνώσκω, ‘I get to know’ have a distinct kind of aorist called a ‘root aorist’. The augment and personal endings are added to the absolutely basic aorist stem, or ‘root’, ending in a vowel – in these cases βη/βa- and γνω/γνο-:",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        667,
+        194,
+        884,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἔβην, ‘I went’\nἔ-βη-ν ‘I went’\nἔ-βη-ς ‘you (s.) ‘went’\nἔ-βη ‘he/she went’\nἔ-βη-μεν ‘we went’\nἔ-βη-τε ‘you (pl.) went’\nἔ-βη-σαν ‘they went’\nInfinitive\nβῆναι ‘to go’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 218
+}

@@ -1,0 +1,588 @@
+{
+  "running_head": "Summary exercises for section 9",
+  "folio": "135",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        188,
+        191,
+        199,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "νεανίας ἐπειρᾶτο αὐτὸν πεῖσαι μὴ δικάζειν, ὁ δὲ γέρων αὐτῷ οὐκ ἐπείθετο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        203,
+        191,
+        215,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίπερ πολλὰ πείθοντι. τέλος δὲ ὁ μὲν νεανίας αὐτὸν ἐν τῇ οἰκίᾳ ἐνέκλεισεν,",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        218,
+        191,
+        230,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ὁ δὲ ἀπορῶν ἐπειρᾶτο φεύγειν, πολλοῖς λόγοις χρώμενος. ἀλλὰ οὐκ ἐδύνατο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        232,
+        191,
+        244,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαθεῖν τοὺς δούλους τοὺς τὴν οἰκίαν φυλάττοντας.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        247,
+        191,
+        258,
+        206
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        262,
+        89,
+        275,
+        836
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛΥΚΛΕΩΝ",
+      "text": "ἄκουσον γάρ, ὦ πάτερ, καὶ ἐμοὶ πιθοῦ. οὐ γάρ ἐάσσω σε λιπόντα τὴν",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        277,
+        191,
+        287,
+        574
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "οἰκίαν ἐν τῷ δικαστηρίῳ δικάζειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        291,
+        89,
+        301,
+        796
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛΟΚΛΕΩΝ",
+      "text": "ἀλλὰ διὰ τί οὐκ ἐάσεις ἐμέ; ἐλπίζω γὰρ σέ μοι πάντα λέξειν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        305,
+        89,
+        316,
+        526
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "διότι πονηρότατος εἶ τῶν ἐν τῇ πόλει.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        320,
+        89,
+        331,
+        560
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "τί οὖν ἐάσεις με ποιεῖν; τί μέλλεις ποιήσειν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        335,
+        89,
+        345,
+        856
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "ἔξεσταί σοι δικάζειν ἐνθάδε ἐν τῇ οἰκίᾳ. ταῦτα δὲ βούλοιο ἂν ποιῆσαι;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        349,
+        89,
+        360,
+        597
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "βουλοίμην ἂν ἔγωγε. εἰπέ μοι ταχέως, τί δεῖ με ποιεῖν;",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        363,
+        89,
+        375,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "ΒΔΕΛ.",
+      "text": "μεῖνον ἐνθάδε. ἐξοίσω γὰρ τὰ τοῦ δικαστηρίου.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 14,
+      "bbox": [
+        378,
+        191,
+        390,
+        608
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(ἐκφέρει μὲν τὰ σκεύη. τὸ δὲ δικαστήριον ποιεῖται.)",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        393,
+        191,
+        404,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "προσελθέτω ὁ ἀντίδικος. ἡ δὲ δίκη ἀρχέσθω. ποῦ ἐστιν ὁ κατήγορος; δεῦρο",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        408,
+        191,
+        419,
+        888
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἐλθέ, ὦ κύον, καὶ κατηγόρησον. ἀνάβθι καὶ εἰπέ. λέγε ἡμῖν τίς καὶ τί",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        421,
+        191,
+        447,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "βουλόμενος τὴν γραφὴν ἐγράψατο. ὦ πάτερ, ἐλπίζω σε προσέξειν τὸν\nνοῦν.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        451,
+        89,
+        462,
+        597
+      ],
+      "margin_number": null,
+      "speaker": "ΦΙΛ.",
+      "text": "μὴ φρόντιζε. ἄγε δή, ὦ κύον, εἰπὲ δή.",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 19,
+      "bbox": [
+        480,
+        241,
+        492,
+        584
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "E – TEST EXERCISE 9",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        510,
+        89,
+        560,
+        891
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Come, all [my] friends, come. For I hear you singing, but am not able to\nsing myself. What shall I do? For these men are guarding me, although I want\nto come with you to the lawcourt and make some trouble. But, O Zeus, stop",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        563,
+        191,
+        603,
+        890
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "giving me troubles and become my friend and pity my suffering. Save me, O\nZeus. Either make me suddenly into smoke, or indeed make me a stone, on",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        605,
+        191,
+        619,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "which they count the votes. Lord, dare to save me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        623,
+        89,
+        634,
+        676
+      ],
+      "margin_number": null,
+      "speaker": "JURORS",
+      "text": "Who is it who is shutting you in? Speak, we beg you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        638,
+        89,
+        663,
+        873
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "My son, know it well. But don’t shout. For he’s actually to be asleep here in\nfront.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        666,
+        89,
+        693,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "JUR.",
+      "text": "Why isn’t it possible for you to come along with us and listen to the prosecutors\nand those defending themselves?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        696,
+        89,
+        736,
+        885
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Men, my son doesn’t allow me to pass judgement or to do anything bad. But\nlook for some device, I beg you. For I intend to hear both the prosecutors and\nthe defendants today.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        739,
+        89,
+        765,
+        866
+      ],
+      "margin_number": null,
+      "speaker": "JUR.",
+      "text": "We can’t save you, friend. For all the members of your family are guarding\nyou, and it is not possible for you to escape.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        769,
+        89,
+        807,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Therefore I must pray to the gods, in hope of escaping. May the gods hear,\nthen, and help. O lord Lykos, neighbouring hero – for you love the lawcourt\n– pity me and save me in my perplexity.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        811,
+        89,
+        850,
+        885
+      ],
+      "margin_number": null,
+      "speaker": "JUR.",
+      "text": "You too, slaves, run and shout and tell Kleon this and order him to come. For\nBdelykleon says that it is necessary not to pass judgement on cases. So let\nKleon come and become a saviour to the old man.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 149
+}

@@ -1,0 +1,74 @@
+{
+  "running_head": "Grammar for Section 10",
+  "folio": "221",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        [
+          203,
+          90,
+          888,
+          114
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "SUMMARY LEARNING VOCABULARY FOR SECTION 10 (continued)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        [
+          139,
+          203,
+          582,
+          584
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "καίτοι\nκατακλίνομαι\nκαταλύω\nμέμφομαι\nμηδαμῶς\nμηδείς μηδεμία μηδέν\n(μηδεν-)\nμήτηρ (μητ(ε)ρ-), ἡ\nμηχανή, ἡ\nοἷος ᾱ ον\nὅς ἥ ὅ\nὅσπερ ἥπερ ὅπερ\nὅστις ἥτις ὅτι\nοὐδαμῶς\nπαρά\nπαύομαι\nποῖος ᾱ ον\nπροσαγορεύω\nσπουδή, ἡ\nσυνοικέω\nτεῖχος, τό\nτοι\nφίλτατος η ον\nφύλαξ (φυλακ-), ὁ, ἡ\nψηφίζομαι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 3,
+      "bbox": [
+        [
+          139,
+          475,
+          878,
+          584
+        ]
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "and yet\nlie down\nbring to an end; finish\nblame, criticise, find fault with (+acc. or dat.)\nnot at all, in no way\nno, no one\nmother (3a)\ndevice, plan (1a)\nwhat a! what sort of!\nwho, what, which\nwho/which indeed\nwho(ever), what(ever)\nin no way, not at all\n(+dat.) with, beside, in the presence of\ncease from (+gen.)\nwhat sort of?\naddress, speak to\nhaste, zeal, seriousness (1a)\nlive with, live together\nwall (of a city) (3c)\nthen (inference)\nmost dear (φίλος)\nguard (3a)\nvote (fut. ψηφιέομαι)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 239
+}

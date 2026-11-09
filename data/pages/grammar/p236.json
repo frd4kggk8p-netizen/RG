@@ -1,0 +1,248 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "217–218",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        89,
+        93,
+        248
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Rule",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        93,
+        93,
+        230,
+        917
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "217. The relative takes the gender and number of its antecedent. It does not take the antecedent’s case. The relative’s case is entirely determined by the function it fulfils within the relative clause – as you can see from the examples given, in all of which the antecedent is in the nom., but only one of the relatives is in the nom. (the first one). Here come the exceptions:",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black right-pointing pointer",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        241,
+        194,
+        258,
+        663
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Some wrinkles (1): suppressing your antecedents",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        263,
+        194,
+        297,
+        916
+      ],
+      "margin_number": 218,
+      "speaker": null,
+      "text": "218. (a) Consider the English ‘whom the gods love, dies young’. Who, exactly, is the subject of ‘dies’?",
+      "lang": "en",
+      "para_no": 1,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        308,
+        93,
+        381,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The answer is an understood ‘he’ or ‘she’: ‘(s)he whom the gods love dies young’.\nIn other words, the antecedent of ‘whom’ has been suppressed.",
+      "lang": "en",
+      "para_no": null,
+      "marker": "blue circle",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        396,
+        246,
+        413,
+        843
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "This is common in Greek: ὃν οἱ θεοὶ φιλοῦσιν ἀποθνῄσκει νέος.*",
+      "lang": "mixed",
+      "para_no": 2,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        423,
+        93,
+        500,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "When you find a suppressed antecedent, check the gender of the relative:",
+      "lang": "en",
+      "para_no": null,
+      "marker": "black right-pointing pointer",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        516,
+        260,
+        608,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "If m., it will mean ‘the man/he who’, e.g. ὃν φιλεῖς ἄπεστιν ‘[He] whom you love is absent’.\nIf f., ‘the woman/she who’, e.g. ἣν φιλεῖς ἄπεστιν ‘[She] whom you love is absent’.\nIf n., ‘the thing which/what’, e.g. ἃ ἐθέλεις, ἔχεις ‘what [things, n.pl.] you want, you have’ (i.e. ‘the things which want …’).",
+      "lang": "mixed",
+      "para_no": 3,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 9,
+      "bbox": [
+        611,
+        194,
+        654,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* The Roman comic poet Plautus translates this: quem di diligunt adolescens moritur. Byron mistranslated this line as ‘Whom the gods love die young’: why is that wrong? What would it be in Greek?",
+      "lang": "en",
+      "para_no": null,
+      "marker": "*",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        676,
+        194,
+        693,
+        611
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Some wrinkles (2): attracting your relatives",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        698,
+        194,
+        750,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(b) If the antecedent is in the genitive or dative case, the Greek relative is sometimes changed (‘attracted’) into that case, irrespective of the function it should have in the relative clause, e.g.",
+      "lang": "en",
+      "para_no": 4,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 12,
+      "bbox": [
+        768,
+        93,
+        907,
+        916
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "περὶ τῶν ἀνδρῶν ὧν γιγνώσκω ‘concerning the men whom I recognise’.\n(We would expect: περὶ τῶν ἀνδρῶν οὓς γιγνώσκω, since ‘whom’ is the object of ‘recognise’; but the relative is attracted into the case of its antecedent ἀνδρῶν and becomes ὧν instead of οὓς.)\nτοῖς ἀνδράσιν οἷς γιγνώσκω ‘to the men whom I recognise’.\n(We would, again, expect οὓς γιγνώσκω; but the relative is attracted into the case of its antecedent ἀνδράσιν and becomes οἷς instead.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "blue circle",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 236
+}

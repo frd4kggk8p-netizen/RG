@@ -1,0 +1,788 @@
+{
+  "running_head": "Section 10C",
+  "folio": "141",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        70,
+        78,
+        93,
+        333
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Are you a man?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        97,
+        80,
+        108,
+        222
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Yes, a man.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        116,
+        78,
+        128,
+        552
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Won’t you get the hell out of here then?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        135,
+        78,
+        149,
+        556
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Who are you, who are chucking me out?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        156,
+        79,
+        169,
+        239
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "A guard.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        176,
+        78,
+        189,
+        237
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "My god!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 7,
+      "bbox": [
+        194,
+        189,
+        209,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Speaking to himself.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        213,
+        189,
+        228,
+        902
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "It’s clear that I must, unlucky as I am, pray to all the gods. Perhaps the gods, to",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        232,
+        189,
+        248,
+        678
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "whom I am praying, will grant that I can see my wife.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        252,
+        189,
+        268,
+        344
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(The man prays.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        272,
+        190,
+        285,
+        597
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "O all you gods, grant that I may see my wife.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 12,
+      "bbox": [
+        291,
+        189,
+        306,
+        482
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Again he addresses Lysistrata.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        311,
+        189,
+        325,
+        563
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "By the gods, call Myrrhine out here now.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        331,
+        80,
+        344,
+        317
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Who are you?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        351,
+        79,
+        363,
+        783
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Her husband, Kinesias of the deme Paionis, with whom she lives.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 16,
+      "bbox": [
+        369,
+        189,
+        384,
+        396
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Speaking to himself.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        389,
+        189,
+        403,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Hurrah! Because I’ve prayed, the gods have granted that I can see Myrrhine.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        409,
+        79,
+        442,
+        906
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Hello, dearest Kinesias. For we too know your name well. For you are always\non your wife’s lips. Taking an apple, she says, ‘How gladly would I give this to\nKinesias.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        490,
+        79,
+        502,
+        773
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Oh by the gods, am I the man to whom Myrrhine wants to give apples?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        509,
+        79,
+        542,
+        900
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "[Yes] by Aphrodite. Indeed, even yesterday, when some discussion concerning\nmen arose, your wife said, ‘I consider Kinesias the best of all.’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        550,
+        79,
+        561,
+        381
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Then go and call her.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        568,
+        79,
+        580,
+        569
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "What then? Will you give me something?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        587,
+        79,
+        622,
+        870
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "By Zeus, I’ll give you something. I have this. So what I have I give you. So\nyou, to whom I give this, call her.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 24,
+      "bbox": [
+        626,
+        189,
+        642,
+        532
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(He gives what he has in his hand to Lysistrata.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        647,
+        79,
+        660,
+        521
+      ],
+      "margin_number": null,
+      "speaker": "LYS.",
+      "text": "Well then, I’ll go down and call her for you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 26,
+      "bbox": [
+        665,
+        189,
+        680,
+        424
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(She goes down from the wall.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        686,
+        79,
+        698,
+        241
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Quickly.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 28,
+      "bbox": [
+        704,
+        79,
+        715,
+        335
+      ],
+      "margin_number": null,
+      "speaker": "MYRRHINE",
+      "text": "(Inside.)",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        723,
+        190,
+        736,
+        785
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Don’t you call me to him, Lysistrata. For I don’t want to go down.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 30,
+      "bbox": [
+        743,
+        79,
+        775,
+        881
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Myrrhine baby, why are you doing this? Come down with all haste and come\nhere.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 31,
+      "bbox": [
+        782,
+        79,
+        794,
+        537
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Zeus, I won’t. I’ll go away instead.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 32,
+      "bbox": [
+        801,
+        79,
+        814,
+        631
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Don’t go away, but listen to our baby at any rate.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 33,
+      "bbox": [
+        819,
+        189,
+        834,
+        631
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(He speaks to the baby, which a servant carries.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 34,
+      "bbox": [
+        839,
+        189,
+        852,
+        420
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "You there, won’t you call mummy?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 35,
+      "bbox": [
+        858,
+        80,
+        871,
+        335
+      ],
+      "margin_number": null,
+      "speaker": "BABY",
+      "text": "Mummy mummy mummy.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 36,
+      "bbox": [
+        878,
+        79,
+        891,
+        888
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "You there, what’s up with you? Don’t you pity the baby, which is unwashed?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 37,
+      "bbox": [
+        897,
+        79,
+        909,
+        399
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "In that case I do pity it.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 38,
+      "bbox": [
+        916,
+        79,
+        929,
+        705
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Come down then, my dear lady, for the sake of our baby.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 39,
+      "bbox": [
+        935,
+        79,
+        948,
+        570
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "What it is to be a mother. I must go down.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 155
+}

@@ -1,0 +1,568 @@
+{
+  "running_head": "Section 9G",
+  "folio": "124",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        168,
+        77,
+        885,
+        884
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἴθι See GE p. 191, #201 for the imperatives of εἰμί, εἶμι and οἶδα.\nλέξον Another aorist imperative.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        159,
+        156,
+        303,
+        831
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "κάδων ἔνεκα There were two voting-urns, one for guilty and one for\ninnocent. Jurors placed their pebbles in one or the other.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        159,
+        156,
+        321,
+        822
+      ],
+      "margin_number": 12,
+      "speaker": null,
+      "text": "μὴ ἄπιθι μηδαμῶς, ἀλλ᾽ ἐμοὶ πιθοῦ καὶ ἄκουσον, ὦ πάτερ More\nimperatives. Note πιθοῦ, the 2nd person singular second aorist middle\nimperative from ἐπιθόμην.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        159,
+        156,
+        335,
+        715
+      ],
+      "margin_number": 14,
+      "speaker": null,
+      "text": "ἔασον The -σον ending again from the aorist imperative of ἐάω.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        158,
+        158,
+        362,
+        901
+      ],
+      "margin_number": 17,
+      "speaker": null,
+      "text": "παῦσαι 2nd person singular of the aorist imperative middle of παύω. The\nspelling is exactly the same as the aorist infinitive active παῦσαι from ἔπαυσα,\nbut the context will almost always make the meaning clear.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        304,
+        191,
+        323,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 111",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        330,
+        156,
+        399,
+        880
+      ],
+      "margin_number": 24,
+      "speaker": null,
+      "text": "ἡ κλεψύδρα The water clock was used to measure the time allowed for the\nprosecution speech and the defence speech.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        370,
+        157,
+        497,
+        884
+      ],
+      "margin_number": 32,
+      "speaker": null,
+      "text": "παῦσαι See the note on line 17 above. Note all the other aorist imperatives\nthat follow. The 2nd persons plural are much easier to recognise than the 2nd\npersons singular, because they are like the 2nd person plural of the aorist\nindicative, though without the augment.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        445,
+        158,
+        482,
+        755
+      ],
+      "margin_number": 34,
+      "speaker": null,
+      "text": "κατηγορεῖτε The κατά- prefix suggests ‘I speak against’, ‘prosecute’,\n‘accuse’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        499,
+        192,
+        517,
+        362
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 9G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        525,
+        89,
+        539,
+        646
+      ],
+      "margin_number": null,
+      "speaker": "BDELYKLEON",
+      "text": "Does everything please you, Father? Tell me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        546,
+        89,
+        560,
+        706
+      ],
+      "margin_number": null,
+      "speaker": "PHILOKLEON",
+      "text": "Everything does indeed please me, know that well.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        562,
+        89,
+        577,
+        725
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Therefore sit down, father. Look, I am calling the first case.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        583,
+        89,
+        597,
+        519
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Don’t call the case, child, but listen.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        604,
+        89,
+        618,
+        715
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Well, all right, I’m listening. What do you say? Go on, Father, speak.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        621,
+        89,
+        654,
+        874
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Where are the voting-urns? For I cannot place the vote without voting-urns,\nknow it well.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 17,
+      "bbox": [
+        661,
+        190,
+        675,
+        470
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The old man begins to run out.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        680,
+        89,
+        694,
+        507
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Hey, you, where are you hurrying?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        701,
+        89,
+        715,
+        519
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "I’m running out because of the urns.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        719,
+        89,
+        733,
+        716
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Don’t go away in any way, but obey me and listen, Father.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        740,
+        89,
+        775,
+        814
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But, child, I must look for the voting-urns and place my vote. But let\n[me].",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 22,
+      "bbox": [
+        779,
+        189,
+        794,
+        381
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Again begins to run out.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 23,
+      "bbox": [
+        798,
+        89,
+        831,
+        837
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Stop running out, Father, since I happen to have these cups. So don’t go\naway.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        837,
+        89,
+        850,
+        683
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Fine! For everything of the lawcourt is here – except –",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        856,
+        89,
+        870,
+        351
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Speak; what is it?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        875,
+        89,
+        888,
+        775
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Except the water clock. Where is the water clock? Bring it to me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        895,
+        89,
+        908,
+        233
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Look!",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 28,
+      "bbox": [
+        912,
+        191,
+        928,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(He shows his father’s chamber-pot.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 138
+}

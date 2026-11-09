@@ -1,0 +1,427 @@
+{
+  "running_head": "Exercises for section 9H-J",
+  "folio": "132",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        190,
+        80,
+        287,
+        904
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "I intend to reveal [it]. You have been acquitted, Labes. Father, Father. What are you suffering? Alas, where is water? Lift yourself up, stand up.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        114,
+        87,
+        158,
+        878
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Now tell me that, has he really been acquitted? You will destroy me with the word.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        159,
+        87,
+        175,
+        363
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "[Yes] by Zeus.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        177,
+        87,
+        192,
+        361
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Then I am nothing.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        195,
+        87,
+        210,
+        582
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Don’t worry, my good fellow, but stand up.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        213,
+        87,
+        287,
+        893
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But did I acquit the man who was the defendant with the voting-pebble? What do I suffer? Whatever shall I suffer? But, O much-honoured gods, forgive me, because I did that by placing my voting-pebble involuntarily and not convicting.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        321,
+        191,
+        333,
+        504
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISES FOR SECTION 9H–J",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        355,
+        191,
+        369,
+        469
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "THIRD PERSON IMPERATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        384,
+        191,
+        396,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 1",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        409,
+        191,
+        500,
+        762
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J: 1",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "let him/her hear"
+          },
+          {
+            "n": "2.",
+            "prompt": "let them retreat"
+          },
+          {
+            "n": "3.",
+            "prompt": "let him/her converse"
+          },
+          {
+            "n": "4.",
+            "prompt": "let him/her learn"
+          },
+          {
+            "n": "5.",
+            "prompt": "let them be silent"
+          },
+          {
+            "n": "6.",
+            "prompt": "be victorious (pl.)"
+          },
+          {
+            "n": "7.",
+            "prompt": "let him/her carry"
+          },
+          {
+            "n": "8.",
+            "prompt": "let them release"
+          },
+          {
+            "n": "9.",
+            "prompt": "let him/her/it begin"
+          },
+          {
+            "n": "10.",
+            "prompt": "let them turn"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 11,
+      "bbox": [
+        525,
+        191,
+        538,
+        264
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 2",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 12,
+      "bbox": [
+        549,
+        191,
+        735,
+        878
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J: 2",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "let him/her/it be."
+          },
+          {
+            "n": "2.",
+            "prompt": "It is possible to see everything in the house."
+          },
+          {
+            "n": "3.",
+            "prompt": "let him/her learn everything."
+          },
+          {
+            "n": "4.",
+            "prompt": "let every one arrive."
+          },
+          {
+            "n": "5.",
+            "prompt": "let them leave and let them not remain/ let them leave without waiting."
+          },
+          {
+            "n": "6.",
+            "prompt": "let him/her/it go."
+          },
+          {
+            "n": "7.",
+            "prompt": "let everyone carry the man out."
+          },
+          {
+            "n": "8.",
+            "prompt": "let it be impossible to find these things in the harbour."
+          },
+          {
+            "n": "9.",
+            "prompt": "let him/her know."
+          },
+          {
+            "n": "10.",
+            "prompt": "put all these things here."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 13,
+      "bbox": [
+        762,
+        191,
+        775,
+        386
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "FUTURE INFINITIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 14,
+      "bbox": [
+        791,
+        191,
+        804,
+        263
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9H–J: 3",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 15,
+      "bbox": [
+        813,
+        191,
+        925,
+        746
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9H-J: 3",
+        "instruction": null,
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "κελεύσειν to be about to order"
+          },
+          {
+            "n": "2.",
+            "prompt": "κωλύσειν to be about to hinder"
+          },
+          {
+            "n": "3.",
+            "prompt": "ζητήσειν to be about to seek"
+          },
+          {
+            "n": "4.",
+            "prompt": "πείσεσθαι to be about to obey"
+          },
+          {
+            "n": "5.",
+            "prompt": "δέξεσθαι to be about to receive"
+          },
+          {
+            "n": "6.",
+            "prompt": "ἐξαπατήσειν to be about to deceive"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 146
+}

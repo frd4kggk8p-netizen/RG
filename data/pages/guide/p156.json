@@ -1,0 +1,588 @@
+{
+  "running_head": "Section 10D",
+  "folio": "142",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        206,
+        91,
+        233,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        191,
+        230,
+        210,
+        314
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 126",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        220,
+        155,
+        253,
+        903
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ff. γλυκύς and ἀμελής are used frequently. Learn these adjectives either now or at the end of this section (GE p. 215, #215). For γλυκύς cf. ‘glucose’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 4,
+      "bbox": [
+        256,
+        156,
+        297,
+        878
+      ],
+      "margin_number": 11,
+      "speaker": null,
+      "text": "πιθομένη Second aorist participle middle from πείθω, ‘having obeyed’, or ‘having been persuaded by’.\nτοιαύταις ‘by such women’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        300,
+        156,
+        326,
+        888
+      ],
+      "margin_number": 13,
+      "speaker": null,
+      "text": "παῦσαι The context will tell you whether this is aorist imperative middle or aorist infinitive active.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        329,
+        156,
+        365,
+        878
+      ],
+      "margin_number": 15,
+      "speaker": null,
+      "text": "βαδιῇ (What part of the verb is this?). Many -ιζω verbs have futures of this type. This one is middle, βαδιοῦμαι, as in the next line.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        368,
+        156,
+        381,
+        781
+      ],
+      "margin_number": 19,
+      "speaker": null,
+      "text": "κατακλίνῃ Notice also κλινίδιον ‘bed’. Cf. ‘recline’, ‘incline’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        384,
+        155,
+        399,
+        617
+      ],
+      "margin_number": 20,
+      "speaker": null,
+      "text": "ἐρῶ ‘I shall say’, ὡς here means ‘that’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        414,
+        192,
+        430,
+        373
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Translation for 10D",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 10,
+      "bbox": [
+        435,
+        191,
+        452,
+        790
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Myrrhine, coming down and reaching the gate, speaks to the baby.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 11,
+      "bbox": [
+        463,
+        89,
+        523,
+        907
+      ],
+      "margin_number": null,
+      "speaker": "MYRRHINE",
+      "text": "My child, how sweet you are. Come, I’ll kiss you. For your mother’s kiss is sweet. Your mother is sweet too; but you do not have a sweet father, but an uncaring one. I find fault with your father since he’s uncaring. Child, how unlucky you appear to be because of your father.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        526,
+        89,
+        558,
+        910
+      ],
+      "margin_number": null,
+      "speaker": "KINESIAS",
+      "text": "But do you call your husband uncaring? For there’s no one more uncaring than you and no one more unlucky than me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 13,
+      "bbox": [
+        561,
+        191,
+        577,
+        617
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(Stretching out his hand to his wife, he speaks.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        580,
+        191,
+        616,
+        869
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "What is it that you want, you bad woman, that you do these things, obeying such women?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        619,
+        89,
+        630,
+        756
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "Stop, you vilest of men, and don’t stretch out your hand to me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        633,
+        89,
+        645,
+        345
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Won’t you come back home?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 17,
+      "bbox": [
+        648,
+        89,
+        674,
+        886
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Zeus, I won’t go home. Before I do, the men must cease from the war and make a treaty. Will you do this?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 18,
+      "bbox": [
+        677,
+        89,
+        689,
+        648
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Why won’t you lie down with me for a short time?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 19,
+      "bbox": [
+        692,
+        89,
+        704,
+        603
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "No. And yet I won’t say that I don’t love you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 20,
+      "bbox": [
+        707,
+        89,
+        719,
+        574
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "You love me? So why don’t you lie down?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 21,
+      "bbox": [
+        722,
+        89,
+        734,
+        532
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "You silly fellow, in front of the baby?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 22,
+      "bbox": [
+        737,
+        89,
+        749,
+        660
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "[You’re right] by Zeus. Manes, take the baby home.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 23,
+      "bbox": [
+        752,
+        191,
+        764,
+        674
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The servant, who is carrying the baby, goes off home.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 24,
+      "bbox": [
+        767,
+        191,
+        780,
+        712
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Look, the baby is out of the way, so won’t you lie down?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 25,
+      "bbox": [
+        783,
+        89,
+        795,
+        781
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "But where should one do this? For first I must bring a little couch.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 26,
+      "bbox": [
+        798,
+        89,
+        810,
+        750
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Not at all, since it is possible for us to lie down on the ground.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 27,
+      "bbox": [
+        813,
+        89,
+        839,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "MYR.",
+      "text": "By Apollo, I shan’t allow you to lie down on the ground despite the state you’re in.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 28,
+      "bbox": [
+        842,
+        191,
+        855,
+        326
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(She goes out.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 29,
+      "bbox": [
+        858,
+        89,
+        870,
+        668
+      ],
+      "margin_number": null,
+      "speaker": "KIN.",
+      "text": "Oh what good luck! It’s clear that my wife loves me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 156
+}

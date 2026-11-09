@@ -1,0 +1,321 @@
+{
+  "running_head": "197-199",
+  "folio": "189",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "order": 1,
+      "bbox": [
+        82,
+        48,
+        907,
+        138
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "But this distinction is often a very fine one and ‘rules’ as such are very difficult to make. It is far better to observe closely actual Greek usage and ask, ‘What is the Greek suggesting about the way we should understand this infinitive by using this particular aspect?’",
+      "lang": "en",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        176,
+        180,
+        289,
+        192
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        202,
+        187,
+        880,
+        301
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F-G: 2. Give the meaning and aspect (pres./aor.) of the following infinitives:\n1. ποιῆσαι\t5. μανθάνειν\t9. ἄρχεσθαι\n2. νικᾶν\t6. δραμεῖν\t10. γενέσθαι\n3. λέγειν\t7. δικάσαι\t11. ἐλθεῖν\n4. ἐλευθερῶσαι\t8. ἰδεῖν\t12. ἄγειν",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 2",
+        "instruction": "Give the meaning and aspect (pres./aor.) of the following infinitives:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "ποιῆσαι"
+          },
+          {
+            "n": "2",
+            "prompt": "νικᾶν"
+          },
+          {
+            "n": "3",
+            "prompt": "λέγειν"
+          },
+          {
+            "n": "4",
+            "prompt": "ἐλευθερῶσαι"
+          },
+          {
+            "n": "5",
+            "prompt": "μανθάνειν"
+          },
+          {
+            "n": "6",
+            "prompt": "δραμεῖν"
+          },
+          {
+            "n": "7",
+            "prompt": "δικάσαι"
+          },
+          {
+            "n": "8",
+            "prompt": "ἰδεῖν"
+          },
+          {
+            "n": "9",
+            "prompt": "ἄρχεσθαι"
+          },
+          {
+            "n": "10",
+            "prompt": "γενέσθαι"
+          },
+          {
+            "n": "11",
+            "prompt": "ἐλθεῖν"
+          },
+          {
+            "n": "12",
+            "prompt": "ἄγειν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        329,
+        186,
+        392,
+        300
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "AORIST IMPERATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        361,
+        185,
+        907,
+        434
+      ],
+      "margin_number": 198,
+      "speaker": null,
+      "text": "You have already met present imperatives (active -ε -ετε, middle -ου -εσθε). These are based on the present stem (18). There are also imperatives based (do you ever get that déjà vu feeling?) on the aorist stem, first and second. Their forms are as follows:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 6,
+      "bbox": [
+        452,
+        186,
+        601,
+        202
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "First aorist imperatives active and middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 7,
+      "bbox": [
+        481,
+        186,
+        633,
+        638
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Active (-[σ]ον, -[σ]α-τε)\n2s. παῦσ-ον ‘stop!’\n2pl. παύσα-τε ‘stop!’\nMiddle (-[σ]-αι, -[σ]-ασθε)\n2s. παῦσα-ι ‘cease!’\n2pl. παύσα-σθε ‘cease!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        658,
+        186,
+        723,
+        261
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Forms",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        680,
+        185,
+        907,
+        715
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Observe once again the familiar first aorist stem in -(σ)α-. Note particularly carefully:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        726,
+        185,
+        805,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The s. active imperative form in -(σ)ον (cf. from the Mass, Κύριε, ἐλέησον, Χριστέ, ἐλέησον ‘Lord, have mercy, Christ, have mercy!’) – the absence of α makes this look strange as a first aorist form cf. 130(a);",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        808,
+        185,
+        841,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The ambiguity of παῦσαι, which is (i) aor. act. inf. ‘to stop (someone else)’ (195) and (ii) 2s. middle imperative, ‘cease!’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 12,
+      "bbox": [
+        862,
+        186,
+        632,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist imperatives active and middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        884,
+        185,
+        907,
+        907
+      ],
+      "margin_number": 199,
+      "speaker": null,
+      "text": "Like many other forms in the second aorist, the imperative endings are like the present:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 207
+}

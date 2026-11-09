@@ -1,0 +1,715 @@
+{
+  "running_head": "Revision exercises for section 10",
+  "folio": "146",
+  "blocks": [
+    {
+      "type": "vocab_entry",
+      "order": 1,
+      "bbox": [
+        197,
+        54,
+        219,
+        743
+      ],
+      "margin_number": 9,
+      "speaker": null,
+      "text": "what ὅ, ὅτι ἅ, ἅτινα, ἅττα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 2,
+      "bbox": [
+        217,
+        57,
+        240,
+        743
+      ],
+      "margin_number": 10,
+      "speaker": null,
+      "text": "what ὅ, ὅτι, ἅ, ἅτινα, ἅττα",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 3,
+      "bbox": [
+        260,
+        192,
+        276,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "10:6",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        283,
+        192,
+        303,
+        335
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ᾗ, ᾗτινι",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 5,
+      "bbox": [
+        304,
+        192,
+        323,
+        396
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ὧν, ὧντινων, ὅτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 6,
+      "bbox": [
+        323,
+        192,
+        344,
+        397
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ὧν, ὧντινων, ὅτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 7,
+      "bbox": [
+        344,
+        192,
+        362,
+        331
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ᾧ, ᾧτινι, ὅτῳ",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 8,
+      "bbox": [
+        363,
+        192,
+        383,
+        397
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ὧν, ὧντινων, ὅτων",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        404,
+        192,
+        420,
+        587
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 10,
+      "bbox": [
+        443,
+        192,
+        458,
+        303
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "A – WORDS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 11,
+      "bbox": [
+        467,
+        128,
+        488,
+        206
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "uncaring",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 12,
+      "bbox": [
+        467,
+        294,
+        487,
+        401
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "it concerns",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 13,
+      "bbox": [
+        363,
+        500,
+        396,
+        646
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the act of giving\n(dose)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 14,
+      "bbox": [
+        363,
+        705,
+        397,
+        893
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "giving in return,\nrepayment (antidote)",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 15,
+      "bbox": [
+        403,
+        128,
+        423,
+        178
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I give",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 16,
+      "bbox": [
+        403,
+        294,
+        423,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I give back",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 17,
+      "bbox": [
+        401,
+        500,
+        436,
+        644
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I give a present,\nI bribe",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 18,
+      "bbox": [
+        443,
+        128,
+        461,
+        169
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a gift",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 19,
+      "bbox": [
+        443,
+        294,
+        463,
+        416
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "the gift, bribe",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 20,
+      "bbox": [
+        480,
+        128,
+        500,
+        209
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a scheme",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 21,
+      "bbox": [
+        480,
+        294,
+        500,
+        416
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I plan, contrive",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 22,
+      "bbox": [
+        501,
+        128,
+        520,
+        218
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "zeal, haste",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 23,
+      "bbox": [
+        501,
+        294,
+        521,
+        460
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I am zealous, busy",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 24,
+      "bbox": [
+        501,
+        500,
+        536,
+        629
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "eager, serious,\nimportant",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 25,
+      "bbox": [
+        556,
+        128,
+        574,
+        217
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I live with",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 26,
+      "bbox": [
+        556,
+        294,
+        591,
+        448
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a living together,\nmarriage",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 27,
+      "bbox": [
+        602,
+        128,
+        622,
+        185
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "a wall",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 28,
+      "bbox": [
+        602,
+        294,
+        622,
+        375
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "I fortify",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 29,
+      "bbox": [
+        655,
+        192,
+        672,
+        525
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – MORPHOLOGY AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 30,
+      "bbox": [
+        681,
+        192,
+        755,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "1. a. You could speak to me. προσαγορεύσαις\nb. I would gladly give up the war. παυσαίμην\nc. We should like to make a truce with great eagerness. ἐθελήσαιμεν\nd. I could not do this, Mother. ποιήσαιμι\ne. I could see the city. ἴδοιμι",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "You could speak to me. προσαγορεύσαις"
+          },
+          {
+            "n": "b",
+            "prompt": "I would gladly give up the war. παυσαίμην"
+          },
+          {
+            "n": "c",
+            "prompt": "We should like to make a truce with great eagerness. ἐθελήσαιμεν"
+          },
+          {
+            "n": "d",
+            "prompt": "I could not do this, Mother. ποιήσαιμι"
+          },
+          {
+            "n": "e",
+            "prompt": "I could see the city. ἴδοιμι"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 31,
+      "bbox": [
+        763,
+        192,
+        857,
+        867
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "2. a. Will you give me what you have? δώσεις\nb. He was giving the money to the woman. ἐδίδου\nc. Why are you not willing to give me what I ask for? διδόναι\nd. Why are you giving me this apple, Myrrhine? δίδως\ne. Suddenly giving (aorist participle) the woman the money which she demanded, the man went away. δούς",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "Will you give me what you have? δώσεις"
+          },
+          {
+            "n": "b",
+            "prompt": "He was giving the money to the woman. ἐδίδου"
+          },
+          {
+            "n": "c",
+            "prompt": "Why are you not willing to give me what I ask for? διδόναι"
+          },
+          {
+            "n": "d",
+            "prompt": "Why are you giving me this apple, Myrrhine? δίδως"
+          },
+          {
+            "n": "e",
+            "prompt": "Suddenly giving (aorist participle) the woman the money which she demanded, the man went away. δούς"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 32,
+      "bbox": [
+        865,
+        192,
+        959,
+        909
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "3. a. Kinesias is the husband of Myrrhine. Kinesias goes to the Acropolis.\nΚινησίας, ὃς ἀνήρ ἐστι Μυρρίνης, βαδίζει πρὸς τὴν ἀκρόπολιν.\nb. The women are on the Acropolis. The women are shouting.\nαἱ γυναῖκες, αἵ εἰσιν ἐν τῇ ἀκροπόλει, βοῶσιν.\nc. The men are fighting the battles. The men do not in any way want to end\nthe war.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "Kinesias is the husband of Myrrhine. Kinesias goes to the Acropolis. Κινησίας, ὃς ἀνήρ ἐστι Μυρρίνης, βαδίζει πρὸς τὴν ἀκρόπολιν."
+          },
+          {
+            "n": "b",
+            "prompt": "The women are on the Acropolis. The women are shouting. αἱ γυναῖκες, αἵ εἰσιν ἐν τῇ ἀκροπόλει, βοῶσιν."
+          },
+          {
+            "n": "c",
+            "prompt": "The men are fighting the battles. The men do not in any way want to end the war."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 160
+}

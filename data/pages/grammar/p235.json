@@ -1,0 +1,288 @@
+{
+  "running_head": "216a–b — Grammar for Section 10",
+  "folio": "217",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        185,
+        78,
+        228,
+        229
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Form",
+      "lang": "en",
+      "para_no": null,
+      "marker": "square_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 2,
+      "bbox": [
+        82,
+        82,
+        134,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Except for ὅς , the relative declines exactly like the definite article without the τ-.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "blue_bullet",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 3,
+      "bbox": [
+        185,
+        185,
+        198,
+        907
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "* In the three places where the forms of the relative are exactly the same as the definite article, the relative is distinguished by its accent, i.e. ἥ οἵ αἵ.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": "asterisk",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        215,
+        185,
+        230,
+        529
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Meaning and usage of the relative",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 5,
+      "bbox": [
+        239,
+        185,
+        255,
+        495
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "216b. The relative pronoun means:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        267,
+        230,
+        338,
+        591
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "nom.: ‘who, which, what, that’\nacc.: ‘who, whom, which, what, that’\ngen.: ‘of whom, of which, whose’\ndat.: ‘to, for, by, with which/whom’",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 7,
+      "bbox": [
+        354,
+        185,
+        369,
+        497
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Consider the following utterances:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 8,
+      "bbox": [
+        384,
+        185,
+        499,
+        907
+      ],
+      "margin_number": 1,
+      "speaker": null,
+      "text": "ἡ γυνὴ ἣ οὐ φιλεῖ τὸν ἄνδρα ‘the woman who does not love her husband’\nComment: ἣ refers to ἡ γυνὴ, and is therefore f. and s. Another way of putting it is to say that ἡ γυνὴ is the antecedent of ἣ (Latin, ‘that which comes before’). The case of ἣ is nom., because ἣ is the person who does not love her husband, i.e. is subject of the ‘who’ clause.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        510,
+        185,
+        574,
+        907
+      ],
+      "margin_number": 2,
+      "speaker": null,
+      "text": "ὁ παῖς ὃν φιλῶ ‘the boy whom I like’\nComment: ὃν refers to ὁ παῖς, and is therefore m. and s. (ὁ παῖς is the antecedent of ὃν). Its case, however, is acc., because ὃν is the object of φιλεῖ ‘I like’ (I like the boy, represented by ‘whom’).",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        574,
+        185,
+        646,
+        907
+      ],
+      "margin_number": 3,
+      "speaker": null,
+      "text": "ἡ γυνὴ οὗ τὸν ἄνδρα μισῶ ‘the woman whose husband I hate’\nComment: οὗ refers to ἡ γυνὴ, so is f. and s. So ἡ γυνὴ is the antecedent . . . . But its case is gen. because ‘whose’ = ‘of whom’. Put another way, the relative clause means ‘I hate the husband of the woman’, gen.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 11,
+      "bbox": [
+        658,
+        185,
+        710,
+        907
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "οἱ παῖδες οἷς δίδωμι τὰ μῆλα ‘the boys to whom I give the apples’\nComment: οἷς is pl. and m. because its antecedent is οἱ παῖδες. It is dat. because ‘I am giving the apples to the boys’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 12,
+      "bbox": [
+        722,
+        185,
+        773,
+        907
+      ],
+      "margin_number": 5,
+      "speaker": null,
+      "text": "ἡ οἰκία εἰς ἣν ἔρχομαι ‘the house into which I go’\nComment: ἣν refers to its antecdent ἡ οἰκία, so is f. and s. But it is acc. because εἰς works with the acc.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 13,
+      "bbox": [
+        784,
+        185,
+        846,
+        907
+      ],
+      "margin_number": 6,
+      "speaker": null,
+      "text": "αἱ γυναῖκες μεθ’ ὧν πορεύομαι ‘the women with whom I travel’\nComment: ὧν is f. and pl. because its antecedent is αἱ γυναῖκες. It is gen. because μεθ’ (μετά) takes the gen. – ‘I am travelling with the women’.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 14,
+      "bbox": [
+        858,
+        185,
+        911,
+        907
+      ],
+      "margin_number": 7,
+      "speaker": null,
+      "text": "ἡ οἰκία ἐν ᾗ οἰκῶ ‘the house in which I live’\nComment: ᾗ, antecedent ἡ οἰκία, is f. s.; and dat. because ἐν works with the dat.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 235
+}

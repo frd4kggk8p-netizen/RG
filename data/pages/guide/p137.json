@@ -1,0 +1,428 @@
+{
+  "running_head": "Section 9G",
+  "folio": "123",
+  "blocks": [
+    {
+      "type": "passage_line",
+      "order": 1,
+      "bbox": [
+        88,
+        80,
+        740,
+        908
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "But how will it be possible for me to be a juror if I stay here?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 2,
+      "bbox": [
+        98,
+        88,
+        126,
+        880
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "There will be a courtroom for you in your own house and you will be able to judge the members of the household.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 3,
+      "bbox": [
+        138,
+        88,
+        153,
+        659
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "What do you say? But in what way and about what?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 4,
+      "bbox": [
+        156,
+        88,
+        269,
+        905
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "About many things. Come then. For you have many household slaves, but you know well that the slaves do not want to stop doing wrong, but are responsible for many bad things. So you must become a spy of the affairs which happen in the house. And it will be possible for you being a spy to discover these evils today, and having discovered them to exact justice. So wouldn't you like to do this, and to force the household slaves to cease from their evils and become better?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 5,
+      "bbox": [
+        272,
+        88,
+        326,
+        904
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "I certainly would like to. For you convince me with your words. But you have not yet said this, from where I shall be able to get the pay. Wouldn't you like to reveal the matter?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 6,
+      "bbox": [
+        330,
+        88,
+        344,
+        407
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "You will get it from me.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 7,
+      "bbox": [
+        351,
+        88,
+        363,
+        337
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "You speak well.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 8,
+      "bbox": [
+        368,
+        88,
+        381,
+        523
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "And you would be willing to do this?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 9,
+      "bbox": [
+        386,
+        88,
+        399,
+        290
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "I would do this.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 10,
+      "bbox": [
+        406,
+        88,
+        498,
+        899
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Hold on now. For I shall come quickly bringing the things of the lawcourt in my hands. By Zeus, I shall bring everything out.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "stage_direction",
+      "order": 11,
+      "bbox": [
+        444,
+        189,
+        522,
+        901
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "The old man waits around, but the son goes into the house. After a short while Bdelykleon, on coming out, carries the things of the lawcourt in his hands with difficulty.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 12,
+      "bbox": [
+        530,
+        88,
+        544,
+        751
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "Look. For at last I have brought out the things of the lawcourt.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 13,
+      "bbox": [
+        548,
+        88,
+        563,
+        566
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Indeed, have you brought out everything?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 14,
+      "bbox": [
+        566,
+        88,
+        622,
+        875
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "[Yes] by Zeus, I think at any rate that I have brought everything. And I have brought out this fire, at least. Look, near the fire there is some lentil soup for you.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 15,
+      "bbox": [
+        628,
+        88,
+        700,
+        896
+      ],
+      "margin_number": null,
+      "speaker": "PHIL.",
+      "text": "Hurrah, hurrah! For it will be possible for me to eat the lentil-soup while I am judging. And by Zeus I shall eat it, as it seems to me, with all eagerness, being clever at eating. But wanting what have you brought out the cockerel?",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "passage_line",
+      "order": 16,
+      "bbox": [
+        705,
+        88,
+        737,
+        903
+      ],
+      "margin_number": null,
+      "speaker": "BDEL.",
+      "text": "What? The cock will be able to wake you up with its voice. For the speeches of the prosecutors are long, and you are clever at sleeping, although sitting in the lawcourt.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 17,
+      "bbox": [
+        757,
+        189,
+        773,
+        283
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Grammar",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 18,
+      "bbox": [
+        782,
+        189,
+        810,
+        908
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Make sure that you have learned the principal parts of the irregular verbs you have met in this section before you go on further, and check that you can recognise the aorist infinitives active and middle.",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 19,
+      "bbox": [
+        827,
+        191,
+        856,
+        258
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 20,
+      "bbox": [
+        867,
+        191,
+        883,
+        265
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Page 110",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "footnote",
+      "order": 21,
+      "bbox": [
+        892,
+        168,
+        925,
+        868
+      ],
+      "margin_number": 4,
+      "speaker": null,
+      "text": "ἄκουσον What is it? 2nd person singular of the aorist imperative. See GE p. 189, #198. Note this form of the aorist imperative active in -σον.",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 137
+}

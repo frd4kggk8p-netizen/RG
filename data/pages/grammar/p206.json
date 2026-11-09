@@ -1,0 +1,273 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One–Twenty",
+  "folio": "188",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        193,
+        194,
+        91,
+        492
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist infinitive active",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 2,
+      "bbox": [
+        193,
+        102,
+        137,
+        915
+      ],
+      "margin_number": 196,
+      "speaker": null,
+      "text": "196. Second aorist infinitives are, to no one’s amazement, based on second aorist stems (146):",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 3,
+      "bbox": [
+        193,
+        194,
+        291,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβ-εῖν, ‘to take’\nTo form the second aorist infinitive active, add -εῖν to the second aorist stem, e.g\nἔ-λαβ-ον, ‘I took’ > stem: λαβ- > λαβ-εῖν, ‘to take’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 4,
+      "bbox": [
+        292,
+        194,
+        305,
+        501
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Second aorist infinitive middle",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 5,
+      "bbox": [
+        318,
+        194,
+        434,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "λαβ-έσθαι, ‘to take hold of’\nTo form the second aorist infinitive middle, add -εσθαι to the aorist stem, e.g.\nἐ-λαβ-όμην, ‘I took hold of’ > stem: λαβ- > λαβ-έσθαι, ‘to take hold of’",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 6,
+      "bbox": [
+        460,
+        226,
+        552,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Observe that the endings of second aorist infinitives (except for accent) are just the same as the endings for the present infinitives active and middle (παύ-ειν, παύ-εσθαι), but the stem is the second aorist stem. (Cf. present infinitives 150 and second aorist participles 169–70.)",
+      "lang": "en",
+      "para_no": null,
+      "marker": "■",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        571,
+        194,
+        584,
+        319
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "EXERCISE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        595,
+        194,
+        733,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F–G: 1. Translate the following present infinitives and form the equivalent aorist infinitive from them:",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G",
+        "instruction": "Translate the following present infinitives and form the equivalent aorist infinitive from them:",
+        "items": [
+          {
+            "n": "1",
+            "prompt": "μανθάνειν"
+          },
+          {
+            "n": "2",
+            "prompt": "ἐκτρέχειν"
+          },
+          {
+            "n": "3",
+            "prompt": "ἄρχεσθαι"
+          },
+          {
+            "n": "4",
+            "prompt": "ἐξάγειν"
+          },
+          {
+            "n": "5",
+            "prompt": "ποιεῖσθαι"
+          },
+          {
+            "n": "6",
+            "prompt": "ἀδικεῖν"
+          },
+          {
+            "n": "7",
+            "prompt": "νομίζειν"
+          },
+          {
+            "n": "8",
+            "prompt": "φυλάττειν"
+          },
+          {
+            "n": "9",
+            "prompt": "προτρέπειν"
+          },
+          {
+            "n": "10",
+            "prompt": "θύειν"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 9,
+      "bbox": [
+        757,
+        203,
+        770,
+        442
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ASPECT IN THE INFINITIVE",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 10,
+      "bbox": [
+        784,
+        194,
+        818,
+        915
+      ],
+      "margin_number": 197,
+      "speaker": null,
+      "text": "197. The difference between present and aorist infinitives is not one of time, but one of aspect (cf. on aorist participles 165):",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "box",
+      "order": 11,
+      "bbox": [
+        824,
+        91,
+        903,
+        915
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "Both παύειν and παῦσαι mean ‘to stop (someone else)’, but the present infinitive carries the idea of process with it (‘keep on stopping’, ‘be in the process of stopping’), the aorist looks at the action as a simple, one-off event (‘bring to a halt’).",
+      "lang": "en",
+      "para_no": null,
+      "marker": "●",
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 206
+}

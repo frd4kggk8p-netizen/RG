@@ -1,0 +1,271 @@
+{
+  "running_head": "A Grammar, Vocabularies and Exercises for Sections One-Twenty",
+  "folio": "222",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        192,
+        79,
+        673,
+        93
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 10",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        105,
+        193,
+        310,
+        118
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(A) WORDS",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        131,
+        194,
+        915,
+        150
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Deduce the meaning of the words in the right-hand columns from those in the left:",
+        "items": []
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        170,
+        224,
+        851,
+        297
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "ἀμελής\nδίδωμι\nδῶρον\nμηχανή\nσπουδή\nσυνοικεῖν\nτεῖχος\nμέλει\nἀποδίδωμι\nἡ δωρεά\nμηχανάομαι\nσπουδάζω\nἡ συνοίκησις\nτειχίζω\nἡ δόσις\nδωρέω\nσπουδαῖος α ον\nἡ ἀντίδοσις",
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        322,
+        194,
+        548,
+        311
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(B/C) MORPHOLOGY AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        340,
+        193,
+        805,
+        357
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "1",
+        "instruction": "Translate each sentence, then convert present optatives to aorist:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "προσαγορεύois ἂν ἐμέ."
+          },
+          {
+            "n": "b",
+            "prompt": "ἡδέως ἂν παυοίμην τοῦ πολέμου."
+          },
+          {
+            "n": "c",
+            "prompt": "ἐθέλοιμεν ἂν σπονδὰς ποιεῖσθαι πολλῇ σπουδῇ."
+          },
+          {
+            "n": "d",
+            "prompt": "οὐκ ἂν ποιοίην ταῦτα, ὦ μῆτερ."
+          },
+          {
+            "n": "e",
+            "prompt": "ὁρώην ἂν ἐγὼ τὴν πόλιν."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 7,
+      "bbox": [
+        475,
+        193,
+        617,
+        508
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "Translate each sentence, then substitute the correct part of δίδωμι for παρέχω:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "ἆρα παρέξεις μοι ὃ ἔχεις;"
+          },
+          {
+            "n": "b",
+            "prompt": "παρεῖχε τὰ χρήματα τῇ γυναικί."
+          },
+          {
+            "n": "c",
+            "prompt": "τί οὐκ ἐθέλεις παρέχειν μοι ὧν δέομαι;"
+          },
+          {
+            "n": "d",
+            "prompt": "τί παρέχεις μοι τοῦτο τὸ μῆλον, ὦ Μυρρίνη;"
+          },
+          {
+            "n": "e",
+            "prompt": "ἐξαίφνης παρασχὼν τὰ χρήματα ὧν ἐδεῖτο ἡ γυνή, ἀπῆλθεν ὁ ἄνθρωπος."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 8,
+      "bbox": [
+        626,
+        193,
+        915,
+        660
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "3",
+        "instruction": "Translate each of the following pairs of sentences. Then join them together into one sentence, following these patterns:",
+        "items": [
+          {
+            "n": "a",
+            "prompt": "Κινησίας ἐστὶν ἀνὴρ Μυρρίνης. Κινησίας βαδίζει πρὸς τὴν ἀκρόπολιν."
+          },
+          {
+            "n": "b",
+            "prompt": "αἱ γυναῖκές εἰσιν ἐν τῇ ἀκρόπολει. αἱ γυναῖκες βοῶσιν."
+          },
+          {
+            "n": "c",
+            "prompt": "οἱ ἄνδρες τὰς μάχας μάχονται. οἱ ἄνδρες οὐκ ἐθέλουσιν οὐδαμῶς τὸν πόλεμον καταλῦσαι."
+          },
+          {
+            "n": "d",
+            "prompt": "τί ἐστι τοῦτο; τί ἐθέλεις λέγειν;"
+          },
+          {
+            "n": "e",
+            "prompt": "αἱ γυναῖκες ἐθέλουσιν ἀκούειν τοὺς λόγους. τοὺς λόγους λέγει Λυσιστράτη."
+          },
+          {
+            "n": "f",
+            "prompt": "αἱ γρᾶες ἔχουσι τὴν ἀκρόπολιν. ἐγὼ τὰς γραῦς ἰδεῖν δύναμαι."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "paragraph",
+      "order": 9,
+      "bbox": [
+        700,
+        224,
+        747,
+        720
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "(a) Λυσιστράτη γυνὴ Ἀθηναία ἐστίν· Λυσιστράτη λέγει.\n= Λυσιστράτη, ἣ γυνὴ Ἀθηναία ἐστίν, λέγει.\n(b) τίνες εἰσὶν οὗτοι; τίνες διώκουσι τὸν ἄνδρα;\n= τίνες εἰσὶν οὗτοι, οἳ διώκουσι τὸν ἄνδρα;",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "grammar",
+  "pdf_page": 240
+}

@@ -1,0 +1,443 @@
+{
+  "running_head": "Revision exercises for section 9F–G",
+  "folio": "126",
+  "blocks": [
+    {
+      "type": "heading",
+      "order": 1,
+      "bbox": [
+        191,
+        191,
+        298,
+        297
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "VOCATIVES",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 2,
+      "bbox": [
+        191,
+        191,
+        156,
+        266
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F–G: 4",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 3,
+      "bbox": [
+        191,
+        191,
+        256,
+        698
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 4",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "voc."
+          },
+          {
+            "n": "2.",
+            "prompt": "nom., voc."
+          },
+          {
+            "n": "3.",
+            "prompt": "nom."
+          },
+          {
+            "n": "4.",
+            "prompt": "nom., voc"
+          },
+          {
+            "n": "5.",
+            "prompt": "voc."
+          },
+          {
+            "n": "6.",
+            "prompt": "nom., voc."
+          },
+          {
+            "n": "7.",
+            "prompt": "nom."
+          },
+          {
+            "n": "8.",
+            "prompt": "nom., voc."
+          },
+          {
+            "n": "9.",
+            "prompt": "voc."
+          },
+          {
+            "n": "10.",
+            "prompt": "voc."
+          },
+          {
+            "n": "11.",
+            "prompt": "voc."
+          },
+          {
+            "n": "12.",
+            "prompt": "voc."
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "vocab_entry",
+      "order": 4,
+      "bbox": [
+        288,
+        191,
+        296,
+        475
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "πᾶς παντ- ALL, WHOLE, EVERY",
+      "lang": "mixed",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 5,
+      "bbox": [
+        314,
+        191,
+        327,
+        269
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "9F–G: 5",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 6,
+      "bbox": [
+        333,
+        191,
+        565,
+        887
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "9F-G: 5",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "Be, know"
+          },
+          {
+            "n": "2.",
+            "prompt": "All of you women, go!, all you women are going"
+          },
+          {
+            "n": "3.",
+            "prompt": "It was possible for you all to bear everything"
+          },
+          {
+            "n": "4.",
+            "prompt": "Everyone be brilliant at selling. (Only the accent shows it is imperative)"
+          },
+          {
+            "n": "5.",
+            "prompt": "All of you leave and do not remain but go"
+          },
+          {
+            "n": "6.",
+            "prompt": "It will be possible for all to leave"
+          },
+          {
+            "n": "7.",
+            "prompt": "Everybody come and carry everything"
+          },
+          {
+            "n": "8.",
+            "prompt": "It is not possible for me to carry all these things"
+          },
+          {
+            "n": "9.",
+            "prompt": "Get up and go (s)"
+          },
+          {
+            "n": "10.",
+            "prompt": "Go (pl.) and carry all the equipment"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 7,
+      "bbox": [
+        563,
+        191,
+        576,
+        616
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "REVISION EXERCISES FOR SECTION 9F–G",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "heading",
+      "order": 8,
+      "bbox": [
+        599,
+        191,
+        612,
+        517
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": "B/C – WORD SHAPE AND SYNTAX",
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "table",
+      "order": 9,
+      "bbox": [
+        619,
+        191,
+        876,
+        856
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "grc",
+      "para_no": null,
+      "marker": null,
+      "table": {
+        "header": null,
+        "rows": [
+          [
+            "1.",
+            "ἐπαυσάμην",
+            "παύσασθαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἤκουσα",
+            "ἀκοῦσαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἐποίησα",
+            "ποιῆσαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἠδίκησα",
+            "ἀδικῆσαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "εἶπον",
+            "εἰπεῖν",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἤνεγκον",
+            "ἐνεγκεῖν",
+            "or",
+            "ἤνεγκα",
+            "ἐνέγκαι"
+          ],
+          [
+            null,
+            "ἐγενόμην",
+            "γενέσθαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἔμαθον",
+            "μαθεῖν",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἔλαβον",
+            "λαβεῖν",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἀφικόμην",
+            "ἀφικέσθαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "εἶδον",
+            "ἰδεῖν",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἐπιθόμην",
+            "πιθέσθαι",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "ἔπεσον",
+            "πεσεῖν",
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      "exercise": null,
+      "caption": null,
+      "uncertain": []
+    },
+    {
+      "type": "exercise",
+      "order": 10,
+      "bbox": [
+        874,
+        191,
+        925,
+        731
+      ],
+      "margin_number": null,
+      "speaker": null,
+      "text": null,
+      "lang": "en",
+      "para_no": null,
+      "marker": null,
+      "table": null,
+      "exercise": {
+        "id": "2",
+        "instruction": "",
+        "items": [
+          {
+            "n": "1.",
+            "prompt": "run away, flee (pl., pres.)"
+          },
+          {
+            "n": "2.",
+            "prompt": "know, be (s., pres.)"
+          },
+          {
+            "n": "3.",
+            "prompt": "look, see (s., pres.)"
+          },
+          {
+            "n": "4.",
+            "prompt": "show (s., aor)"
+          },
+          {
+            "n": "5.",
+            "prompt": "arrive (pl., aor.)"
+          },
+          {
+            "n": "6.",
+            "prompt": "bring (s., aor.)"
+          }
+        ]
+      },
+      "caption": null,
+      "uncertain": []
+    }
+  ],
+  "book": "guide",
+  "pdf_page": 140
+}
