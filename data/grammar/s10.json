@@ -170,7 +170,7 @@
     },
     {
       "t": "table",
-      "caption": "Active | Middle\nλάβοιμι | λαβοίμην\nλάβ-οι-μι | λαβ-οί-μην\nλάβ-οι-ς | λαβ-οι-o\nλάβ-οι | λαβ-οι-το\nλάβ-οι-μεν | λαβ-οί-μεθα\nλάβ-οι-τε | λαβ-οι-σθε\nλάβ-οι-εν | λαβ-οι-ντο",
+      "caption": "Second aorist optative active & middle (λάβοιμι, λαβοίμην)",
       "table": {
         "header": [
           [
@@ -427,7 +427,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Third declension adjectives in -ης, -ες (ἀμελής, singular)",
       "table": {
         "header": [
           [
@@ -467,7 +467,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Third declension adjectives in -ης, -ες (ἀμελεῖς, plural)",
       "table": {
         "header": [
           [
@@ -517,7 +517,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Third declension adjectives in -υς, -εια, -υ (γλυκύς, singular)",
       "table": {
         "header": [
           [
@@ -562,7 +562,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Third declension adjectives in -υς, -εια, -υ (γλυκεῖς, plural)",
       "table": {
         "header": [
           [
@@ -697,7 +697,7 @@
     },
     {
       "t": "table",
-      "caption": "ὅς ἥ ὅ ‘who, which, what’\nm. f. n.\ns.\nNom. ὅς ἥ* ὅ\nAcc. ὅν ἥν ὅ\nGen. οὗ ἧς οὗ\nDat. ᾧ ᾗ ᾧ\npl.\nNom. οἱ* αἱ* ἅ\nAcc. οὕς ἅς ἅ\nGen. ὧν ὧν ὧν\nDat. οἷς αἷς οἷς",
+      "caption": "Relative pronoun: ὅς, ἥ, ὅ (‘who, which, that’)",
       "table": {
         "header": [
           [
@@ -1076,7 +1076,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Indefinite relative pronoun: ὅστις, ἥτις, ὅτι (‘whoever, whatever’)",
       "table": {
         "header": [
           [

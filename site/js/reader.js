@@ -27,6 +27,14 @@ async function loadLSJCache() {
   return lsjCache || {};
 }
 
+if (typeof window !== 'undefined') {
+  if (window.requestIdleCallback) {
+    window.requestIdleCallback(() => loadLSJCache());
+  } else {
+    setTimeout(() => loadLSJCache(), 2000);
+  }
+}
+
 async function queryLSJ(tokenText, lemmaText) {
   const contentEl = document.getElementById('card-lsj-content');
   const logeionLink = document.getElementById('card-logeion-link');

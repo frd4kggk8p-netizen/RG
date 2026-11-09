@@ -53,6 +53,17 @@
     </div>
   </div>
 
+  <!-- Reference Grammar Paradigm Overlay -->
+  <div id="reference-modal" class="modal hidden">
+    <div class="modal-content" style="max-width: 650px;">
+      <div class="modal-header">
+        <h3 id="ref-modal-title">Reference Grammar Paradigm</h3>
+        <button class="close-modal-btn" id="close-ref-modal-btn">✕</button>
+      </div>
+      <div id="ref-modal-body" class="ref-modal-body" style="padding: 1.25rem;"></div>
+    </div>
+  </div>
+
   <!-- Main Container -->
   <main class="main-content">
     <!-- Hub Navigation Tabs -->
@@ -62,6 +73,7 @@
       <button class="tab-btn" data-tab="exercises">✍️ Exercises</button>
       <button class="tab-btn" data-tab="guide">📝 Guide Notes</button>
       <button class="tab-btn" data-tab="vocab">📚 Vocabulary</button>
+      <button class="tab-btn" data-tab="flashcards">🗂️ Flashcards</button>
     </nav>
 
     <!-- TAB 1: READER -->
@@ -222,6 +234,75 @@
           <span class="vocab-count" id="vocab-total-count"></span>
         </div>
         <div id="vocab-full-list" class="vocab-cards-grid"></div>
+      </div>
+    </section>
+
+    <!-- TAB 6: FLASHCARDS (PHASE 6) -->
+    <section id="tab-flashcards" class="tab-panel">
+      <div class="flashcards-layout">
+        <div class="flashcards-toolbar">
+          <div class="fc-control-group">
+            <label for="fc-section-filter">Section Scope:</label>
+            <select id="fc-section-filter">
+              <option value="current">Current Section Only</option>
+              <option value="all">All Sections (6–10)</option>
+              <option value="06">Section 6: Socrates corrupts</option>
+              <option value="07">Section 7: Socrates & inquiry</option>
+              <option value="08">Section 8: Aristophanes’ Birds</option>
+              <option value="09">Section 9: Aristophanes’ Wasps</option>
+              <option value="10">Section 10: Lysistrata</option>
+            </select>
+          </div>
+
+          <div class="fc-control-group">
+            <label for="fc-mode-filter">Practice Mode:</label>
+            <select id="fc-mode-filter">
+              <option value="gr-en">Greek → English</option>
+              <option value="en-gr">English → Greek</option>
+            </select>
+          </div>
+
+          <div class="fc-stats-bar">
+            <span class="fc-stat">Card: <strong id="fc-current-index">1</strong> / <strong id="fc-total-count">0</strong></span>
+            <span class="fc-stat">Mastered: <strong id="fc-mastered-count" style="color:var(--success);">0</strong></span>
+          </div>
+        </div>
+
+        <!-- The Interactive Flashcard -->
+        <div class="flashcard-scene">
+          <div class="flashcard" id="active-flashcard">
+            <!-- Front Face -->
+            <div class="flashcard-face flashcard-front">
+              <span class="fc-badge" id="fc-card-badge">Section 6A</span>
+              <div class="fc-main-text" id="fc-front-text"></div>
+              <div class="fc-sub-text" id="fc-front-sub"></div>
+              <button class="btn primary-btn fc-flip-btn" id="fc-flip-btn">Reveal Answer (Space)</button>
+            </div>
+
+            <!-- Back Face -->
+            <div class="flashcard-face flashcard-back">
+              <span class="fc-badge" id="fc-back-badge">Answer</span>
+              <div class="fc-main-text" id="fc-back-text"></div>
+              <div class="fc-sub-text" id="fc-back-sub"></div>
+              <div class="fc-details" id="fc-back-details"></div>
+
+              <!-- Rating Buttons -->
+              <div class="fc-rating-row">
+                <button class="btn fc-rate-btn fc-rate-again" data-rate="again">❌ Again</button>
+                <button class="btn fc-rate-btn fc-rate-hard" data-rate="hard">⚠️ Hard</button>
+                <button class="btn fc-rate-btn fc-rate-good" data-rate="good">✔️ Good</button>
+                <button class="btn fc-rate-btn fc-rate-easy" data-rate="easy">⭐ Easy</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Navigation Row -->
+        <div class="fc-nav-controls">
+          <button class="btn secondary-btn" id="fc-prev-btn">◀ Previous</button>
+          <button class="btn secondary-btn" id="fc-shuffle-btn">🔀 Shuffle</button>
+          <button class="btn secondary-btn" id="fc-next-btn">Next ▶</button>
+        </div>
       </div>
     </section>
 

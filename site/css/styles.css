@@ -1065,6 +1065,189 @@ table.paradigm-table tbody tr:hover {
   box-shadow: var(--shadow-lg);
 }
 
+/* Declension Code Pill */
+.decl-code-pill {
+  display: inline-block;
+  background-color: var(--aegean-light);
+  color: var(--aegean);
+  border: 1px solid var(--aegean);
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.decl-code-pill:hover {
+  background-color: var(--aegean);
+  color: #FFFFFF;
+}
+
+/* Flashcards Tab (Phase 6) */
+.flashcards-layout {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.flashcards-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 0.85rem 1.25rem;
+}
+
+.fc-control-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.fc-control-group select {
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-color);
+  background: var(--bg-main);
+  color: var(--text-main);
+  font-size: 0.88rem;
+}
+
+.fc-stats-bar {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+}
+
+.flashcard-scene {
+  perspective: 1000px;
+  width: 100%;
+  min-height: 320px;
+}
+
+.flashcard {
+  width: 100%;
+  min-height: 320px;
+  position: relative;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+  cursor: pointer;
+}
+
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-face {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  backface-visibility: hidden;
+  border-radius: 12px;
+  padding: 2rem;
+  background: var(--bg-surface);
+  border: 2px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.flashcard-front {
+  border-top: 5px solid var(--terracotta);
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  border-top: 5px solid var(--aegean);
+}
+
+.fc-badge {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.fc-main-text {
+  font-family: var(--font-greek);
+  font-size: 2.75rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.flashcard-back .fc-main-text {
+  font-family: var(--font-sans);
+  font-size: 1.75rem;
+  color: var(--aegean);
+}
+
+.fc-sub-text {
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+
+.fc-details {
+  font-size: 0.95rem;
+  color: var(--text-main);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.fc-flip-btn {
+  margin-top: 1rem;
+  padding: 0.6rem 1.5rem;
+  font-size: 0.95rem;
+}
+
+.fc-rating-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.fc-rate-btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-color);
+  background: var(--bg-card);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.fc-rate-again:hover { background: #fee2e2; border-color: #ef4444; color: #b91c1c; }
+.fc-rate-hard:hover { background: #fef3c7; border-color: #f59e0b; color: #b45309; }
+.fc-rate-good:hover { background: #ecfdf5; border-color: #10b981; color: #047857; }
+.fc-rate-easy:hover { background: #e0f2fe; border-color: #0284c7; color: #0369a1; }
+
+.fc-nav-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
 /* Footer */
 .site-footer {
   background-color: var(--bg-surface);

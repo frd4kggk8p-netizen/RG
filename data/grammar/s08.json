@@ -8,7 +8,7 @@
   "blocks": [
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Personal pronouns: ἐγώ, σύ, ἡμεῖς, ὑμεῖς",
       "table": {
         "header": [
           [
@@ -650,7 +650,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Irregular adjective comparison (ἀγαθός, etc.)",
       "table": {
         "header": [
           [
@@ -786,7 +786,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Adjectives in -ων, -ον (εὔφρων)",
       "table": {
         "header": [
           [
@@ -959,7 +959,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Present optative active of contract verbs (τιμάω, ποιέω, δηλόω)",
       "table": {
         "header": [
           [
@@ -1024,7 +1024,7 @@
     },
     {
       "t": "table",
-      "caption": "Grammar Paradigm Table",
+      "caption": "Present optative middle of contract verbs (θεάομαι, ποιέομαι, δουλόομαι)",
       "table": {
         "header": [
           [
